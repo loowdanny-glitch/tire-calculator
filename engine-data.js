@@ -7119,6 +7119,2533 @@ window.AUTOHUB_ENGINE_DATA = {
     }
   },
   {
+    "id": "toyota-1az-fse",
+    "code": "1AZ-FSE",
+    "aliases": [
+      "Caldina 2.0 D-4"
+    ],
+    "maker": "Toyota",
+    "regionKey": "japan",
+    "years": "2002 Toyota Caldina Japan specification",
+    "displacement": "2.0 L · 1,998 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "directInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Toyota Caldina 2.0 D-4 (Japan, 2002; 2WD / 4WD)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "2.0-litre four-cylinder D-4 petrol engine in the 2002 Caldina. The 2WD version has 112 kW and 200 N·m; 4WD has 110 kW and 198 N·m.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the service history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the engine and its rated power and torque.",
+        "cons": "Figures apply to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Motor de gasolina D-4 de cuatro cilindros y 2,0 litros del Caldina de 2002. La versión 2WD entrega 112 kW y 200 N·m; la 4WD, 110 kW y 198 N·m.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "Moteur essence D-4 de 2,0 litres à quatre cylindres du Caldina de 2002. La version 2WD fournit 112 kW et 200 N·m ; la 4WD, 110 kW et 198 N·m.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le moteur, sa puissance et son couple.",
+        "cons": "Les valeurs concernent les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "2,0-Liter-D-4-Vierzylinder-Benziner im Caldina von 2002. Die 2WD-Version leistet 112 kW und 200 N·m, die 4WD-Version 110 kW und 198 N·m.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den Motor sowie seine Leistung und sein Drehmoment.",
+        "cons": "Die Werte gelten für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 110,
+        "max": 112,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 198,
+        "max": 200,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Toyota launches the redesigned Caldina",
+          "publisher": "Toyota Motor Corporation",
+          "year": 2002,
+          "url": "https://global.toyota/en/detail/1993584",
+          "page": 1,
+          "checkedAt": "2026-09-07",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "Engine table names 1AZ-FSE: 2WD 112 kW at 6,000 rpm and 200 N-m at 4,000 rpm; 4WD 110 kW at 6,000 rpm and 198 N-m at 4,000 rpm. These two 2002 Japan calibrations define the range; other AZ engines and model years are excluded."
+          ]
+        },
+        {
+          "type": "manufacturer",
+          "title": "75 Years of Toyota - Caldina, third generation",
+          "publisher": "Toyota Motor Corporation",
+          "year": 2012,
+          "url": "https://www.toyota-global.com/company/history_of_toyota/75years/vehicle_lineage/car/id60003079/",
+          "page": 1,
+          "checkedAt": "2026-09-07",
+          "fields": [
+            "code",
+            "layout",
+            "displacement"
+          ],
+          "pageNotes": [
+            "The 1AZ-FSE column and description identify the 1,998 cc inline-four DOHC 16-valve D-4 direct-injection engine."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "toyota-3s-gte",
+    "code": "3S-GTE",
+    "aliases": [
+      "Caldina GT-FOUR 3S-GTE"
+    ],
+    "maker": "Toyota",
+    "regionKey": "japan",
+    "years": "2002 Toyota Caldina GT-FOUR Japan specification",
+    "displacement": "2.0 L · 1,998 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Toyota Caldina GT-FOUR (Japan, 2002)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "2.0-litre turbocharged DOHC four-cylinder in the 2002 Caldina GT-FOUR, rated at 191 kW and 324 N·m.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the service history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the engine and its rated power and torque.",
+        "cons": "Figures apply to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Motor turbo de cuatro cilindros, DOHC y 2,0 litros del Caldina GT-FOUR de 2002, con 191 kW y 324 N·m.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "Moteur turbo de 2,0 litres à quatre cylindres DOHC du Caldina GT-FOUR de 2002, développant 191 kW et 324 N·m.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le moteur, sa puissance et son couple.",
+        "cons": "Les valeurs concernent les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "2,0-Liter-DOHC-Turbovierzylinder im Caldina GT-FOUR von 2002 mit 191 kW und 324 N·m.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den Motor sowie seine Leistung und sein Drehmoment.",
+        "cons": "Die Werte gelten für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 191,
+        "max": 191,
+        "rpm": {
+          "min": 6200,
+          "max": 6200
+        }
+      },
+      "torqueNm": {
+        "min": 324,
+        "max": 324,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Toyota launches the redesigned Caldina",
+          "publisher": "Toyota Motor Corporation",
+          "year": 2002,
+          "url": "https://global.toyota/en/detail/1993584",
+          "page": 1,
+          "checkedAt": "2026-09-07",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The 3S-GTE row gives 1,998 cc, 191 kW at 6,200 rpm and 324 N-m at 4,400 rpm for the 2002 Japan Caldina GT-FOUR. This is not a range across earlier Celica, MR2 or Caldina generations."
+          ]
+        },
+        {
+          "type": "manufacturer",
+          "title": "75 Years of Toyota - Caldina, third generation",
+          "publisher": "Toyota Motor Corporation",
+          "year": 2012,
+          "url": "https://www.toyota-global.com/company/history_of_toyota/75years/vehicle_lineage/car/id60003079/",
+          "page": 1,
+          "checkedAt": "2026-09-07",
+          "fields": [
+            "code",
+            "layout",
+            "displacement"
+          ],
+          "pageNotes": [
+            "The 3S-GTE column identifies an inline-four DOHC 16-valve turbocharged engine and the ST246W GT-FOUR application."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "toyota-2jz-fse",
+    "code": "2JZ-FSE",
+    "aliases": [
+      "Crown Estate 3.0 D-4"
+    ],
+    "maker": "Toyota",
+    "regionKey": "japan",
+    "years": "1999 Toyota Crown Estate Japan specification",
+    "displacement": "3.0 L · 2,997 cc",
+    "layout": "I6 · DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "directInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Toyota Crown Estate Royal Saloon / Athlete G (Japan, 1999)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "3.0-litre inline-six with D-4 direct petrol injection in the 1999 Crown Estate, rated at 162 kW and 294 N·m.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the service history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the engine and its rated power and torque.",
+        "cons": "Figures apply to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Motor de seis cilindros en línea y 3,0 litros con inyección directa de gasolina D-4 del Crown Estate de 1999, con 162 kW y 294 N·m.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "Six-cylindres en ligne essence de 3,0 litres à injection directe D-4 du Crown Estate de 1999, développant 162 kW et 294 N·m.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le moteur, sa puissance et son couple.",
+        "cons": "Les valeurs concernent les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "3,0-Liter-Reihensechszylinder mit D-4-Benzindirekteinspritzung im Crown Estate von 1999 mit 162 kW und 294 N·m.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den Motor sowie seine Leistung und sein Drehmoment.",
+        "cons": "Die Werte gelten für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 162,
+        "max": 162,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 294,
+        "max": 294,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Toyota launches the Crown Estate",
+          "publisher": "Toyota Motor Corporation",
+          "year": 1999,
+          "url": "https://global.toyota/jp/detail/12734025",
+          "page": 1,
+          "checkedAt": "2026-09-07",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "BEAMS D-4 2JZ-FSE row gives 2,997 cc, 162 kW at 5,600 rpm and 294 N-m at 3,600 rpm. Price table identifies Royal Saloon and Athlete G. Scope is the 1999 Japan launch specification; 2JZ-GE and 2JZ-GTE are excluded."
+          ]
+        },
+        {
+          "type": "manufacturer",
+          "title": "75 Years of Toyota - Crown Estate",
+          "publisher": "Toyota Motor Corporation",
+          "year": 2012,
+          "url": "https://www.toyota-global.com/company/history_of_toyota/75years/vehicle_lineage/car/id60005758/index.html",
+          "page": 1,
+          "checkedAt": "2026-09-07",
+          "fields": [
+            "code",
+            "layout",
+            "displacement"
+          ],
+          "pageNotes": [
+            "The 2JZ-FSE columns identify a 2,997 cc inline-six DOHC engine in the 1999 Crown Estate."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "toyota-3uz-fe",
+    "code": "3UZ-FE",
+    "aliases": [
+      "Celsior 4.3 V8"
+    ],
+    "maker": "Toyota",
+    "regionKey": "japan",
+    "years": "2000 Toyota Celsior Japan specification",
+    "displacement": "4.3 L · 4,292 cc",
+    "layout": "V8 · DOHC · 32V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Toyota Celsior (Japan, 2000)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "4.3-litre DOHC V8 in the 2000 Celsior, rated at 206 kW and 430 N·m.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the service history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the engine and its rated power and torque.",
+        "cons": "Figures apply to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Motor V8 DOHC de 4,3 litros del Celsior de 2000, con 206 kW y 430 N·m.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "V8 DOHC de 4,3 litres du Celsior de 2000, développant 206 kW et 430 N·m.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le moteur, sa puissance et son couple.",
+        "cons": "Les valeurs concernent les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "4,3-Liter-DOHC-V8 im Celsior von 2000 mit 206 kW und 430 N·m.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den Motor sowie seine Leistung und sein Drehmoment.",
+        "cons": "Die Werte gelten für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 206,
+        "max": 206,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 430,
+        "max": 430,
+        "rpm": {
+          "min": 3400,
+          "max": 3400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Toyota redesigns the Celsior",
+          "publisher": "Toyota Motor Corporation",
+          "year": 2000,
+          "url": "https://global.toyota/en/detail/13341967",
+          "page": 1,
+          "checkedAt": "2026-09-07",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "BEAMS 3UZ-FE table gives 4,292 cc, 206 kW at 5,600 rpm and 430 N-m at 3,400 rpm. Values cover the 2000 Japan Celsior launch, not every Lexus or Toyota 3UZ-FE calibration."
+          ]
+        },
+        {
+          "type": "manufacturer",
+          "title": "75 Years of Toyota - Celsior, third generation",
+          "publisher": "Toyota Motor Corporation",
+          "year": 2012,
+          "url": "https://www.toyota-global.com/company/history_of_toyota/75years/vehicle_lineage/car/id60010362/index.html",
+          "page": 1,
+          "checkedAt": "2026-09-07",
+          "fields": [
+            "code",
+            "layout",
+            "displacement"
+          ],
+          "pageNotes": [
+            "Engine table identifies 3UZ-FE as a V8 DOHC; the description specifies 32 valves."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "toyota-2kd-ftv",
+    "code": "2KD-FTV",
+    "aliases": [
+      "Hiace 2.5 turbodiesel"
+    ],
+    "maker": "Toyota",
+    "regionKey": "japan",
+    "years": "2004 Toyota Hiace / Regius Ace Japan specification",
+    "displacement": "2.5 L · 2,494 cc",
+    "layout": "I4 · DOHC",
+    "fuelKey": "diesel",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "directInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Toyota Hiace van (Japan, 2004)",
+      "Toyota Regius Ace van (Japan, 2004)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "2.5-litre direct-injection turbodiesel in the 2004 Hiace and Regius Ace vans. Rated torque is 260 N·m from 1,600 to 2,600 rpm.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the service history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the engine and its rated power and torque.",
+        "cons": "Figures apply to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Turbodiésel de 2,5 litros con inyección directa de las furgonetas Hiace y Regius Ace de 2004. Entrega 260 N·m entre 1.600 y 2.600 rpm.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "Turbodiesel de 2,5 litres à injection directe des fourgons Hiace et Regius Ace de 2004. Le couple atteint 260 N·m de 1 600 à 2 600 tr/min.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le moteur, sa puissance et son couple.",
+        "cons": "Les valeurs concernent les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "2,5-Liter-Turbodiesel mit Direkteinspritzung in den Hiace- und Regius-Ace-Kastenwagen von 2004. Das Drehmoment beträgt 260 N·m bei 1.600 bis 2.600 U/min.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den Motor sowie seine Leistung und sein Drehmoment.",
+        "cons": "Die Werte gelten für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 80,
+        "max": 80,
+        "rpm": {
+          "min": 3400,
+          "max": 3400
+        }
+      },
+      "torqueNm": {
+        "min": 260,
+        "max": 260,
+        "rpm": {
+          "min": 1600,
+          "max": 2600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Toyota redesigns the Hiace and Regius Ace",
+          "publisher": "Toyota Motor Corporation",
+          "year": 2004,
+          "url": "https://global.toyota/jp/newsroom/toyota/33223241.html",
+          "page": 1,
+          "checkedAt": "2026-09-07",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The 2KD-FTV column gives 2,494 cc, direct-injection intercooled turbodiesel, 80 kW at 3,400 rpm and 260 N-m at 1,600-2,600 rpm. Scope is the 2004 Japan van launch specification; Hilux and export calibrations are excluded."
+          ]
+        },
+        {
+          "type": "manufacturer",
+          "title": "75 Years of Toyota - Regius Ace, second generation",
+          "publisher": "Toyota Motor Corporation",
+          "year": 2012,
+          "url": "https://www.toyota-global.com/company/history_of_toyota/75years/vehicle_lineage/car/id60015495/index.html",
+          "page": 1,
+          "checkedAt": "2026-09-07",
+          "fields": [
+            "code",
+            "layout",
+            "displacement"
+          ],
+          "pageNotes": [
+            "The 2KD-FTV engine type is inline-four, DOHC, direct-injection and turbocharged in the 2004 Regius Ace."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "toyota-1tr-fe",
+    "code": "1TR-FE",
+    "aliases": [
+      "Hiace 2.0 VVT-i"
+    ],
+    "maker": "Toyota",
+    "regionKey": "japan",
+    "years": "2004 Toyota Hiace / Regius Ace Japan specification",
+    "displacement": "2.0 L · 1,998 cc",
+    "layout": "I4 · DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Toyota Hiace van (Japan, 2004)",
+      "Toyota Regius Ace van (Japan, 2004)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "2.0-litre DOHC petrol four-cylinder with VVT-i in the 2004 Hiace and Regius Ace vans.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the service history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the engine and its rated power and torque.",
+        "cons": "Figures apply to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Motor de gasolina de cuatro cilindros, DOHC, 2,0 litros y VVT-i de las furgonetas Hiace y Regius Ace de 2004.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "Quatre-cylindres essence DOHC de 2,0 litres avec VVT-i des fourgons Hiace et Regius Ace de 2004.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le moteur, sa puissance et son couple.",
+        "cons": "Les valeurs concernent les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "2,0-Liter-DOHC-Benzinvierzylinder mit VVT-i in den Hiace- und Regius-Ace-Kastenwagen von 2004.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den Motor sowie seine Leistung und sein Drehmoment.",
+        "cons": "Die Werte gelten für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 98,
+        "max": 98,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 182,
+        "max": 182,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Toyota redesigns the Hiace and Regius Ace",
+          "publisher": "Toyota Motor Corporation",
+          "year": 2004,
+          "url": "https://global.toyota/jp/newsroom/toyota/33223241.html",
+          "page": 1,
+          "checkedAt": "2026-09-07",
+          "fields": [
+            "code",
+            "layout",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The 1TR-FE column gives an inline-four DOHC petrol engine with VVT-i, 1,998 cc, 98 kW at 5,600 rpm and 182 N-m at 4,000 rpm. Price table lists Japan 2.0-litre van applications. Later and export versions are excluded."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "toyota-2tr-fe",
+    "code": "2TR-FE",
+    "aliases": [
+      "Hiace 2.7 VVT-i"
+    ],
+    "maker": "Toyota",
+    "regionKey": "japan",
+    "years": "2004 Toyota Hiace Japan wagon specification",
+    "displacement": "2.7 L · 2,693 cc",
+    "layout": "I4 · DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Toyota Hiace wagon DX (Japan, 2004)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "2.7-litre DOHC petrol four-cylinder with VVT-i and balance shafts in the 2004 Hiace wagon.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the service history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the engine and its rated power and torque.",
+        "cons": "Figures apply to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Motor de gasolina de cuatro cilindros, DOHC, 2,7 litros, VVT-i y ejes de equilibrado del Hiace de pasajeros de 2004.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "Quatre-cylindres essence DOHC de 2,7 litres avec VVT-i et arbres d'équilibrage du Hiace de transport de passagers de 2004.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le moteur, sa puissance et son couple.",
+        "cons": "Les valeurs concernent les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "2,7-Liter-DOHC-Benzinvierzylinder mit VVT-i und Ausgleichswellen im Hiace-Personenwagen von 2004.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den Motor sowie seine Leistung und sein Drehmoment.",
+        "cons": "Die Werte gelten für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 111,
+        "max": 111,
+        "rpm": {
+          "min": 4800,
+          "max": 4800
+        }
+      },
+      "torqueNm": {
+        "min": 241,
+        "max": 241,
+        "rpm": {
+          "min": 3800,
+          "max": 3800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Toyota redesigns the Hiace and Regius Ace",
+          "publisher": "Toyota Motor Corporation",
+          "year": 2004,
+          "url": "https://global.toyota/jp/newsroom/toyota/33223241.html",
+          "page": 1,
+          "checkedAt": "2026-09-07",
+          "fields": [
+            "code",
+            "layout",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The 2TR-FE column gives an inline-four DOHC petrol engine with VVT-i, 2,693 cc, 111 kW at 4,800 rpm and 241 N-m at 3,800 rpm. Description mentions balance shafts. This record uses the Japan long-body wagon DX available at the August 2004 launch; super-long models scheduled for January 2005 and other vehicle calibrations are excluded."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "lexus-1ur-fse",
+    "code": "1UR-FSE",
+    "aliases": [
+      "Lexus LS 460 4.6"
+    ],
+    "maker": "Lexus",
+    "regionKey": "japan",
+    "years": "2006 Lexus LS 460 Japan specification",
+    "displacement": "4.6 L · 4,608 cc",
+    "layout": "V8 · DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "dualInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Lexus LS 460 (Japan, 2006; rear-wheel drive)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "4.6-litre DOHC V8 in the 2006 LS 460, with D-4S direct and port injection and electrically controlled intake cam timing.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the service history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the engine and its rated power and torque.",
+        "cons": "Figures apply to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "V8 DOHC de 4,6 litros del LS 460 de 2006, con inyección directa e indirecta D-4S y control eléctrico de la distribución de admisión.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "V8 DOHC de 4,6 litres du LS 460 de 2006, avec injection directe et indirecte D-4S et calage électrique des arbres à cames d'admission.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le moteur, sa puissance et son couple.",
+        "cons": "Les valeurs concernent les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "4,6-Liter-DOHC-V8 im LS 460 von 2006 mit D-4S-Direkt- und Saugrohreinspritzung sowie elektrisch geregelter Einlassnockenwellenverstellung.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den Motor sowie seine Leistung und sein Drehmoment.",
+        "cons": "Die Werte gelten für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 283,
+        "max": 283,
+        "rpm": {
+          "min": 6400,
+          "max": 6400
+        }
+      },
+      "torqueNm": {
+        "min": 500,
+        "max": 500,
+        "rpm": {
+          "min": 4100,
+          "max": 4100
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Lexus Launches LS 460 in Japan",
+          "publisher": "Toyota Motor Corporation",
+          "year": 2006,
+          "url": "https://global.toyota/en/newsroom/lexus/34162295.html",
+          "page": 1,
+          "checkedAt": "2026-09-07",
+          "fields": [
+            "code",
+            "layout",
+            "displacement",
+            "injectionKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "Engine Specifications table names 1UR-FSE, V8 DOHC, 4,608 cc, D-4S direct plus port injection, Dual VVT-i and intake VVT-iE. Rated output is 283 kW at 6,400 rpm and torque is 500 N-m at 4,100 rpm. Scope is the 2006 Japan rear-wheel-drive LS 460; AWD, export and 1UR-FE specifications are excluded."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "honda-lea",
+    "code": "LEA",
+    "aliases": [
+      "LEA-MF6",
+      "Honda 1.5 IMA"
+    ],
+    "maker": "Honda",
+    "regionKey": "japan",
+    "years": "2013 Fit Hybrid RS / 2017 CR-Z Japan archive specifications",
+    "displacement": "1.5 L · 1,496 cc",
+    "layout": "I4 · SOHC · 16V",
+    "fuelKey": "petrolHybrid",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Honda Fit Hybrid RS GP4 (Japan, archive ending 2013)",
+      "Honda CR-Z ZF2 (Japan, archive ending 2017; CVT / 6MT)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "1.5-litre SOHC petrol engine paired with the MF6 motor in Honda IMA hybrids. Figures are engine-only: Fit Hybrid RS 84 kW; CR-Z CVT 87 kW and manual 88 kW.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the service history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the engine and its rated power and torque.",
+        "cons": "Figures apply to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Motor de gasolina SOHC de 1,5 litros asociado al motor eléctrico MF6 en los híbridos Honda IMA. Potencia del motor térmico: Fit Hybrid RS 84 kW; CR-Z CVT 87 kW y manual 88 kW.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "Moteur essence SOHC de 1,5 litre associé au moteur électrique MF6 des hybrides Honda IMA. Puissance du moteur thermique seul : Fit Hybrid RS 84 kW ; CR-Z CVT 87 kW et manuel 88 kW.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le moteur, sa puissance et son couple.",
+        "cons": "Les valeurs concernent les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "1,5-Liter-SOHC-Benziner mit MF6-Elektromotor in Honda-IMA-Hybriden. Die Werte gelten allein für den Verbrenner: Fit Hybrid RS 84 kW, CR-Z mit CVT 87 kW und mit Schaltgetriebe 88 kW.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den Motor sowie seine Leistung und sein Drehmoment.",
+        "cons": "Die Werte gelten für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 84,
+        "max": 88,
+        "rpm": {
+          "min": 6000,
+          "max": 6600
+        }
+      },
+      "torqueNm": {
+        "min": 144,
+        "max": 145,
+        "rpm": {
+          "min": 4800,
+          "max": 4800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Honda Fit - Japan archive specifications, model ending August 2013",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2013,
+          "url": "https://www.honda.co.jp/auto-archive/fit/2013/performance/",
+          "page": 1,
+          "checkedAt": "2026-09-07",
+          "fields": [
+            "code",
+            "layout",
+            "displacement",
+            "timingKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "HYBRID RS / DAA-GP4 columns identify engine LEA and power unit LEA-MF6: 1.496 L inline-four SOHC, four valves per cylinder, chain drive, 84 kW at 6,000 rpm and 144 N-m at 4,800 rpm. LDA values and MF6 motor output are excluded. Honda's 1.5-litre IMA engine is distinct from the General Motors LAF/LEA 2.4-litre engine record despite the shared LEA token."
+          ]
+        },
+        {
+          "type": "manufacturer",
+          "title": "Honda CR-Z - Japan archive specifications, model ending January 2017",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2017,
+          "url": "https://www.honda.co.jp/auto-archive/cr-z/2017/webcatalog/performance/spec/",
+          "page": 1,
+          "checkedAt": "2026-09-07",
+          "fields": [
+            "code",
+            "layout",
+            "displacement",
+            "timingKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "ZF2 table identifies LEA / LEA-MF6, 1.496 L inline-four SOHC and chain drive. Engine-only CVT values: 87 kW at 6,600 rpm and 144 N-m at 4,800 rpm; 6MT: 88 kW at 6,600 rpm and 145 N-m at 4,800 rpm. Together with Fit Hybrid RS, these documented versions define 84-88 kW and 144-145 N-m; MF6 motor and combined-system ratings are excluded."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "honda-f22c",
+    "code": "F22C",
+    "aliases": [
+      "Honda S2000 AP2 F22C"
+    ],
+    "maker": "Honda",
+    "regionKey": "japan",
+    "years": "2007-2009 Honda S2000 Japan archive specification",
+    "displacement": "2.2 L · 2,156 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Honda S2000 / S2000 Type S AP2 (Japan, October 2007-June 2009)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "2.2-litre DOHC four-cylinder in the Japanese AP2 S2000 and Type S. Maximum power is 178 kW at 7,800 rpm; peak torque spans 6,500-7,500 rpm.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the service history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the engine and its rated power and torque.",
+        "cons": "Figures apply to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Motor DOHC de cuatro cilindros y 2,2 litros del S2000 AP2 y Type S japonés. Entrega 178 kW a 7.800 rpm; el par máximo abarca 6.500-7.500 rpm.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "Quatre-cylindres DOHC de 2,2 litres des S2000 AP2 et Type S japonais. Puissance maximale : 178 kW à 7 800 tr/min ; couple maximal de 6 500 à 7 500 tr/min.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le moteur, sa puissance et son couple.",
+        "cons": "Les valeurs concernent les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "2,2-Liter-DOHC-Vierzylinder im japanischen S2000 AP2 und Type S. Höchstleistung: 178 kW bei 7.800 U/min; maximales Drehmoment bei 6.500 bis 7.500 U/min.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den Motor sowie seine Leistung und sein Drehmoment.",
+        "cons": "Die Werte gelten für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 178,
+        "max": 178,
+        "rpm": {
+          "min": 7800,
+          "max": 7800
+        }
+      },
+      "torqueNm": {
+        "min": 221,
+        "max": 221,
+        "rpm": {
+          "min": 6500,
+          "max": 7500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Honda S2000 - Japan archive specifications, October 2007-June 2009",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2009,
+          "url": "https://www.honda.co.jp/auto-archive/s2000/2009/webcatalog/grade-data/",
+          "page": 1,
+          "checkedAt": "2026-09-07",
+          "fields": [
+            "code",
+            "layout",
+            "displacement",
+            "timingKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "S2000 and Type S / ABA-AP2 table names F22C, 2,156 cc, inline-four DOHC with two intake and two exhaust valves per cylinder, and chain/gear cam drive. Net engine ratings are 178 kW at 7,800 rpm and 221 N-m at 6,500-7,500 rpm. Scope is this Japan archive; F20C and export F22C1 calibrations are excluded."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "toyota-3zr-fae",
+    "code": "3ZR-FAE",
+    "aliases": [
+      "Toyota Valvematic 3ZR-FAE"
+    ],
+    "maker": "Toyota",
+    "regionKey": "japan",
+    "years": "2007 Japan launch specification",
+    "displacement": "2.0 L · 1,986 cc",
+    "layout": "I4 · DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Toyota Voxy ZS / Noah Si (Japan, June 2007 launch, FWD, Super CVT-i)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "2.0-litre DOHC four-cylinder with Dual VVT-i and Valvematic intake-valve lift control, specified for the 2007 Japanese Voxy ZS and Noah Si with front-wheel drive.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the maintenance history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the exact engine code and its rated power and torque.",
+        "cons": "The figures apply only to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Motor DOHC de cuatro cilindros y 2,0 litros con Dual VVT-i y control de alzada de admisión Valvematic, para los Voxy ZS y Noah Si japoneses de 2007 con tracción delantera.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el código exacto del motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden solo a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "Quatre-cylindres DOHC de 2,0 litres avec Dual VVT-i et levée variable des soupapes d'admission Valvematic, pour les Voxy ZS et Noah Si japonais de 2007 à traction avant.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le code moteur exact, sa puissance et son couple.",
+        "cons": "Les valeurs concernent uniquement les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "2,0-Liter-DOHC-Vierzylinder mit Dual VVT-i und Valvematic für den variablen Einlassventilhub, für die japanischen Voxy ZS und Noah Si von 2007 mit Frontantrieb.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den exakten Motorcode sowie Leistung und Drehmoment.",
+        "cons": "Die Werte gelten nur für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 116,
+        "max": 116,
+        "rpm": {
+          "min": 6200,
+          "max": 6200
+        }
+      },
+      "torqueNm": {
+        "min": 196,
+        "max": 196,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Toyota Launches Fully Redesigned Voxy and Noah",
+          "publisher": "Toyota Motor Corporation",
+          "year": 2007,
+          "url": "https://global.toyota/en/newsroom/toyota/24167639.html",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "Engine Specifications names 3ZR-FAE (Valvematic): 1,986 cc, 116 kW at 6,200 rpm and 196 N-m at 4,400 rpm. The price table maps it to Voxy ZS and Noah Si. Scope is Japan, June 2007 launch, front-wheel-drive specification. 3ZR-FE and other 3ZR-FAE applications are excluded."
+          ]
+        },
+        {
+          "type": "manufacturer",
+          "title": "Toyota 75 Years - second-generation Voxy vehicle lineage",
+          "publisher": "Toyota Motor Corporation",
+          "year": 2012,
+          "url": "https://www.toyota-global.com/company/history_of_toyota/75years/vehicle_lineage/car/id60009785/index.html",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "layout",
+            "displacement"
+          ],
+          "pageNotes": [
+            "The representative ZS / DBA-ZRR70W-BRXSP column names 3ZR-FAE, inline-four DOHC and 1,986 cc for the June 27, 2007 launch. This 2012 historical page supplements layout; torque verification comes from the launch release."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "toyota-1mz-fe",
+    "code": "1MZ-FE",
+    "aliases": [
+      "Toyota Alphard 1MZ-FE"
+    ],
+    "maker": "Toyota",
+    "regionKey": "japan",
+    "years": "2002 Japan launch specification",
+    "displacement": "3.0 L · 2,994 cc",
+    "layout": "V6",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Toyota Alphard G / Alphard V 3.0 (Japan, May 2002 launch, 2WD/4WD)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "3.0-litre V6 with VVT-i in the Japanese Alphard G and Alphard V at their May 2002 launch. This application is rated at 162 kW and 304 N-m.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the maintenance history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the exact engine code and its rated power and torque.",
+        "cons": "The figures apply only to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "V6 de 3,0 litros con VVT-i de los Alphard G y Alphard V japoneses en su lanzamiento de mayo de 2002. Esta versión entrega 162 kW y 304 N-m.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el código exacto del motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden solo a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "V6 de 3,0 litres avec VVT-i des Alphard G et Alphard V japonais lancés en mai 2002. Cette version développe 162 kW et 304 N-m.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le code moteur exact, sa puissance et son couple.",
+        "cons": "Les valeurs concernent uniquement les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "3,0-Liter-V6 mit VVT-i in den japanischen Alphard G und Alphard V zur Markteinführung im Mai 2002. Diese Ausführung leistet 162 kW und 304 N-m.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den exakten Motorcode sowie Leistung und Drehmoment.",
+        "cons": "Die Werte gelten nur für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 162,
+        "max": 162,
+        "rpm": {
+          "min": 5800,
+          "max": 5800
+        }
+      },
+      "torqueNm": {
+        "min": 304,
+        "max": 304,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Toyota launches Alphard G and Alphard V (Japan launch release)",
+          "publisher": "Toyota Motor Corporation",
+          "year": 2002,
+          "url": "https://global.toyota/jp/newsroom/toyota/21789362.html",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm",
+            "layout"
+          ],
+          "pageNotes": [
+            "The May 22, 2002 release identifies V6 3.0-litre 1MZ-FE with VVT-i. Its engine table lists 2,994 cc, 162 kW at 5,800 rpm and 304 N-m at 4,400 rpm. Scope is the Japanese Alphard G/V 3.0-litre launch specification, 2WD/4WD; the adjacent 2AZ-FE column and other 1MZ-FE calibrations are excluded."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "toyota-2az-fxe",
+    "code": "2AZ-FXE",
+    "aliases": [
+      "Toyota Estima Hybrid 2AZ-FXE"
+    ],
+    "maker": "Toyota",
+    "regionKey": "japan",
+    "years": "2006 Japan launch specification",
+    "displacement": "2.4 L · 2,362 cc",
+    "layout": "I4 · DOHC",
+    "fuelKey": "petrolHybrid",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Toyota Estima Hybrid X / G AHR20W (Japan, June 2006 launch, THS II / E-Four)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "2.4-litre DOHC four-cylinder with a high-expansion cycle in the Japanese 2006 Estima Hybrid. The 110 kW and 190 N-m ratings describe the combustion engine; electric motors and combined system output are excluded.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the maintenance history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the exact engine code and its rated power and torque.",
+        "cons": "The figures apply only to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Motor DOHC de cuatro cilindros y 2,4 litros con ciclo de alta expansión del Estima Hybrid japonés de 2006. Los 110 kW y 190 N-m corresponden al motor de combustión; se excluyen los motores eléctricos y la potencia conjunta.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el código exacto del motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden solo a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "Quatre-cylindres DOHC de 2,4 litres à cycle à forte détente de l'Estima Hybrid japonais de 2006. Les 110 kW et 190 N-m concernent le moteur thermique ; les moteurs électriques et la puissance combinée sont exclus.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le code moteur exact, sa puissance et son couple.",
+        "cons": "Les valeurs concernent uniquement les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "2,4-Liter-DOHC-Vierzylinder mit hohem Expansionsverhältnis im japanischen Estima Hybrid von 2006. Die 110 kW und 190 N-m gelten für den Verbrennungsmotor; Elektromotoren und Systemleistung sind ausgenommen.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den exakten Motorcode sowie Leistung und Drehmoment.",
+        "cons": "Die Werte gelten nur für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 110,
+        "max": 110,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 190,
+        "max": 190,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Toyota Launches Completely Redesigned Estima Hybrid",
+          "publisher": "Toyota Motor Corporation",
+          "year": 2006,
+          "url": "https://global.toyota/en/detail/273845",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The June 12, 2006 Japan launch table names 2AZ-FXE: 2,362 cc, 110 kW at 6,000 rpm and 190 N-m at 4,000 rpm. These are combustion-engine ratings for Estima Hybrid X/G with THS II and E-Four. The 140 kW overall hybrid-system output and front/rear motor ratings are not engine performance; Sai, Camry and earlier Estima calibrations are excluded."
+          ]
+        },
+        {
+          "type": "manufacturer",
+          "title": "Toyota 75 Years - second-generation Estima Hybrid vehicle lineage",
+          "publisher": "Toyota Motor Corporation",
+          "year": 2012,
+          "url": "https://www.toyota.co.jp/jpn/company/history/75years/vehicle_lineage/car/id60000632/",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "layout",
+            "displacement"
+          ],
+          "pageNotes": [
+            "The G/X DAA-AHR20W columns identify 2AZ-FXE, 2,362 cc, inline-four DOHC and the June 12, 2006 hybrid launch. This 2012 historical page supplements layout and vehicle identity only; performance is taken from the contemporary release."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "honda-c30a",
+    "code": "C30A",
+    "aliases": [
+      "Honda NSX NA1 C30A"
+    ],
+    "maker": "Honda",
+    "regionKey": "japan",
+    "years": "December 2005 Japan archive specification",
+    "displacement": "3.0 L · 2,977 cc",
+    "layout": "V6 · DOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingBelt",
+    "applications": [
+      "Honda NSX / NSX Type T NA1 (Japan, archive as of December 2005, 4AT)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "3.0-litre DOHC V6 with 24 valves and belt-driven camshafts. This C30A entry covers the Japanese NSX and Type T with four-speed automatic transmission, as listed in December 2005.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the maintenance history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the exact engine code and its rated power and torque.",
+        "cons": "The figures apply only to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "V6 DOHC de 3,0 litros, 24 válvulas y distribución por correa. Esta ficha C30A cubre los NSX y Type T japoneses con cambio automático de cuatro marchas, según el archivo de diciembre de 2005.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el código exacto del motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden solo a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "V6 DOHC de 3,0 litres à 24 soupapes et distribution par courroie. Cette fiche C30A couvre les NSX et Type T japonais à boîte automatique à quatre rapports, selon l'archive de décembre 2005.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le code moteur exact, sa puissance et son couple.",
+        "cons": "Les valeurs concernent uniquement les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "3,0-Liter-DOHC-V6 mit 24 Ventilen und Zahnriemen. Dieser C30A-Eintrag gilt für japanische NSX und Type T mit Viergangautomatik laut Archivstand Dezember 2005.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den exakten Motorcode sowie Leistung und Drehmoment.",
+        "cons": "Die Werte gelten nur für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 195,
+        "max": 195,
+        "rpm": {
+          "min": 6800,
+          "max": 6800
+        }
+      },
+      "torqueNm": {
+        "min": 294,
+        "max": 294,
+        "rpm": {
+          "min": 5400,
+          "max": 5400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Honda NSX - Japan archive specifications, as of December 2005",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2005,
+          "url": "https://www.honda.co.jp/auto-archive/nsx/2005/grade-data/",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm",
+            "layout",
+            "timingKey"
+          ],
+          "pageNotes": [
+            "The NSX and Type T 3.0-litre / NA1 / 4AT columns identify C30A: 2,977 cc, V6 DOHC, four valves per cylinder and belt drive. Net ratings are 195 kW at 6,800 rpm and 294 N-m at 5,400 rpm. Scope is the Japan archive as of December 2005; C32B/6MT columns, earlier C30A manual versions and export specifications are excluded."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "honda-c32b",
+    "code": "C32B",
+    "aliases": [
+      "Honda NSX NA2 C32B"
+    ],
+    "maker": "Honda",
+    "regionKey": "japan",
+    "years": "December 2005 Japan archive specification",
+    "displacement": "3.2 L · 3,179 cc",
+    "layout": "V6 · DOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingBelt",
+    "applications": [
+      "Honda NSX / NSX Type T / NSX Type S NA2 (Japan, archive as of December 2005, 6MT)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "3.2-litre DOHC V6 with 24 valves and belt-driven camshafts. The December 2005 Japan archive pairs C32B with the six-speed manual NSX, Type T and Type S.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the maintenance history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the exact engine code and its rated power and torque.",
+        "cons": "The figures apply only to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "V6 DOHC de 3,2 litros, 24 válvulas y distribución por correa. El archivo japonés de diciembre de 2005 asigna el C32B a los NSX, Type T y Type S con cambio manual de seis marchas.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el código exacto del motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden solo a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "V6 DOHC de 3,2 litres à 24 soupapes et distribution par courroie. L'archive japonaise de décembre 2005 associe le C32B aux NSX, Type T et Type S à boîte manuelle à six rapports.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le code moteur exact, sa puissance et son couple.",
+        "cons": "Les valeurs concernent uniquement les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "3,2-Liter-DOHC-V6 mit 24 Ventilen und Zahnriemen. Das Japan-Archiv vom Dezember 2005 ordnet den C32B den NSX, Type T und Type S mit Sechsgang-Schaltgetriebe zu.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den exakten Motorcode sowie Leistung und Drehmoment.",
+        "cons": "Die Werte gelten nur für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 206,
+        "max": 206,
+        "rpm": {
+          "min": 7300,
+          "max": 7300
+        }
+      },
+      "torqueNm": {
+        "min": 304,
+        "max": 304,
+        "rpm": {
+          "min": 5300,
+          "max": 5300
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Honda NSX - Japan archive specifications, as of December 2005",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2005,
+          "url": "https://www.honda.co.jp/auto-archive/nsx/2005/grade-data/",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm",
+            "layout",
+            "timingKey"
+          ],
+          "pageNotes": [
+            "The NSX, Type T and Type S 3.2-litre / NA2 / 6MT columns identify C32B: 3,179 cc, V6 DOHC, four valves per cylinder and belt drive. Net ratings are 206 kW at 7,300 rpm and 304 N-m at 5,300 rpm. Scope is the Japan archive as of December 2005; adjacent C30A/4AT columns, NSX-R and export applications are excluded."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "honda-b18c",
+    "code": "B18C",
+    "aliases": [
+      "Honda Integra Type R B18C"
+    ],
+    "maker": "Honda",
+    "regionKey": "japan",
+    "years": "June 2001 Japan archive specification",
+    "displacement": "1.8 L · 1,797 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingBelt",
+    "applications": [
+      "Honda Integra Type R DC2 / DB8 (Japan, archive as of June 2001, 5MT)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "1.8-litre DOHC four-cylinder with 16 valves and belt drive. This is the Japanese Integra Type R DC2/DB8 five-speed manual specification archived in June 2001, rated at 147 kW at 8,000 rpm.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the maintenance history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the exact engine code and its rated power and torque.",
+        "cons": "The figures apply only to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Motor DOHC de cuatro cilindros y 1,8 litros, con 16 válvulas y correa. Corresponde al Integra Type R DC2/DB8 japonés con cambio manual de cinco marchas del archivo de junio de 2001: 147 kW a 8.000 rpm.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el código exacto del motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden solo a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "Quatre-cylindres DOHC de 1,8 litre à 16 soupapes et distribution par courroie. Version japonaise de l'Integra Type R DC2/DB8 à boîte manuelle à cinq rapports, archivée en juin 2001 : 147 kW à 8 000 tr/min.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le code moteur exact, sa puissance et son couple.",
+        "cons": "Les valeurs concernent uniquement les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "1,8-Liter-DOHC-Vierzylinder mit 16 Ventilen und Zahnriemen. Japanische Integra-Type-R-Ausführung DC2/DB8 mit Fünfgang-Schaltgetriebe laut Archivstand Juni 2001: 147 kW bei 8.000 U/min.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den exakten Motorcode sowie Leistung und Drehmoment.",
+        "cons": "Die Werte gelten nur für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 147,
+        "max": 147,
+        "rpm": {
+          "min": 8000,
+          "max": 8000
+        }
+      },
+      "torqueNm": {
+        "min": 186,
+        "max": 186,
+        "rpm": {
+          "min": 6200,
+          "max": 6200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Honda Integra Type R - Japan archive specifications, as of June 2001",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2001,
+          "url": "https://www.honda.co.jp/auto-archive/integra/3door/type-r2001/grade_data/",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm",
+            "layout",
+            "timingKey"
+          ],
+          "pageNotes": [
+            "The Type R 3-door DC2 and 4-door DB8 columns identify B18C, 1,797 cc, inline-four DOHC, four valves per cylinder and belt drive. Net ratings are 147 kW at 8,000 rpm and 186 N-m at 6,200 rpm with 5MT. Scope is the Japan archive as of June 2001, not all 1995-2001 versions; SiR-G, export suffixes and other B18 engines are excluded."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "honda-j25a",
+    "code": "J25A",
+    "aliases": [
+      "Honda Saber J25A"
+    ],
+    "maker": "Honda",
+    "regionKey": "japan",
+    "years": "2003 Japan archive specification",
+    "displacement": "2.5 L · 2,495 cc",
+    "layout": "V6 · SOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingBelt",
+    "applications": [
+      "Honda Saber LA-UA4 2.5 (Japan, archive as of 2003, 5AT)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "2.5-litre SOHC V6 with 24 valves and belt drive, fitted to the Japanese Saber LA-UA4 with five-speed automatic transmission in the 2003 archive specification.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the maintenance history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the exact engine code and its rated power and torque.",
+        "cons": "The figures apply only to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "V6 SOHC de 2,5 litros, 24 válvulas y distribución por correa del Saber LA-UA4 japonés con cambio automático de cinco marchas, según el archivo de 2003.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el código exacto del motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden solo a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "V6 SOHC de 2,5 litres à 24 soupapes et distribution par courroie du Saber LA-UA4 japonais à boîte automatique à cinq rapports, selon l'archive de 2003.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le code moteur exact, sa puissance et son couple.",
+        "cons": "Les valeurs concernent uniquement les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "2,5-Liter-SOHC-V6 mit 24 Ventilen und Zahnriemen im japanischen Saber LA-UA4 mit Fünfgangautomatik laut Archivstand 2003.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den exakten Motorcode sowie Leistung und Drehmoment.",
+        "cons": "Die Werte gelten nur für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 147,
+        "max": 147,
+        "rpm": {
+          "min": 6200,
+          "max": 6200
+        }
+      },
+      "torqueNm": {
+        "min": 240,
+        "max": 240,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Honda Saber - Japan archive specifications, as of 2003",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2003,
+          "url": "https://www.honda.co.jp/auto-archive/saber/2003/grade_data/",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm",
+            "layout",
+            "timingKey"
+          ],
+          "pageNotes": [
+            "The Saber 2.5-litre / LA-UA4 / 5AT column names J25A, 2,495 cc, V6 SOHC, four valves per cylinder and belt drive. Net output is 147 kW at 6,200 rpm and torque 240 N-m at 4,600 rpm. Scope is the Japan archive as of 2003; adjacent J32A Type S values are excluded. Honda of America manufacturing attribution does not change this vehicle's Japanese-market applicability."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "honda-j32a",
+    "code": "J32A",
+    "aliases": [
+      "Honda Saber Type S J32A"
+    ],
+    "maker": "Honda",
+    "regionKey": "japan",
+    "years": "2003 Japan archive specification",
+    "displacement": "3.2 L · 3,210 cc",
+    "layout": "V6 · SOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingBelt",
+    "applications": [
+      "Honda Saber Type S LA-UA5 (Japan, archive as of 2003, 5AT)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "3.2-litre SOHC V6 with 24 valves and belt drive. The Japanese Saber Type S LA-UA5 specification archived in 2003 produces 191 kW and 314 N-m with a five-speed automatic transmission.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the maintenance history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the exact engine code and its rated power and torque.",
+        "cons": "The figures apply only to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "V6 SOHC de 3,2 litros, 24 válvulas y distribución por correa. La versión japonesa del Saber Type S LA-UA5 del archivo de 2003 entrega 191 kW y 314 N-m con cambio automático de cinco marchas.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el código exacto del motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden solo a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "V6 SOHC de 3,2 litres à 24 soupapes et distribution par courroie. Le Saber Type S LA-UA5 japonais de l'archive de 2003 développe 191 kW et 314 N-m avec une boîte automatique à cinq rapports.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le code moteur exact, sa puissance et son couple.",
+        "cons": "Les valeurs concernent uniquement les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "3,2-Liter-SOHC-V6 mit 24 Ventilen und Zahnriemen. Der japanische Saber Type S LA-UA5 laut Archivstand 2003 leistet 191 kW und 314 N-m mit Fünfgangautomatik.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den exakten Motorcode sowie Leistung und Drehmoment.",
+        "cons": "Die Werte gelten nur für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 191,
+        "max": 191,
+        "rpm": {
+          "min": 6100,
+          "max": 6100
+        }
+      },
+      "torqueNm": {
+        "min": 314,
+        "max": 314,
+        "rpm": {
+          "min": 3500,
+          "max": 3500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Honda Saber - Japan archive specifications, as of 2003",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2003,
+          "url": "https://www.honda.co.jp/auto-archive/saber/2003/grade_data/",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm",
+            "layout",
+            "timingKey"
+          ],
+          "pageNotes": [
+            "The Saber Type S 3.2-litre / LA-UA5 / 5AT column names J32A, 3,210 cc, V6 SOHC, four valves per cylinder and belt drive. Net output is 191 kW at 6,100 rpm and torque 314 N-m at 3,500 rpm. Scope is this Japan Type S archive as of 2003; earlier Saber 32V and Acura/export J32A suffix calibrations are excluded."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "honda-f22b",
+    "code": "F22B",
+    "aliases": [
+      "Honda Prelude Si F22B"
+    ],
+    "maker": "Honda",
+    "regionKey": "japan",
+    "years": "2001 Japan archive specification",
+    "displacement": "2.2 L · 2,156 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingBelt",
+    "applications": [
+      "Honda Prelude Si BB5 / BB7 (Japan, archive as of 2001, 5MT/4AT)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "2.2-litre DOHC four-cylinder with 16 valves and belt drive in the Japanese Prelude Si BB5/BB7, as archived in 2001. The 118 kW rating applies to this DOHC version, not SOHC F22B applications.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the maintenance history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the exact engine code and its rated power and torque.",
+        "cons": "The figures apply only to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Motor DOHC de cuatro cilindros y 2,2 litros, con 16 válvulas y correa, del Prelude Si BB5/BB7 japonés del archivo de 2001. Los 118 kW corresponden a esta versión DOHC, no a los F22B SOHC.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el código exacto del motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden solo a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "Quatre-cylindres DOHC de 2,2 litres à 16 soupapes et distribution par courroie du Prelude Si BB5/BB7 japonais, archivé en 2001. Les 118 kW concernent cette version DOHC, pas les F22B SOHC.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le code moteur exact, sa puissance et son couple.",
+        "cons": "Les valeurs concernent uniquement les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "2,2-Liter-DOHC-Vierzylinder mit 16 Ventilen und Zahnriemen im japanischen Prelude Si BB5/BB7 laut Archivstand 2001. Die 118 kW gelten für diese DOHC-Ausführung, nicht für SOHC-Anwendungen des F22B.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den exakten Motorcode sowie Leistung und Drehmoment.",
+        "cons": "Die Werte gelten nur für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 118,
+        "max": 118,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 201,
+        "max": 201,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Honda Prelude Si - Japan archive specifications, as of 2001",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2001,
+          "url": "https://www.honda.co.jp/auto-archive/prelude/2001/grade_data/si.html",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm",
+            "layout",
+            "timingKey"
+          ],
+          "pageNotes": [
+            "The Si BB5 (2WS) / BB7 (4WS) table names F22B, 2,156 cc, inline-four DOHC, four valves per cylinder and belt drive. 5MT/4AT engine ratings are 118 kW at 6,000 rpm and 201 N-m at 5,200 rpm. Scope is this Japan Si archive as of 2001; SOHC F22B/Xi and export F22 variants are excluded."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "honda-h22a",
+    "code": "H22A",
+    "aliases": [
+      "Honda Prelude SiR H22A"
+    ],
+    "maker": "Honda",
+    "regionKey": "japan",
+    "years": "2001 Japan archive specification",
+    "displacement": "2.2 L · 2,156 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingBelt",
+    "applications": [
+      "Honda Prelude SiR BB6 / BB8 (Japan, archive as of 2001, 4AT)",
+      "Honda Prelude S spec BB6 (Japan, archive as of 2001, 5MT)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "2.2-litre DOHC VTEC four-cylinder with belt drive, Japan archive as of 2001. SiR 4AT: 147 kW at 6,800 rpm and 219 N-m at 5,500 rpm. S spec 5MT: 162 kW at 7,200 rpm and 221 N-m at 6,500 rpm.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the maintenance history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the exact engine code and its rated power and torque.",
+        "cons": "The figures apply only to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Motor DOHC VTEC de cuatro cilindros y 2,2 litros con correa, archivo japonés de 2001. SiR 4AT: 147 kW a 6.800 rpm y 219 N-m a 5.500 rpm. S spec 5MT: 162 kW a 7.200 rpm y 221 N-m a 6.500 rpm.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el código exacto del motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden solo a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "Quatre-cylindres DOHC VTEC de 2,2 litres à distribution par courroie, archive japonaise de 2001. SiR 4AT : 147 kW à 6 800 tr/min et 219 N-m à 5 500 tr/min. S spec 5MT : 162 kW à 7 200 tr/min et 221 N-m à 6 500 tr/min.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le code moteur exact, sa puissance et son couple.",
+        "cons": "Les valeurs concernent uniquement les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "2,2-Liter-DOHC-VTEC-Vierzylinder mit Zahnriemen, Japan-Archivstand 2001. SiR 4AT: 147 kW bei 6.800 U/min und 219 N-m bei 5.500 U/min. S spec 5MT: 162 kW bei 7.200 U/min und 221 N-m bei 6.500 U/min.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den exakten Motorcode sowie Leistung und Drehmoment.",
+        "cons": "Die Werte gelten nur für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 147,
+        "max": 162,
+        "rpm": {
+          "min": 6800,
+          "max": 7200
+        }
+      },
+      "torqueNm": {
+        "min": 219,
+        "max": 221,
+        "rpm": {
+          "min": 5500,
+          "max": 6500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Honda Prelude SiR and S spec - Japan archive specifications, as of 2001",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2001,
+          "url": "https://www.honda.co.jp/auto-archive/prelude/2001/grade_data/sir.html",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm",
+            "layout",
+            "timingKey"
+          ],
+          "pageNotes": [
+            "Both columns name H22A, 2,156 cc, inline-four DOHC, four valves per cylinder and belt drive. SiR 4AT: 147 kW at 6,800 rpm, 219 N-m at 5,500 rpm (BB6/BB8). S spec 5MT: 162 kW at 7,200 rpm, 221 N-m at 6,500 rpm (BB6). Stored min/max values are the envelope of these two discrete Japan archive calibrations as of 2001, not a torque plateau or a family-wide rating. Type S and export H22 suffixes are outside this record's scope."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "honda-l13b",
+    "code": "L13B",
+    "aliases": [
+      "Honda Fit GK3/GK4 L13B"
+    ],
+    "maker": "Honda",
+    "regionKey": "japan",
+    "years": "May 2017 Japan archive specification",
+    "displacement": "1.3 L · 1,317 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Honda Fit 13G series GK3 / GK4 (Japan, archive as of May 2017, CVT/5MT where listed)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "1.3-litre DOHC four-cylinder with 16 valves and chain drive in the Japanese Fit 13G series GK3/GK4, as archived in May 2017. Rated at 73 kW and 119 N-m.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the maintenance history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the exact engine code and its rated power and torque.",
+        "cons": "The figures apply only to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Motor DOHC de cuatro cilindros y 1,3 litros, con 16 válvulas y cadena, del Fit 13G GK3/GK4 japonés del archivo de mayo de 2017. Entrega 73 kW y 119 N-m.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el código exacto del motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden solo a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "Quatre-cylindres DOHC de 1,3 litre à 16 soupapes et distribution par chaîne du Fit 13G GK3/GK4 japonais, archivé en mai 2017. Il développe 73 kW et 119 N-m.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le code moteur exact, sa puissance et son couple.",
+        "cons": "Les valeurs concernent uniquement les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "1,3-Liter-DOHC-Vierzylinder mit 16 Ventilen und Steuerkette im japanischen Fit 13G GK3/GK4 laut Archivstand Mai 2017. Nennwerte: 73 kW und 119 N-m.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den exakten Motorcode sowie Leistung und Drehmoment.",
+        "cons": "Die Werte gelten nur für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 73,
+        "max": 73,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 119,
+        "max": 119,
+        "rpm": {
+          "min": 5000,
+          "max": 5000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Honda Fit - Japan specification table, archive as of May 2017",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2017,
+          "url": "https://www.honda.co.jp/auto-archive/fit/2017/common/pdf/fit_spec_list.pdf",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm",
+            "layout",
+            "timingKey"
+          ],
+          "pageNotes": [
+            "Page 1, 1.3-litre / 13G / GK3-GK4 columns identify engine L13B, 1.317 L, inline-four DOHC, four valves per cylinder and chain drive. Engine ratings are 73 kW at 6,000 rpm and 119 N-m at 5,000 rpm. Scope is the Japanese Fit archive as of May 2017 (CVT and listed 5MT); L13A, later L13B calibrations, L15B and LEB are excluded."
+          ]
+        },
+        {
+          "type": "manufacturer",
+          "title": "Honda Fit - fuel economy and hybrid powertrain, archive as of May 2017",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2017,
+          "url": "https://www.honda.co.jp/auto-archive/fit/2017/webcatalog/performance/ecology/",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "years",
+            "applications"
+          ],
+          "pageNotes": [
+            "The archive header dates the displayed specifications to May 2017; September 2013 is the model introduction, not a claim that every specification applies throughout that interval. The page distinguishes the 1.3-litre petrol, 1.5-litre direct-injection petrol and 1.5-litre i-DCD hybrid versions. Hybrid engine output is 81 kW, motor output 22 kW and system output 101 kW."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "honda-l15b",
+    "code": "L15B",
+    "aliases": [
+      "Honda Fit GK5/GK6 L15B"
+    ],
+    "maker": "Honda",
+    "regionKey": "japan",
+    "years": "May 2017 Japan archive specification",
+    "displacement": "1.5 L · 1,496 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "directInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Honda Fit 15XL GK5 / GK6 (Japan, archive as of May 2017, CVT)",
+      "Honda Fit RS GK5 (Japan, archive as of May 2017, CVT/6MT)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "Naturally aspirated 1.5-litre DOHC four-cylinder with direct injection, 16 valves and chain drive. Covers Japanese Fit 15XL and RS versions archived in May 2017, rated at 97 kW and 155 N-m.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the maintenance history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the exact engine code and its rated power and torque.",
+        "cons": "The figures apply only to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Motor atmosférico DOHC de cuatro cilindros y 1,5 litros, con inyección directa, 16 válvulas y cadena. Cubre los Fit 15XL y RS japoneses del archivo de mayo de 2017, con 97 kW y 155 N-m.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el código exacto del motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden solo a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "Quatre-cylindres DOHC atmosphérique de 1,5 litre à injection directe, 16 soupapes et distribution par chaîne. Versions japonaises Fit 15XL et RS de l'archive de mai 2017, avec 97 kW et 155 N-m.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le code moteur exact, sa puissance et son couple.",
+        "cons": "Les valeurs concernent uniquement les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "1,5-Liter-DOHC-Saugmotor mit vier Zylindern, Direkteinspritzung, 16 Ventilen und Steuerkette. Gilt für die japanischen Fit 15XL und RS laut Archivstand Mai 2017 mit 97 kW und 155 N-m.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den exakten Motorcode sowie Leistung und Drehmoment.",
+        "cons": "Die Werte gelten nur für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 97,
+        "max": 97,
+        "rpm": {
+          "min": 6600,
+          "max": 6600
+        }
+      },
+      "torqueNm": {
+        "min": 155,
+        "max": 155,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Honda Fit - Japan specification table, archive as of May 2017",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2017,
+          "url": "https://www.honda.co.jp/auto-archive/fit/2017/common/pdf/fit_spec_list.pdf",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm",
+            "layout",
+            "timingKey",
+            "injectionKey"
+          ],
+          "pageNotes": [
+            "Page 1, 1.5-litre / 15XL / RS / GK5-GK6 columns identify L15B, 1.496 L, inline-four DOHC, four valves per cylinder and chain drive. The fuel-saving measures row explicitly states direct injection. Engine ratings are 97 kW at 6,600 rpm and 155 N-m at 4,600 rpm. Scope is naturally aspirated Japanese Fit 15XL CVT and RS CVT/6MT, archive as of May 2017; L15A, turbocharged L15B applications and export suffixes are excluded."
+          ]
+        },
+        {
+          "type": "manufacturer",
+          "title": "Honda Fit - fuel economy and hybrid powertrain, archive as of May 2017",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2017,
+          "url": "https://www.honda.co.jp/auto-archive/fit/2017/webcatalog/performance/ecology/",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "years",
+            "applications"
+          ],
+          "pageNotes": [
+            "The archive header dates the displayed specifications to May 2017; September 2013 is the model introduction, not a claim that every specification applies throughout that interval. The page distinguishes the 1.3-litre petrol, 1.5-litre direct-injection petrol and 1.5-litre i-DCD hybrid versions. Hybrid engine output is 81 kW, motor output 22 kW and system output 101 kW."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "honda-leb",
+    "code": "LEB",
+    "aliases": [
+      "Honda Fit Hybrid GP5/GP6 LEB"
+    ],
+    "maker": "Honda",
+    "regionKey": "japan",
+    "years": "May 2017 Japan archive specification",
+    "displacement": "1.5 L · 1,496 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrolHybrid",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Honda Fit Hybrid GP5 / GP6 (Japan, archive as of May 2017, i-DCD, 7-speed DCT)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "1.5-litre DOHC four-cylinder with chain drive and Atkinson-cycle operation in the Japanese Fit Hybrid GP5/GP6, May 2017 archive. The 81 kW and 134 N-m values are for the LEB combustion engine, excluding the H1 motor and hybrid-system output.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the maintenance history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the exact engine code and its rated power and torque.",
+        "cons": "The figures apply only to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Motor DOHC de cuatro cilindros y 1,5 litros con cadena y ciclo Atkinson del Fit Hybrid GP5/GP6 japonés, archivo de mayo de 2017. Los 81 kW y 134 N-m corresponden al motor de combustión LEB; excluyen el motor H1 y la potencia conjunta.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el código exacto del motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden solo a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "Quatre-cylindres DOHC de 1,5 litre à chaîne et cycle Atkinson du Fit Hybrid GP5/GP6 japonais, archive de mai 2017. Les 81 kW et 134 N-m concernent le moteur thermique LEB, hors moteur H1 et puissance du système hybride.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le code moteur exact, sa puissance et son couple.",
+        "cons": "Les valeurs concernent uniquement les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "1,5-Liter-DOHC-Vierzylinder mit Steuerkette und Atkinson-Betrieb im japanischen Fit Hybrid GP5/GP6, Archivstand Mai 2017. Die 81 kW und 134 N-m gelten für den LEB-Verbrennungsmotor, ohne H1-Elektromotor und Hybrid-Systemleistung.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den exakten Motorcode sowie Leistung und Drehmoment.",
+        "cons": "Die Werte gelten nur für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 81,
+        "max": 81,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 134,
+        "max": 134,
+        "rpm": {
+          "min": 5000,
+          "max": 5000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Honda Fit - Japan specification table, archive as of May 2017",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2017,
+          "url": "https://www.honda.co.jp/auto-archive/fit/2017/common/pdf/fit_spec_list.pdf",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm",
+            "layout",
+            "timingKey"
+          ],
+          "pageNotes": [
+            "Page 1, HYBRID / GP5-GP6 columns distinguish the LEB-H1 power unit, LEB engine and H1 motor. The 1.496 L inline-four DOHC engine has four valves per cylinder and chain drive; its own ratings are 81 kW at 6,000 rpm and 134 N-m at 5,000 rpm. H1 motor ratings of 22 kW and 160 N-m are excluded. Scope is Japanese Fit Hybrid i-DCD, archive as of May 2017; LEA/IMA and later LEB hybrid applications are excluded."
+          ]
+        },
+        {
+          "type": "manufacturer",
+          "title": "Honda Fit - fuel economy and hybrid powertrain, archive as of May 2017",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2017,
+          "url": "https://www.honda.co.jp/auto-archive/fit/2017/webcatalog/performance/ecology/",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "years",
+            "applications"
+          ],
+          "pageNotes": [
+            "The archive header dates the displayed specifications to May 2017; September 2013 is the model introduction, not a claim that every specification applies throughout that interval. The page distinguishes the 1.3-litre petrol, 1.5-litre direct-injection petrol and 1.5-litre i-DCD hybrid versions. Hybrid engine output is 81 kW, motor output 22 kW and system output 101 kW."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "honda-f23a",
+    "code": "F23A",
+    "aliases": [
+      "Honda Avancier F23A"
+    ],
+    "maker": "Honda",
+    "regionKey": "japan",
+    "years": "2003 Japan archive specification",
+    "displacement": "2.3 L · 2,253 cc",
+    "layout": "I4 · SOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingBelt",
+    "applications": [
+      "Honda Avancier L TA1 / L-4 TA2 (Japan, archive as of 2003, 4AT)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "2.3-litre SOHC VTEC four-cylinder with 16 valves and belt drive in the Japanese Avancier L and L-4 with four-speed automatic transmission, as archived in 2003.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the maintenance history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the exact engine code and its rated power and torque.",
+        "cons": "The figures apply only to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "Motor SOHC VTEC de cuatro cilindros y 2,3 litros, con 16 válvulas y correa, de los Avancier L y L-4 japoneses con cambio automático de cuatro marchas, según el archivo de 2003.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el código exacto del motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden solo a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "Quatre-cylindres SOHC VTEC de 2,3 litres à 16 soupapes et distribution par courroie des Avancier L et L-4 japonais à boîte automatique à quatre rapports, selon l'archive de 2003.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le code moteur exact, sa puissance et son couple.",
+        "cons": "Les valeurs concernent uniquement les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "2,3-Liter-SOHC-VTEC-Vierzylinder mit 16 Ventilen und Zahnriemen in den japanischen Avancier L und L-4 mit Viergangautomatik laut Archivstand 2003.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den exakten Motorcode sowie Leistung und Drehmoment.",
+        "cons": "Die Werte gelten nur für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 110,
+        "max": 110,
+        "rpm": {
+          "min": 5800,
+          "max": 5800
+        }
+      },
+      "torqueNm": {
+        "min": 206,
+        "max": 206,
+        "rpm": {
+          "min": 4800,
+          "max": 4800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Honda Avancier L/V/L-4/V-4 - Japan archive specifications, as of 2003",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2003,
+          "url": "https://www.honda.co.jp/auto-archive/avancier/2003/SP/lv/spec/",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm",
+            "layout",
+            "timingKey"
+          ],
+          "pageNotes": [
+            "The L / LA-TA1 (FWD) and L-4 / LA-TA2 (4WD) columns identify F23A, 2,253 cc, inline-four SOHC, four valves per cylinder and belt drive with 4AT. Engine ratings are 110 kW at 5,800 rpm and 206 N-m at 4,800 rpm. Scope is these Avancier Japan archive specifications as of 2003; J30A columns, Accord/Odyssey applications and export F23 suffixes are excluded."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "honda-j30a",
+    "code": "J30A",
+    "aliases": [
+      "Honda Avancier J30A"
+    ],
+    "maker": "Honda",
+    "regionKey": "japan",
+    "years": "2003 Japan archive specification",
+    "displacement": "3.0 L · 2,997 cc",
+    "layout": "V6 · SOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingBelt",
+    "applications": [
+      "Honda Avancier V TA3 / V-4 TA4 (Japan, archive as of 2003, 5AT)"
+    ],
+    "consumption": "See source vehicle table",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "3.0-litre SOHC VTEC V6 with 24 valves and belt drive in the Japanese Avancier V and V-4 with five-speed automatic transmission, as archived in 2003. This calibration produces 158 kW and 272 N-m.",
+        "issues": "The cited specifications do not establish recurring faults or a service-life estimate. Check the maintenance history of the individual vehicle.",
+        "pros": "Manufacturer specifications identify the exact engine code and its rated power and torque.",
+        "cons": "The figures apply only to the listed Japanese-market versions; confirm the vehicle specification before selecting parts."
+      },
+      "es": {
+        "construction": "V6 SOHC VTEC de 3,0 litros, 24 válvulas y distribución por correa de los Avancier V y V-4 japoneses con cambio automático de cinco marchas, según el archivo de 2003. Esta versión entrega 158 kW y 272 N-m.",
+        "issues": "Las especificaciones citadas no establecen averías recurrentes ni una vida útil estimada. Revise el historial de mantenimiento del vehículo.",
+        "pros": "Las especificaciones del fabricante identifican el código exacto del motor y sus valores de potencia y par.",
+        "cons": "Las cifras corresponden solo a las versiones japonesas indicadas; confirme la versión del vehículo antes de elegir piezas."
+      },
+      "fr": {
+        "construction": "V6 SOHC VTEC de 3,0 litres à 24 soupapes et distribution par courroie des Avancier V et V-4 japonais à boîte automatique à cinq rapports, selon l'archive de 2003. Cette version développe 158 kW et 272 N-m.",
+        "issues": "Les spécifications citées ne précisent ni pannes récurrentes ni durée de vie estimée. Vérifiez l'historique d'entretien du véhicule.",
+        "pros": "Les spécifications du constructeur identifient le code moteur exact, sa puissance et son couple.",
+        "cons": "Les valeurs concernent uniquement les versions japonaises indiquées ; vérifiez la version du véhicule avant de choisir des pièces."
+      },
+      "de": {
+        "construction": "3,0-Liter-SOHC-VTEC-V6 mit 24 Ventilen und Zahnriemen in den japanischen Avancier V und V-4 mit Fünfgangautomatik laut Archivstand 2003. Diese Ausführung leistet 158 kW und 272 N-m.",
+        "issues": "Die genannten technischen Daten belegen weder häufige Defekte noch eine erwartete Lebensdauer. Prüfen Sie die Wartungshistorie des Fahrzeugs.",
+        "pros": "Die Herstellerangaben nennen den exakten Motorcode sowie Leistung und Drehmoment.",
+        "cons": "Die Werte gelten nur für die aufgeführten Japan-Versionen; prüfen Sie vor der Teilewahl die Fahrzeugausführung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 158,
+        "max": 158,
+        "rpm": {
+          "min": 5800,
+          "max": 5800
+        }
+      },
+      "torqueNm": {
+        "min": 272,
+        "max": 272,
+        "rpm": {
+          "min": 5000,
+          "max": 5000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Honda Avancier L/V/L-4/V-4 - Japan archive specifications, as of 2003",
+          "publisher": "Honda Motor Co., Ltd.",
+          "year": 2003,
+          "url": "https://www.honda.co.jp/auto-archive/avancier/2003/SP/lv/spec/",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "displacement",
+            "performance.powerKw",
+            "performance.torqueNm",
+            "layout",
+            "timingKey"
+          ],
+          "pageNotes": [
+            "The V / LA-TA3 (FWD) and V-4 / LA-TA4 (4WD) columns identify J30A, 2,997 cc, V6 SOHC, four valves per cylinder and belt drive with 5AT. Engine ratings are 158 kW at 5,800 rpm and 272 N-m at 5,000 rpm. Scope is these Avancier Japan archive specifications as of 2003; the different Odyssey/Inspire and Acura/export J30A calibrations are excluded."
+          ]
+        }
+      ]
+    }
+  },
+  {
     "id": "hyundai-g4kd",
     "code": "G4KD",
     "aliases": [
