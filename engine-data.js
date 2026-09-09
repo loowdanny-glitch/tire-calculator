@@ -1686,6 +1686,2073 @@ window.AUTOHUB_ENGINE_DATA = {
     }
   },
   {
+    "id": "mercedes-m112-946",
+    "code": "M112.946",
+    "aliases": [
+      "M 112 E 32",
+      "112.946"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "2001-2004 main-series Mercedes-Benz C 320 Estate S 203 (Europe)",
+    "displacement": "3.2 L · 3,199 cc",
+    "layout": "90° V6 · SOHC · 18V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz C 320 Estate S 203 / 203.264 (Europe, main-series January 2001-March 2004)"
+    ],
+    "consumption": "11.3-11.4 L/100 km NEDC combined, depending on transmission",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M112.946 is the 3.2-litre naturally aspirated light-alloy V6 documented for the European C 320 Estate S 203, with three valves per cylinder, one overhead camshaft per bank, manifold injection and a duplex chain.",
+        "issues": "The archive is a factory specification, so no recurring-fault or service-life claim is added; the exact vehicle and maintenance history still require inspection.",
+        "pros": "The manufacturer archive ties the exact engine type and model designation directly to power, torque and their engine speeds.",
+        "cons": "The stored figures cover the documented C 320 Estate 203.264 specification, not every M112 application or calibration."
+      },
+      "es": {
+        "construction": "M112.946 es el V6 atmosférico de aleación ligera y 3,2 litros documentado para el C 320 Estate S 203 europeo, con tres válvulas por cilindro, un árbol de levas por bancada, inyección en colector y cadena dúplex.",
+        "issues": "El archivo es una especificación de fábrica, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el vehículo exacto y su mantenimiento.",
+        "pros": "El archivo del fabricante vincula el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas cubren la especificación documentada del C 320 Estate 203.264, no todas las aplicaciones o calibraciones M112."
+      },
+      "fr": {
+        "construction": "Le M112.946 est le V6 atmosphérique 3,2 litres à bloc léger documenté pour le C 320 Estate S 203 européen, avec trois soupapes par cylindre, un arbre à cames par banc, injection dans le collecteur et chaîne duplex.",
+        "issues": "L'archive est une fiche usine ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le véhicule précis ainsi que son entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées couvrent la spécification documentée du C 320 Estate 203.264, pas toutes les applications ou calibrations M112."
+      },
+      "de": {
+        "construction": "Der M112.946 ist der für das europäische C 320 T-Modell S 203 dokumentierte 3,2-Liter-Leichtmetall-Saug-V6 mit drei Ventilen je Zylinder, einer obenliegenden Nockenwelle je Bank, Saugrohreinspritzung und Duplexkette.",
+        "issues": "Das Archiv ist eine Werksspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Fahrzeug sowie Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten für das dokumentierte C 320 T-Modell 203.264 und nicht für jede M112-Anwendung oder Abstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 160,
+        "max": 160,
+        "rpm": {
+          "min": 5700,
+          "max": 5700
+        }
+      },
+      "torqueNm": {
+        "min": 310,
+        "max": 310,
+        "rpm": {
+          "min": 3000,
+          "max": 4600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "C 320 T-Modell",
+          "publisher": "Mercedes-Benz AG",
+          "year": 2001,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/de/instance/ko/C-320-T-Modell.xhtml?oid=5574",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 112 E 32 / 112.946 in C 320 Estate S 203 model 203.264, main-series January 2001-March 2004. It lists a 3,199 cc 90-degree light-alloy V6, manifold injection, one overhead camshaft per bank, duplex chain, 160 kW at 5,700 rpm and 310 N-m from 3,000 to 4,600 rpm. The 11.3 and 11.4 L/100 km NEDC combined values apply to the automatic and manual specifications respectively."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m272-966",
+    "code": "M272.966",
+    "aliases": [
+      "M 272 E 35",
+      "272.966"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "2006-2008 main-series Mercedes-Benz SL 350 R 230 (Europe)",
+    "displacement": "3.5 L · 3,498 cc",
+    "layout": "90° V6 · DOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz SL 350 R 230 / 230.456 (Europe, main-series February 2006-February 2008)"
+    ],
+    "consumption": "10.3 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M272.966 is the 3.5-litre naturally aspirated light-alloy V6 documented for the European SL 350 R 230, with four valves per cylinder, two variable overhead camshafts per bank, manifold injection and chain-driven intake camshafts.",
+        "issues": "The archive is a factory specification, so no recurring-fault or service-life claim is added; the exact vehicle and maintenance history still require inspection.",
+        "pros": "The manufacturer archive ties the exact engine type and model designation directly to power, torque and their engine speeds.",
+        "cons": "The stored figures cover the documented SL 350 230.456 specification, not every M272 application or calibration."
+      },
+      "es": {
+        "construction": "M272.966 es el V6 atmosférico de aleación ligera y 3,5 litros documentado para el SL 350 R 230 europeo, con cuatro válvulas por cilindro, dos árboles variables por bancada, inyección en colector y árboles de admisión por cadena.",
+        "issues": "El archivo es una especificación de fábrica, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el vehículo exacto y su mantenimiento.",
+        "pros": "El archivo del fabricante vincula el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas cubren la especificación documentada del SL 350 230.456, no todas las aplicaciones o calibraciones M272."
+      },
+      "fr": {
+        "construction": "Le M272.966 est le V6 atmosphérique 3,5 litres à bloc léger documenté pour le SL 350 R 230 européen, avec quatre soupapes par cylindre, deux arbres variables par banc, injection dans le collecteur et arbres d'admission entraînés par chaîne.",
+        "issues": "L'archive est une fiche usine ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le véhicule précis ainsi que son entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées couvrent la spécification documentée du SL 350 230.456, pas toutes les applications ou calibrations M272."
+      },
+      "de": {
+        "construction": "Der M272.966 ist der für den europäischen SL 350 R 230 dokumentierte 3,5-Liter-Leichtmetall-Saug-V6 mit vier Ventilen je Zylinder, zwei verstellbaren Nockenwellen je Bank, Saugrohreinspritzung und kettengetriebenen Einlassnockenwellen.",
+        "issues": "Das Archiv ist eine Werksspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Fahrzeug sowie Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten für den dokumentierten SL 350 230.456 und nicht für jede M272-Anwendung oder Abstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 200,
+        "max": 200,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 350,
+        "max": 350,
+        "rpm": {
+          "min": 2400,
+          "max": 5000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "SL 350",
+          "publisher": "Mercedes-Benz AG",
+          "year": 2006,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/de/instance/ko/SL-350.xhtml?oid=2461794",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 272 E 35 / 272.966 in SL 350 R 230 model 230.456, main-series February 2006-February 2008. It lists a 3,498 cc 90-degree light-alloy V6, manifold injection, two variable overhead camshafts per bank, duplex-chain intake-cam drive, 200 kW at 6,000 rpm and 350 N-m from 2,400 to 5,000 rpm; NEDC combined consumption is 10.3 L/100 km."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m156",
+    "code": "M156",
+    "aliases": [
+      "M 156",
+      "AMG 6.3-litre V8"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "2007-version / early-2008 launch Mercedes-Benz C 63 AMG Estate S 204 (Europe)",
+    "displacement": "6.2 L · 6,208 cc",
+    "layout": "V8",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Mercedes-Benz C 63 AMG Estate S 204 (Europe, 2007 version / early-2008 launch)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M156 is the 6,208 cc naturally aspirated AMG V8 with manifold injection documented for the European C 63 AMG Estate S 204 at its early-2008 launch.",
+        "issues": "The archive pages are factory specifications, so no recurring-fault or service-life claim is added; the exact vehicle and maintenance history still require inspection.",
+        "pros": "Two manufacturer archive pages connect the M156 code and C 63 AMG Estate application with the exact engine-only power, torque and rpm figures.",
+        "cons": "The stored figures cover the documented C 63 AMG Estate S 204 launch specification, not every M156 application or later version."
+      },
+      "es": {
+        "construction": "M156 es el V8 AMG atmosférico de 6.208 cc con inyección en colector documentado para el C 63 AMG Estate S 204 europeo en su lanzamiento de comienzos de 2008.",
+        "issues": "Las páginas de archivo son especificaciones de fábrica, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el vehículo exacto y su mantenimiento.",
+        "pros": "Dos páginas del archivo del fabricante conectan el código M156 y el C 63 AMG Estate con la potencia, el par y los regímenes exactos del motor.",
+        "cons": "Las cifras guardadas cubren la especificación de lanzamiento documentada del C 63 AMG Estate S 204, no todas las aplicaciones o versiones M156."
+      },
+      "fr": {
+        "construction": "Le M156 est le V8 AMG atmosphérique de 6 208 cm³ à injection dans le collecteur documenté pour le C 63 AMG Estate S 204 européen lors de son lancement début 2008.",
+        "issues": "Les pages d'archive sont des fiches usine ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le véhicule précis ainsi que son entretien doivent être contrôlés.",
+        "pros": "Deux pages d'archive constructeur relient le code M156 et le C 63 AMG Estate aux valeurs exactes de puissance, couple et régimes du moteur.",
+        "cons": "Les valeurs enregistrées couvrent la spécification de lancement documentée du C 63 AMG Estate S 204, pas toutes les applications ou versions M156."
+      },
+      "de": {
+        "construction": "Der M156 ist der für das europäische C 63 AMG T-Modell S 204 zum Marktstart Anfang 2008 dokumentierte 6.208-cm³-AMG-Saug-V8 mit Saugrohreinspritzung.",
+        "issues": "Die Archivseiten sind Werksspezifikationen; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Fahrzeug sowie Wartungshistorie müssen geprüft werden.",
+        "pros": "Zwei Herstellerarchivseiten verbinden den Code M156 und das C 63 AMG T-Modell mit den genauen Motorwerten für Leistung, Drehmoment und Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten für die dokumentierte Markteinführung des C 63 AMG T-Modells S 204 und nicht für jede M156-Anwendung oder spätere Version."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 336,
+        "max": 336,
+        "rpm": {
+          "min": 6800,
+          "max": 6800
+        }
+      },
+      "torqueNm": {
+        "min": 600,
+        "max": 600,
+        "rpm": {
+          "min": 5000,
+          "max": 5000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "204 series C-Class Estates, 2007-2011",
+          "publisher": "Mercedes-Benz AG",
+          "year": 2008,
+          "url": "https://mercedes-benz-archive.com/marsClassic/en/instance/ko/204-series-C-Class-Estates-2007---2011.xhtml?oid=453328",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "aliases",
+            "applications",
+            "years",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official series archive says the C 63 AMG Estate launched in early 2008 with the naturally aspirated AMG 6.3-litre V8, rated 336 kW at 6,800 rpm and 600 N-m at 5,000 rpm. The alias supplies the same-source identity required for the performance claim; the separate official image record supplies the exact M156 code and 6,208 cc displacement."
+          ]
+        },
+        {
+          "type": "manufacturer",
+          "title": "C 63 AMG Estate - S 204",
+          "publisher": "Mercedes-Benz AG",
+          "year": 2007,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/picture/C-63-AMG-Estate---S-204.xhtml?oid=34580684",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "injectionKey",
+            "performance.powerKw"
+          ],
+          "pageNotes": [
+            "The official image caption identifies the 2007-version C 63 AMG Estate S 204 with V8 petrol engine M156, manifold injection, 6,208 cc and 336 kW. It establishes the exact code-to-application mapping; torque and both rpm boundaries come from the official series archive source above."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om613-961",
+    "code": "OM613.961",
+    "aliases": [
+      "OM 613 DE 32 LA",
+      "613.961"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1999-2002 main-series Mercedes-Benz S 320 CDI W 220",
+    "displacement": "3.2 L · 3,222 cc",
+    "layout": "I6 · DOHC · 24V",
+    "fuelKey": "diesel",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "commonRail",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 320 CDI W 220 / 220.026 (Europe, main-series November 1999-August 2002)"
+    ],
+    "consumption": "8.0 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM613.961 is the 3.2 L · 3,222 cc I6 · DOHC · 24V specification documented for the S 320 CDI W 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the S 320 CDI 220.026 main-series specification, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM613.961 corresponde a la especificación I6 · DOHC · 24V de 3.2 L · 3,222 cc documentada para el modelo S 320 CDI W 220; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación principal S 320 CDI 220.026, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "OM613.961 correspond à la spécification I6 · DOHC · 24V de 3.2 L · 3,222 cc documentée pour le modèle S 320 CDI W 220; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification de série S 320 CDI 220.026, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM613.961 ist die für das Modell S 320 CDI W 220 dokumentierte 3.2 L · 3,222 cc-I6 · DOHC · 24V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Hauptserien-Spezifikation des S 320 CDI 220.026 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 145,
+        "max": 145,
+        "rpm": {
+          "min": 4200,
+          "max": 4200
+        }
+      },
+      "torqueNm": {
+        "min": 470,
+        "max": 470,
+        "rpm": {
+          "min": 1800,
+          "max": 2600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 320 CDI",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1999,
+          "url": "https://mercedes-benz-archive.com/marsClassic/en/instance/ko/S-320-CDI--W-220-DE-32-LA-1999---2002.xhtml?oid=4960",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies OM 613 DE 32 LA / 613.961 in S 320 CDI model 220.026, main-series November 1999-August 2002. It specifies a 3,222 cc inline-six common-rail direct-injection turbodiesel with intercooling, four valves per cylinder, two overhead camshafts, duplex chain, 145 kW at 4,200 rpm, 470 N-m from 1,800 to 2,600 rpm and 8.0 L/100 km NEDC combined."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m112-944",
+    "code": "M112.944",
+    "aliases": [
+      "112.944"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1998-2002 main-series Mercedes-Benz S 320 W 220",
+    "displacement": "3.2 L · 3,199 cc",
+    "layout": "90° V6 · SOHC · 18V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 320 W 220 / 220.065 (Europe, main-series July 1998-August 2002)"
+    ],
+    "consumption": "11.5 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M112.944 is the 3.2 L · 3,199 cc 90° V6 · SOHC · 18V specification documented for the S 320 W 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the S 320 220.065 main-series specification, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M112.944 corresponde a la especificación 90° V6 · SOHC · 18V de 3.2 L · 3,199 cc documentada para el modelo S 320 W 220; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación principal S 320 220.065, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M112.944 correspond à la spécification 90° V6 · SOHC · 18V de 3.2 L · 3,199 cc documentée pour le modèle S 320 W 220; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification de série S 320 220.065, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M112.944 ist die für das Modell S 320 W 220 dokumentierte 3.2 L · 3,199 cc-90° V6 · SOHC · 18V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Hauptserien-Spezifikation des S 320 220.065 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 165,
+        "max": 165,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 315,
+        "max": 315,
+        "rpm": {
+          "min": 3000,
+          "max": 4800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 320",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1998,
+          "url": "https://mercedes-benz-archive.com/marsClassic/en/instance/ko/S-320--W-220-E-32-1998---2002.xhtml?oid=4965",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 112 E 32 / 112.944 in S 320 model 220.065, main-series July 1998-August 2002. It specifies a 3,199 cc 90-degree light-alloy V6 with three valves per cylinder, one overhead camshaft per bank, manifold injection, duplex chain, 165 kW at 5,600 rpm, 315 N-m from 3,000 to 4,800 rpm and 11.5 L/100 km NEDC combined."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m113-941",
+    "code": "M113.941",
+    "aliases": [
+      "M 113 E 43",
+      "113.941"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1998-2002 main-series Mercedes-Benz S 430 W 220",
+    "displacement": "4.3 L · 4,266 cc",
+    "layout": "90° V8 · SOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 430 W 220 / 220.070 (Europe, main-series September 1998-August 2002)"
+    ],
+    "consumption": "12.3 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M113.941 is the 4.3 L · 4,266 cc 90° V8 · SOHC · 24V specification documented for the S 430 W 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the S 430 220.070 main-series specification, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M113.941 corresponde a la especificación 90° V8 · SOHC · 24V de 4.3 L · 4,266 cc documentada para el modelo S 430 W 220; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación principal S 430 220.070, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M113.941 correspond à la spécification 90° V8 · SOHC · 24V de 4.3 L · 4,266 cc documentée pour le modèle S 430 W 220; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification de série S 430 220.070, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M113.941 ist die für das Modell S 430 W 220 dokumentierte 4.3 L · 4,266 cc-90° V8 · SOHC · 24V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Hauptserien-Spezifikation des S 430 220.070 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 205,
+        "max": 205,
+        "rpm": {
+          "min": 5750,
+          "max": 5750
+        }
+      },
+      "torqueNm": {
+        "min": 400,
+        "max": 400,
+        "rpm": {
+          "min": 3000,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 430",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1998,
+          "url": "https://mercedes-benz-archive.com/marsClassic/en/instance/ko/S-430--W-220-E-43-1998---2002.xhtml?oid=4958",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 113 E 43 / 113.941 in S 430 model 220.070, main-series September 1998-August 2002. It specifies a 4,266 cc 90-degree light-alloy V8 with three valves per cylinder, one overhead camshaft per bank, manifold injection, duplex chain, 205 kW at 5,750 rpm, 400 N-m from 3,000 to 4,400 rpm and 12.3 L/100 km NEDC combined."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m113-960",
+    "code": "M113.960",
+    "aliases": [
+      "M 113 E 50",
+      "113.960"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1998-2002 main-series Mercedes-Benz S 500 W 220",
+    "displacement": "5.0 L · 4,966 cc",
+    "layout": "90° V8 · SOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 500 W 220 / 220.075 (Europe, main-series September 1998-August 2002)"
+    ],
+    "consumption": "13.4 L/100 km NEDC combined without cylinder shutoff",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M113.960 is the 5.0 L · 4,966 cc 90° V8 · SOHC · 24V specification documented for the S 500 W 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the standard S 500 220.075 specification without cylinder shutoff, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M113.960 corresponde a la especificación 90° V8 · SOHC · 24V de 5.0 L · 4,966 cc documentada para el modelo S 500 W 220; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación estándar S 500 220.075 sin desconexión de cilindros, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M113.960 correspond à la spécification 90° V8 · SOHC · 24V de 5.0 L · 4,966 cc documentée pour le modèle S 500 W 220; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification standard S 500 220.075 sans désactivation des cylindres, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M113.960 ist die für das Modell S 500 W 220 dokumentierte 5.0 L · 4,966 cc-90° V8 · SOHC · 24V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Standard-Spezifikation des S 500 220.075 ohne Zylinderabschaltung und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 225,
+        "max": 225,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 460,
+        "max": 460,
+        "rpm": {
+          "min": 2700,
+          "max": 4200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 500",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1998,
+          "url": "https://mercedes-benz-archive.com/marsClassic/en/instance/ko/S-500--W-220-E-501-998---2002.xhtml?oid=4959",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 113 E 50 / 113.960 in S 500 model 220.075, main-series September 1998-August 2002. The standard specification is a 4,966 cc 90-degree light-alloy V8 with three valves per cylinder, one overhead camshaft per bank, manifold injection, duplex chain, 225 kW at 5,600 rpm, 460 N-m from 2,700 to 4,200 rpm and 13.4 L/100 km NEDC combined. The optional cylinder-shutoff output and consumption values are excluded."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m137-970",
+    "code": "M137.970",
+    "aliases": [
+      "M 137 E 58",
+      "137.970"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "2000-2002 main-series Mercedes-Benz S 600 long V 220",
+    "displacement": "5.8 L · 5,786 cc",
+    "layout": "60° V12 · SOHC · 36V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 600 long V 220 / 220.178 (Europe, main-series January 2000-August 2002)"
+    ],
+    "consumption": "13.4 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M137.970 is the 5.8 L · 5,786 cc 60° V12 · SOHC · 36V specification documented for the S 600 long V 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the S 600 long 220.178 main-series specification, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M137.970 corresponde a la especificación 60° V12 · SOHC · 36V de 5.8 L · 5,786 cc documentada para el modelo S 600 de batalla larga V 220; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación principal S 600 largo 220.178, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M137.970 correspond à la spécification 60° V12 · SOHC · 36V de 5.8 L · 5,786 cc documentée pour le modèle S 600 à empattement long V 220; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification de série S 600 longue 220.178, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M137.970 ist die für das Modell S 600 mit langem Radstand V 220 dokumentierte 5.8 L · 5,786 cc-60° V12 · SOHC · 36V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Hauptserien-Spezifikation des S 600 lang 220.178 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 270,
+        "max": 270,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 530,
+        "max": 530,
+        "rpm": {
+          "min": 4250,
+          "max": 4250
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 600 long wheelbase",
+          "publisher": "Mercedes-Benz AG",
+          "year": 2000,
+          "url": "https://mercedes-benz-archive.com/marsClassic/en/instance/ko/S-600-long-wheelbase--V-220-E-58-2000--2002.xhtml?oid=4962",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 137 E 58 / 137.970 in S 600 long model 220.178, main-series January 2000-August 2002. It specifies a 5,786 cc 60-degree light-alloy V12 with three valves per cylinder, one adjustable overhead camshaft per bank, manifold injection, duplex chain, 270 kW at 5,500 rpm, 530 N-m at 4,250 rpm and 13.4 L/100 km NEDC combined."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om628-960",
+    "code": "OM628.960",
+    "aliases": [
+      "OM 628 DE 40 LA",
+      "628.960"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "2000-2002 main-series Mercedes-Benz S 400 CDI W 220",
+    "displacement": "4.0 L · 3,996 cc",
+    "layout": "75° V8 · SOHC · 32V",
+    "fuelKey": "diesel",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "commonRail",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 400 CDI W 220 / 220.028 (Europe, main-series July 2000-August 2002)"
+    ],
+    "consumption": "9.6 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM628.960 is the 4.0 L · 3,996 cc 75° V8 · SOHC · 32V specification documented for the S 400 CDI W 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the S 400 CDI 220.028 main-series specification, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM628.960 corresponde a la especificación 75° V8 · SOHC · 32V de 4.0 L · 3,996 cc documentada para el modelo S 400 CDI W 220; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación principal S 400 CDI 220.028, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "OM628.960 correspond à la spécification 75° V8 · SOHC · 32V de 4.0 L · 3,996 cc documentée pour le modèle S 400 CDI W 220; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification de série S 400 CDI 220.028, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM628.960 ist die für das Modell S 400 CDI W 220 dokumentierte 4.0 L · 3,996 cc-75° V8 · SOHC · 32V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Hauptserien-Spezifikation des S 400 CDI 220.028 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 184,
+        "max": 184,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      },
+      "torqueNm": {
+        "min": 560,
+        "max": 560,
+        "rpm": {
+          "min": 1800,
+          "max": 2600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 400 CDI",
+          "publisher": "Mercedes-Benz AG",
+          "year": 2000,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/S-400-CDI--W-220-DE-40-LA-2000---2002.xhtml?oid=4966",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies OM 628 DE 40 LA / 628.960 in S 400 CDI model 220.028, main-series July 2000-August 2002. It specifies a 3,996 cc 75-degree light-alloy V8 common-rail direct-injection turbodiesel with intercooling, four valves per cylinder, one overhead camshaft per bank, duplex chain, 184 kW at 4,000 rpm, 560 N-m from 1,800 to 2,600 rpm and 9.6 L/100 km NEDC combined."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m112-922",
+    "code": "M112.922",
+    "aliases": [
+      "M 112 E 28",
+      "112.922"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1998-2002 main-series Mercedes-Benz S 280 W 220",
+    "displacement": "2.8 L · 2,799 cc",
+    "layout": "90° V6 · SOHC · 18V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 280 W 220 / 220.063 (selected markets, main-series December 1998-August 2002; not offered in Germany)"
+    ],
+    "consumption": "11.1 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M112.922 is the 2.8 L · 2,799 cc 90° V6 · SOHC · 18V specification documented for the S 280 W 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the selected-market S 280 220.063 main-series specification, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M112.922 corresponde a la especificación 90° V6 · SOHC · 18V de 2.8 L · 2,799 cc documentada para el modelo S 280 W 220; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación principal S 280 220.063 para mercados seleccionados, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M112.922 correspond à la spécification 90° V6 · SOHC · 18V de 2.8 L · 2,799 cc documentée pour le modèle S 280 W 220; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification de série S 280 220.063 destinée à certains marchés, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M112.922 ist die für das Modell S 280 W 220 dokumentierte 2.8 L · 2,799 cc-90° V6 · SOHC · 18V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Hauptserien-Spezifikation des S 280 220.063 für ausgewählte Märkte und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 150,
+        "max": 150,
+        "rpm": {
+          "min": 5700,
+          "max": 5700
+        }
+      },
+      "torqueNm": {
+        "min": 270,
+        "max": 270,
+        "rpm": {
+          "min": 3000,
+          "max": 5000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 280",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1998,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/S-280--W-220-E-281998---2002.xhtml?oid=4977",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 112 E 28 / 112.922 in S 280 model 220.063, main-series December 1998-August 2002, and notes that this model was not available in Germany. It specifies a 2,799 cc 90-degree light-alloy V6 with three valves per cylinder, one overhead camshaft per bank, manifold injection, duplex chain, 150 kW at 5,700 rpm, 270 N-m from 3,000 to 5,000 rpm and 11.1 L/100 km NEDC combined."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m113-986",
+    "code": "M113.986",
+    "aliases": [
+      "M 113 E 55",
+      "113.986"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1999-2002 Mercedes-Benz S 55 AMG W 220",
+    "displacement": "5.4 L · 5,439 cc",
+    "layout": "90° V8 · SOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 55 AMG W 220 / 220.075, from August 2000: 220.073 (Europe, March 1999-August 2002; complete Mercedes-Benz vehicle from September 2000)"
+    ],
+    "consumption": "13.4 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M113.986 is the 5.4 L · 5,439 cc 90° V8 · SOHC · 24V specification documented for the naturally aspirated S 55 AMG W 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the naturally aspirated S 55 AMG 220.073/220.075 specification through August 2002, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M113.986 corresponde a la especificación 90° V8 · SOHC · 24V de 5.4 L · 5,439 cc documentada para el modelo S 55 AMG W 220 con motor atmosférico; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación atmosférica S 55 AMG 220.073/220.075 hasta agosto de 2002, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M113.986 correspond à la spécification 90° V8 · SOHC · 24V de 5.4 L · 5,439 cc documentée pour le modèle S 55 AMG W 220 à moteur atmosphérique; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification atmosphérique S 55 AMG 220.073/220.075 jusqu'en août 2002, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M113.986 ist die für das Modell S 55 AMG W 220 mit Saugmotor dokumentierte 5.4 L · 5,439 cc-90° V8 · SOHC · 24V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Saugmotor-Spezifikation des S 55 AMG 220.073/220.075 bis August 2002 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 265,
+        "max": 265,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 530,
+        "max": 530,
+        "rpm": {
+          "min": 3150,
+          "max": 4500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 55 AMG",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1999,
+          "url": "https://mercedes-benz-archive.com/marsClassic/en/instance/ko/S-55-AMG--W-220-E-55-1999---2002.xhtml?oid=4968",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies naturally aspirated M 113 E 55 / 113.986 in S 55 AMG model 220.075, from August 2000 model 220.073, with production March 1999-August 2002 and complete-vehicle marketing by Mercedes-Benz from September 2000. It specifies 5,439 cc, a 90-degree light-alloy V8, three valves per cylinder, one overhead camshaft per bank, manifold injection, duplex chain, 265 kW at 5,500 rpm, 530 N-m from 3,150 to 4,500 rpm and 13.4 L/100 km NEDC combined. Later supercharged M113 calibrations are excluded.",
+            "The archive lists chassis type 220.075 before August 2000 and 220.073 from August 2000; complete-vehicle marketing by Mercedes-Benz starts separately in September 2000. Both chassis identities share the stored 113.986 rating."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m137-980",
+    "code": "M137.980",
+    "aliases": [
+      "M 137 E 63 AMG",
+      "137.980"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "2001-2002 Mercedes-Benz S 63 AMG long V 220",
+    "displacement": "6.3 L · 6,258 cc",
+    "layout": "60° V12 · SOHC · 36V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 63 AMG long V 220 / 220.178 (Europe, September 2001-2002)"
+    ],
+    "consumption": "14.1 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M137.980 is the 6.3 L · 6,258 cc 60° V12 · SOHC · 36V specification documented for the S 63 AMG long V 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the S 63 AMG long 220.178 specification, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M137.980 corresponde a la especificación 60° V12 · SOHC · 36V de 6.3 L · 6,258 cc documentada para el modelo S 63 AMG de batalla larga V 220; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación S 63 AMG largo 220.178, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M137.980 correspond à la spécification 60° V12 · SOHC · 36V de 6.3 L · 6,258 cc documentée pour le modèle S 63 AMG à empattement long V 220; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification S 63 AMG longue 220.178, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M137.980 ist die für das Modell S 63 AMG mit langem Radstand V 220 dokumentierte 6.3 L · 6,258 cc-60° V12 · SOHC · 36V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Spezifikation des S 63 AMG lang 220.178 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 326,
+        "max": 326,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 620,
+        "max": 620,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 63 AMG long wheelbase",
+          "publisher": "Mercedes-Benz AG",
+          "year": 2001,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/S-63-AMG-long-wheelbase--V-220-E-63-2001---2002.xhtml?oid=191377590",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 137 E 63 AMG / 137.980 in S 63 AMG long model 220.178, September 2001-2002. It specifies a 6,258 cc 60-degree light-alloy V12 with three valves per cylinder, one adjustable overhead camshaft per bank, manifold injection, duplex chain, 326 kW at 5,500 rpm, 620 N-m at 4,400 rpm and 14.1 L/100 km NEDC combined."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om603-971",
+    "code": "OM603.971",
+    "aliases": [
+      "OM 603 D 35 A",
+      "603.971"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1991-1994 main-series Mercedes-Benz 300 SD / S 350 Turbodiesel W 140",
+    "displacement": "3.4 L · 3,449 cc",
+    "layout": "I6 · SOHC · 12V",
+    "fuelKey": "diesel",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 300 SD / S 350 Turbodiesel W 140 / 140.134 (North America through August 1992; additional markets later; main-series October 1991-March 1994)"
+    ],
+    "consumption": "7.7 / 9.7 / 11.7 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM603.971 is the 3.4 L · 3,449 cc I6 · SOHC · 12V specification documented for the 300 SD / S 350 Turbodiesel W 140; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the 140.134 main-series specification and its documented market boundary, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM603.971 corresponde a la especificación I6 · SOHC · 12V de 3.4 L · 3,449 cc documentada para el modelo 300 SD / S 350 Turbodiesel W 140; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación principal 140.134 y su límite de mercado documentado, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "OM603.971 correspond à la spécification I6 · SOHC · 12V de 3.4 L · 3,449 cc documentée pour le modèle 300 SD / S 350 Turbodiesel W 140; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification de série 140.134 et sa limite de marché documentée, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM603.971 ist die für das Modell 300 SD / S 350 Turbodiesel W 140 dokumentierte 3.4 L · 3,449 cc-I6 · SOHC · 12V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Hauptserien-Spezifikation 140.134 und ihre dokumentierte Marktgrenze und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 110,
+        "max": 110,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      },
+      "torqueNm": {
+        "min": 310,
+        "max": 310,
+        "rpm": {
+          "min": 2000,
+          "max": 2000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 SD; from 06.1993: S 350 Turbodiesel",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1991,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-SD-from-061993-S-350-Turbodiesel--W-140-D-35-A-1991---1994.xhtml?oid=4929",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies OM 603 D 35 A / 603.971 in 300 SD / S 350 Turbodiesel model 140.134, main-series October 1991-March 1994, and notes that it was North-America-only through August 1992. It specifies a 3,449 cc inline-six with mechanical indirect injection, exhaust turbocharger, two valves per cylinder, one overhead camshaft, duplex chain, 110 kW at 4,000 rpm and 310 N-m at 2,000 rpm. Consumption is 7.7 / 9.7 / 11.7 L/100 km for 90 km/h / 120 km/h / urban cycle under 80/1268/EEC."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m104-944",
+    "code": "M104.944",
+    "aliases": [
+      "M 104 E 28",
+      "104.944"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1993-1994 main-series Mercedes-Benz 300 SE 2.8 / S 280 W 140",
+    "displacement": "2.8 L · 2,799 cc",
+    "layout": "I6 · DOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 300 SE 2.8 / S 280 W 140 / 140.028 (Europe, main-series January 1993-March 1994)"
+    ],
+    "consumption": "8.6 / 10.6 / 15.6 L/100 km at 90 km/h / 120 km/h / urban cycle (manual)",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M104.944 is the 2.8 L · 2,799 cc I6 · DOHC · 24V specification documented for the 300 SE 2.8 / S 280 W 140; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the 140.028 main-series specification, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M104.944 corresponde a la especificación I6 · DOHC · 24V de 2.8 L · 2,799 cc documentada para el modelo 300 SE 2.8 / S 280 W 140; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación principal 140.028, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M104.944 correspond à la spécification I6 · DOHC · 24V de 2.8 L · 2,799 cc documentée pour le modèle 300 SE 2.8 / S 280 W 140; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification de série 140.028, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M104.944 ist die für das Modell 300 SE 2.8 / S 280 W 140 dokumentierte 2.8 L · 2,799 cc-I6 · DOHC · 24V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Hauptserien-Spezifikation 140.028 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 142,
+        "max": 142,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 270,
+        "max": 270,
+        "rpm": {
+          "min": 3750,
+          "max": 3750
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 SE 2.8; from 06.1993: S 280",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1993,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-SE-28-from-061993-S-280--W-140-E-28-1993---1994.xhtml?oid=4926",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 104 E 28 / 104.944 in 300 SE 2.8 / S 280 model 140.028, main-series January 1993-March 1994. It specifies a 2,799 cc inline-six with four valves per cylinder, two overhead camshafts, manifold injection, duplex chain, 142 kW at 5,500 rpm and 270 N-m at 3,750 rpm. The stored 8.6 / 10.6 / 15.6 L/100 km values are the manual-transmission 90 km/h / 120 km/h / urban cycle figures under 80/1268/EEC."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m104-990",
+    "code": "M104.990",
+    "aliases": [
+      "104.990"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1991-1993 Mercedes-Benz 300 SE / S 320 W 140 before June 1993",
+    "displacement": "3.2 L · 3,199 cc",
+    "layout": "I6 · DOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 300 SE / S 320 W 140 / 140.032 (Europe, main-series April 1991-May 1993)"
+    ],
+    "consumption": "10.3 / 12.3 / 15.8 L/100 km at 90 km/h / 120 km/h / urban cycle (4-speed automatic)",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M104.990 is the 3.2 L · 3,199 cc I6 · DOHC · 24V specification documented for the 300 SE / S 320 W 140 before June 1993; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the 140.032 M104.990 specification before the June 1993 engine change, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M104.990 corresponde a la especificación I6 · DOHC · 24V de 3.2 L · 3,199 cc documentada para el modelo 300 SE / S 320 W 140 antes de junio de 1993; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación 140.032 M104.990 anterior al cambio de motor de junio de 1993, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M104.990 correspond à la spécification I6 · DOHC · 24V de 3.2 L · 3,199 cc documentée pour le modèle 300 SE / S 320 W 140 avant juin 1993; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification 140.032 M104.990 antérieure au changement moteur de juin 1993, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M104.990 ist die für das Modell 300 SE / S 320 W 140 vor Juni 1993 dokumentierte 3.2 L · 3,199 cc-I6 · DOHC · 24V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die 140.032-M104.990-Spezifikation vor dem Motorwechsel im Juni 1993 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 170,
+        "max": 170,
+        "rpm": {
+          "min": 5800,
+          "max": 5800
+        }
+      },
+      "torqueNm": {
+        "min": 310,
+        "max": 310,
+        "rpm": {
+          "min": 4100,
+          "max": 4100
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 SE; from 06.1993: S 320",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1991,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-SE-from-061993-S-320--W-140-E-32-1991---1994.xhtml?oid=4928",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 104 E 32 / 104.990 in 300 SE / S 320 model 140.032 before June 1993, with main-series production starting April 1991. For 104.990 it specifies 3,199 cc, inline-six, four valves per cylinder, two overhead camshafts, manifold injection, duplex chain, 170 kW at 5,800 rpm and 310 N-m at 4,100 rpm. The stored 10.3 / 12.3 / 15.8 L/100 km values are the pre-June-1993 four-speed-automatic 90 km/h / 120 km/h / urban figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m104-994",
+    "code": "M104.994",
+    "aliases": [
+      "104.994"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1993-1994 Mercedes-Benz S 320 W 140 from June 1993",
+    "displacement": "3.2 L · 3,199 cc",
+    "layout": "I6 · DOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 320 W 140 / 140.032 (Europe, June 1993-March 1994 within the documented main series)"
+    ],
+    "consumption": "9.6 / 11.6 / 14.5 L/100 km at 90 km/h / 120 km/h / urban cycle (4-speed automatic)",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M104.994 is the 3.2 L · 3,199 cc I6 · DOHC · 24V specification documented for the S 320 W 140 from June 1993; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the 140.032 M104.994 specification from June 1993 through March 1994, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M104.994 corresponde a la especificación I6 · DOHC · 24V de 3.2 L · 3,199 cc documentada para el modelo S 320 W 140 desde junio de 1993; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación 140.032 M104.994 de junio de 1993 a marzo de 1994, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M104.994 correspond à la spécification I6 · DOHC · 24V de 3.2 L · 3,199 cc documentée pour le modèle S 320 W 140 à partir de juin 1993; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification 140.032 M104.994 de juin 1993 à mars 1994, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M104.994 ist die für das Modell S 320 W 140 ab Juni 1993 dokumentierte 3.2 L · 3,199 cc-I6 · DOHC · 24V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die 140.032-M104.994-Spezifikation von Juni 1993 bis März 1994 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 170,
+        "max": 170,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 315,
+        "max": 315,
+        "rpm": {
+          "min": 3750,
+          "max": 3750
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 SE; from 06.1993: S 320",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1993,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-SE-from-061993-S-320--W-140-E-32-1991---1994.xhtml?oid=4928",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies the successor engine type 104.994 from June 1993 in S 320 model 140.032 and ties the same change boundary to revised ratings. For 104.994 it specifies 3,199 cc, inline-six, four valves per cylinder, two overhead camshafts, manifold injection, duplex chain, 170 kW at 5,600 rpm and 315 N-m at 3,750 rpm. The stored 9.6 / 11.6 / 14.5 L/100 km values are the from-June-1993 four-speed-automatic 90 km/h / 120 km/h / urban figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m119-971",
+    "code": "M119.971",
+    "aliases": [
+      "M 119 E 42",
+      "119.971"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1991-1994 main-series Mercedes-Benz 400 SE / S 420 W 140",
+    "displacement": "4.2 L · 4,196 cc",
+    "layout": "90° V8 · DOHC · 32V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 400 SE / S 420 W 140 / 140.042 (Europe, main-series April 1991-March 1994)"
+    ],
+    "consumption": "9.7-10.1 / 11.7-12.2 / 16.0-16.7 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M119.971 is the 4.2 L · 4,196 cc 90° V8 · DOHC · 32V specification documented for the 400 SE / S 420 W 140; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the two documented M119.971 calibrations before and from September 1992, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M119.971 corresponde a la especificación 90° V8 · DOHC · 32V de 4.2 L · 4,196 cc documentada para el modelo 400 SE / S 420 W 140; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a las dos calibraciones M119.971 documentadas antes y desde septiembre de 1992, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M119.971 correspond à la spécification 90° V8 · DOHC · 32V de 4.2 L · 4,196 cc documentée pour le modèle 400 SE / S 420 W 140; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement aux deux calibrations M119.971 documentées avant et à partir de septembre 1992, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M119.971 ist die für das Modell 400 SE / S 420 W 140 dokumentierte 4.2 L · 4,196 cc-90° V8 · DOHC · 32V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die beiden dokumentierten M119.971-Abstimmungen vor und ab September 1992 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 205,
+        "max": 210,
+        "rpm": {
+          "min": 5700,
+          "max": 5700
+        }
+      },
+      "torqueNm": {
+        "min": 400,
+        "max": 410,
+        "rpm": {
+          "min": 3900,
+          "max": 3900
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "400 SE; from 06.1993: S 420",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1991,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/400-SE-from-061993-S-420--W-140-E-42-1991---1994.xhtml?oid=4927",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 119 E 42 / 119.971 in 400 SE / S 420 model 140.042, main-series April 1991-March 1994. Before September 1992 it lists 210 kW at 5,700 rpm and 410 N-m at 3,900 rpm; from September 1992 it lists 205 kW at 5,700 rpm and 400 N-m at 3,900 rpm. Those two documented calibrations form the stored ranges. The page also specifies 4,196 cc, a 90-degree light-alloy V8, four valves per cylinder, two overhead camshafts per bank, manifold injection and duplex chain."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m119-970",
+    "code": "M119.970",
+    "aliases": [
+      "M 119 E 50",
+      "119.970"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1991-1994 main-series Mercedes-Benz 500 SE / S 500 W 140",
+    "displacement": "5.0 L · 4,973 cc",
+    "layout": "90° V8 · DOHC · 32V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 500 SE / S 500 W 140 / 140.050 (Europe, main-series April 1991-March 1994)"
+    ],
+    "consumption": "10.0-10.4 / 11.9-12.3 / 17.2-17.9 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M119.970 is the 5.0 L · 4,973 cc 90° V8 · DOHC · 32V specification documented for the 500 SE / S 500 W 140; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the two documented M119.970 calibrations before and from September 1992, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M119.970 corresponde a la especificación 90° V8 · DOHC · 32V de 5.0 L · 4,973 cc documentada para el modelo 500 SE / S 500 W 140; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a las dos calibraciones M119.970 documentadas antes y desde septiembre de 1992, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M119.970 correspond à la spécification 90° V8 · DOHC · 32V de 5.0 L · 4,973 cc documentée pour le modèle 500 SE / S 500 W 140; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement aux deux calibrations M119.970 documentées avant et à partir de septembre 1992, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M119.970 ist die für das Modell 500 SE / S 500 W 140 dokumentierte 5.0 L · 4,973 cc-90° V8 · DOHC · 32V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die beiden dokumentierten M119.970-Abstimmungen vor und ab September 1992 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 235,
+        "max": 240,
+        "rpm": {
+          "min": 5600,
+          "max": 5700
+        }
+      },
+      "torqueNm": {
+        "min": 470,
+        "max": 480,
+        "rpm": {
+          "min": 3900,
+          "max": 3900
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "500 SE; from 06.1993: S 500",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1991,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/500-SE-from-061993-S-500--W-140-E-50-1991---1994.xhtml?oid=4925",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 119 E 50 / 119.970 in 500 SE / S 500 model 140.050, main-series April 1991-March 1994. Before September 1992 it lists 240 kW at 5,700 rpm and 480 N-m at 3,900 rpm; from September 1992 it lists 235 kW at 5,600 rpm and 470 N-m at 3,900 rpm. Those two documented calibrations form the stored ranges. The page also specifies 4,973 cc, a 90-degree light-alloy V8, four valves per cylinder, two overhead camshafts per bank, manifold injection and duplex chain."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m120-980",
+    "code": "M120.980",
+    "aliases": [
+      "M 120 E 60",
+      "120.980"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1991-1994 main-series Mercedes-Benz 600 SE / S 600 W 140",
+    "displacement": "6.0 L · 5,987 cc",
+    "layout": "60° V12 · DOHC · 48V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 600 SE / S 600 W 140 / 140.056 (Europe, main-series April 1991-March 1994)"
+    ],
+    "consumption": "11.8 / 13.7 / 20.7 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M120.980 is the 6.0 L · 5,987 cc 60° V12 · DOHC · 48V specification documented for the 600 SE / S 600 W 140; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the two documented M120.980 calibrations before and from September 1992, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M120.980 corresponde a la especificación 60° V12 · DOHC · 48V de 6.0 L · 5,987 cc documentada para el modelo 600 SE / S 600 W 140; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a las dos calibraciones M120.980 documentadas antes y desde septiembre de 1992, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M120.980 correspond à la spécification 60° V12 · DOHC · 48V de 6.0 L · 5,987 cc documentée pour le modèle 600 SE / S 600 W 140; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement aux deux calibrations M120.980 documentées avant et à partir de septembre 1992, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M120.980 ist die für das Modell 600 SE / S 600 W 140 dokumentierte 6.0 L · 5,987 cc-60° V12 · DOHC · 48V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die beiden dokumentierten M120.980-Abstimmungen vor und ab September 1992 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 290,
+        "max": 300,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      },
+      "torqueNm": {
+        "min": 570,
+        "max": 580,
+        "rpm": {
+          "min": 3800,
+          "max": 3800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "600 SE; from 06.1993: S 600",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1991,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/600-SE-from-061993-S-600--W-140-E-60-1991---1994.xhtml?oid=4933",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 120 E 60 / 120.980 in 600 SE / S 600 model 140.056, main-series April 1991-March 1994. Before September 1992 it lists 300 kW at 5,200 rpm and 580 N-m at 3,800 rpm; from September 1992 it lists 290 kW at 5,200 rpm and 570 N-m at 3,800 rpm. Those two documented calibrations form the stored ranges. The page also specifies 5,987 cc, a 60-degree light-alloy V12, four valves per cylinder, two overhead camshafts per bank, manifold injection and duplex chain."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m117-961",
+    "code": "M117.961",
+    "aliases": [
+      "M 117 E 50",
+      "117.961"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1980-1981 Mercedes-Benz 500 SE W 126 before October 1981",
+    "displacement": "5.0 L · 4,973 cc",
+    "layout": "90° V8 · SOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 500 SE W 126 / 126.036 (Europe, main-series January 1980-September 1981 before the 117.963 change)"
+    ],
+    "consumption": "11.3 / 13.5 / 21.2 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M117.961 is the 5.0 L · 4,973 cc 90° V8 · SOHC · 16V specification documented for the 500 SE W 126 before October 1981; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the 126.036 M117.961 specification before the October 1981 engine change, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M117.961 corresponde a la especificación 90° V8 · SOHC · 16V de 5.0 L · 4,973 cc documentada para el modelo 500 SE W 126 antes de octubre de 1981; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación 126.036 M117.961 anterior al cambio de motor de octubre de 1981, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M117.961 correspond à la spécification 90° V8 · SOHC · 16V de 5.0 L · 4,973 cc documentée pour le modèle 500 SE W 126 avant octobre 1981; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification 126.036 M117.961 antérieure au changement moteur d'octobre 1981, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M117.961 ist die für das Modell 500 SE W 126 vor Oktober 1981 dokumentierte 5.0 L · 4,973 cc-90° V8 · SOHC · 16V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die 126.036-M117.961-Spezifikation vor dem Motorwechsel im Oktober 1981 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 177,
+        "max": 177,
+        "rpm": {
+          "min": 4750,
+          "max": 4750
+        }
+      },
+      "torqueNm": {
+        "min": 404,
+        "max": 404,
+        "rpm": {
+          "min": 3200,
+          "max": 3200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "500 SE",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1980,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/500-SE--W-126-E-50-1980---1985.xhtml?oid=4847",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 117 E 50 / 117.961 in 500 SE model 126.036 before the October 1981 change to 117.963. For 117.961 it specifies main-series January 1980-September 1981, 4,973 cc, a 90-degree light-alloy V8, two valves per cylinder, one overhead camshaft per bank, mechanical manifold injection, duplex chain, 177 kW at 4,750 rpm, 404 N-m at 3,200 rpm and 11.3 / 13.5 / 21.2 L/100 km at 90 km/h / 120 km/h / urban cycle."
+          ]
+        }
+      ]
+    }
+  },
+  {
     "id": "toyota-1zz-fe",
     "code": "1ZZ-FE",
     "aliases": [
@@ -13855,6 +15922,2945 @@ window.AUTOHUB_ENGINE_DATA = {
           "pageNotes": [
             "Official GM Powered Solutions PDF page 1 names 6.0L V-8, LC8; page 2 lists 5967 cc and copyright 2021 General Motors.",
             "Page 2 lists 360 hp (268 kW) at 5,400 rpm and 380 lb-ft (515 Nm) at 4,200 rpm tested in Chevrolet Silverado HD gasoline, 301 hp (225 kW) at 5,000 rpm and 333 lb-ft (452 Nm) at 4,200 rpm tested in Chevrolet Silverado HD CNG, and 332 hp (248 kW) at 4,800 rpm and 370 lb-ft (501 Nm) at 4,400 rpm tested in Chevrolet Express LPG."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-l8p",
+    "code": "L8P",
+    "aliases": [
+      "Chevrolet Performance L8P",
+      "P/N 19541143"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "6.6 L · 400 cu in",
+    "layout": "V8 · Gen V Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "directInjection",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance L8P U.S. crate engine P/N 19541143 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "L8P is the 6.6 L · 400 cu in V8 · Gen V Small-Block documented by Chevrolet Performance with high-pressure direct injection; this record is limited to Chevrolet Performance L8P U.S. crate engine P/N 19541143 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "L8P es el V8 · Gen V Small-Block de 6,6 L · 400 pulgadas cúbicas documentado por Chevrolet Performance con inyección directa de alta presión; esta ficha cubre únicamente Chevrolet Performance L8P (P/N 19541143), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "L8P est le V8 · Gen V Small-Block de 6,6 L · 400 pouces cubes documenté par Chevrolet Performance avec injection directe à haute pression ; cette fiche couvre uniquement Chevrolet Performance L8P (P/N 19541143), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "L8P ist der von Chevrolet Performance dokumentierte Motor (6,6 L · 400 in³; V8 · Gen V Small-Block) mit Hochdruck-Direkteinspritzung; dieser Eintrag gilt ausschließlich für Chevrolet Performance L8P (P/N 19541143) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 390,
+        "max": 390,
+        "rpm": {
+          "min": 5800,
+          "max": 5800
+        }
+      },
+      "torqueNm": {
+        "min": 736,
+        "max": 736,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "L8P Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/lt-engines/l8p-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names L8P and P/N 19541143; it lists 6.6 L · 400 cu in, V8 · Gen V Small-Block, 523 hp at 5,800 rpm and 543 lb-ft at 4,600 rpm. Stored metric values 390 kW and 736 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-lt1-crate",
+    "code": "LT1",
+    "aliases": [
+      "Chevrolet Performance LT1",
+      "P/N 19431953"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "6.2 L · 376 cu in",
+    "layout": "V8 · Gen V Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "directInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance LT1 U.S. crate engine P/N 19431953 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "LT1 is the 6.2 L · 376 cu in V8 · Gen V Small-Block documented by Chevrolet Performance with direct injection; this record is limited to Chevrolet Performance LT1 U.S. crate engine P/N 19431953 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "LT1 es el V8 · Gen V Small-Block de 6,2 L · 376 pulgadas cúbicas documentado por Chevrolet Performance con inyección directa; esta ficha cubre únicamente Chevrolet Performance LT1 (P/N 19431953), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "LT1 est le V8 · Gen V Small-Block de 6,2 L · 376 pouces cubes documenté par Chevrolet Performance avec injection directe ; cette fiche couvre uniquement Chevrolet Performance LT1 (P/N 19431953), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "LT1 ist der von Chevrolet Performance dokumentierte Motor (6,2 L · 376 in³; V8 · Gen V Small-Block) mit Direkteinspritzung; dieser Eintrag gilt ausschließlich für Chevrolet Performance LT1 (P/N 19431953) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 339,
+        "max": 339,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 617,
+        "max": 617,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Chevy LT1 Crate Engines for Sale | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/lt-engines/lt1-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names LT1 and P/N 19431953; it lists 6.2 L · 376 cu in, V8 · Gen V Small-Block, 455 hp at 6,000 rpm and 455 lb-ft at 4,400 rpm. Stored metric values 339 kW and 617 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-ls364-450",
+    "code": "LS364/450 Long Block",
+    "aliases": [
+      "Chevrolet Performance LS364/450 Long Block",
+      "P/N 19434650"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "6.0 L · 364 cu in",
+    "layout": "V8 · Gen III Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "variantDependent",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance LS364/450 Long Block U.S. long block P/N 19434650 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "LS364/450 Long Block is the 6.0 L · 364 cu in V8 · Gen III Small-Block documented by Chevrolet Performance with an LS6 hydraulic-roller camshaft; this record is limited to Chevrolet Performance LS364/450 Long Block U.S. long block P/N 19434650 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "LS364/450 Long Block es el V8 · Gen III Small-Block de 6,0 L · 364 pulgadas cúbicas documentado por Chevrolet Performance con árbol de levas LS6 y taqués hidráulicos de rodillo; esta ficha cubre únicamente Chevrolet Performance LS364/450 Long Block (P/N 19434650), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "LS364/450 Long Block est le V8 · Gen III Small-Block de 6,0 L · 364 pouces cubes documenté par Chevrolet Performance avec arbre à cames LS6 et poussoirs hydrauliques à rouleaux ; cette fiche couvre uniquement Chevrolet Performance LS364/450 Long Block (P/N 19434650), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "LS364/450 Long Block ist der von Chevrolet Performance dokumentierte Motor (6,0 L · 364 in³; V8 · Gen III Small-Block) mit LS6-Nockenwelle und hydraulischen Rollenstößeln; dieser Eintrag gilt ausschließlich für Chevrolet Performance LS364/450 Long Block (P/N 19434650) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 337,
+        "max": 337,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 598,
+        "max": 598,
+        "rpm": {
+          "min": 4800,
+          "max": 4800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "LS3 Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/ls-lsx-engines/ls3-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names LS364/450 Long Block and P/N 19434650; it lists 6.0 L · 364 cu in, V8 · Gen III Small-Block, 452 hp at 5,600 rpm and 441 lb-ft at 4,800 rpm. Stored metric values 337 kW and 598 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-ls376-480",
+    "code": "LS376/480",
+    "aliases": [
+      "Chevrolet Performance LS376/480",
+      "P/N 19540156"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "6.2 L · 376 cu in",
+    "layout": "V8 · Gen IV Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "aluminumLiners",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance LS376/480 U.S. crate engine P/N 19540156 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "LS376/480 is the 6.2 L · 376 cu in V8 · Gen IV Small-Block documented by Chevrolet Performance with an aluminum block and hydraulic-roller camshaft; this record is limited to Chevrolet Performance LS376/480 U.S. crate engine P/N 19540156 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "LS376/480 es el V8 · Gen IV Small-Block de 6,2 L · 376 pulgadas cúbicas documentado por Chevrolet Performance con bloque de aluminio y taqués hidráulicos de rodillo; esta ficha cubre únicamente Chevrolet Performance LS376/480 (P/N 19540156), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "LS376/480 est le V8 · Gen IV Small-Block de 6,2 L · 376 pouces cubes documenté par Chevrolet Performance avec bloc en aluminium et poussoirs hydrauliques à rouleaux ; cette fiche couvre uniquement Chevrolet Performance LS376/480 (P/N 19540156), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "LS376/480 ist der von Chevrolet Performance dokumentierte Motor (6,2 L · 376 in³; V8 · Gen IV Small-Block) mit Aluminiumblock und hydraulischen Rollenstößeln; dieser Eintrag gilt ausschließlich für Chevrolet Performance LS376/480 (P/N 19540156) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 369,
+        "max": 369,
+        "rpm": {
+          "min": 6200,
+          "max": 6200
+        }
+      },
+      "torqueNm": {
+        "min": 641,
+        "max": 641,
+        "rpm": {
+          "min": 5000,
+          "max": 5000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "LS3 Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/ls-lsx-engines/ls3-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names LS376/480 and P/N 19540156; it lists 6.2 L · 376 cu in, V8 · Gen IV Small-Block, 495 hp at 6,200 rpm and 473 lb-ft at 5,000 rpm. Stored metric values 369 kW and 641 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-ls376-515",
+    "code": "LS376/515",
+    "aliases": [
+      "Chevrolet Performance LS376/515",
+      "P/N 19435102"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "6.2 L · 376 cu in",
+    "layout": "V8 · Gen IV Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "aluminumLiners",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance LS376/515 U.S. crate engine P/N 19435102 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "LS376/515 is the 6.2 L · 376 cu in V8 · Gen IV Small-Block documented by Chevrolet Performance in the carburetor-oriented 515 specification; this record is limited to Chevrolet Performance LS376/515 U.S. crate engine P/N 19435102 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "LS376/515 es el V8 · Gen IV Small-Block de 6,2 L · 376 pulgadas cúbicas documentado por Chevrolet Performance en la configuración 515 prevista para carburador; esta ficha cubre únicamente Chevrolet Performance LS376/515 (P/N 19435102), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "LS376/515 est le V8 · Gen IV Small-Block de 6,2 L · 376 pouces cubes documenté par Chevrolet Performance dans la configuration 515 prévue pour un carburateur ; cette fiche couvre uniquement Chevrolet Performance LS376/515 (P/N 19435102), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "LS376/515 ist der von Chevrolet Performance dokumentierte Motor (6,2 L · 376 in³; V8 · Gen IV Small-Block) in der für Vergaser vorgesehenen 515-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance LS376/515 (P/N 19435102) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 397,
+        "max": 397,
+        "rpm": {
+          "min": 6600,
+          "max": 6600
+        }
+      },
+      "torqueNm": {
+        "min": 647,
+        "max": 647,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "LS3 Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/ls-lsx-engines/ls3-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names LS376/515 and P/N 19435102; it lists 6.2 L · 376 cu in, V8 · Gen IV Small-Block, 533 hp at 6,600 rpm and 477 lb-ft at 5,200 rpm. Stored metric values 397 kW and 647 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-ls376-525",
+    "code": "LS376/525",
+    "aliases": [
+      "Chevrolet Performance LS376/525",
+      "P/N 19540157"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "6.2 L · 376 cu in",
+    "layout": "V8 · Gen IV Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "aluminumLiners",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance LS376/525 U.S. crate engine P/N 19540157 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "LS376/525 is the 6.2 L · 376 cu in V8 · Gen IV Small-Block documented by Chevrolet Performance with the documented high-rpm ASA-cam specification; this record is limited to Chevrolet Performance LS376/525 U.S. crate engine P/N 19540157 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "LS376/525 es el V8 · Gen IV Small-Block de 6,2 L · 376 pulgadas cúbicas documentado por Chevrolet Performance con árbol de levas ASA para altos regímenes; esta ficha cubre únicamente Chevrolet Performance LS376/525 (P/N 19540157), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "LS376/525 est le V8 · Gen IV Small-Block de 6,2 L · 376 pouces cubes documenté par Chevrolet Performance avec arbre à cames ASA pour les hauts régimes ; cette fiche couvre uniquement Chevrolet Performance LS376/525 (P/N 19540157), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "LS376/525 ist der von Chevrolet Performance dokumentierte Motor (6,2 L · 376 in³; V8 · Gen IV Small-Block) mit ASA-Nockenwelle für hohe Drehzahlen; dieser Eintrag gilt ausschließlich für Chevrolet Performance LS376/525 (P/N 19540157) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 391,
+        "max": 391,
+        "rpm": {
+          "min": 6200,
+          "max": 6200
+        }
+      },
+      "torqueNm": {
+        "min": 659,
+        "max": 659,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "LS3 Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/ls-lsx-engines/ls3-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names LS376/525 and P/N 19540157; it lists 6.2 L · 376 cu in, V8 · Gen IV Small-Block, 525 hp at 6,200 rpm and 486 lb-ft at 5,200 rpm. Stored metric values 391 kW and 659 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-ls9-long-block",
+    "code": "LS9 Long Block",
+    "aliases": [
+      "Chevrolet Performance LS9 Long Block",
+      "P/N 12624262"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "Discontinued Chevrolet Performance U.S. long-block specification (page checked 2026-09-08)",
+    "displacement": "6.2 L · 376 cu in",
+    "layout": "V8 · Gen IV Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "variantDependent",
+    "injectionKey": "notSpecified",
+    "blockKey": "aluminumLiners",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance LS9 Long Block U.S. discontinued long block P/N 12624262 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "LS9 Long Block is the 6.2 L · 376 cu in V8 · Gen IV Small-Block documented by Chevrolet Performance in the discontinued LS9 long-block specification; this record is limited to Chevrolet Performance LS9 Long Block U.S. discontinued long block P/N 12624262 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "LS9 Long Block es el V8 · Gen IV Small-Block de 6,2 L · 376 pulgadas cúbicas documentado por Chevrolet Performance en la versión Long Block descatalogada; esta ficha cubre únicamente Chevrolet Performance LS9 Long Block (P/N 12624262), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "LS9 Long Block est le V8 · Gen IV Small-Block de 6,2 L · 376 pouces cubes documenté par Chevrolet Performance dans la version Long Block retirée du catalogue ; cette fiche couvre uniquement Chevrolet Performance LS9 Long Block (P/N 12624262), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "LS9 Long Block ist der von Chevrolet Performance dokumentierte Motor (6,2 L · 376 in³; V8 · Gen IV Small-Block) in der eingestellten Long-Block-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance LS9 Long Block (P/N 12624262) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 476,
+        "max": 476,
+        "rpm": {
+          "min": 6500,
+          "max": 6500
+        }
+      },
+      "torqueNm": {
+        "min": 819,
+        "max": 819,
+        "rpm": {
+          "min": 3800,
+          "max": 3800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "LS3 Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/ls-lsx-engines/ls3-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names LS9 Long Block and P/N 12624262; it lists 6.2 L · 376 cu in, V8 · Gen IV Small-Block, 638 hp at 6,500 rpm and 604 lb-ft at 3,800 rpm. Stored metric values 476 kW and 819 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08; the page marks this long block discontinued."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-lsx376-b15",
+    "code": "LSX376-B15 Long Block",
+    "aliases": [
+      "Chevrolet Performance LSX376-B15 Long Block",
+      "P/N 19417356"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "6.2 L · 376 cu in",
+    "layout": "V8 · LSX-Series Gen IV Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "variantDependent",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance LSX376-B15 Long Block U.S. boost-capable long block P/N 19417356 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "LSX376-B15 Long Block is the 6.2 L · 376 cu in V8 · LSX-Series Gen IV Small-Block documented by Chevrolet Performance with the LSX cast-iron block intended as a boosted-combination foundation; this record is limited to Chevrolet Performance LSX376-B15 Long Block U.S. boost-capable long block P/N 19417356 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "LSX376-B15 Long Block es el V8 · LSX-Series Gen IV Small-Block de 6,2 L · 376 pulgadas cúbicas documentado por Chevrolet Performance con bloque LSX de hierro fundido como base para montajes sobrealimentados; esta ficha cubre únicamente Chevrolet Performance LSX376-B15 Long Block (P/N 19417356), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "LSX376-B15 Long Block est le V8 · LSX-Series Gen IV Small-Block de 6,2 L · 376 pouces cubes documenté par Chevrolet Performance avec bloc LSX en fonte servant de base aux montages suralimentés ; cette fiche couvre uniquement Chevrolet Performance LSX376-B15 Long Block (P/N 19417356), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "LSX376-B15 Long Block ist der von Chevrolet Performance dokumentierte Motor (6,2 L · 376 in³; V8 · LSX-Series Gen IV Small-Block) mit LSX-Gussblock als Basis für aufgeladene Motoraufbauten; dieser Eintrag gilt ausschließlich für Chevrolet Performance LSX376-B15 Long Block (P/N 19417356) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 353,
+        "max": 353,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 602,
+        "max": 602,
+        "rpm": {
+          "min": 5000,
+          "max": 5000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "LSX Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/ls-lsx-engines/lsx-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names LSX376-B15 Long Block and P/N 19417356; it lists 6.2 L · 376 cu in, V8 · LSX-Series Gen IV Small-Block, 473 hp at 6,000 rpm and 444 lb-ft at 5,000 rpm. Stored metric values 353 kW and 602 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-350-ho-turn-key",
+    "code": "350 HO Turn-Key",
+    "aliases": [
+      "Chevrolet Performance 350 HO Turn-Key",
+      "P/N 19433031"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "5.7 L · 350 cu in",
+    "layout": "V8 · Gen I Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance 350 HO Turn-Key U.S. turn-key crate engine P/N 19433031 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "350 HO Turn-Key is the 5.7 L · 350 cu in V8 · Gen I Small-Block documented by Chevrolet Performance with a cast-iron four-bolt-main block; this record is limited to Chevrolet Performance 350 HO Turn-Key U.S. turn-key crate engine P/N 19433031 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "350 HO Turn-Key es el V8 · Gen I Small-Block de 5,7 L · 350 pulgadas cúbicas documentado por Chevrolet Performance con bloque de hierro fundido y tapas de bancada de cuatro pernos; esta ficha cubre únicamente Chevrolet Performance 350 HO Turn-Key (P/N 19433031), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "350 HO Turn-Key est le V8 · Gen I Small-Block de 5,7 L · 350 pouces cubes documenté par Chevrolet Performance avec bloc en fonte et chapeaux de paliers à quatre boulons ; cette fiche couvre uniquement Chevrolet Performance 350 HO Turn-Key (P/N 19433031), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "350 HO Turn-Key ist der von Chevrolet Performance dokumentierte Motor (5,7 L · 350 in³; V8 · Gen I Small-Block) mit Gussblock und vierfach verschraubten Hauptlagerdeckeln; dieser Eintrag gilt ausschließlich für Chevrolet Performance 350 HO Turn-Key (P/N 19433031) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 248,
+        "max": 248,
+        "rpm": {
+          "min": 5100,
+          "max": 5100
+        }
+      },
+      "torqueNm": {
+        "min": 517,
+        "max": 517,
+        "rpm": {
+          "min": 3700,
+          "max": 3700
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "350 Small-Block Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/350-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names 350 HO Turn-Key and P/N 19433031; it lists 5.7 L · 350 cu in, V8 · Gen I Small-Block, 333 hp at 5,100 rpm and 381 lb-ft at 3,700 rpm. Stored metric values 248 kW and 517 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-sp350-357",
+    "code": "SP350/357 Turn-Key",
+    "aliases": [
+      "Chevrolet Performance SP350/357 Turn-Key",
+      "P/N 19433034"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "5.7 L · 350 cu in",
+    "layout": "V8 · Gen I Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance SP350/357 Turn-Key U.S. turn-key crate engine P/N 19433034 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "SP350/357 Turn-Key is the 5.7 L · 350 cu in V8 · Gen I Small-Block documented by Chevrolet Performance in the exact SP350/357 configuration; this record is limited to Chevrolet Performance SP350/357 Turn-Key U.S. turn-key crate engine P/N 19433034 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "SP350/357 Turn-Key es el V8 · Gen I Small-Block de 5,7 L · 350 pulgadas cúbicas documentado por Chevrolet Performance en la configuración SP350/357; esta ficha cubre únicamente Chevrolet Performance SP350/357 Turn-Key (P/N 19433034), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "SP350/357 Turn-Key est le V8 · Gen I Small-Block de 5,7 L · 350 pouces cubes documenté par Chevrolet Performance dans la configuration SP350/357 ; cette fiche couvre uniquement Chevrolet Performance SP350/357 Turn-Key (P/N 19433034), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "SP350/357 Turn-Key ist der von Chevrolet Performance dokumentierte Motor (5,7 L · 350 in³; V8 · Gen I Small-Block) in der SP350/357-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance SP350/357 Turn-Key (P/N 19433034) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 266,
+        "max": 266,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 552,
+        "max": 552,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "350 Small-Block Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/350-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names SP350/357 Turn-Key and P/N 19433034; it lists 5.7 L · 350 cu in, V8 · Gen I Small-Block, 357 hp at 5,500 rpm and 407 lb-ft at 4,000 rpm. Stored metric values 266 kW and 552 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-sp350-385",
+    "code": "SP350/385 Turn-Key",
+    "aliases": [
+      "Chevrolet Performance SP350/385 Turn-Key",
+      "P/N 19433040"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "5.7 L · 350 cu in",
+    "layout": "V8 · Gen I Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance SP350/385 Turn-Key U.S. turn-key crate engine P/N 19433040 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "SP350/385 Turn-Key is the 5.7 L · 350 cu in V8 · Gen I Small-Block documented by Chevrolet Performance with Fast Burn aluminum cylinder heads; this record is limited to Chevrolet Performance SP350/385 Turn-Key U.S. turn-key crate engine P/N 19433040 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "SP350/385 Turn-Key es el V8 · Gen I Small-Block de 5,7 L · 350 pulgadas cúbicas documentado por Chevrolet Performance con culatas Fast Burn de aluminio; esta ficha cubre únicamente Chevrolet Performance SP350/385 Turn-Key (P/N 19433040), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "SP350/385 Turn-Key est le V8 · Gen I Small-Block de 5,7 L · 350 pouces cubes documenté par Chevrolet Performance avec culasses Fast Burn en aluminium ; cette fiche couvre uniquement Chevrolet Performance SP350/385 Turn-Key (P/N 19433040), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "SP350/385 Turn-Key ist der von Chevrolet Performance dokumentierte Motor (5,7 L · 350 in³; V8 · Gen I Small-Block) mit Fast-Burn-Aluminiumzylinderköpfen; dieser Eintrag gilt ausschließlich für Chevrolet Performance SP350/385 Turn-Key (P/N 19433040) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 287,
+        "max": 287,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 549,
+        "max": 549,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "350 Small-Block Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/350-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names SP350/385 Turn-Key and P/N 19433040; it lists 5.7 L · 350 cu in, V8 · Gen I Small-Block, 385 hp at 5,600 rpm and 405 lb-ft at 3,600 rpm. Stored metric values 287 kW and 549 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-zz6",
+    "code": "ZZ6 Turn-Key",
+    "aliases": [
+      "Chevrolet Performance ZZ6 Turn-Key",
+      "P/N 19433042"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "5.7 L · 350 cu in",
+    "layout": "V8 · Gen I Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance ZZ6 Turn-Key U.S. turn-key crate engine P/N 19433042 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "ZZ6 Turn-Key is the 5.7 L · 350 cu in V8 · Gen I Small-Block documented by Chevrolet Performance with a 770-cfm carburetor in the documented configuration; this record is limited to Chevrolet Performance ZZ6 Turn-Key U.S. turn-key crate engine P/N 19433042 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "ZZ6 Turn-Key es el V8 · Gen I Small-Block de 5,7 L · 350 pulgadas cúbicas documentado por Chevrolet Performance con carburador de 770 cfm; esta ficha cubre únicamente Chevrolet Performance ZZ6 Turn-Key (P/N 19433042), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "ZZ6 Turn-Key est le V8 · Gen I Small-Block de 5,7 L · 350 pouces cubes documenté par Chevrolet Performance avec carburateur de 770 cfm ; cette fiche couvre uniquement Chevrolet Performance ZZ6 Turn-Key (P/N 19433042), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "ZZ6 Turn-Key ist der von Chevrolet Performance dokumentierte Motor (5,7 L · 350 in³; V8 · Gen I Small-Block) mit 770-cfm-Vergaser; dieser Eintrag gilt ausschließlich für Chevrolet Performance ZZ6 Turn-Key (P/N 19433042) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 302,
+        "max": 302,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 550,
+        "max": 550,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "350 Small-Block Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/350-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names ZZ6 Turn-Key and P/N 19433042; it lists 5.7 L · 350 cu in, V8 · Gen I Small-Block, 405 hp at 5,600 rpm and 406 lb-ft at 4,600 rpm. Stored metric values 302 kW and 550 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-zz6-efi",
+    "code": "ZZ6 EFI Turn-Key",
+    "aliases": [
+      "Chevrolet Performance ZZ6 EFI Turn-Key",
+      "P/N 19433044"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "5.7 L · 350 cu in",
+    "layout": "V8 · Gen I Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance ZZ6 EFI Turn-Key U.S. EFI turn-key crate engine P/N 19433044 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "ZZ6 EFI Turn-Key is the 5.7 L · 350 cu in V8 · Gen I Small-Block documented by Chevrolet Performance with the documented electronic-fuel-injection package; this record is limited to Chevrolet Performance ZZ6 EFI Turn-Key U.S. EFI turn-key crate engine P/N 19433044 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "ZZ6 EFI Turn-Key es el V8 · Gen I Small-Block de 5,7 L · 350 pulgadas cúbicas documentado por Chevrolet Performance con el sistema de inyección electrónica documentado; esta ficha cubre únicamente Chevrolet Performance ZZ6 EFI Turn-Key (P/N 19433044), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "ZZ6 EFI Turn-Key est le V8 · Gen I Small-Block de 5,7 L · 350 pouces cubes documenté par Chevrolet Performance avec le système documenté d’injection électronique ; cette fiche couvre uniquement Chevrolet Performance ZZ6 EFI Turn-Key (P/N 19433044), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "ZZ6 EFI Turn-Key ist der von Chevrolet Performance dokumentierte Motor (5,7 L · 350 in³; V8 · Gen I Small-Block) mit der dokumentierten elektronischen Kraftstoffeinspritzung; dieser Eintrag gilt ausschließlich für Chevrolet Performance ZZ6 EFI Turn-Key (P/N 19433044) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 313,
+        "max": 313,
+        "rpm": {
+          "min": 5800,
+          "max": 5800
+        }
+      },
+      "torqueNm": {
+        "min": 553,
+        "max": 553,
+        "rpm": {
+          "min": 4500,
+          "max": 4500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "350 Small-Block Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/350-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names ZZ6 EFI Turn-Key and P/N 19433044; it lists 5.7 L · 350 cu in, V8 · Gen I Small-Block, 420 hp at 5,800 rpm and 408 lb-ft at 4,500 rpm. Stored metric values 313 kW and 553 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-ht383",
+    "code": "HT383",
+    "aliases": [
+      "Chevrolet Performance HT383",
+      "P/N 19433036"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "6.3 L · 383 cu in",
+    "layout": "V8 · Gen I Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance HT383 U.S. crate engine P/N 19433036 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "HT383 is the 6.3 L · 383 cu in V8 · Gen I Small-Block documented by Chevrolet Performance in the truck-oriented HT383 specification; this record is limited to Chevrolet Performance HT383 U.S. crate engine P/N 19433036 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "HT383 es el V8 · Gen I Small-Block de 6,3 L · 383 pulgadas cúbicas documentado por Chevrolet Performance en la versión HT383 para camionetas; esta ficha cubre únicamente Chevrolet Performance HT383 (P/N 19433036), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "HT383 est le V8 · Gen I Small-Block de 6,3 L · 383 pouces cubes documenté par Chevrolet Performance dans la version HT383 destinée aux utilitaires ; cette fiche couvre uniquement Chevrolet Performance HT383 (P/N 19433036), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "HT383 ist der von Chevrolet Performance dokumentierte Motor (6,3 L · 383 in³; V8 · Gen I Small-Block) in der für Nutzfahrzeuge vorgesehenen HT383-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance HT383 (P/N 19433036) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 241,
+        "max": 241,
+        "rpm": {
+          "min": 4200,
+          "max": 4200
+        }
+      },
+      "torqueNm": {
+        "min": 602,
+        "max": 602,
+        "rpm": {
+          "min": 3000,
+          "max": 3000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "383 Small-Block Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/383-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names HT383 and P/N 19433036; it lists 6.3 L · 383 cu in, V8 · Gen I Small-Block, 323 hp at 4,200 rpm and 444 lb-ft at 3,000 rpm. Stored metric values 241 kW and 602 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-ht383e",
+    "code": "HT383E",
+    "aliases": [
+      "Chevrolet Performance HT383E",
+      "P/N 19435449"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "6.3 L · 383 cu in",
+    "layout": "V8 · Gen I Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance HT383E U.S. crate engine P/N 19435449 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "HT383E is the 6.3 L · 383 cu in V8 · Gen I Small-Block documented by Chevrolet Performance in the distinct HT383E product specification; this record is limited to Chevrolet Performance HT383E U.S. crate engine P/N 19435449 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "HT383E es el V8 · Gen I Small-Block de 6,3 L · 383 pulgadas cúbicas documentado por Chevrolet Performance en la versión específica HT383E; esta ficha cubre únicamente Chevrolet Performance HT383E (P/N 19435449), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "HT383E est le V8 · Gen I Small-Block de 6,3 L · 383 pouces cubes documenté par Chevrolet Performance dans la version spécifique HT383E ; cette fiche couvre uniquement Chevrolet Performance HT383E (P/N 19435449), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "HT383E ist der von Chevrolet Performance dokumentierte Motor (6,3 L · 383 in³; V8 · Gen I Small-Block) in der eigenständigen HT383E-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance HT383E (P/N 19435449) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 241,
+        "max": 241,
+        "rpm": {
+          "min": 4200,
+          "max": 4200
+        }
+      },
+      "torqueNm": {
+        "min": 602,
+        "max": 602,
+        "rpm": {
+          "min": 3000,
+          "max": 3000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "383 Small-Block Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/383-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names HT383E and P/N 19435449; it lists 6.3 L · 383 cu in, V8 · Gen I Small-Block, 323 hp at 4,200 rpm and 444 lb-ft at 3,000 rpm. Stored metric values 241 kW and 602 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-sp383",
+    "code": "SP383 Turn-Key",
+    "aliases": [
+      "Chevrolet Performance SP383 Turn-Key",
+      "P/N 19435452"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "6.3 L · 383 cu in",
+    "layout": "V8 · Gen I Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance SP383 Turn-Key U.S. turn-key crate engine P/N 19435452 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "SP383 Turn-Key is the 6.3 L · 383 cu in V8 · Gen I Small-Block documented by Chevrolet Performance with Fast Burn heads and the documented high-rpm configuration; this record is limited to Chevrolet Performance SP383 Turn-Key U.S. turn-key crate engine P/N 19435452 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "SP383 Turn-Key es el V8 · Gen I Small-Block de 6,3 L · 383 pulgadas cúbicas documentado por Chevrolet Performance con culatas Fast Burn y la configuración documentada para altos regímenes; esta ficha cubre únicamente Chevrolet Performance SP383 Turn-Key (P/N 19435452), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "SP383 Turn-Key est le V8 · Gen I Small-Block de 6,3 L · 383 pouces cubes documenté par Chevrolet Performance avec culasses Fast Burn et configuration documentée pour les hauts régimes ; cette fiche couvre uniquement Chevrolet Performance SP383 Turn-Key (P/N 19435452), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "SP383 Turn-Key ist der von Chevrolet Performance dokumentierte Motor (6,3 L · 383 in³; V8 · Gen I Small-Block) mit Fast-Burn-Zylinderköpfen und der dokumentierten Auslegung für hohe Drehzahlen; dieser Eintrag gilt ausschließlich für Chevrolet Performance SP383 Turn-Key (P/N 19435452) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 324,
+        "max": 324,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 603,
+        "max": 603,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "383 Small-Block Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/383-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names SP383 Turn-Key and P/N 19435452; it lists 6.3 L · 383 cu in, V8 · Gen I Small-Block, 435 hp at 5,600 rpm and 445 lb-ft at 4,600 rpm. Stored metric values 324 kW and 603 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-sp383-efi",
+    "code": "SP383 EFI Turn-Key",
+    "aliases": [
+      "Chevrolet Performance SP383 EFI Turn-Key",
+      "P/N 19433046"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "6.3 L · 383 cu in",
+    "layout": "V8 · Gen I Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance SP383 EFI Turn-Key U.S. EFI turn-key crate engine P/N 19433046 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "SP383 EFI Turn-Key is the 6.3 L · 383 cu in V8 · Gen I Small-Block documented by Chevrolet Performance with the documented EFI and Fast Burn package; this record is limited to Chevrolet Performance SP383 EFI Turn-Key U.S. EFI turn-key crate engine P/N 19433046 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "SP383 EFI Turn-Key es el V8 · Gen I Small-Block de 6,3 L · 383 pulgadas cúbicas documentado por Chevrolet Performance con inyección electrónica y culatas Fast Burn; esta ficha cubre únicamente Chevrolet Performance SP383 EFI Turn-Key (P/N 19433046), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "SP383 EFI Turn-Key est le V8 · Gen I Small-Block de 6,3 L · 383 pouces cubes documenté par Chevrolet Performance avec injection électronique et culasses Fast Burn ; cette fiche couvre uniquement Chevrolet Performance SP383 EFI Turn-Key (P/N 19433046), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "SP383 EFI Turn-Key ist der von Chevrolet Performance dokumentierte Motor (6,3 L · 383 in³; V8 · Gen I Small-Block) mit elektronischer Kraftstoffeinspritzung und Fast-Burn-Zylinderköpfen; dieser Eintrag gilt ausschließlich für Chevrolet Performance SP383 EFI Turn-Key (P/N 19433046) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 336,
+        "max": 336,
+        "rpm": {
+          "min": 5800,
+          "max": 5800
+        }
+      },
+      "torqueNm": {
+        "min": 591,
+        "max": 591,
+        "rpm": {
+          "min": 4800,
+          "max": 4800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "383 Small-Block Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/383-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names SP383 EFI Turn-Key and P/N 19433046; it lists 6.3 L · 383 cu in, V8 · Gen I Small-Block, 450 hp at 5,800 rpm and 436 lb-ft at 4,800 rpm. Stored metric values 336 kW and 591 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-zz427-480",
+    "code": "ZZ427/480 Deluxe",
+    "aliases": [
+      "Chevrolet Performance ZZ427/480 Deluxe"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "7.0 L · 427 cu in",
+    "layout": "V8 · Gen IV Big-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance ZZ427/480 Deluxe U.S. deluxe crate engine (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "ZZ427/480 Deluxe is the 7.0 L · 427 cu in V8 · Gen IV Big-Block documented by Chevrolet Performance with a 770-cfm carburetor and aluminum oval-port heads; this record is limited to Chevrolet Performance ZZ427/480 Deluxe U.S. deluxe crate engine (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "ZZ427/480 Deluxe es el V8 · Gen IV Big-Block de 7,0 L · 427 pulgadas cúbicas documentado por Chevrolet Performance con carburador de 770 cfm y culatas de aluminio con conductos ovalados; esta ficha cubre únicamente Chevrolet Performance ZZ427/480 Deluxe, según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "ZZ427/480 Deluxe est le V8 · Gen IV Big-Block de 7,0 L · 427 pouces cubes documenté par Chevrolet Performance avec carburateur de 770 cfm et culasses en aluminium à conduits ovales ; cette fiche couvre uniquement Chevrolet Performance ZZ427/480 Deluxe, selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "ZZ427/480 Deluxe ist der von Chevrolet Performance dokumentierte Motor (7,0 L · 427 in³; V8 · Gen IV Big-Block) mit 770-cfm-Vergaser und Aluminiumzylinderköpfen mit ovalen Kanälen; dieser Eintrag gilt ausschließlich für Chevrolet Performance ZZ427/480 Deluxe gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 358,
+        "max": 358,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 664,
+        "max": 664,
+        "rpm": {
+          "min": 3800,
+          "max": 3800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "427 Big-Block Crate Engine | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/427-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names ZZ427/480 Deluxe; it lists 7.0 L · 427 cu in, V8 · Gen IV Big-Block, 480 hp at 6,000 rpm and 490 lb-ft at 3,800 rpm. Stored metric values 358 kW and 664 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-454-ho",
+    "code": "454 HO",
+    "aliases": [
+      "Chevrolet Performance 454 HO",
+      "P/N 19433409"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "7.4 L · 454 cu in",
+    "layout": "V8 · Gen VI Big-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance 454 HO U.S. crate engine P/N 19433409 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "454 HO is the 7.4 L · 454 cu in V8 · Gen VI Big-Block documented by Chevrolet Performance in the exact 454 HO product specification; this record is limited to Chevrolet Performance 454 HO U.S. crate engine P/N 19433409 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "454 HO es el V8 · Gen VI Big-Block de 7,4 L · 454 pulgadas cúbicas documentado por Chevrolet Performance en la versión específica 454 HO; esta ficha cubre únicamente Chevrolet Performance 454 HO (P/N 19433409), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "454 HO est le V8 · Gen VI Big-Block de 7,4 L · 454 pouces cubes documenté par Chevrolet Performance dans la version spécifique 454 HO ; cette fiche couvre uniquement Chevrolet Performance 454 HO (P/N 19433409), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "454 HO ist der von Chevrolet Performance dokumentierte Motor (7,4 L · 454 in³; V8 · Gen VI Big-Block) in der genauen 454-HO-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance 454 HO (P/N 19433409) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 327,
+        "max": 327,
+        "rpm": {
+          "min": 5300,
+          "max": 5300
+        }
+      },
+      "torqueNm": {
+        "min": 678,
+        "max": 678,
+        "rpm": {
+          "min": 3500,
+          "max": 3500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Chevy 454 Big-Block Crate Engine | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/454-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names 454 HO and P/N 19433409; it lists 7.4 L · 454 cu in, V8 · Gen VI Big-Block, 438 hp at 5,300 rpm and 500 lb-ft at 3,500 rpm. Stored metric values 327 kW and 678 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-zz454-440",
+    "code": "ZZ454/440",
+    "aliases": [
+      "Chevrolet Performance ZZ454/440",
+      "P/N 19433410"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "7.4 L · 454 cu in",
+    "layout": "V8 · Gen VI Big-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance ZZ454/440 U.S. crate engine P/N 19433410 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "ZZ454/440 is the 7.4 L · 454 cu in V8 · Gen VI Big-Block documented by Chevrolet Performance with aluminum oval-port heads in the exact ZZ454/440 specification; this record is limited to Chevrolet Performance ZZ454/440 U.S. crate engine P/N 19433410 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "ZZ454/440 es el V8 · Gen VI Big-Block de 7,4 L · 454 pulgadas cúbicas documentado por Chevrolet Performance con culatas de aluminio con conductos ovalados en la versión ZZ454/440; esta ficha cubre únicamente Chevrolet Performance ZZ454/440 (P/N 19433410), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "ZZ454/440 est le V8 · Gen VI Big-Block de 7,4 L · 454 pouces cubes documenté par Chevrolet Performance avec culasses en aluminium à conduits ovales dans la version ZZ454/440 ; cette fiche couvre uniquement Chevrolet Performance ZZ454/440 (P/N 19433410), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "ZZ454/440 ist der von Chevrolet Performance dokumentierte Motor (7,4 L · 454 in³; V8 · Gen VI Big-Block) mit Aluminiumzylinderköpfen mit ovalen Kanälen in der ZZ454/440-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance ZZ454/440 (P/N 19433410) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 350,
+        "max": 350,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 704,
+        "max": 704,
+        "rpm": {
+          "min": 3700,
+          "max": 3700
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Chevy 454 Big-Block Crate Engine | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/454-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names ZZ454/440 and P/N 19433410; it lists 7.4 L · 454 cu in, V8 · Gen VI Big-Block, 469 hp at 5,500 rpm and 519 lb-ft at 3,700 rpm. Stored metric values 350 kW and 704 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-sp502-605",
+    "code": "SP502/605",
+    "aliases": [
+      "Chevrolet Performance SP502/605",
+      "P/N 19421200"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "8.2 L · 502 cu in",
+    "layout": "V8 · Gen IV Big-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance SP502/605 U.S. crate engine P/N 19421200 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "SP502/605 is the 8.2 L · 502 cu in V8 · Gen IV Big-Block documented by Chevrolet Performance with an 870-cfm carburetor and aluminum oval-port heads; this record is limited to Chevrolet Performance SP502/605 U.S. crate engine P/N 19421200 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "SP502/605 es el V8 · Gen IV Big-Block de 8,2 L · 502 pulgadas cúbicas documentado por Chevrolet Performance con carburador de 870 cfm y culatas de aluminio con conductos ovalados; esta ficha cubre únicamente Chevrolet Performance SP502/605 (P/N 19421200), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "SP502/605 est le V8 · Gen IV Big-Block de 8,2 L · 502 pouces cubes documenté par Chevrolet Performance avec carburateur de 870 cfm et culasses en aluminium à conduits ovales ; cette fiche couvre uniquement Chevrolet Performance SP502/605 (P/N 19421200), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "SP502/605 ist der von Chevrolet Performance dokumentierte Motor (8,2 L · 502 in³; V8 · Gen IV Big-Block) mit 870-cfm-Vergaser und Aluminiumzylinderköpfen mit ovalen Kanälen; dieser Eintrag gilt ausschließlich für Chevrolet Performance SP502/605 (P/N 19421200) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 451,
+        "max": 451,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 786,
+        "max": 786,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Chevy 502 Big-Block Crate Engine | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/502-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names SP502/605 and P/N 19421200; it lists 8.2 L · 502 cu in, V8 · Gen IV Big-Block, 605 hp at 6,000 rpm and 580 lb-ft at 4,000 rpm. Stored metric values 451 kW and 786 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-ht502",
+    "code": "HT502",
+    "aliases": [
+      "Chevrolet Performance HT502",
+      "P/N 19433156"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "8.2 L · 502 cu in",
+    "layout": "V8 · Gen IV Big-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance HT502 U.S. crate engine P/N 19433156 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "HT502 is the 8.2 L · 502 cu in V8 · Gen IV Big-Block documented by Chevrolet Performance in the truck-oriented HT502 specification; this record is limited to Chevrolet Performance HT502 U.S. crate engine P/N 19433156 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "HT502 es el V8 · Gen IV Big-Block de 8,2 L · 502 pulgadas cúbicas documentado por Chevrolet Performance en la versión HT502 para camionetas; esta ficha cubre únicamente Chevrolet Performance HT502 (P/N 19433156), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "HT502 est le V8 · Gen IV Big-Block de 8,2 L · 502 pouces cubes documenté par Chevrolet Performance dans la version HT502 destinée aux utilitaires ; cette fiche couvre uniquement Chevrolet Performance HT502 (P/N 19433156), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "HT502 ist der von Chevrolet Performance dokumentierte Motor (8,2 L · 502 in³; V8 · Gen IV Big-Block) in der für Nutzfahrzeuge vorgesehenen HT502-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance HT502 (P/N 19433156) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 303,
+        "max": 303,
+        "rpm": {
+          "min": 4200,
+          "max": 4200
+        }
+      },
+      "torqueNm": {
+        "min": 733,
+        "max": 733,
+        "rpm": {
+          "min": 3200,
+          "max": 3200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Chevy 502 Big-Block Crate Engine | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/502-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names HT502 and P/N 19433156; it lists 8.2 L · 502 cu in, V8 · Gen IV Big-Block, 406 hp at 4,200 rpm and 541 lb-ft at 3,200 rpm. Stored metric values 303 kW and 733 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-502-ho",
+    "code": "502 HO",
+    "aliases": [
+      "Chevrolet Performance 502 HO",
+      "P/N 19433157"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "8.2 L · 502 cu in",
+    "layout": "V8 · Gen IV Big-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance 502 HO U.S. crate engine P/N 19433157 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "502 HO is the 8.2 L · 502 cu in V8 · Gen IV Big-Block documented by Chevrolet Performance in the exact 502 HO competition specification; this record is limited to Chevrolet Performance 502 HO U.S. crate engine P/N 19433157 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "502 HO es el V8 · Gen IV Big-Block de 8,2 L · 502 pulgadas cúbicas documentado por Chevrolet Performance en la versión 502 HO para competición; esta ficha cubre únicamente Chevrolet Performance 502 HO (P/N 19433157), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "502 HO est le V8 · Gen IV Big-Block de 8,2 L · 502 pouces cubes documenté par Chevrolet Performance dans la version 502 HO pour la compétition ; cette fiche couvre uniquement Chevrolet Performance 502 HO (P/N 19433157), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "502 HO ist der von Chevrolet Performance dokumentierte Motor (8,2 L · 502 in³; V8 · Gen IV Big-Block) in der 502-HO-Wettbewerbsausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance 502 HO (P/N 19433157) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 344,
+        "max": 344,
+        "rpm": {
+          "min": 5100,
+          "max": 5100
+        }
+      },
+      "torqueNm": {
+        "min": 757,
+        "max": 757,
+        "rpm": {
+          "min": 3400,
+          "max": 3400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Chevy 502 Big-Block Crate Engine | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/502-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names 502 HO and P/N 19433157; it lists 8.2 L · 502 cu in, V8 · Gen IV Big-Block, 461 hp at 5,100 rpm and 558 lb-ft at 3,400 rpm. Stored metric values 344 kW and 757 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-zz502-502",
+    "code": "ZZ502/502",
+    "aliases": [
+      "Chevrolet Performance ZZ502/502",
+      "P/N 19433162"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "8.2 L · 502 cu in",
+    "layout": "V8 · Gen IV Big-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance ZZ502/502 U.S. crate engine P/N 19433162 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "ZZ502/502 is the 8.2 L · 502 cu in V8 · Gen IV Big-Block documented by Chevrolet Performance with an 870-cfm carburetor and aluminum oval-port heads; this record is limited to Chevrolet Performance ZZ502/502 U.S. crate engine P/N 19433162 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "ZZ502/502 es el V8 · Gen IV Big-Block de 8,2 L · 502 pulgadas cúbicas documentado por Chevrolet Performance con carburador de 870 cfm y culatas de aluminio con conductos ovalados; esta ficha cubre únicamente Chevrolet Performance ZZ502/502 (P/N 19433162), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "ZZ502/502 est le V8 · Gen IV Big-Block de 8,2 L · 502 pouces cubes documenté par Chevrolet Performance avec carburateur de 870 cfm et culasses en aluminium à conduits ovales ; cette fiche couvre uniquement Chevrolet Performance ZZ502/502 (P/N 19433162), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "ZZ502/502 ist der von Chevrolet Performance dokumentierte Motor (8,2 L · 502 in³; V8 · Gen IV Big-Block) mit 870-cfm-Vergaser und Aluminiumzylinderköpfen mit ovalen Kanälen; dieser Eintrag gilt ausschließlich für Chevrolet Performance ZZ502/502 (P/N 19433162) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 379,
+        "max": 379,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      },
+      "torqueNm": {
+        "min": 786,
+        "max": 786,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Chevy 502 Big-Block Crate Engine | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/502-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names ZZ502/502 and P/N 19433162; it lists 8.2 L · 502 cu in, V8 · Gen IV Big-Block, 508 hp at 5,200 rpm and 580 lb-ft at 3,600 rpm. Stored metric values 379 kW and 786 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-zz572-620",
+    "code": "ZZ572/620 Deluxe",
+    "aliases": [
+      "Chevrolet Performance ZZ572/620 Deluxe",
+      "P/N 19331583"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "9.4 L · 572 cu in",
+    "layout": "V8 · Gen VI Big-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance ZZ572/620 Deluxe U.S. deluxe crate engine P/N 19331583 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "ZZ572/620 Deluxe is the 9.4 L · 572 cu in V8 · Gen VI Big-Block documented by Chevrolet Performance with an 850-cfm carburetor in the exact ZZ572/620 specification; this record is limited to Chevrolet Performance ZZ572/620 Deluxe U.S. deluxe crate engine P/N 19331583 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "ZZ572/620 Deluxe es el V8 · Gen VI Big-Block de 9,4 L · 572 pulgadas cúbicas documentado por Chevrolet Performance con carburador de 850 cfm en la versión ZZ572/620; esta ficha cubre únicamente Chevrolet Performance ZZ572/620 Deluxe (P/N 19331583), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "ZZ572/620 Deluxe est le V8 · Gen VI Big-Block de 9,4 L · 572 pouces cubes documenté par Chevrolet Performance avec carburateur de 850 cfm dans la version ZZ572/620 ; cette fiche couvre uniquement Chevrolet Performance ZZ572/620 Deluxe (P/N 19331583), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "ZZ572/620 Deluxe ist der von Chevrolet Performance dokumentierte Motor (9,4 L · 572 in³; V8 · Gen VI Big-Block) mit 850-cfm-Vergaser in der ZZ572/620-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance ZZ572/620 Deluxe (P/N 19331583) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 463,
+        "max": 463,
+        "rpm": {
+          "min": 5400,
+          "max": 5400
+        }
+      },
+      "torqueNm": {
+        "min": 875,
+        "max": 875,
+        "rpm": {
+          "min": 4200,
+          "max": 4200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Chevy 572 Big-Block Crate Engine | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/572-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names ZZ572/620 Deluxe and P/N 19331583; it lists 9.4 L · 572 cu in, V8 · Gen VI Big-Block, 621 hp at 5,400 rpm and 645 lb-ft at 4,200 rpm. Stored metric values 463 kW and 875 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-zz572-720r",
+    "code": "ZZ572/720R Deluxe",
+    "aliases": [
+      "Chevrolet Performance ZZ572/720R Deluxe",
+      "P/N 19331585"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "9.4 L · 572 cu in",
+    "layout": "V8 · Gen VI Big-Block Tall Deck",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance ZZ572/720R Deluxe U.S. deluxe racing crate engine P/N 19331585 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "ZZ572/720R Deluxe is the 9.4 L · 572 cu in V8 · Gen VI Big-Block Tall Deck documented by Chevrolet Performance with a 1,150-cfm Dominator carburetor in the exact 720R specification; this record is limited to Chevrolet Performance ZZ572/720R Deluxe U.S. deluxe racing crate engine P/N 19331585 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "ZZ572/720R Deluxe es el V8 · Gen VI Big-Block Tall Deck de 9,4 L · 572 pulgadas cúbicas documentado por Chevrolet Performance con carburador Dominator de 1.150 cfm en la versión 720R; esta ficha cubre únicamente Chevrolet Performance ZZ572/720R Deluxe (P/N 19331585), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "ZZ572/720R Deluxe est le V8 · Gen VI Big-Block Tall Deck de 9,4 L · 572 pouces cubes documenté par Chevrolet Performance avec carburateur Dominator de 1 150 cfm dans la version 720R ; cette fiche couvre uniquement Chevrolet Performance ZZ572/720R Deluxe (P/N 19331585), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "ZZ572/720R Deluxe ist der von Chevrolet Performance dokumentierte Motor (9,4 L · 572 in³; V8 · Gen VI Big-Block Tall Deck) mit 1.150-cfm-Dominator-Vergaser in der 720R-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance ZZ572/720R Deluxe (P/N 19331585) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 542,
+        "max": 542,
+        "rpm": {
+          "min": 6300,
+          "max": 6300
+        }
+      },
+      "torqueNm": {
+        "min": 922,
+        "max": 922,
+        "rpm": {
+          "min": 4900,
+          "max": 4900
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Chevy 572 Big-Block Crate Engine | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/572-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names ZZ572/720R Deluxe and P/N 19331585; it lists 9.4 L · 572 cu in, V8 · Gen VI Big-Block Tall Deck, 727 hp at 6,300 rpm and 680 lb-ft at 4,900 rpm. Stored metric values 542 kW and 922 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-zz632-1000",
+    "code": "ZZ632/1000 Deluxe",
+    "aliases": [
+      "Chevrolet Performance ZZ632/1000 Deluxe",
+      "P/N 19432060"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "10.4 L · 632 cu in",
+    "layout": "V8 · Gen VI Big-Block Tall Deck",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance ZZ632/1000 Deluxe U.S. deluxe crate engine P/N 19432060 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "ZZ632/1000 Deluxe is the 10.4 L · 632 cu in V8 · Gen VI Big-Block Tall Deck documented by Chevrolet Performance with the documented 86-lb/hr injectors and 4500-style throttle body; this record is limited to Chevrolet Performance ZZ632/1000 Deluxe U.S. deluxe crate engine P/N 19432060 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "ZZ632/1000 Deluxe es el V8 · Gen VI Big-Block Tall Deck de 10,4 L · 632 pulgadas cúbicas documentado por Chevrolet Performance con inyectores de 86 lb/h y cuerpo de mariposa de tipo 4500; esta ficha cubre únicamente Chevrolet Performance ZZ632/1000 Deluxe (P/N 19432060), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "ZZ632/1000 Deluxe est le V8 · Gen VI Big-Block Tall Deck de 10,4 L · 632 pouces cubes documenté par Chevrolet Performance avec injecteurs de 86 lb/h et boîtier papillon de type 4500 ; cette fiche couvre uniquement Chevrolet Performance ZZ632/1000 Deluxe (P/N 19432060), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "ZZ632/1000 Deluxe ist der von Chevrolet Performance dokumentierte Motor (10,4 L · 632 in³; V8 · Gen VI Big-Block Tall Deck) mit 86-lb/h-Einspritzventilen und Drosselklappengehäuse im 4500-Format; dieser Eintrag gilt ausschließlich für Chevrolet Performance ZZ632/1000 Deluxe (P/N 19432060) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 749,
+        "max": 749,
+        "rpm": {
+          "min": 6600,
+          "max": 6600
+        }
+      },
+      "torqueNm": {
+        "min": 1188,
+        "max": 1188,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "632 Big-Block Crate Engine | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/632-engine",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names ZZ632/1000 Deluxe and P/N 19432060; it lists 10.4 L · 632 cu in, V8 · Gen VI Big-Block Tall Deck, 1004 hp at 6,600 rpm and 876 lb-ft at 5,600 rpm. Stored metric values 749 kW and 1188 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-ct350",
+    "code": "CT350",
+    "aliases": [
+      "Chevrolet Performance CT350",
+      "P/N 19435602"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "5.7 L · 350 cu in",
+    "layout": "V8 · Gen I Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance CT350 U.S. factory-sealed circle-track crate engine P/N 19435602 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "CT350 is the 5.7 L · 350 cu in V8 · Gen I Small-Block documented by Chevrolet Performance in the exact CT350 competition specification; this record is limited to Chevrolet Performance CT350 U.S. factory-sealed circle-track crate engine P/N 19435602 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "CT350 es el V8 · Gen I Small-Block de 5,7 L · 350 pulgadas cúbicas documentado por Chevrolet Performance en la versión CT350 para competición en circuitos ovales; esta ficha cubre únicamente Chevrolet Performance CT350 (P/N 19435602), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "CT350 est le V8 · Gen I Small-Block de 5,7 L · 350 pouces cubes documenté par Chevrolet Performance dans la version CT350 pour la compétition sur circuits ovales ; cette fiche couvre uniquement Chevrolet Performance CT350 (P/N 19435602), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "CT350 ist der von Chevrolet Performance dokumentierte Motor (5,7 L · 350 in³; V8 · Gen I Small-Block) in der CT350-Ausführung für Ovalrennen; dieser Eintrag gilt ausschließlich für Chevrolet Performance CT350 (P/N 19435602) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 261,
+        "max": 261,
+        "rpm": {
+          "min": 5400,
+          "max": 5400
+        }
+      },
+      "torqueNm": {
+        "min": 537,
+        "max": 537,
+        "rpm": {
+          "min": 3800,
+          "max": 3800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Circle Track Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/racing-engines/circle-track-engines",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names CT350 and P/N 19435602; it lists 5.7 L · 350 cu in, V8 · Gen I Small-Block, 350 hp at 5,400 rpm and 396 lb-ft at 3,800 rpm. Stored metric values 261 kW and 537 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-ct400",
+    "code": "CT400",
+    "aliases": [
+      "Chevrolet Performance CT400",
+      "P/N 19435604"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "5.7 L · 350 cu in",
+    "layout": "V8 · Gen I Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance CT400 U.S. factory-sealed circle-track crate engine P/N 19435604 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "CT400 is the 5.7 L · 350 cu in V8 · Gen I Small-Block documented by Chevrolet Performance in the exact CT400 competition specification; this record is limited to Chevrolet Performance CT400 U.S. factory-sealed circle-track crate engine P/N 19435604 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "CT400 es el V8 · Gen I Small-Block de 5,7 L · 350 pulgadas cúbicas documentado por Chevrolet Performance en la versión CT400 para competición en circuitos ovales; esta ficha cubre únicamente Chevrolet Performance CT400 (P/N 19435604), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "CT400 est le V8 · Gen I Small-Block de 5,7 L · 350 pouces cubes documenté par Chevrolet Performance dans la version CT400 pour la compétition sur circuits ovales ; cette fiche couvre uniquement Chevrolet Performance CT400 (P/N 19435604), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "CT400 ist der von Chevrolet Performance dokumentierte Motor (5,7 L · 350 in³; V8 · Gen I Small-Block) in der CT400-Ausführung für Ovalrennen; dieser Eintrag gilt ausschließlich für Chevrolet Performance CT400 (P/N 19435604) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 301,
+        "max": 301,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 550,
+        "max": 550,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Circle Track Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/racing-engines/circle-track-engines",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names CT400 and P/N 19435604; it lists 5.7 L · 350 cu in, V8 · Gen I Small-Block, 404 hp at 5,600 rpm and 406 lb-ft at 4,600 rpm. Stored metric values 301 kW and 550 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "gm-ct525",
+    "code": "CT525",
+    "aliases": [
+      "Chevrolet Performance CT525",
+      "P/N 19434598"
+    ],
+    "maker": "General Motors / Chevrolet Performance",
+    "regionKey": "usa",
+    "years": "2026 Chevrolet Performance U.S. product-page specification",
+    "displacement": "6.2 L · 376 cu in",
+    "layout": "V8 · Gen IV Small-Block",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "aluminumLiners",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Chevrolet Performance CT525 U.S. factory-sealed circle-track crate engine P/N 19434598 (2026 product-page specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "CT525 is the 6.2 L · 376 cu in V8 · Gen IV Small-Block documented by Chevrolet Performance in the exact CT525 competition specification; this record is limited to Chevrolet Performance CT525 U.S. factory-sealed circle-track crate engine P/N 19434598 (2026 product-page specification).",
+        "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+        "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+        "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+      },
+      "es": {
+        "construction": "CT525 es el V8 · Gen IV Small-Block de 6,2 L · 376 pulgadas cúbicas documentado por Chevrolet Performance en la versión CT525 para competición en circuitos ovales; esta ficha cubre únicamente Chevrolet Performance CT525 (P/N 19434598), según la ficha estadounidense de 2026.",
+        "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+        "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+        "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+      },
+      "fr": {
+        "construction": "CT525 est le V8 · Gen IV Small-Block de 6,2 L · 376 pouces cubes documenté par Chevrolet Performance dans la version CT525 pour la compétition sur circuits ovales ; cette fiche couvre uniquement Chevrolet Performance CT525 (P/N 19434598), selon la fiche américaine de 2026.",
+        "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+        "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+        "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+      },
+      "de": {
+        "construction": "CT525 ist der von Chevrolet Performance dokumentierte Motor (6,2 L · 376 in³; V8 · Gen IV Small-Block) in der CT525-Ausführung für Ovalrennen; dieser Eintrag gilt ausschließlich für Chevrolet Performance CT525 (P/N 19434598) gemäß US-Produktdatenblatt von 2026.",
+        "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+        "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+        "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 397,
+        "max": 397,
+        "rpm": {
+          "min": 6600,
+          "max": 6600
+        }
+      },
+      "torqueNm": {
+        "min": 647,
+        "max": 647,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Circle Track Crate Engines | Chevrolet Performance Parts",
+          "publisher": "Chevrolet",
+          "year": 2026,
+          "url": "https://www.chevrolet.com/performance-parts/crate-engines/racing-engines/circle-track-engines",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Chevrolet Performance page names CT525 and P/N 19434598; it lists 6.2 L · 376 cu in, V8 · Gen IV Small-Block, 533 hp at 6,600 rpm and 477 lb-ft at 5,200 rpm. Stored metric values 397 kW and 647 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
           ]
         }
       ]

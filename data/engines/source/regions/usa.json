@@ -2750,6 +2750,2945 @@
           }
         ]
       }
+    },
+    {
+      "id": "gm-l8p",
+      "code": "L8P",
+      "aliases": [
+        "Chevrolet Performance L8P",
+        "P/N 19541143"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "6.6 L · 400 cu in",
+      "layout": "V8 · Gen V Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "directInjection",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance L8P U.S. crate engine P/N 19541143 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "L8P is the 6.6 L · 400 cu in V8 · Gen V Small-Block documented by Chevrolet Performance with high-pressure direct injection; this record is limited to Chevrolet Performance L8P U.S. crate engine P/N 19541143 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "L8P es el V8 · Gen V Small-Block de 6,6 L · 400 pulgadas cúbicas documentado por Chevrolet Performance con inyección directa de alta presión; esta ficha cubre únicamente Chevrolet Performance L8P (P/N 19541143), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "L8P est le V8 · Gen V Small-Block de 6,6 L · 400 pouces cubes documenté par Chevrolet Performance avec injection directe à haute pression ; cette fiche couvre uniquement Chevrolet Performance L8P (P/N 19541143), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "L8P ist der von Chevrolet Performance dokumentierte Motor (6,6 L · 400 in³; V8 · Gen V Small-Block) mit Hochdruck-Direkteinspritzung; dieser Eintrag gilt ausschließlich für Chevrolet Performance L8P (P/N 19541143) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 390,
+          "max": 390,
+          "rpm": {
+            "min": 5800,
+            "max": 5800
+          }
+        },
+        "torqueNm": {
+          "min": 736,
+          "max": 736,
+          "rpm": {
+            "min": 4600,
+            "max": 4600
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "L8P Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/lt-engines/l8p-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names L8P and P/N 19541143; it lists 6.6 L · 400 cu in, V8 · Gen V Small-Block, 523 hp at 5,800 rpm and 543 lb-ft at 4,600 rpm. Stored metric values 390 kW and 736 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-lt1-crate",
+      "code": "LT1",
+      "aliases": [
+        "Chevrolet Performance LT1",
+        "P/N 19431953"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "6.2 L · 376 cu in",
+      "layout": "V8 · Gen V Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "directInjection",
+      "blockKey": "aluminumLiners",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance LT1 U.S. crate engine P/N 19431953 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "LT1 is the 6.2 L · 376 cu in V8 · Gen V Small-Block documented by Chevrolet Performance with direct injection; this record is limited to Chevrolet Performance LT1 U.S. crate engine P/N 19431953 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "LT1 es el V8 · Gen V Small-Block de 6,2 L · 376 pulgadas cúbicas documentado por Chevrolet Performance con inyección directa; esta ficha cubre únicamente Chevrolet Performance LT1 (P/N 19431953), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "LT1 est le V8 · Gen V Small-Block de 6,2 L · 376 pouces cubes documenté par Chevrolet Performance avec injection directe ; cette fiche couvre uniquement Chevrolet Performance LT1 (P/N 19431953), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "LT1 ist der von Chevrolet Performance dokumentierte Motor (6,2 L · 376 in³; V8 · Gen V Small-Block) mit Direkteinspritzung; dieser Eintrag gilt ausschließlich für Chevrolet Performance LT1 (P/N 19431953) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 339,
+          "max": 339,
+          "rpm": {
+            "min": 6000,
+            "max": 6000
+          }
+        },
+        "torqueNm": {
+          "min": 617,
+          "max": 617,
+          "rpm": {
+            "min": 4400,
+            "max": 4400
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "Chevy LT1 Crate Engines for Sale | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/lt-engines/lt1-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names LT1 and P/N 19431953; it lists 6.2 L · 376 cu in, V8 · Gen V Small-Block, 455 hp at 6,000 rpm and 455 lb-ft at 4,400 rpm. Stored metric values 339 kW and 617 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-ls364-450",
+      "code": "LS364/450 Long Block",
+      "aliases": [
+        "Chevrolet Performance LS364/450 Long Block",
+        "P/N 19434650"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "6.0 L · 364 cu in",
+      "layout": "V8 · Gen III Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "variantDependent",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance LS364/450 Long Block U.S. long block P/N 19434650 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "LS364/450 Long Block is the 6.0 L · 364 cu in V8 · Gen III Small-Block documented by Chevrolet Performance with an LS6 hydraulic-roller camshaft; this record is limited to Chevrolet Performance LS364/450 Long Block U.S. long block P/N 19434650 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "LS364/450 Long Block es el V8 · Gen III Small-Block de 6,0 L · 364 pulgadas cúbicas documentado por Chevrolet Performance con árbol de levas LS6 y taqués hidráulicos de rodillo; esta ficha cubre únicamente Chevrolet Performance LS364/450 Long Block (P/N 19434650), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "LS364/450 Long Block est le V8 · Gen III Small-Block de 6,0 L · 364 pouces cubes documenté par Chevrolet Performance avec arbre à cames LS6 et poussoirs hydrauliques à rouleaux ; cette fiche couvre uniquement Chevrolet Performance LS364/450 Long Block (P/N 19434650), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "LS364/450 Long Block ist der von Chevrolet Performance dokumentierte Motor (6,0 L · 364 in³; V8 · Gen III Small-Block) mit LS6-Nockenwelle und hydraulischen Rollenstößeln; dieser Eintrag gilt ausschließlich für Chevrolet Performance LS364/450 Long Block (P/N 19434650) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 337,
+          "max": 337,
+          "rpm": {
+            "min": 5600,
+            "max": 5600
+          }
+        },
+        "torqueNm": {
+          "min": 598,
+          "max": 598,
+          "rpm": {
+            "min": 4800,
+            "max": 4800
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "LS3 Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/ls-lsx-engines/ls3-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names LS364/450 Long Block and P/N 19434650; it lists 6.0 L · 364 cu in, V8 · Gen III Small-Block, 452 hp at 5,600 rpm and 441 lb-ft at 4,800 rpm. Stored metric values 337 kW and 598 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-ls376-480",
+      "code": "LS376/480",
+      "aliases": [
+        "Chevrolet Performance LS376/480",
+        "P/N 19540156"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "6.2 L · 376 cu in",
+      "layout": "V8 · Gen IV Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "aluminumLiners",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance LS376/480 U.S. crate engine P/N 19540156 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "LS376/480 is the 6.2 L · 376 cu in V8 · Gen IV Small-Block documented by Chevrolet Performance with an aluminum block and hydraulic-roller camshaft; this record is limited to Chevrolet Performance LS376/480 U.S. crate engine P/N 19540156 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "LS376/480 es el V8 · Gen IV Small-Block de 6,2 L · 376 pulgadas cúbicas documentado por Chevrolet Performance con bloque de aluminio y taqués hidráulicos de rodillo; esta ficha cubre únicamente Chevrolet Performance LS376/480 (P/N 19540156), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "LS376/480 est le V8 · Gen IV Small-Block de 6,2 L · 376 pouces cubes documenté par Chevrolet Performance avec bloc en aluminium et poussoirs hydrauliques à rouleaux ; cette fiche couvre uniquement Chevrolet Performance LS376/480 (P/N 19540156), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "LS376/480 ist der von Chevrolet Performance dokumentierte Motor (6,2 L · 376 in³; V8 · Gen IV Small-Block) mit Aluminiumblock und hydraulischen Rollenstößeln; dieser Eintrag gilt ausschließlich für Chevrolet Performance LS376/480 (P/N 19540156) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 369,
+          "max": 369,
+          "rpm": {
+            "min": 6200,
+            "max": 6200
+          }
+        },
+        "torqueNm": {
+          "min": 641,
+          "max": 641,
+          "rpm": {
+            "min": 5000,
+            "max": 5000
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "LS3 Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/ls-lsx-engines/ls3-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names LS376/480 and P/N 19540156; it lists 6.2 L · 376 cu in, V8 · Gen IV Small-Block, 495 hp at 6,200 rpm and 473 lb-ft at 5,000 rpm. Stored metric values 369 kW and 641 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-ls376-515",
+      "code": "LS376/515",
+      "aliases": [
+        "Chevrolet Performance LS376/515",
+        "P/N 19435102"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "6.2 L · 376 cu in",
+      "layout": "V8 · Gen IV Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "aluminumLiners",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance LS376/515 U.S. crate engine P/N 19435102 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "LS376/515 is the 6.2 L · 376 cu in V8 · Gen IV Small-Block documented by Chevrolet Performance in the carburetor-oriented 515 specification; this record is limited to Chevrolet Performance LS376/515 U.S. crate engine P/N 19435102 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "LS376/515 es el V8 · Gen IV Small-Block de 6,2 L · 376 pulgadas cúbicas documentado por Chevrolet Performance en la configuración 515 prevista para carburador; esta ficha cubre únicamente Chevrolet Performance LS376/515 (P/N 19435102), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "LS376/515 est le V8 · Gen IV Small-Block de 6,2 L · 376 pouces cubes documenté par Chevrolet Performance dans la configuration 515 prévue pour un carburateur ; cette fiche couvre uniquement Chevrolet Performance LS376/515 (P/N 19435102), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "LS376/515 ist der von Chevrolet Performance dokumentierte Motor (6,2 L · 376 in³; V8 · Gen IV Small-Block) in der für Vergaser vorgesehenen 515-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance LS376/515 (P/N 19435102) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 397,
+          "max": 397,
+          "rpm": {
+            "min": 6600,
+            "max": 6600
+          }
+        },
+        "torqueNm": {
+          "min": 647,
+          "max": 647,
+          "rpm": {
+            "min": 5200,
+            "max": 5200
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "LS3 Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/ls-lsx-engines/ls3-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names LS376/515 and P/N 19435102; it lists 6.2 L · 376 cu in, V8 · Gen IV Small-Block, 533 hp at 6,600 rpm and 477 lb-ft at 5,200 rpm. Stored metric values 397 kW and 647 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-ls376-525",
+      "code": "LS376/525",
+      "aliases": [
+        "Chevrolet Performance LS376/525",
+        "P/N 19540157"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "6.2 L · 376 cu in",
+      "layout": "V8 · Gen IV Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "aluminumLiners",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance LS376/525 U.S. crate engine P/N 19540157 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "LS376/525 is the 6.2 L · 376 cu in V8 · Gen IV Small-Block documented by Chevrolet Performance with the documented high-rpm ASA-cam specification; this record is limited to Chevrolet Performance LS376/525 U.S. crate engine P/N 19540157 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "LS376/525 es el V8 · Gen IV Small-Block de 6,2 L · 376 pulgadas cúbicas documentado por Chevrolet Performance con árbol de levas ASA para altos regímenes; esta ficha cubre únicamente Chevrolet Performance LS376/525 (P/N 19540157), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "LS376/525 est le V8 · Gen IV Small-Block de 6,2 L · 376 pouces cubes documenté par Chevrolet Performance avec arbre à cames ASA pour les hauts régimes ; cette fiche couvre uniquement Chevrolet Performance LS376/525 (P/N 19540157), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "LS376/525 ist der von Chevrolet Performance dokumentierte Motor (6,2 L · 376 in³; V8 · Gen IV Small-Block) mit ASA-Nockenwelle für hohe Drehzahlen; dieser Eintrag gilt ausschließlich für Chevrolet Performance LS376/525 (P/N 19540157) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 391,
+          "max": 391,
+          "rpm": {
+            "min": 6200,
+            "max": 6200
+          }
+        },
+        "torqueNm": {
+          "min": 659,
+          "max": 659,
+          "rpm": {
+            "min": 5200,
+            "max": 5200
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "LS3 Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/ls-lsx-engines/ls3-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names LS376/525 and P/N 19540157; it lists 6.2 L · 376 cu in, V8 · Gen IV Small-Block, 525 hp at 6,200 rpm and 486 lb-ft at 5,200 rpm. Stored metric values 391 kW and 659 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-ls9-long-block",
+      "code": "LS9 Long Block",
+      "aliases": [
+        "Chevrolet Performance LS9 Long Block",
+        "P/N 12624262"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "Discontinued Chevrolet Performance U.S. long-block specification (page checked 2026-09-08)",
+      "displacement": "6.2 L · 376 cu in",
+      "layout": "V8 · Gen IV Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "variantDependent",
+      "injectionKey": "notSpecified",
+      "blockKey": "aluminumLiners",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance LS9 Long Block U.S. discontinued long block P/N 12624262 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "LS9 Long Block is the 6.2 L · 376 cu in V8 · Gen IV Small-Block documented by Chevrolet Performance in the discontinued LS9 long-block specification; this record is limited to Chevrolet Performance LS9 Long Block U.S. discontinued long block P/N 12624262 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "LS9 Long Block es el V8 · Gen IV Small-Block de 6,2 L · 376 pulgadas cúbicas documentado por Chevrolet Performance en la versión Long Block descatalogada; esta ficha cubre únicamente Chevrolet Performance LS9 Long Block (P/N 12624262), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "LS9 Long Block est le V8 · Gen IV Small-Block de 6,2 L · 376 pouces cubes documenté par Chevrolet Performance dans la version Long Block retirée du catalogue ; cette fiche couvre uniquement Chevrolet Performance LS9 Long Block (P/N 12624262), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "LS9 Long Block ist der von Chevrolet Performance dokumentierte Motor (6,2 L · 376 in³; V8 · Gen IV Small-Block) in der eingestellten Long-Block-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance LS9 Long Block (P/N 12624262) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 476,
+          "max": 476,
+          "rpm": {
+            "min": 6500,
+            "max": 6500
+          }
+        },
+        "torqueNm": {
+          "min": 819,
+          "max": 819,
+          "rpm": {
+            "min": 3800,
+            "max": 3800
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "LS3 Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/ls-lsx-engines/ls3-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names LS9 Long Block and P/N 12624262; it lists 6.2 L · 376 cu in, V8 · Gen IV Small-Block, 638 hp at 6,500 rpm and 604 lb-ft at 3,800 rpm. Stored metric values 476 kW and 819 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08; the page marks this long block discontinued."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-lsx376-b15",
+      "code": "LSX376-B15 Long Block",
+      "aliases": [
+        "Chevrolet Performance LSX376-B15 Long Block",
+        "P/N 19417356"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "6.2 L · 376 cu in",
+      "layout": "V8 · LSX-Series Gen IV Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "variantDependent",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance LSX376-B15 Long Block U.S. boost-capable long block P/N 19417356 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "LSX376-B15 Long Block is the 6.2 L · 376 cu in V8 · LSX-Series Gen IV Small-Block documented by Chevrolet Performance with the LSX cast-iron block intended as a boosted-combination foundation; this record is limited to Chevrolet Performance LSX376-B15 Long Block U.S. boost-capable long block P/N 19417356 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "LSX376-B15 Long Block es el V8 · LSX-Series Gen IV Small-Block de 6,2 L · 376 pulgadas cúbicas documentado por Chevrolet Performance con bloque LSX de hierro fundido como base para montajes sobrealimentados; esta ficha cubre únicamente Chevrolet Performance LSX376-B15 Long Block (P/N 19417356), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "LSX376-B15 Long Block est le V8 · LSX-Series Gen IV Small-Block de 6,2 L · 376 pouces cubes documenté par Chevrolet Performance avec bloc LSX en fonte servant de base aux montages suralimentés ; cette fiche couvre uniquement Chevrolet Performance LSX376-B15 Long Block (P/N 19417356), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "LSX376-B15 Long Block ist der von Chevrolet Performance dokumentierte Motor (6,2 L · 376 in³; V8 · LSX-Series Gen IV Small-Block) mit LSX-Gussblock als Basis für aufgeladene Motoraufbauten; dieser Eintrag gilt ausschließlich für Chevrolet Performance LSX376-B15 Long Block (P/N 19417356) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 353,
+          "max": 353,
+          "rpm": {
+            "min": 6000,
+            "max": 6000
+          }
+        },
+        "torqueNm": {
+          "min": 602,
+          "max": 602,
+          "rpm": {
+            "min": 5000,
+            "max": 5000
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "LSX Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/ls-lsx-engines/lsx-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names LSX376-B15 Long Block and P/N 19417356; it lists 6.2 L · 376 cu in, V8 · LSX-Series Gen IV Small-Block, 473 hp at 6,000 rpm and 444 lb-ft at 5,000 rpm. Stored metric values 353 kW and 602 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-350-ho-turn-key",
+      "code": "350 HO Turn-Key",
+      "aliases": [
+        "Chevrolet Performance 350 HO Turn-Key",
+        "P/N 19433031"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "5.7 L · 350 cu in",
+      "layout": "V8 · Gen I Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance 350 HO Turn-Key U.S. turn-key crate engine P/N 19433031 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "350 HO Turn-Key is the 5.7 L · 350 cu in V8 · Gen I Small-Block documented by Chevrolet Performance with a cast-iron four-bolt-main block; this record is limited to Chevrolet Performance 350 HO Turn-Key U.S. turn-key crate engine P/N 19433031 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "350 HO Turn-Key es el V8 · Gen I Small-Block de 5,7 L · 350 pulgadas cúbicas documentado por Chevrolet Performance con bloque de hierro fundido y tapas de bancada de cuatro pernos; esta ficha cubre únicamente Chevrolet Performance 350 HO Turn-Key (P/N 19433031), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "350 HO Turn-Key est le V8 · Gen I Small-Block de 5,7 L · 350 pouces cubes documenté par Chevrolet Performance avec bloc en fonte et chapeaux de paliers à quatre boulons ; cette fiche couvre uniquement Chevrolet Performance 350 HO Turn-Key (P/N 19433031), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "350 HO Turn-Key ist der von Chevrolet Performance dokumentierte Motor (5,7 L · 350 in³; V8 · Gen I Small-Block) mit Gussblock und vierfach verschraubten Hauptlagerdeckeln; dieser Eintrag gilt ausschließlich für Chevrolet Performance 350 HO Turn-Key (P/N 19433031) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 248,
+          "max": 248,
+          "rpm": {
+            "min": 5100,
+            "max": 5100
+          }
+        },
+        "torqueNm": {
+          "min": 517,
+          "max": 517,
+          "rpm": {
+            "min": 3700,
+            "max": 3700
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "350 Small-Block Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/350-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names 350 HO Turn-Key and P/N 19433031; it lists 5.7 L · 350 cu in, V8 · Gen I Small-Block, 333 hp at 5,100 rpm and 381 lb-ft at 3,700 rpm. Stored metric values 248 kW and 517 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-sp350-357",
+      "code": "SP350/357 Turn-Key",
+      "aliases": [
+        "Chevrolet Performance SP350/357 Turn-Key",
+        "P/N 19433034"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "5.7 L · 350 cu in",
+      "layout": "V8 · Gen I Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance SP350/357 Turn-Key U.S. turn-key crate engine P/N 19433034 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "SP350/357 Turn-Key is the 5.7 L · 350 cu in V8 · Gen I Small-Block documented by Chevrolet Performance in the exact SP350/357 configuration; this record is limited to Chevrolet Performance SP350/357 Turn-Key U.S. turn-key crate engine P/N 19433034 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "SP350/357 Turn-Key es el V8 · Gen I Small-Block de 5,7 L · 350 pulgadas cúbicas documentado por Chevrolet Performance en la configuración SP350/357; esta ficha cubre únicamente Chevrolet Performance SP350/357 Turn-Key (P/N 19433034), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "SP350/357 Turn-Key est le V8 · Gen I Small-Block de 5,7 L · 350 pouces cubes documenté par Chevrolet Performance dans la configuration SP350/357 ; cette fiche couvre uniquement Chevrolet Performance SP350/357 Turn-Key (P/N 19433034), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "SP350/357 Turn-Key ist der von Chevrolet Performance dokumentierte Motor (5,7 L · 350 in³; V8 · Gen I Small-Block) in der SP350/357-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance SP350/357 Turn-Key (P/N 19433034) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 266,
+          "max": 266,
+          "rpm": {
+            "min": 5500,
+            "max": 5500
+          }
+        },
+        "torqueNm": {
+          "min": 552,
+          "max": 552,
+          "rpm": {
+            "min": 4000,
+            "max": 4000
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "350 Small-Block Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/350-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names SP350/357 Turn-Key and P/N 19433034; it lists 5.7 L · 350 cu in, V8 · Gen I Small-Block, 357 hp at 5,500 rpm and 407 lb-ft at 4,000 rpm. Stored metric values 266 kW and 552 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-sp350-385",
+      "code": "SP350/385 Turn-Key",
+      "aliases": [
+        "Chevrolet Performance SP350/385 Turn-Key",
+        "P/N 19433040"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "5.7 L · 350 cu in",
+      "layout": "V8 · Gen I Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance SP350/385 Turn-Key U.S. turn-key crate engine P/N 19433040 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "SP350/385 Turn-Key is the 5.7 L · 350 cu in V8 · Gen I Small-Block documented by Chevrolet Performance with Fast Burn aluminum cylinder heads; this record is limited to Chevrolet Performance SP350/385 Turn-Key U.S. turn-key crate engine P/N 19433040 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "SP350/385 Turn-Key es el V8 · Gen I Small-Block de 5,7 L · 350 pulgadas cúbicas documentado por Chevrolet Performance con culatas Fast Burn de aluminio; esta ficha cubre únicamente Chevrolet Performance SP350/385 Turn-Key (P/N 19433040), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "SP350/385 Turn-Key est le V8 · Gen I Small-Block de 5,7 L · 350 pouces cubes documenté par Chevrolet Performance avec culasses Fast Burn en aluminium ; cette fiche couvre uniquement Chevrolet Performance SP350/385 Turn-Key (P/N 19433040), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "SP350/385 Turn-Key ist der von Chevrolet Performance dokumentierte Motor (5,7 L · 350 in³; V8 · Gen I Small-Block) mit Fast-Burn-Aluminiumzylinderköpfen; dieser Eintrag gilt ausschließlich für Chevrolet Performance SP350/385 Turn-Key (P/N 19433040) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 287,
+          "max": 287,
+          "rpm": {
+            "min": 5600,
+            "max": 5600
+          }
+        },
+        "torqueNm": {
+          "min": 549,
+          "max": 549,
+          "rpm": {
+            "min": 3600,
+            "max": 3600
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "350 Small-Block Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/350-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names SP350/385 Turn-Key and P/N 19433040; it lists 5.7 L · 350 cu in, V8 · Gen I Small-Block, 385 hp at 5,600 rpm and 405 lb-ft at 3,600 rpm. Stored metric values 287 kW and 549 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-zz6",
+      "code": "ZZ6 Turn-Key",
+      "aliases": [
+        "Chevrolet Performance ZZ6 Turn-Key",
+        "P/N 19433042"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "5.7 L · 350 cu in",
+      "layout": "V8 · Gen I Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance ZZ6 Turn-Key U.S. turn-key crate engine P/N 19433042 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "ZZ6 Turn-Key is the 5.7 L · 350 cu in V8 · Gen I Small-Block documented by Chevrolet Performance with a 770-cfm carburetor in the documented configuration; this record is limited to Chevrolet Performance ZZ6 Turn-Key U.S. turn-key crate engine P/N 19433042 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "ZZ6 Turn-Key es el V8 · Gen I Small-Block de 5,7 L · 350 pulgadas cúbicas documentado por Chevrolet Performance con carburador de 770 cfm; esta ficha cubre únicamente Chevrolet Performance ZZ6 Turn-Key (P/N 19433042), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "ZZ6 Turn-Key est le V8 · Gen I Small-Block de 5,7 L · 350 pouces cubes documenté par Chevrolet Performance avec carburateur de 770 cfm ; cette fiche couvre uniquement Chevrolet Performance ZZ6 Turn-Key (P/N 19433042), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "ZZ6 Turn-Key ist der von Chevrolet Performance dokumentierte Motor (5,7 L · 350 in³; V8 · Gen I Small-Block) mit 770-cfm-Vergaser; dieser Eintrag gilt ausschließlich für Chevrolet Performance ZZ6 Turn-Key (P/N 19433042) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 302,
+          "max": 302,
+          "rpm": {
+            "min": 5600,
+            "max": 5600
+          }
+        },
+        "torqueNm": {
+          "min": 550,
+          "max": 550,
+          "rpm": {
+            "min": 4600,
+            "max": 4600
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "350 Small-Block Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/350-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names ZZ6 Turn-Key and P/N 19433042; it lists 5.7 L · 350 cu in, V8 · Gen I Small-Block, 405 hp at 5,600 rpm and 406 lb-ft at 4,600 rpm. Stored metric values 302 kW and 550 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-zz6-efi",
+      "code": "ZZ6 EFI Turn-Key",
+      "aliases": [
+        "Chevrolet Performance ZZ6 EFI Turn-Key",
+        "P/N 19433044"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "5.7 L · 350 cu in",
+      "layout": "V8 · Gen I Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance ZZ6 EFI Turn-Key U.S. EFI turn-key crate engine P/N 19433044 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "ZZ6 EFI Turn-Key is the 5.7 L · 350 cu in V8 · Gen I Small-Block documented by Chevrolet Performance with the documented electronic-fuel-injection package; this record is limited to Chevrolet Performance ZZ6 EFI Turn-Key U.S. EFI turn-key crate engine P/N 19433044 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "ZZ6 EFI Turn-Key es el V8 · Gen I Small-Block de 5,7 L · 350 pulgadas cúbicas documentado por Chevrolet Performance con el sistema de inyección electrónica documentado; esta ficha cubre únicamente Chevrolet Performance ZZ6 EFI Turn-Key (P/N 19433044), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "ZZ6 EFI Turn-Key est le V8 · Gen I Small-Block de 5,7 L · 350 pouces cubes documenté par Chevrolet Performance avec le système documenté d’injection électronique ; cette fiche couvre uniquement Chevrolet Performance ZZ6 EFI Turn-Key (P/N 19433044), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "ZZ6 EFI Turn-Key ist der von Chevrolet Performance dokumentierte Motor (5,7 L · 350 in³; V8 · Gen I Small-Block) mit der dokumentierten elektronischen Kraftstoffeinspritzung; dieser Eintrag gilt ausschließlich für Chevrolet Performance ZZ6 EFI Turn-Key (P/N 19433044) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 313,
+          "max": 313,
+          "rpm": {
+            "min": 5800,
+            "max": 5800
+          }
+        },
+        "torqueNm": {
+          "min": 553,
+          "max": 553,
+          "rpm": {
+            "min": 4500,
+            "max": 4500
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "350 Small-Block Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/350-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names ZZ6 EFI Turn-Key and P/N 19433044; it lists 5.7 L · 350 cu in, V8 · Gen I Small-Block, 420 hp at 5,800 rpm and 408 lb-ft at 4,500 rpm. Stored metric values 313 kW and 553 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-ht383",
+      "code": "HT383",
+      "aliases": [
+        "Chevrolet Performance HT383",
+        "P/N 19433036"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "6.3 L · 383 cu in",
+      "layout": "V8 · Gen I Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance HT383 U.S. crate engine P/N 19433036 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "HT383 is the 6.3 L · 383 cu in V8 · Gen I Small-Block documented by Chevrolet Performance in the truck-oriented HT383 specification; this record is limited to Chevrolet Performance HT383 U.S. crate engine P/N 19433036 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "HT383 es el V8 · Gen I Small-Block de 6,3 L · 383 pulgadas cúbicas documentado por Chevrolet Performance en la versión HT383 para camionetas; esta ficha cubre únicamente Chevrolet Performance HT383 (P/N 19433036), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "HT383 est le V8 · Gen I Small-Block de 6,3 L · 383 pouces cubes documenté par Chevrolet Performance dans la version HT383 destinée aux utilitaires ; cette fiche couvre uniquement Chevrolet Performance HT383 (P/N 19433036), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "HT383 ist der von Chevrolet Performance dokumentierte Motor (6,3 L · 383 in³; V8 · Gen I Small-Block) in der für Nutzfahrzeuge vorgesehenen HT383-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance HT383 (P/N 19433036) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 241,
+          "max": 241,
+          "rpm": {
+            "min": 4200,
+            "max": 4200
+          }
+        },
+        "torqueNm": {
+          "min": 602,
+          "max": 602,
+          "rpm": {
+            "min": 3000,
+            "max": 3000
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "383 Small-Block Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/383-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names HT383 and P/N 19433036; it lists 6.3 L · 383 cu in, V8 · Gen I Small-Block, 323 hp at 4,200 rpm and 444 lb-ft at 3,000 rpm. Stored metric values 241 kW and 602 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-ht383e",
+      "code": "HT383E",
+      "aliases": [
+        "Chevrolet Performance HT383E",
+        "P/N 19435449"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "6.3 L · 383 cu in",
+      "layout": "V8 · Gen I Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance HT383E U.S. crate engine P/N 19435449 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "HT383E is the 6.3 L · 383 cu in V8 · Gen I Small-Block documented by Chevrolet Performance in the distinct HT383E product specification; this record is limited to Chevrolet Performance HT383E U.S. crate engine P/N 19435449 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "HT383E es el V8 · Gen I Small-Block de 6,3 L · 383 pulgadas cúbicas documentado por Chevrolet Performance en la versión específica HT383E; esta ficha cubre únicamente Chevrolet Performance HT383E (P/N 19435449), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "HT383E est le V8 · Gen I Small-Block de 6,3 L · 383 pouces cubes documenté par Chevrolet Performance dans la version spécifique HT383E ; cette fiche couvre uniquement Chevrolet Performance HT383E (P/N 19435449), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "HT383E ist der von Chevrolet Performance dokumentierte Motor (6,3 L · 383 in³; V8 · Gen I Small-Block) in der eigenständigen HT383E-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance HT383E (P/N 19435449) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 241,
+          "max": 241,
+          "rpm": {
+            "min": 4200,
+            "max": 4200
+          }
+        },
+        "torqueNm": {
+          "min": 602,
+          "max": 602,
+          "rpm": {
+            "min": 3000,
+            "max": 3000
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "383 Small-Block Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/383-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names HT383E and P/N 19435449; it lists 6.3 L · 383 cu in, V8 · Gen I Small-Block, 323 hp at 4,200 rpm and 444 lb-ft at 3,000 rpm. Stored metric values 241 kW and 602 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-sp383",
+      "code": "SP383 Turn-Key",
+      "aliases": [
+        "Chevrolet Performance SP383 Turn-Key",
+        "P/N 19435452"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "6.3 L · 383 cu in",
+      "layout": "V8 · Gen I Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance SP383 Turn-Key U.S. turn-key crate engine P/N 19435452 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "SP383 Turn-Key is the 6.3 L · 383 cu in V8 · Gen I Small-Block documented by Chevrolet Performance with Fast Burn heads and the documented high-rpm configuration; this record is limited to Chevrolet Performance SP383 Turn-Key U.S. turn-key crate engine P/N 19435452 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "SP383 Turn-Key es el V8 · Gen I Small-Block de 6,3 L · 383 pulgadas cúbicas documentado por Chevrolet Performance con culatas Fast Burn y la configuración documentada para altos regímenes; esta ficha cubre únicamente Chevrolet Performance SP383 Turn-Key (P/N 19435452), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "SP383 Turn-Key est le V8 · Gen I Small-Block de 6,3 L · 383 pouces cubes documenté par Chevrolet Performance avec culasses Fast Burn et configuration documentée pour les hauts régimes ; cette fiche couvre uniquement Chevrolet Performance SP383 Turn-Key (P/N 19435452), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "SP383 Turn-Key ist der von Chevrolet Performance dokumentierte Motor (6,3 L · 383 in³; V8 · Gen I Small-Block) mit Fast-Burn-Zylinderköpfen und der dokumentierten Auslegung für hohe Drehzahlen; dieser Eintrag gilt ausschließlich für Chevrolet Performance SP383 Turn-Key (P/N 19435452) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 324,
+          "max": 324,
+          "rpm": {
+            "min": 5600,
+            "max": 5600
+          }
+        },
+        "torqueNm": {
+          "min": 603,
+          "max": 603,
+          "rpm": {
+            "min": 4600,
+            "max": 4600
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "383 Small-Block Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/383-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names SP383 Turn-Key and P/N 19435452; it lists 6.3 L · 383 cu in, V8 · Gen I Small-Block, 435 hp at 5,600 rpm and 445 lb-ft at 4,600 rpm. Stored metric values 324 kW and 603 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-sp383-efi",
+      "code": "SP383 EFI Turn-Key",
+      "aliases": [
+        "Chevrolet Performance SP383 EFI Turn-Key",
+        "P/N 19433046"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "6.3 L · 383 cu in",
+      "layout": "V8 · Gen I Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance SP383 EFI Turn-Key U.S. EFI turn-key crate engine P/N 19433046 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "SP383 EFI Turn-Key is the 6.3 L · 383 cu in V8 · Gen I Small-Block documented by Chevrolet Performance with the documented EFI and Fast Burn package; this record is limited to Chevrolet Performance SP383 EFI Turn-Key U.S. EFI turn-key crate engine P/N 19433046 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "SP383 EFI Turn-Key es el V8 · Gen I Small-Block de 6,3 L · 383 pulgadas cúbicas documentado por Chevrolet Performance con inyección electrónica y culatas Fast Burn; esta ficha cubre únicamente Chevrolet Performance SP383 EFI Turn-Key (P/N 19433046), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "SP383 EFI Turn-Key est le V8 · Gen I Small-Block de 6,3 L · 383 pouces cubes documenté par Chevrolet Performance avec injection électronique et culasses Fast Burn ; cette fiche couvre uniquement Chevrolet Performance SP383 EFI Turn-Key (P/N 19433046), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "SP383 EFI Turn-Key ist der von Chevrolet Performance dokumentierte Motor (6,3 L · 383 in³; V8 · Gen I Small-Block) mit elektronischer Kraftstoffeinspritzung und Fast-Burn-Zylinderköpfen; dieser Eintrag gilt ausschließlich für Chevrolet Performance SP383 EFI Turn-Key (P/N 19433046) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 336,
+          "max": 336,
+          "rpm": {
+            "min": 5800,
+            "max": 5800
+          }
+        },
+        "torqueNm": {
+          "min": 591,
+          "max": 591,
+          "rpm": {
+            "min": 4800,
+            "max": 4800
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "383 Small-Block Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/small-block-engines/383-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names SP383 EFI Turn-Key and P/N 19433046; it lists 6.3 L · 383 cu in, V8 · Gen I Small-Block, 450 hp at 5,800 rpm and 436 lb-ft at 4,800 rpm. Stored metric values 336 kW and 591 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-zz427-480",
+      "code": "ZZ427/480 Deluxe",
+      "aliases": [
+        "Chevrolet Performance ZZ427/480 Deluxe"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "7.0 L · 427 cu in",
+      "layout": "V8 · Gen IV Big-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance ZZ427/480 Deluxe U.S. deluxe crate engine (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "ZZ427/480 Deluxe is the 7.0 L · 427 cu in V8 · Gen IV Big-Block documented by Chevrolet Performance with a 770-cfm carburetor and aluminum oval-port heads; this record is limited to Chevrolet Performance ZZ427/480 Deluxe U.S. deluxe crate engine (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "ZZ427/480 Deluxe es el V8 · Gen IV Big-Block de 7,0 L · 427 pulgadas cúbicas documentado por Chevrolet Performance con carburador de 770 cfm y culatas de aluminio con conductos ovalados; esta ficha cubre únicamente Chevrolet Performance ZZ427/480 Deluxe, según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "ZZ427/480 Deluxe est le V8 · Gen IV Big-Block de 7,0 L · 427 pouces cubes documenté par Chevrolet Performance avec carburateur de 770 cfm et culasses en aluminium à conduits ovales ; cette fiche couvre uniquement Chevrolet Performance ZZ427/480 Deluxe, selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "ZZ427/480 Deluxe ist der von Chevrolet Performance dokumentierte Motor (7,0 L · 427 in³; V8 · Gen IV Big-Block) mit 770-cfm-Vergaser und Aluminiumzylinderköpfen mit ovalen Kanälen; dieser Eintrag gilt ausschließlich für Chevrolet Performance ZZ427/480 Deluxe gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 358,
+          "max": 358,
+          "rpm": {
+            "min": 6000,
+            "max": 6000
+          }
+        },
+        "torqueNm": {
+          "min": 664,
+          "max": 664,
+          "rpm": {
+            "min": 3800,
+            "max": 3800
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "427 Big-Block Crate Engine | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/427-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names ZZ427/480 Deluxe; it lists 7.0 L · 427 cu in, V8 · Gen IV Big-Block, 480 hp at 6,000 rpm and 490 lb-ft at 3,800 rpm. Stored metric values 358 kW and 664 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-454-ho",
+      "code": "454 HO",
+      "aliases": [
+        "Chevrolet Performance 454 HO",
+        "P/N 19433409"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "7.4 L · 454 cu in",
+      "layout": "V8 · Gen VI Big-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance 454 HO U.S. crate engine P/N 19433409 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "454 HO is the 7.4 L · 454 cu in V8 · Gen VI Big-Block documented by Chevrolet Performance in the exact 454 HO product specification; this record is limited to Chevrolet Performance 454 HO U.S. crate engine P/N 19433409 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "454 HO es el V8 · Gen VI Big-Block de 7,4 L · 454 pulgadas cúbicas documentado por Chevrolet Performance en la versión específica 454 HO; esta ficha cubre únicamente Chevrolet Performance 454 HO (P/N 19433409), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "454 HO est le V8 · Gen VI Big-Block de 7,4 L · 454 pouces cubes documenté par Chevrolet Performance dans la version spécifique 454 HO ; cette fiche couvre uniquement Chevrolet Performance 454 HO (P/N 19433409), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "454 HO ist der von Chevrolet Performance dokumentierte Motor (7,4 L · 454 in³; V8 · Gen VI Big-Block) in der genauen 454-HO-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance 454 HO (P/N 19433409) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 327,
+          "max": 327,
+          "rpm": {
+            "min": 5300,
+            "max": 5300
+          }
+        },
+        "torqueNm": {
+          "min": 678,
+          "max": 678,
+          "rpm": {
+            "min": 3500,
+            "max": 3500
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "Chevy 454 Big-Block Crate Engine | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/454-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names 454 HO and P/N 19433409; it lists 7.4 L · 454 cu in, V8 · Gen VI Big-Block, 438 hp at 5,300 rpm and 500 lb-ft at 3,500 rpm. Stored metric values 327 kW and 678 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-zz454-440",
+      "code": "ZZ454/440",
+      "aliases": [
+        "Chevrolet Performance ZZ454/440",
+        "P/N 19433410"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "7.4 L · 454 cu in",
+      "layout": "V8 · Gen VI Big-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance ZZ454/440 U.S. crate engine P/N 19433410 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "ZZ454/440 is the 7.4 L · 454 cu in V8 · Gen VI Big-Block documented by Chevrolet Performance with aluminum oval-port heads in the exact ZZ454/440 specification; this record is limited to Chevrolet Performance ZZ454/440 U.S. crate engine P/N 19433410 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "ZZ454/440 es el V8 · Gen VI Big-Block de 7,4 L · 454 pulgadas cúbicas documentado por Chevrolet Performance con culatas de aluminio con conductos ovalados en la versión ZZ454/440; esta ficha cubre únicamente Chevrolet Performance ZZ454/440 (P/N 19433410), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "ZZ454/440 est le V8 · Gen VI Big-Block de 7,4 L · 454 pouces cubes documenté par Chevrolet Performance avec culasses en aluminium à conduits ovales dans la version ZZ454/440 ; cette fiche couvre uniquement Chevrolet Performance ZZ454/440 (P/N 19433410), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "ZZ454/440 ist der von Chevrolet Performance dokumentierte Motor (7,4 L · 454 in³; V8 · Gen VI Big-Block) mit Aluminiumzylinderköpfen mit ovalen Kanälen in der ZZ454/440-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance ZZ454/440 (P/N 19433410) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 350,
+          "max": 350,
+          "rpm": {
+            "min": 5500,
+            "max": 5500
+          }
+        },
+        "torqueNm": {
+          "min": 704,
+          "max": 704,
+          "rpm": {
+            "min": 3700,
+            "max": 3700
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "Chevy 454 Big-Block Crate Engine | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/454-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names ZZ454/440 and P/N 19433410; it lists 7.4 L · 454 cu in, V8 · Gen VI Big-Block, 469 hp at 5,500 rpm and 519 lb-ft at 3,700 rpm. Stored metric values 350 kW and 704 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-sp502-605",
+      "code": "SP502/605",
+      "aliases": [
+        "Chevrolet Performance SP502/605",
+        "P/N 19421200"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "8.2 L · 502 cu in",
+      "layout": "V8 · Gen IV Big-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance SP502/605 U.S. crate engine P/N 19421200 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "SP502/605 is the 8.2 L · 502 cu in V8 · Gen IV Big-Block documented by Chevrolet Performance with an 870-cfm carburetor and aluminum oval-port heads; this record is limited to Chevrolet Performance SP502/605 U.S. crate engine P/N 19421200 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "SP502/605 es el V8 · Gen IV Big-Block de 8,2 L · 502 pulgadas cúbicas documentado por Chevrolet Performance con carburador de 870 cfm y culatas de aluminio con conductos ovalados; esta ficha cubre únicamente Chevrolet Performance SP502/605 (P/N 19421200), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "SP502/605 est le V8 · Gen IV Big-Block de 8,2 L · 502 pouces cubes documenté par Chevrolet Performance avec carburateur de 870 cfm et culasses en aluminium à conduits ovales ; cette fiche couvre uniquement Chevrolet Performance SP502/605 (P/N 19421200), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "SP502/605 ist der von Chevrolet Performance dokumentierte Motor (8,2 L · 502 in³; V8 · Gen IV Big-Block) mit 870-cfm-Vergaser und Aluminiumzylinderköpfen mit ovalen Kanälen; dieser Eintrag gilt ausschließlich für Chevrolet Performance SP502/605 (P/N 19421200) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 451,
+          "max": 451,
+          "rpm": {
+            "min": 6000,
+            "max": 6000
+          }
+        },
+        "torqueNm": {
+          "min": 786,
+          "max": 786,
+          "rpm": {
+            "min": 4000,
+            "max": 4000
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "Chevy 502 Big-Block Crate Engine | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/502-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names SP502/605 and P/N 19421200; it lists 8.2 L · 502 cu in, V8 · Gen IV Big-Block, 605 hp at 6,000 rpm and 580 lb-ft at 4,000 rpm. Stored metric values 451 kW and 786 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-ht502",
+      "code": "HT502",
+      "aliases": [
+        "Chevrolet Performance HT502",
+        "P/N 19433156"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "8.2 L · 502 cu in",
+      "layout": "V8 · Gen IV Big-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance HT502 U.S. crate engine P/N 19433156 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "HT502 is the 8.2 L · 502 cu in V8 · Gen IV Big-Block documented by Chevrolet Performance in the truck-oriented HT502 specification; this record is limited to Chevrolet Performance HT502 U.S. crate engine P/N 19433156 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "HT502 es el V8 · Gen IV Big-Block de 8,2 L · 502 pulgadas cúbicas documentado por Chevrolet Performance en la versión HT502 para camionetas; esta ficha cubre únicamente Chevrolet Performance HT502 (P/N 19433156), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "HT502 est le V8 · Gen IV Big-Block de 8,2 L · 502 pouces cubes documenté par Chevrolet Performance dans la version HT502 destinée aux utilitaires ; cette fiche couvre uniquement Chevrolet Performance HT502 (P/N 19433156), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "HT502 ist der von Chevrolet Performance dokumentierte Motor (8,2 L · 502 in³; V8 · Gen IV Big-Block) in der für Nutzfahrzeuge vorgesehenen HT502-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance HT502 (P/N 19433156) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 303,
+          "max": 303,
+          "rpm": {
+            "min": 4200,
+            "max": 4200
+          }
+        },
+        "torqueNm": {
+          "min": 733,
+          "max": 733,
+          "rpm": {
+            "min": 3200,
+            "max": 3200
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "Chevy 502 Big-Block Crate Engine | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/502-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names HT502 and P/N 19433156; it lists 8.2 L · 502 cu in, V8 · Gen IV Big-Block, 406 hp at 4,200 rpm and 541 lb-ft at 3,200 rpm. Stored metric values 303 kW and 733 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-502-ho",
+      "code": "502 HO",
+      "aliases": [
+        "Chevrolet Performance 502 HO",
+        "P/N 19433157"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "8.2 L · 502 cu in",
+      "layout": "V8 · Gen IV Big-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance 502 HO U.S. crate engine P/N 19433157 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "502 HO is the 8.2 L · 502 cu in V8 · Gen IV Big-Block documented by Chevrolet Performance in the exact 502 HO competition specification; this record is limited to Chevrolet Performance 502 HO U.S. crate engine P/N 19433157 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "502 HO es el V8 · Gen IV Big-Block de 8,2 L · 502 pulgadas cúbicas documentado por Chevrolet Performance en la versión 502 HO para competición; esta ficha cubre únicamente Chevrolet Performance 502 HO (P/N 19433157), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "502 HO est le V8 · Gen IV Big-Block de 8,2 L · 502 pouces cubes documenté par Chevrolet Performance dans la version 502 HO pour la compétition ; cette fiche couvre uniquement Chevrolet Performance 502 HO (P/N 19433157), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "502 HO ist der von Chevrolet Performance dokumentierte Motor (8,2 L · 502 in³; V8 · Gen IV Big-Block) in der 502-HO-Wettbewerbsausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance 502 HO (P/N 19433157) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 344,
+          "max": 344,
+          "rpm": {
+            "min": 5100,
+            "max": 5100
+          }
+        },
+        "torqueNm": {
+          "min": 757,
+          "max": 757,
+          "rpm": {
+            "min": 3400,
+            "max": 3400
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "Chevy 502 Big-Block Crate Engine | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/502-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names 502 HO and P/N 19433157; it lists 8.2 L · 502 cu in, V8 · Gen IV Big-Block, 461 hp at 5,100 rpm and 558 lb-ft at 3,400 rpm. Stored metric values 344 kW and 757 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-zz502-502",
+      "code": "ZZ502/502",
+      "aliases": [
+        "Chevrolet Performance ZZ502/502",
+        "P/N 19433162"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "8.2 L · 502 cu in",
+      "layout": "V8 · Gen IV Big-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance ZZ502/502 U.S. crate engine P/N 19433162 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "ZZ502/502 is the 8.2 L · 502 cu in V8 · Gen IV Big-Block documented by Chevrolet Performance with an 870-cfm carburetor and aluminum oval-port heads; this record is limited to Chevrolet Performance ZZ502/502 U.S. crate engine P/N 19433162 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "ZZ502/502 es el V8 · Gen IV Big-Block de 8,2 L · 502 pulgadas cúbicas documentado por Chevrolet Performance con carburador de 870 cfm y culatas de aluminio con conductos ovalados; esta ficha cubre únicamente Chevrolet Performance ZZ502/502 (P/N 19433162), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "ZZ502/502 est le V8 · Gen IV Big-Block de 8,2 L · 502 pouces cubes documenté par Chevrolet Performance avec carburateur de 870 cfm et culasses en aluminium à conduits ovales ; cette fiche couvre uniquement Chevrolet Performance ZZ502/502 (P/N 19433162), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "ZZ502/502 ist der von Chevrolet Performance dokumentierte Motor (8,2 L · 502 in³; V8 · Gen IV Big-Block) mit 870-cfm-Vergaser und Aluminiumzylinderköpfen mit ovalen Kanälen; dieser Eintrag gilt ausschließlich für Chevrolet Performance ZZ502/502 (P/N 19433162) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 379,
+          "max": 379,
+          "rpm": {
+            "min": 5200,
+            "max": 5200
+          }
+        },
+        "torqueNm": {
+          "min": 786,
+          "max": 786,
+          "rpm": {
+            "min": 3600,
+            "max": 3600
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "Chevy 502 Big-Block Crate Engine | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/502-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names ZZ502/502 and P/N 19433162; it lists 8.2 L · 502 cu in, V8 · Gen IV Big-Block, 508 hp at 5,200 rpm and 580 lb-ft at 3,600 rpm. Stored metric values 379 kW and 786 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-zz572-620",
+      "code": "ZZ572/620 Deluxe",
+      "aliases": [
+        "Chevrolet Performance ZZ572/620 Deluxe",
+        "P/N 19331583"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "9.4 L · 572 cu in",
+      "layout": "V8 · Gen VI Big-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance ZZ572/620 Deluxe U.S. deluxe crate engine P/N 19331583 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "ZZ572/620 Deluxe is the 9.4 L · 572 cu in V8 · Gen VI Big-Block documented by Chevrolet Performance with an 850-cfm carburetor in the exact ZZ572/620 specification; this record is limited to Chevrolet Performance ZZ572/620 Deluxe U.S. deluxe crate engine P/N 19331583 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "ZZ572/620 Deluxe es el V8 · Gen VI Big-Block de 9,4 L · 572 pulgadas cúbicas documentado por Chevrolet Performance con carburador de 850 cfm en la versión ZZ572/620; esta ficha cubre únicamente Chevrolet Performance ZZ572/620 Deluxe (P/N 19331583), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "ZZ572/620 Deluxe est le V8 · Gen VI Big-Block de 9,4 L · 572 pouces cubes documenté par Chevrolet Performance avec carburateur de 850 cfm dans la version ZZ572/620 ; cette fiche couvre uniquement Chevrolet Performance ZZ572/620 Deluxe (P/N 19331583), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "ZZ572/620 Deluxe ist der von Chevrolet Performance dokumentierte Motor (9,4 L · 572 in³; V8 · Gen VI Big-Block) mit 850-cfm-Vergaser in der ZZ572/620-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance ZZ572/620 Deluxe (P/N 19331583) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 463,
+          "max": 463,
+          "rpm": {
+            "min": 5400,
+            "max": 5400
+          }
+        },
+        "torqueNm": {
+          "min": 875,
+          "max": 875,
+          "rpm": {
+            "min": 4200,
+            "max": 4200
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "Chevy 572 Big-Block Crate Engine | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/572-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names ZZ572/620 Deluxe and P/N 19331583; it lists 9.4 L · 572 cu in, V8 · Gen VI Big-Block, 621 hp at 5,400 rpm and 645 lb-ft at 4,200 rpm. Stored metric values 463 kW and 875 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-zz572-720r",
+      "code": "ZZ572/720R Deluxe",
+      "aliases": [
+        "Chevrolet Performance ZZ572/720R Deluxe",
+        "P/N 19331585"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "9.4 L · 572 cu in",
+      "layout": "V8 · Gen VI Big-Block Tall Deck",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance ZZ572/720R Deluxe U.S. deluxe racing crate engine P/N 19331585 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "ZZ572/720R Deluxe is the 9.4 L · 572 cu in V8 · Gen VI Big-Block Tall Deck documented by Chevrolet Performance with a 1,150-cfm Dominator carburetor in the exact 720R specification; this record is limited to Chevrolet Performance ZZ572/720R Deluxe U.S. deluxe racing crate engine P/N 19331585 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "ZZ572/720R Deluxe es el V8 · Gen VI Big-Block Tall Deck de 9,4 L · 572 pulgadas cúbicas documentado por Chevrolet Performance con carburador Dominator de 1.150 cfm en la versión 720R; esta ficha cubre únicamente Chevrolet Performance ZZ572/720R Deluxe (P/N 19331585), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "ZZ572/720R Deluxe est le V8 · Gen VI Big-Block Tall Deck de 9,4 L · 572 pouces cubes documenté par Chevrolet Performance avec carburateur Dominator de 1 150 cfm dans la version 720R ; cette fiche couvre uniquement Chevrolet Performance ZZ572/720R Deluxe (P/N 19331585), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "ZZ572/720R Deluxe ist der von Chevrolet Performance dokumentierte Motor (9,4 L · 572 in³; V8 · Gen VI Big-Block Tall Deck) mit 1.150-cfm-Dominator-Vergaser in der 720R-Ausführung; dieser Eintrag gilt ausschließlich für Chevrolet Performance ZZ572/720R Deluxe (P/N 19331585) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 542,
+          "max": 542,
+          "rpm": {
+            "min": 6300,
+            "max": 6300
+          }
+        },
+        "torqueNm": {
+          "min": 922,
+          "max": 922,
+          "rpm": {
+            "min": 4900,
+            "max": 4900
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "Chevy 572 Big-Block Crate Engine | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/572-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names ZZ572/720R Deluxe and P/N 19331585; it lists 9.4 L · 572 cu in, V8 · Gen VI Big-Block Tall Deck, 727 hp at 6,300 rpm and 680 lb-ft at 4,900 rpm. Stored metric values 542 kW and 922 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-zz632-1000",
+      "code": "ZZ632/1000 Deluxe",
+      "aliases": [
+        "Chevrolet Performance ZZ632/1000 Deluxe",
+        "P/N 19432060"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "10.4 L · 632 cu in",
+      "layout": "V8 · Gen VI Big-Block Tall Deck",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance ZZ632/1000 Deluxe U.S. deluxe crate engine P/N 19432060 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "ZZ632/1000 Deluxe is the 10.4 L · 632 cu in V8 · Gen VI Big-Block Tall Deck documented by Chevrolet Performance with the documented 86-lb/hr injectors and 4500-style throttle body; this record is limited to Chevrolet Performance ZZ632/1000 Deluxe U.S. deluxe crate engine P/N 19432060 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "ZZ632/1000 Deluxe es el V8 · Gen VI Big-Block Tall Deck de 10,4 L · 632 pulgadas cúbicas documentado por Chevrolet Performance con inyectores de 86 lb/h y cuerpo de mariposa de tipo 4500; esta ficha cubre únicamente Chevrolet Performance ZZ632/1000 Deluxe (P/N 19432060), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "ZZ632/1000 Deluxe est le V8 · Gen VI Big-Block Tall Deck de 10,4 L · 632 pouces cubes documenté par Chevrolet Performance avec injecteurs de 86 lb/h et boîtier papillon de type 4500 ; cette fiche couvre uniquement Chevrolet Performance ZZ632/1000 Deluxe (P/N 19432060), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "ZZ632/1000 Deluxe ist der von Chevrolet Performance dokumentierte Motor (10,4 L · 632 in³; V8 · Gen VI Big-Block Tall Deck) mit 86-lb/h-Einspritzventilen und Drosselklappengehäuse im 4500-Format; dieser Eintrag gilt ausschließlich für Chevrolet Performance ZZ632/1000 Deluxe (P/N 19432060) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 749,
+          "max": 749,
+          "rpm": {
+            "min": 6600,
+            "max": 6600
+          }
+        },
+        "torqueNm": {
+          "min": 1188,
+          "max": 1188,
+          "rpm": {
+            "min": 5600,
+            "max": 5600
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "632 Big-Block Crate Engine | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/big-block-engines/632-engine",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names ZZ632/1000 Deluxe and P/N 19432060; it lists 10.4 L · 632 cu in, V8 · Gen VI Big-Block Tall Deck, 1004 hp at 6,600 rpm and 876 lb-ft at 5,600 rpm. Stored metric values 749 kW and 1188 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-ct350",
+      "code": "CT350",
+      "aliases": [
+        "Chevrolet Performance CT350",
+        "P/N 19435602"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "5.7 L · 350 cu in",
+      "layout": "V8 · Gen I Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance CT350 U.S. factory-sealed circle-track crate engine P/N 19435602 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "CT350 is the 5.7 L · 350 cu in V8 · Gen I Small-Block documented by Chevrolet Performance in the exact CT350 competition specification; this record is limited to Chevrolet Performance CT350 U.S. factory-sealed circle-track crate engine P/N 19435602 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "CT350 es el V8 · Gen I Small-Block de 5,7 L · 350 pulgadas cúbicas documentado por Chevrolet Performance en la versión CT350 para competición en circuitos ovales; esta ficha cubre únicamente Chevrolet Performance CT350 (P/N 19435602), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "CT350 est le V8 · Gen I Small-Block de 5,7 L · 350 pouces cubes documenté par Chevrolet Performance dans la version CT350 pour la compétition sur circuits ovales ; cette fiche couvre uniquement Chevrolet Performance CT350 (P/N 19435602), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "CT350 ist der von Chevrolet Performance dokumentierte Motor (5,7 L · 350 in³; V8 · Gen I Small-Block) in der CT350-Ausführung für Ovalrennen; dieser Eintrag gilt ausschließlich für Chevrolet Performance CT350 (P/N 19435602) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 261,
+          "max": 261,
+          "rpm": {
+            "min": 5400,
+            "max": 5400
+          }
+        },
+        "torqueNm": {
+          "min": 537,
+          "max": 537,
+          "rpm": {
+            "min": 3800,
+            "max": 3800
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "Circle Track Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/racing-engines/circle-track-engines",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names CT350 and P/N 19435602; it lists 5.7 L · 350 cu in, V8 · Gen I Small-Block, 350 hp at 5,400 rpm and 396 lb-ft at 3,800 rpm. Stored metric values 261 kW and 537 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-ct400",
+      "code": "CT400",
+      "aliases": [
+        "Chevrolet Performance CT400",
+        "P/N 19435604"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "5.7 L · 350 cu in",
+      "layout": "V8 · Gen I Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "castIronBlock",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance CT400 U.S. factory-sealed circle-track crate engine P/N 19435604 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "CT400 is the 5.7 L · 350 cu in V8 · Gen I Small-Block documented by Chevrolet Performance in the exact CT400 competition specification; this record is limited to Chevrolet Performance CT400 U.S. factory-sealed circle-track crate engine P/N 19435604 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "CT400 es el V8 · Gen I Small-Block de 5,7 L · 350 pulgadas cúbicas documentado por Chevrolet Performance en la versión CT400 para competición en circuitos ovales; esta ficha cubre únicamente Chevrolet Performance CT400 (P/N 19435604), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "CT400 est le V8 · Gen I Small-Block de 5,7 L · 350 pouces cubes documenté par Chevrolet Performance dans la version CT400 pour la compétition sur circuits ovales ; cette fiche couvre uniquement Chevrolet Performance CT400 (P/N 19435604), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "CT400 ist der von Chevrolet Performance dokumentierte Motor (5,7 L · 350 in³; V8 · Gen I Small-Block) in der CT400-Ausführung für Ovalrennen; dieser Eintrag gilt ausschließlich für Chevrolet Performance CT400 (P/N 19435604) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 301,
+          "max": 301,
+          "rpm": {
+            "min": 5600,
+            "max": 5600
+          }
+        },
+        "torqueNm": {
+          "min": 550,
+          "max": 550,
+          "rpm": {
+            "min": 4600,
+            "max": 4600
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "Circle Track Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/racing-engines/circle-track-engines",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names CT400 and P/N 19435604; it lists 5.7 L · 350 cu in, V8 · Gen I Small-Block, 404 hp at 5,600 rpm and 406 lb-ft at 4,600 rpm. Stored metric values 301 kW and 550 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "gm-ct525",
+      "code": "CT525",
+      "aliases": [
+        "Chevrolet Performance CT525",
+        "P/N 19434598"
+      ],
+      "maker": "General Motors / Chevrolet Performance",
+      "regionKey": "usa",
+      "years": "2026 Chevrolet Performance U.S. product-page specification",
+      "displacement": "6.2 L · 376 cu in",
+      "layout": "V8 · Gen IV Small-Block",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "notSpecified",
+      "blockKey": "aluminumLiners",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Chevrolet Performance CT525 U.S. factory-sealed circle-track crate engine P/N 19434598 (2026 product-page specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "CT525 is the 6.2 L · 376 cu in V8 · Gen IV Small-Block documented by Chevrolet Performance in the exact CT525 competition specification; this record is limited to Chevrolet Performance CT525 U.S. factory-sealed circle-track crate engine P/N 19434598 (2026 product-page specification).",
+          "issues": "The manufacturer page is a product specification, so no recurring-fault or service-life claim is added; the exact build and installation history still require inspection.",
+          "pros": "The official page ties the exact marketed variant to power, torque, both engine speeds and its product identity.",
+          "cons": "The stored figures cover this U.S. Chevrolet Performance version only, not every related production-engine or aftermarket calibration."
+        },
+        "es": {
+          "construction": "CT525 es el V8 · Gen IV Small-Block de 6,2 L · 376 pulgadas cúbicas documentado por Chevrolet Performance en la versión CT525 para competición en circuitos ovales; esta ficha cubre únicamente Chevrolet Performance CT525 (P/N 19434598), según la ficha estadounidense de 2026.",
+          "issues": "La página del fabricante es una especificación de producto, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el montaje exacto y su historial.",
+          "pros": "La página oficial vincula la variante comercial exacta con la potencia, el par, ambos regímenes y su identidad de producto.",
+          "cons": "Las cifras guardadas cubren solo esta versión estadounidense de Chevrolet Performance, no todos los motores de serie o calibraciones posteriores relacionados."
+        },
+        "fr": {
+          "construction": "CT525 est le V8 · Gen IV Small-Block de 6,2 L · 376 pouces cubes documenté par Chevrolet Performance dans la version CT525 pour la compétition sur circuits ovales ; cette fiche couvre uniquement Chevrolet Performance CT525 (P/N 19434598), selon la fiche américaine de 2026.",
+          "issues": "La page constructeur est une fiche produit ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le montage précis ainsi que son historique doivent être contrôlés.",
+          "pros": "La page officielle relie la variante commerciale exacte à la puissance, au couple, aux deux régimes et à son identité produit.",
+          "cons": "Les valeurs enregistrées couvrent uniquement cette version Chevrolet Performance américaine, pas tous les moteurs de série ou calibrations ultérieures associés."
+        },
+        "de": {
+          "construction": "CT525 ist der von Chevrolet Performance dokumentierte Motor (6,2 L · 376 in³; V8 · Gen IV Small-Block) in der CT525-Ausführung für Ovalrennen; dieser Eintrag gilt ausschließlich für Chevrolet Performance CT525 (P/N 19434598) gemäß US-Produktdatenblatt von 2026.",
+          "issues": "Die Herstellerseite ist eine Produktspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Aufbau sowie Einbauhistorie müssen geprüft werden.",
+          "pros": "Die offizielle Seite verbindet die genaue Produktvariante mit Leistung, Drehmoment, beiden Drehzahlen und ihrer Produktidentität.",
+          "cons": "Die gespeicherten Werte gelten nur für diese US-Chevrolet-Performance-Version und nicht für jede verwandte Serienmotor- oder Nachrüstabstimmung."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 397,
+          "max": 397,
+          "rpm": {
+            "min": 6600,
+            "max": 6600
+          }
+        },
+        "torqueNm": {
+          "min": 647,
+          "max": 647,
+          "rpm": {
+            "min": 5200,
+            "max": 5200
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "Circle Track Crate Engines | Chevrolet Performance Parts",
+            "publisher": "Chevrolet",
+            "year": 2026,
+            "url": "https://www.chevrolet.com/performance-parts/crate-engines/racing-engines/circle-track-engines",
+            "page": 1,
+            "checkedAt": "2026-09-08",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Chevrolet Performance page names CT525 and P/N 19434598; it lists 6.2 L · 376 cu in, V8 · Gen IV Small-Block, 533 hp at 6,600 rpm and 477 lb-ft at 5,200 rpm. Stored metric values 397 kW and 647 N-m are the nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is the exact U.S. product-page version checked on 2026-09-08."
+            ]
+          }
+        ]
+      }
     }
   ]
 }
