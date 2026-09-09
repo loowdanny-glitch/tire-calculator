@@ -1684,5 +1684,2072 @@ window.AUTOHUB_ENGINE_DATA_REGIONS.europe = [
       "status": "legacyPending",
       "sources": []
     }
+  },
+  {
+    "id": "mercedes-m112-946",
+    "code": "M112.946",
+    "aliases": [
+      "M 112 E 32",
+      "112.946"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "2001-2004 main-series Mercedes-Benz C 320 Estate S 203 (Europe)",
+    "displacement": "3.2 L · 3,199 cc",
+    "layout": "90° V6 · SOHC · 18V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz C 320 Estate S 203 / 203.264 (Europe, main-series January 2001-March 2004)"
+    ],
+    "consumption": "11.3-11.4 L/100 km NEDC combined, depending on transmission",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M112.946 is the 3.2-litre naturally aspirated light-alloy V6 documented for the European C 320 Estate S 203, with three valves per cylinder, one overhead camshaft per bank, manifold injection and a duplex chain.",
+        "issues": "The archive is a factory specification, so no recurring-fault or service-life claim is added; the exact vehicle and maintenance history still require inspection.",
+        "pros": "The manufacturer archive ties the exact engine type and model designation directly to power, torque and their engine speeds.",
+        "cons": "The stored figures cover the documented C 320 Estate 203.264 specification, not every M112 application or calibration."
+      },
+      "es": {
+        "construction": "M112.946 es el V6 atmosférico de aleación ligera y 3,2 litros documentado para el C 320 Estate S 203 europeo, con tres válvulas por cilindro, un árbol de levas por bancada, inyección en colector y cadena dúplex.",
+        "issues": "El archivo es una especificación de fábrica, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el vehículo exacto y su mantenimiento.",
+        "pros": "El archivo del fabricante vincula el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas cubren la especificación documentada del C 320 Estate 203.264, no todas las aplicaciones o calibraciones M112."
+      },
+      "fr": {
+        "construction": "Le M112.946 est le V6 atmosphérique 3,2 litres à bloc léger documenté pour le C 320 Estate S 203 européen, avec trois soupapes par cylindre, un arbre à cames par banc, injection dans le collecteur et chaîne duplex.",
+        "issues": "L'archive est une fiche usine ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le véhicule précis ainsi que son entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées couvrent la spécification documentée du C 320 Estate 203.264, pas toutes les applications ou calibrations M112."
+      },
+      "de": {
+        "construction": "Der M112.946 ist der für das europäische C 320 T-Modell S 203 dokumentierte 3,2-Liter-Leichtmetall-Saug-V6 mit drei Ventilen je Zylinder, einer obenliegenden Nockenwelle je Bank, Saugrohreinspritzung und Duplexkette.",
+        "issues": "Das Archiv ist eine Werksspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Fahrzeug sowie Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten für das dokumentierte C 320 T-Modell 203.264 und nicht für jede M112-Anwendung oder Abstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 160,
+        "max": 160,
+        "rpm": {
+          "min": 5700,
+          "max": 5700
+        }
+      },
+      "torqueNm": {
+        "min": 310,
+        "max": 310,
+        "rpm": {
+          "min": 3000,
+          "max": 4600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "C 320 T-Modell",
+          "publisher": "Mercedes-Benz AG",
+          "year": 2001,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/de/instance/ko/C-320-T-Modell.xhtml?oid=5574",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 112 E 32 / 112.946 in C 320 Estate S 203 model 203.264, main-series January 2001-March 2004. It lists a 3,199 cc 90-degree light-alloy V6, manifold injection, one overhead camshaft per bank, duplex chain, 160 kW at 5,700 rpm and 310 N-m from 3,000 to 4,600 rpm. The 11.3 and 11.4 L/100 km NEDC combined values apply to the automatic and manual specifications respectively."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m272-966",
+    "code": "M272.966",
+    "aliases": [
+      "M 272 E 35",
+      "272.966"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "2006-2008 main-series Mercedes-Benz SL 350 R 230 (Europe)",
+    "displacement": "3.5 L · 3,498 cc",
+    "layout": "90° V6 · DOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz SL 350 R 230 / 230.456 (Europe, main-series February 2006-February 2008)"
+    ],
+    "consumption": "10.3 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M272.966 is the 3.5-litre naturally aspirated light-alloy V6 documented for the European SL 350 R 230, with four valves per cylinder, two variable overhead camshafts per bank, manifold injection and chain-driven intake camshafts.",
+        "issues": "The archive is a factory specification, so no recurring-fault or service-life claim is added; the exact vehicle and maintenance history still require inspection.",
+        "pros": "The manufacturer archive ties the exact engine type and model designation directly to power, torque and their engine speeds.",
+        "cons": "The stored figures cover the documented SL 350 230.456 specification, not every M272 application or calibration."
+      },
+      "es": {
+        "construction": "M272.966 es el V6 atmosférico de aleación ligera y 3,5 litros documentado para el SL 350 R 230 europeo, con cuatro válvulas por cilindro, dos árboles variables por bancada, inyección en colector y árboles de admisión por cadena.",
+        "issues": "El archivo es una especificación de fábrica, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el vehículo exacto y su mantenimiento.",
+        "pros": "El archivo del fabricante vincula el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas cubren la especificación documentada del SL 350 230.456, no todas las aplicaciones o calibraciones M272."
+      },
+      "fr": {
+        "construction": "Le M272.966 est le V6 atmosphérique 3,5 litres à bloc léger documenté pour le SL 350 R 230 européen, avec quatre soupapes par cylindre, deux arbres variables par banc, injection dans le collecteur et arbres d'admission entraînés par chaîne.",
+        "issues": "L'archive est une fiche usine ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le véhicule précis ainsi que son entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées couvrent la spécification documentée du SL 350 230.456, pas toutes les applications ou calibrations M272."
+      },
+      "de": {
+        "construction": "Der M272.966 ist der für den europäischen SL 350 R 230 dokumentierte 3,5-Liter-Leichtmetall-Saug-V6 mit vier Ventilen je Zylinder, zwei verstellbaren Nockenwellen je Bank, Saugrohreinspritzung und kettengetriebenen Einlassnockenwellen.",
+        "issues": "Das Archiv ist eine Werksspezifikation; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Fahrzeug sowie Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten für den dokumentierten SL 350 230.456 und nicht für jede M272-Anwendung oder Abstimmung."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 200,
+        "max": 200,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 350,
+        "max": 350,
+        "rpm": {
+          "min": 2400,
+          "max": 5000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "SL 350",
+          "publisher": "Mercedes-Benz AG",
+          "year": 2006,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/de/instance/ko/SL-350.xhtml?oid=2461794",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 272 E 35 / 272.966 in SL 350 R 230 model 230.456, main-series February 2006-February 2008. It lists a 3,498 cc 90-degree light-alloy V6, manifold injection, two variable overhead camshafts per bank, duplex-chain intake-cam drive, 200 kW at 6,000 rpm and 350 N-m from 2,400 to 5,000 rpm; NEDC combined consumption is 10.3 L/100 km."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m156",
+    "code": "M156",
+    "aliases": [
+      "M 156",
+      "AMG 6.3-litre V8"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "2007-version / early-2008 launch Mercedes-Benz C 63 AMG Estate S 204 (Europe)",
+    "displacement": "6.2 L · 6,208 cc",
+    "layout": "V8",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Mercedes-Benz C 63 AMG Estate S 204 (Europe, 2007 version / early-2008 launch)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M156 is the 6,208 cc naturally aspirated AMG V8 with manifold injection documented for the European C 63 AMG Estate S 204 at its early-2008 launch.",
+        "issues": "The archive pages are factory specifications, so no recurring-fault or service-life claim is added; the exact vehicle and maintenance history still require inspection.",
+        "pros": "Two manufacturer archive pages connect the M156 code and C 63 AMG Estate application with the exact engine-only power, torque and rpm figures.",
+        "cons": "The stored figures cover the documented C 63 AMG Estate S 204 launch specification, not every M156 application or later version."
+      },
+      "es": {
+        "construction": "M156 es el V8 AMG atmosférico de 6.208 cc con inyección en colector documentado para el C 63 AMG Estate S 204 europeo en su lanzamiento de comienzos de 2008.",
+        "issues": "Las páginas de archivo son especificaciones de fábrica, por lo que no se añade una avería recurrente ni una vida útil; aún debe revisarse el vehículo exacto y su mantenimiento.",
+        "pros": "Dos páginas del archivo del fabricante conectan el código M156 y el C 63 AMG Estate con la potencia, el par y los regímenes exactos del motor.",
+        "cons": "Las cifras guardadas cubren la especificación de lanzamiento documentada del C 63 AMG Estate S 204, no todas las aplicaciones o versiones M156."
+      },
+      "fr": {
+        "construction": "Le M156 est le V8 AMG atmosphérique de 6 208 cm³ à injection dans le collecteur documenté pour le C 63 AMG Estate S 204 européen lors de son lancement début 2008.",
+        "issues": "Les pages d'archive sont des fiches usine ; aucune panne récurrente ni durée de vie n'est donc ajoutée, et le véhicule précis ainsi que son entretien doivent être contrôlés.",
+        "pros": "Deux pages d'archive constructeur relient le code M156 et le C 63 AMG Estate aux valeurs exactes de puissance, couple et régimes du moteur.",
+        "cons": "Les valeurs enregistrées couvrent la spécification de lancement documentée du C 63 AMG Estate S 204, pas toutes les applications ou versions M156."
+      },
+      "de": {
+        "construction": "Der M156 ist der für das europäische C 63 AMG T-Modell S 204 zum Marktstart Anfang 2008 dokumentierte 6.208-cm³-AMG-Saug-V8 mit Saugrohreinspritzung.",
+        "issues": "Die Archivseiten sind Werksspezifikationen; deshalb werden keine wiederkehrenden Schäden oder Laufleistungen behauptet, und Fahrzeug sowie Wartungshistorie müssen geprüft werden.",
+        "pros": "Zwei Herstellerarchivseiten verbinden den Code M156 und das C 63 AMG T-Modell mit den genauen Motorwerten für Leistung, Drehmoment und Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten für die dokumentierte Markteinführung des C 63 AMG T-Modells S 204 und nicht für jede M156-Anwendung oder spätere Version."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 336,
+        "max": 336,
+        "rpm": {
+          "min": 6800,
+          "max": 6800
+        }
+      },
+      "torqueNm": {
+        "min": 600,
+        "max": 600,
+        "rpm": {
+          "min": 5000,
+          "max": 5000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "204 series C-Class Estates, 2007-2011",
+          "publisher": "Mercedes-Benz AG",
+          "year": 2008,
+          "url": "https://mercedes-benz-archive.com/marsClassic/en/instance/ko/204-series-C-Class-Estates-2007---2011.xhtml?oid=453328",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "aliases",
+            "applications",
+            "years",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official series archive says the C 63 AMG Estate launched in early 2008 with the naturally aspirated AMG 6.3-litre V8, rated 336 kW at 6,800 rpm and 600 N-m at 5,000 rpm. The alias supplies the same-source identity required for the performance claim; the separate official image record supplies the exact M156 code and 6,208 cc displacement."
+          ]
+        },
+        {
+          "type": "manufacturer",
+          "title": "C 63 AMG Estate - S 204",
+          "publisher": "Mercedes-Benz AG",
+          "year": 2007,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/picture/C-63-AMG-Estate---S-204.xhtml?oid=34580684",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "injectionKey",
+            "performance.powerKw"
+          ],
+          "pageNotes": [
+            "The official image caption identifies the 2007-version C 63 AMG Estate S 204 with V8 petrol engine M156, manifold injection, 6,208 cc and 336 kW. It establishes the exact code-to-application mapping; torque and both rpm boundaries come from the official series archive source above."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om613-961",
+    "code": "OM613.961",
+    "aliases": [
+      "OM 613 DE 32 LA",
+      "613.961"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1999-2002 main-series Mercedes-Benz S 320 CDI W 220",
+    "displacement": "3.2 L · 3,222 cc",
+    "layout": "I6 · DOHC · 24V",
+    "fuelKey": "diesel",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "commonRail",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 320 CDI W 220 / 220.026 (Europe, main-series November 1999-August 2002)"
+    ],
+    "consumption": "8.0 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM613.961 is the 3.2 L · 3,222 cc I6 · DOHC · 24V specification documented for the S 320 CDI W 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the S 320 CDI 220.026 main-series specification, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM613.961 corresponde a la especificación I6 · DOHC · 24V de 3.2 L · 3,222 cc documentada para el modelo S 320 CDI W 220; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación principal S 320 CDI 220.026, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "OM613.961 correspond à la spécification I6 · DOHC · 24V de 3.2 L · 3,222 cc documentée pour le modèle S 320 CDI W 220; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification de série S 320 CDI 220.026, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM613.961 ist die für das Modell S 320 CDI W 220 dokumentierte 3.2 L · 3,222 cc-I6 · DOHC · 24V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Hauptserien-Spezifikation des S 320 CDI 220.026 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 145,
+        "max": 145,
+        "rpm": {
+          "min": 4200,
+          "max": 4200
+        }
+      },
+      "torqueNm": {
+        "min": 470,
+        "max": 470,
+        "rpm": {
+          "min": 1800,
+          "max": 2600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 320 CDI",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1999,
+          "url": "https://mercedes-benz-archive.com/marsClassic/en/instance/ko/S-320-CDI--W-220-DE-32-LA-1999---2002.xhtml?oid=4960",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies OM 613 DE 32 LA / 613.961 in S 320 CDI model 220.026, main-series November 1999-August 2002. It specifies a 3,222 cc inline-six common-rail direct-injection turbodiesel with intercooling, four valves per cylinder, two overhead camshafts, duplex chain, 145 kW at 4,200 rpm, 470 N-m from 1,800 to 2,600 rpm and 8.0 L/100 km NEDC combined."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m112-944",
+    "code": "M112.944",
+    "aliases": [
+      "112.944"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1998-2002 main-series Mercedes-Benz S 320 W 220",
+    "displacement": "3.2 L · 3,199 cc",
+    "layout": "90° V6 · SOHC · 18V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 320 W 220 / 220.065 (Europe, main-series July 1998-August 2002)"
+    ],
+    "consumption": "11.5 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M112.944 is the 3.2 L · 3,199 cc 90° V6 · SOHC · 18V specification documented for the S 320 W 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the S 320 220.065 main-series specification, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M112.944 corresponde a la especificación 90° V6 · SOHC · 18V de 3.2 L · 3,199 cc documentada para el modelo S 320 W 220; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación principal S 320 220.065, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M112.944 correspond à la spécification 90° V6 · SOHC · 18V de 3.2 L · 3,199 cc documentée pour le modèle S 320 W 220; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification de série S 320 220.065, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M112.944 ist die für das Modell S 320 W 220 dokumentierte 3.2 L · 3,199 cc-90° V6 · SOHC · 18V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Hauptserien-Spezifikation des S 320 220.065 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 165,
+        "max": 165,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 315,
+        "max": 315,
+        "rpm": {
+          "min": 3000,
+          "max": 4800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 320",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1998,
+          "url": "https://mercedes-benz-archive.com/marsClassic/en/instance/ko/S-320--W-220-E-32-1998---2002.xhtml?oid=4965",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 112 E 32 / 112.944 in S 320 model 220.065, main-series July 1998-August 2002. It specifies a 3,199 cc 90-degree light-alloy V6 with three valves per cylinder, one overhead camshaft per bank, manifold injection, duplex chain, 165 kW at 5,600 rpm, 315 N-m from 3,000 to 4,800 rpm and 11.5 L/100 km NEDC combined."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m113-941",
+    "code": "M113.941",
+    "aliases": [
+      "M 113 E 43",
+      "113.941"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1998-2002 main-series Mercedes-Benz S 430 W 220",
+    "displacement": "4.3 L · 4,266 cc",
+    "layout": "90° V8 · SOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 430 W 220 / 220.070 (Europe, main-series September 1998-August 2002)"
+    ],
+    "consumption": "12.3 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M113.941 is the 4.3 L · 4,266 cc 90° V8 · SOHC · 24V specification documented for the S 430 W 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the S 430 220.070 main-series specification, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M113.941 corresponde a la especificación 90° V8 · SOHC · 24V de 4.3 L · 4,266 cc documentada para el modelo S 430 W 220; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación principal S 430 220.070, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M113.941 correspond à la spécification 90° V8 · SOHC · 24V de 4.3 L · 4,266 cc documentée pour le modèle S 430 W 220; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification de série S 430 220.070, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M113.941 ist die für das Modell S 430 W 220 dokumentierte 4.3 L · 4,266 cc-90° V8 · SOHC · 24V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Hauptserien-Spezifikation des S 430 220.070 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 205,
+        "max": 205,
+        "rpm": {
+          "min": 5750,
+          "max": 5750
+        }
+      },
+      "torqueNm": {
+        "min": 400,
+        "max": 400,
+        "rpm": {
+          "min": 3000,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 430",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1998,
+          "url": "https://mercedes-benz-archive.com/marsClassic/en/instance/ko/S-430--W-220-E-43-1998---2002.xhtml?oid=4958",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 113 E 43 / 113.941 in S 430 model 220.070, main-series September 1998-August 2002. It specifies a 4,266 cc 90-degree light-alloy V8 with three valves per cylinder, one overhead camshaft per bank, manifold injection, duplex chain, 205 kW at 5,750 rpm, 400 N-m from 3,000 to 4,400 rpm and 12.3 L/100 km NEDC combined."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m113-960",
+    "code": "M113.960",
+    "aliases": [
+      "M 113 E 50",
+      "113.960"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1998-2002 main-series Mercedes-Benz S 500 W 220",
+    "displacement": "5.0 L · 4,966 cc",
+    "layout": "90° V8 · SOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 500 W 220 / 220.075 (Europe, main-series September 1998-August 2002)"
+    ],
+    "consumption": "13.4 L/100 km NEDC combined without cylinder shutoff",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M113.960 is the 5.0 L · 4,966 cc 90° V8 · SOHC · 24V specification documented for the S 500 W 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the standard S 500 220.075 specification without cylinder shutoff, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M113.960 corresponde a la especificación 90° V8 · SOHC · 24V de 5.0 L · 4,966 cc documentada para el modelo S 500 W 220; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación estándar S 500 220.075 sin desconexión de cilindros, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M113.960 correspond à la spécification 90° V8 · SOHC · 24V de 5.0 L · 4,966 cc documentée pour le modèle S 500 W 220; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification standard S 500 220.075 sans désactivation des cylindres, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M113.960 ist die für das Modell S 500 W 220 dokumentierte 5.0 L · 4,966 cc-90° V8 · SOHC · 24V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Standard-Spezifikation des S 500 220.075 ohne Zylinderabschaltung und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 225,
+        "max": 225,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 460,
+        "max": 460,
+        "rpm": {
+          "min": 2700,
+          "max": 4200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 500",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1998,
+          "url": "https://mercedes-benz-archive.com/marsClassic/en/instance/ko/S-500--W-220-E-501-998---2002.xhtml?oid=4959",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 113 E 50 / 113.960 in S 500 model 220.075, main-series September 1998-August 2002. The standard specification is a 4,966 cc 90-degree light-alloy V8 with three valves per cylinder, one overhead camshaft per bank, manifold injection, duplex chain, 225 kW at 5,600 rpm, 460 N-m from 2,700 to 4,200 rpm and 13.4 L/100 km NEDC combined. The optional cylinder-shutoff output and consumption values are excluded."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m137-970",
+    "code": "M137.970",
+    "aliases": [
+      "M 137 E 58",
+      "137.970"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "2000-2002 main-series Mercedes-Benz S 600 long V 220",
+    "displacement": "5.8 L · 5,786 cc",
+    "layout": "60° V12 · SOHC · 36V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 600 long V 220 / 220.178 (Europe, main-series January 2000-August 2002)"
+    ],
+    "consumption": "13.4 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M137.970 is the 5.8 L · 5,786 cc 60° V12 · SOHC · 36V specification documented for the S 600 long V 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the S 600 long 220.178 main-series specification, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M137.970 corresponde a la especificación 60° V12 · SOHC · 36V de 5.8 L · 5,786 cc documentada para el modelo S 600 de batalla larga V 220; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación principal S 600 largo 220.178, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M137.970 correspond à la spécification 60° V12 · SOHC · 36V de 5.8 L · 5,786 cc documentée pour le modèle S 600 à empattement long V 220; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification de série S 600 longue 220.178, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M137.970 ist die für das Modell S 600 mit langem Radstand V 220 dokumentierte 5.8 L · 5,786 cc-60° V12 · SOHC · 36V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Hauptserien-Spezifikation des S 600 lang 220.178 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 270,
+        "max": 270,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 530,
+        "max": 530,
+        "rpm": {
+          "min": 4250,
+          "max": 4250
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 600 long wheelbase",
+          "publisher": "Mercedes-Benz AG",
+          "year": 2000,
+          "url": "https://mercedes-benz-archive.com/marsClassic/en/instance/ko/S-600-long-wheelbase--V-220-E-58-2000--2002.xhtml?oid=4962",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 137 E 58 / 137.970 in S 600 long model 220.178, main-series January 2000-August 2002. It specifies a 5,786 cc 60-degree light-alloy V12 with three valves per cylinder, one adjustable overhead camshaft per bank, manifold injection, duplex chain, 270 kW at 5,500 rpm, 530 N-m at 4,250 rpm and 13.4 L/100 km NEDC combined."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om628-960",
+    "code": "OM628.960",
+    "aliases": [
+      "OM 628 DE 40 LA",
+      "628.960"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "2000-2002 main-series Mercedes-Benz S 400 CDI W 220",
+    "displacement": "4.0 L · 3,996 cc",
+    "layout": "75° V8 · SOHC · 32V",
+    "fuelKey": "diesel",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "commonRail",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 400 CDI W 220 / 220.028 (Europe, main-series July 2000-August 2002)"
+    ],
+    "consumption": "9.6 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM628.960 is the 4.0 L · 3,996 cc 75° V8 · SOHC · 32V specification documented for the S 400 CDI W 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the S 400 CDI 220.028 main-series specification, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM628.960 corresponde a la especificación 75° V8 · SOHC · 32V de 4.0 L · 3,996 cc documentada para el modelo S 400 CDI W 220; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación principal S 400 CDI 220.028, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "OM628.960 correspond à la spécification 75° V8 · SOHC · 32V de 4.0 L · 3,996 cc documentée pour le modèle S 400 CDI W 220; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification de série S 400 CDI 220.028, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM628.960 ist die für das Modell S 400 CDI W 220 dokumentierte 4.0 L · 3,996 cc-75° V8 · SOHC · 32V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Hauptserien-Spezifikation des S 400 CDI 220.028 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 184,
+        "max": 184,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      },
+      "torqueNm": {
+        "min": 560,
+        "max": 560,
+        "rpm": {
+          "min": 1800,
+          "max": 2600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 400 CDI",
+          "publisher": "Mercedes-Benz AG",
+          "year": 2000,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/S-400-CDI--W-220-DE-40-LA-2000---2002.xhtml?oid=4966",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies OM 628 DE 40 LA / 628.960 in S 400 CDI model 220.028, main-series July 2000-August 2002. It specifies a 3,996 cc 75-degree light-alloy V8 common-rail direct-injection turbodiesel with intercooling, four valves per cylinder, one overhead camshaft per bank, duplex chain, 184 kW at 4,000 rpm, 560 N-m from 1,800 to 2,600 rpm and 9.6 L/100 km NEDC combined."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m112-922",
+    "code": "M112.922",
+    "aliases": [
+      "M 112 E 28",
+      "112.922"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1998-2002 main-series Mercedes-Benz S 280 W 220",
+    "displacement": "2.8 L · 2,799 cc",
+    "layout": "90° V6 · SOHC · 18V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 280 W 220 / 220.063 (selected markets, main-series December 1998-August 2002; not offered in Germany)"
+    ],
+    "consumption": "11.1 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M112.922 is the 2.8 L · 2,799 cc 90° V6 · SOHC · 18V specification documented for the S 280 W 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the selected-market S 280 220.063 main-series specification, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M112.922 corresponde a la especificación 90° V6 · SOHC · 18V de 2.8 L · 2,799 cc documentada para el modelo S 280 W 220; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación principal S 280 220.063 para mercados seleccionados, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M112.922 correspond à la spécification 90° V6 · SOHC · 18V de 2.8 L · 2,799 cc documentée pour le modèle S 280 W 220; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification de série S 280 220.063 destinée à certains marchés, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M112.922 ist die für das Modell S 280 W 220 dokumentierte 2.8 L · 2,799 cc-90° V6 · SOHC · 18V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Hauptserien-Spezifikation des S 280 220.063 für ausgewählte Märkte und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 150,
+        "max": 150,
+        "rpm": {
+          "min": 5700,
+          "max": 5700
+        }
+      },
+      "torqueNm": {
+        "min": 270,
+        "max": 270,
+        "rpm": {
+          "min": 3000,
+          "max": 5000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 280",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1998,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/S-280--W-220-E-281998---2002.xhtml?oid=4977",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 112 E 28 / 112.922 in S 280 model 220.063, main-series December 1998-August 2002, and notes that this model was not available in Germany. It specifies a 2,799 cc 90-degree light-alloy V6 with three valves per cylinder, one overhead camshaft per bank, manifold injection, duplex chain, 150 kW at 5,700 rpm, 270 N-m from 3,000 to 5,000 rpm and 11.1 L/100 km NEDC combined."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m113-986",
+    "code": "M113.986",
+    "aliases": [
+      "M 113 E 55",
+      "113.986"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1999-2002 Mercedes-Benz S 55 AMG W 220",
+    "displacement": "5.4 L · 5,439 cc",
+    "layout": "90° V8 · SOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 55 AMG W 220 / 220.075, from August 2000: 220.073 (Europe, March 1999-August 2002; complete Mercedes-Benz vehicle from September 2000)"
+    ],
+    "consumption": "13.4 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M113.986 is the 5.4 L · 5,439 cc 90° V8 · SOHC · 24V specification documented for the naturally aspirated S 55 AMG W 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the naturally aspirated S 55 AMG 220.073/220.075 specification through August 2002, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M113.986 corresponde a la especificación 90° V8 · SOHC · 24V de 5.4 L · 5,439 cc documentada para el modelo S 55 AMG W 220 con motor atmosférico; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación atmosférica S 55 AMG 220.073/220.075 hasta agosto de 2002, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M113.986 correspond à la spécification 90° V8 · SOHC · 24V de 5.4 L · 5,439 cc documentée pour le modèle S 55 AMG W 220 à moteur atmosphérique; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification atmosphérique S 55 AMG 220.073/220.075 jusqu'en août 2002, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M113.986 ist die für das Modell S 55 AMG W 220 mit Saugmotor dokumentierte 5.4 L · 5,439 cc-90° V8 · SOHC · 24V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Saugmotor-Spezifikation des S 55 AMG 220.073/220.075 bis August 2002 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 265,
+        "max": 265,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 530,
+        "max": 530,
+        "rpm": {
+          "min": 3150,
+          "max": 4500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 55 AMG",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1999,
+          "url": "https://mercedes-benz-archive.com/marsClassic/en/instance/ko/S-55-AMG--W-220-E-55-1999---2002.xhtml?oid=4968",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies naturally aspirated M 113 E 55 / 113.986 in S 55 AMG model 220.075, from August 2000 model 220.073, with production March 1999-August 2002 and complete-vehicle marketing by Mercedes-Benz from September 2000. It specifies 5,439 cc, a 90-degree light-alloy V8, three valves per cylinder, one overhead camshaft per bank, manifold injection, duplex chain, 265 kW at 5,500 rpm, 530 N-m from 3,150 to 4,500 rpm and 13.4 L/100 km NEDC combined. Later supercharged M113 calibrations are excluded.",
+            "The archive lists chassis type 220.075 before August 2000 and 220.073 from August 2000; complete-vehicle marketing by Mercedes-Benz starts separately in September 2000. Both chassis identities share the stored 113.986 rating."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m137-980",
+    "code": "M137.980",
+    "aliases": [
+      "M 137 E 63 AMG",
+      "137.980"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "2001-2002 Mercedes-Benz S 63 AMG long V 220",
+    "displacement": "6.3 L · 6,258 cc",
+    "layout": "60° V12 · SOHC · 36V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 63 AMG long V 220 / 220.178 (Europe, September 2001-2002)"
+    ],
+    "consumption": "14.1 L/100 km NEDC combined",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M137.980 is the 6.3 L · 6,258 cc 60° V12 · SOHC · 36V specification documented for the S 63 AMG long V 220; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the S 63 AMG long 220.178 specification, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M137.980 corresponde a la especificación 60° V12 · SOHC · 36V de 6.3 L · 6,258 cc documentada para el modelo S 63 AMG de batalla larga V 220; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación S 63 AMG largo 220.178, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M137.980 correspond à la spécification 60° V12 · SOHC · 36V de 6.3 L · 6,258 cc documentée pour le modèle S 63 AMG à empattement long V 220; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification S 63 AMG longue 220.178, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M137.980 ist die für das Modell S 63 AMG mit langem Radstand V 220 dokumentierte 6.3 L · 6,258 cc-60° V12 · SOHC · 36V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Spezifikation des S 63 AMG lang 220.178 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 326,
+        "max": 326,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 620,
+        "max": 620,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "S 63 AMG long wheelbase",
+          "publisher": "Mercedes-Benz AG",
+          "year": 2001,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/S-63-AMG-long-wheelbase--V-220-E-63-2001---2002.xhtml?oid=191377590",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 137 E 63 AMG / 137.980 in S 63 AMG long model 220.178, September 2001-2002. It specifies a 6,258 cc 60-degree light-alloy V12 with three valves per cylinder, one adjustable overhead camshaft per bank, manifold injection, duplex chain, 326 kW at 5,500 rpm, 620 N-m at 4,400 rpm and 14.1 L/100 km NEDC combined."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om603-971",
+    "code": "OM603.971",
+    "aliases": [
+      "OM 603 D 35 A",
+      "603.971"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1991-1994 main-series Mercedes-Benz 300 SD / S 350 Turbodiesel W 140",
+    "displacement": "3.4 L · 3,449 cc",
+    "layout": "I6 · SOHC · 12V",
+    "fuelKey": "diesel",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 300 SD / S 350 Turbodiesel W 140 / 140.134 (North America through August 1992; additional markets later; main-series October 1991-March 1994)"
+    ],
+    "consumption": "7.7 / 9.7 / 11.7 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM603.971 is the 3.4 L · 3,449 cc I6 · SOHC · 12V specification documented for the 300 SD / S 350 Turbodiesel W 140; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the 140.134 main-series specification and its documented market boundary, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM603.971 corresponde a la especificación I6 · SOHC · 12V de 3.4 L · 3,449 cc documentada para el modelo 300 SD / S 350 Turbodiesel W 140; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación principal 140.134 y su límite de mercado documentado, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "OM603.971 correspond à la spécification I6 · SOHC · 12V de 3.4 L · 3,449 cc documentée pour le modèle 300 SD / S 350 Turbodiesel W 140; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification de série 140.134 et sa limite de marché documentée, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM603.971 ist die für das Modell 300 SD / S 350 Turbodiesel W 140 dokumentierte 3.4 L · 3,449 cc-I6 · SOHC · 12V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Hauptserien-Spezifikation 140.134 und ihre dokumentierte Marktgrenze und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 110,
+        "max": 110,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      },
+      "torqueNm": {
+        "min": 310,
+        "max": 310,
+        "rpm": {
+          "min": 2000,
+          "max": 2000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 SD; from 06.1993: S 350 Turbodiesel",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1991,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-SD-from-061993-S-350-Turbodiesel--W-140-D-35-A-1991---1994.xhtml?oid=4929",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies OM 603 D 35 A / 603.971 in 300 SD / S 350 Turbodiesel model 140.134, main-series October 1991-March 1994, and notes that it was North-America-only through August 1992. It specifies a 3,449 cc inline-six with mechanical indirect injection, exhaust turbocharger, two valves per cylinder, one overhead camshaft, duplex chain, 110 kW at 4,000 rpm and 310 N-m at 2,000 rpm. Consumption is 7.7 / 9.7 / 11.7 L/100 km for 90 km/h / 120 km/h / urban cycle under 80/1268/EEC."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m104-944",
+    "code": "M104.944",
+    "aliases": [
+      "M 104 E 28",
+      "104.944"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1993-1994 main-series Mercedes-Benz 300 SE 2.8 / S 280 W 140",
+    "displacement": "2.8 L · 2,799 cc",
+    "layout": "I6 · DOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 300 SE 2.8 / S 280 W 140 / 140.028 (Europe, main-series January 1993-March 1994)"
+    ],
+    "consumption": "8.6 / 10.6 / 15.6 L/100 km at 90 km/h / 120 km/h / urban cycle (manual)",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M104.944 is the 2.8 L · 2,799 cc I6 · DOHC · 24V specification documented for the 300 SE 2.8 / S 280 W 140; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the 140.028 main-series specification, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M104.944 corresponde a la especificación I6 · DOHC · 24V de 2.8 L · 2,799 cc documentada para el modelo 300 SE 2.8 / S 280 W 140; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación principal 140.028, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M104.944 correspond à la spécification I6 · DOHC · 24V de 2.8 L · 2,799 cc documentée pour le modèle 300 SE 2.8 / S 280 W 140; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification de série 140.028, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M104.944 ist die für das Modell 300 SE 2.8 / S 280 W 140 dokumentierte 2.8 L · 2,799 cc-I6 · DOHC · 24V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die Hauptserien-Spezifikation 140.028 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 142,
+        "max": 142,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 270,
+        "max": 270,
+        "rpm": {
+          "min": 3750,
+          "max": 3750
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 SE 2.8; from 06.1993: S 280",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1993,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-SE-28-from-061993-S-280--W-140-E-28-1993---1994.xhtml?oid=4926",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 104 E 28 / 104.944 in 300 SE 2.8 / S 280 model 140.028, main-series January 1993-March 1994. It specifies a 2,799 cc inline-six with four valves per cylinder, two overhead camshafts, manifold injection, duplex chain, 142 kW at 5,500 rpm and 270 N-m at 3,750 rpm. The stored 8.6 / 10.6 / 15.6 L/100 km values are the manual-transmission 90 km/h / 120 km/h / urban cycle figures under 80/1268/EEC."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m104-990",
+    "code": "M104.990",
+    "aliases": [
+      "104.990"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1991-1993 Mercedes-Benz 300 SE / S 320 W 140 before June 1993",
+    "displacement": "3.2 L · 3,199 cc",
+    "layout": "I6 · DOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 300 SE / S 320 W 140 / 140.032 (Europe, main-series April 1991-May 1993)"
+    ],
+    "consumption": "10.3 / 12.3 / 15.8 L/100 km at 90 km/h / 120 km/h / urban cycle (4-speed automatic)",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M104.990 is the 3.2 L · 3,199 cc I6 · DOHC · 24V specification documented for the 300 SE / S 320 W 140 before June 1993; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the 140.032 M104.990 specification before the June 1993 engine change, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M104.990 corresponde a la especificación I6 · DOHC · 24V de 3.2 L · 3,199 cc documentada para el modelo 300 SE / S 320 W 140 antes de junio de 1993; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación 140.032 M104.990 anterior al cambio de motor de junio de 1993, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M104.990 correspond à la spécification I6 · DOHC · 24V de 3.2 L · 3,199 cc documentée pour le modèle 300 SE / S 320 W 140 avant juin 1993; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification 140.032 M104.990 antérieure au changement moteur de juin 1993, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M104.990 ist die für das Modell 300 SE / S 320 W 140 vor Juni 1993 dokumentierte 3.2 L · 3,199 cc-I6 · DOHC · 24V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die 140.032-M104.990-Spezifikation vor dem Motorwechsel im Juni 1993 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 170,
+        "max": 170,
+        "rpm": {
+          "min": 5800,
+          "max": 5800
+        }
+      },
+      "torqueNm": {
+        "min": 310,
+        "max": 310,
+        "rpm": {
+          "min": 4100,
+          "max": 4100
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 SE; from 06.1993: S 320",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1991,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-SE-from-061993-S-320--W-140-E-32-1991---1994.xhtml?oid=4928",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 104 E 32 / 104.990 in 300 SE / S 320 model 140.032 before June 1993, with main-series production starting April 1991. For 104.990 it specifies 3,199 cc, inline-six, four valves per cylinder, two overhead camshafts, manifold injection, duplex chain, 170 kW at 5,800 rpm and 310 N-m at 4,100 rpm. The stored 10.3 / 12.3 / 15.8 L/100 km values are the pre-June-1993 four-speed-automatic 90 km/h / 120 km/h / urban figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m104-994",
+    "code": "M104.994",
+    "aliases": [
+      "104.994"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1993-1994 Mercedes-Benz S 320 W 140 from June 1993",
+    "displacement": "3.2 L · 3,199 cc",
+    "layout": "I6 · DOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz S 320 W 140 / 140.032 (Europe, June 1993-March 1994 within the documented main series)"
+    ],
+    "consumption": "9.6 / 11.6 / 14.5 L/100 km at 90 km/h / 120 km/h / urban cycle (4-speed automatic)",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M104.994 is the 3.2 L · 3,199 cc I6 · DOHC · 24V specification documented for the S 320 W 140 from June 1993; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the 140.032 M104.994 specification from June 1993 through March 1994, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M104.994 corresponde a la especificación I6 · DOHC · 24V de 3.2 L · 3,199 cc documentada para el modelo S 320 W 140 desde junio de 1993; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación 140.032 M104.994 de junio de 1993 a marzo de 1994, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M104.994 correspond à la spécification I6 · DOHC · 24V de 3.2 L · 3,199 cc documentée pour le modèle S 320 W 140 à partir de juin 1993; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification 140.032 M104.994 de juin 1993 à mars 1994, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M104.994 ist die für das Modell S 320 W 140 ab Juni 1993 dokumentierte 3.2 L · 3,199 cc-I6 · DOHC · 24V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die 140.032-M104.994-Spezifikation von Juni 1993 bis März 1994 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 170,
+        "max": 170,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 315,
+        "max": 315,
+        "rpm": {
+          "min": 3750,
+          "max": 3750
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 SE; from 06.1993: S 320",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1993,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-SE-from-061993-S-320--W-140-E-32-1991---1994.xhtml?oid=4928",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies the successor engine type 104.994 from June 1993 in S 320 model 140.032 and ties the same change boundary to revised ratings. For 104.994 it specifies 3,199 cc, inline-six, four valves per cylinder, two overhead camshafts, manifold injection, duplex chain, 170 kW at 5,600 rpm and 315 N-m at 3,750 rpm. The stored 9.6 / 11.6 / 14.5 L/100 km values are the from-June-1993 four-speed-automatic 90 km/h / 120 km/h / urban figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m119-971",
+    "code": "M119.971",
+    "aliases": [
+      "M 119 E 42",
+      "119.971"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1991-1994 main-series Mercedes-Benz 400 SE / S 420 W 140",
+    "displacement": "4.2 L · 4,196 cc",
+    "layout": "90° V8 · DOHC · 32V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 400 SE / S 420 W 140 / 140.042 (Europe, main-series April 1991-March 1994)"
+    ],
+    "consumption": "9.7-10.1 / 11.7-12.2 / 16.0-16.7 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M119.971 is the 4.2 L · 4,196 cc 90° V8 · DOHC · 32V specification documented for the 400 SE / S 420 W 140; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the two documented M119.971 calibrations before and from September 1992, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M119.971 corresponde a la especificación 90° V8 · DOHC · 32V de 4.2 L · 4,196 cc documentada para el modelo 400 SE / S 420 W 140; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a las dos calibraciones M119.971 documentadas antes y desde septiembre de 1992, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M119.971 correspond à la spécification 90° V8 · DOHC · 32V de 4.2 L · 4,196 cc documentée pour le modèle 400 SE / S 420 W 140; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement aux deux calibrations M119.971 documentées avant et à partir de septembre 1992, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M119.971 ist die für das Modell 400 SE / S 420 W 140 dokumentierte 4.2 L · 4,196 cc-90° V8 · DOHC · 32V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die beiden dokumentierten M119.971-Abstimmungen vor und ab September 1992 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 205,
+        "max": 210,
+        "rpm": {
+          "min": 5700,
+          "max": 5700
+        }
+      },
+      "torqueNm": {
+        "min": 400,
+        "max": 410,
+        "rpm": {
+          "min": 3900,
+          "max": 3900
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "400 SE; from 06.1993: S 420",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1991,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/400-SE-from-061993-S-420--W-140-E-42-1991---1994.xhtml?oid=4927",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 119 E 42 / 119.971 in 400 SE / S 420 model 140.042, main-series April 1991-March 1994. Before September 1992 it lists 210 kW at 5,700 rpm and 410 N-m at 3,900 rpm; from September 1992 it lists 205 kW at 5,700 rpm and 400 N-m at 3,900 rpm. Those two documented calibrations form the stored ranges. The page also specifies 4,196 cc, a 90-degree light-alloy V8, four valves per cylinder, two overhead camshafts per bank, manifold injection and duplex chain."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m119-970",
+    "code": "M119.970",
+    "aliases": [
+      "M 119 E 50",
+      "119.970"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1991-1994 main-series Mercedes-Benz 500 SE / S 500 W 140",
+    "displacement": "5.0 L · 4,973 cc",
+    "layout": "90° V8 · DOHC · 32V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 500 SE / S 500 W 140 / 140.050 (Europe, main-series April 1991-March 1994)"
+    ],
+    "consumption": "10.0-10.4 / 11.9-12.3 / 17.2-17.9 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M119.970 is the 5.0 L · 4,973 cc 90° V8 · DOHC · 32V specification documented for the 500 SE / S 500 W 140; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the two documented M119.970 calibrations before and from September 1992, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M119.970 corresponde a la especificación 90° V8 · DOHC · 32V de 5.0 L · 4,973 cc documentada para el modelo 500 SE / S 500 W 140; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a las dos calibraciones M119.970 documentadas antes y desde septiembre de 1992, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M119.970 correspond à la spécification 90° V8 · DOHC · 32V de 5.0 L · 4,973 cc documentée pour le modèle 500 SE / S 500 W 140; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement aux deux calibrations M119.970 documentées avant et à partir de septembre 1992, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M119.970 ist die für das Modell 500 SE / S 500 W 140 dokumentierte 5.0 L · 4,973 cc-90° V8 · DOHC · 32V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die beiden dokumentierten M119.970-Abstimmungen vor und ab September 1992 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 235,
+        "max": 240,
+        "rpm": {
+          "min": 5600,
+          "max": 5700
+        }
+      },
+      "torqueNm": {
+        "min": 470,
+        "max": 480,
+        "rpm": {
+          "min": 3900,
+          "max": 3900
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "500 SE; from 06.1993: S 500",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1991,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/500-SE-from-061993-S-500--W-140-E-50-1991---1994.xhtml?oid=4925",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 119 E 50 / 119.970 in 500 SE / S 500 model 140.050, main-series April 1991-March 1994. Before September 1992 it lists 240 kW at 5,700 rpm and 480 N-m at 3,900 rpm; from September 1992 it lists 235 kW at 5,600 rpm and 470 N-m at 3,900 rpm. Those two documented calibrations form the stored ranges. The page also specifies 4,973 cc, a 90-degree light-alloy V8, four valves per cylinder, two overhead camshafts per bank, manifold injection and duplex chain."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m120-980",
+    "code": "M120.980",
+    "aliases": [
+      "M 120 E 60",
+      "120.980"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1991-1994 main-series Mercedes-Benz 600 SE / S 600 W 140",
+    "displacement": "6.0 L · 5,987 cc",
+    "layout": "60° V12 · DOHC · 48V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 600 SE / S 600 W 140 / 140.056 (Europe, main-series April 1991-March 1994)"
+    ],
+    "consumption": "11.8 / 13.7 / 20.7 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M120.980 is the 6.0 L · 5,987 cc 60° V12 · DOHC · 48V specification documented for the 600 SE / S 600 W 140; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the two documented M120.980 calibrations before and from September 1992, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M120.980 corresponde a la especificación 60° V12 · DOHC · 48V de 6.0 L · 5,987 cc documentada para el modelo 600 SE / S 600 W 140; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a las dos calibraciones M120.980 documentadas antes y desde septiembre de 1992, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M120.980 correspond à la spécification 60° V12 · DOHC · 48V de 6.0 L · 5,987 cc documentée pour le modèle 600 SE / S 600 W 140; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement aux deux calibrations M120.980 documentées avant et à partir de septembre 1992, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M120.980 ist die für das Modell 600 SE / S 600 W 140 dokumentierte 6.0 L · 5,987 cc-60° V12 · DOHC · 48V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die beiden dokumentierten M120.980-Abstimmungen vor und ab September 1992 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 290,
+        "max": 300,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      },
+      "torqueNm": {
+        "min": 570,
+        "max": 580,
+        "rpm": {
+          "min": 3800,
+          "max": 3800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "600 SE; from 06.1993: S 600",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1991,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/600-SE-from-061993-S-600--W-140-E-60-1991---1994.xhtml?oid=4933",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 120 E 60 / 120.980 in 600 SE / S 600 model 140.056, main-series April 1991-March 1994. Before September 1992 it lists 300 kW at 5,200 rpm and 580 N-m at 3,800 rpm; from September 1992 it lists 290 kW at 5,200 rpm and 570 N-m at 3,800 rpm. Those two documented calibrations form the stored ranges. The page also specifies 5,987 cc, a 60-degree light-alloy V12, four valves per cylinder, two overhead camshafts per bank, manifold injection and duplex chain."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m117-961",
+    "code": "M117.961",
+    "aliases": [
+      "M 117 E 50",
+      "117.961"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1980-1981 Mercedes-Benz 500 SE W 126 before October 1981",
+    "displacement": "5.0 L · 4,973 cc",
+    "layout": "90° V8 · SOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 500 SE W 126 / 126.036 (Europe, main-series January 1980-September 1981 before the 117.963 change)"
+    ],
+    "consumption": "11.3 / 13.5 / 21.2 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M117.961 is the 5.0 L · 4,973 cc 90° V8 · SOHC · 16V specification documented for the 500 SE W 126 before October 1981; the archive identifies its valve gear, fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the 126.036 M117.961 specification before the October 1981 engine change, not to every application or calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M117.961 corresponde a la especificación 90° V8 · SOHC · 16V de 5.0 L · 4,973 cc documentada para el modelo 500 SE W 126 antes de octubre de 1981; el archivo identifica la distribución, la alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la especificación 126.036 M117.961 anterior al cambio de motor de octubre de 1981, no a todas las aplicaciones o calibraciones de la familia de motores."
+      },
+      "fr": {
+        "construction": "M117.961 correspond à la spécification 90° V8 · SOHC · 16V de 5.0 L · 4,973 cc documentée pour le modèle 500 SE W 126 avant octobre 1981; l'archive identifie la distribution, l'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification 126.036 M117.961 antérieure au changement moteur d'octobre 1981, pas à toutes les applications ou calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M117.961 ist die für das Modell 500 SE W 126 vor Oktober 1981 dokumentierte 5.0 L · 4,973 cc-90° V8 · SOHC · 16V-Ausführung; das Archiv beschreibt Ventiltrieb, Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die 126.036-M117.961-Spezifikation vor dem Motorwechsel im Oktober 1981 und nicht für jede Anwendung oder Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 177,
+        "max": 177,
+        "rpm": {
+          "min": 4750,
+          "max": 4750
+        }
+      },
+      "torqueNm": {
+        "min": 404,
+        "max": 404,
+        "rpm": {
+          "min": 3200,
+          "max": 3200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "500 SE",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1980,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/500-SE--W-126-E-50-1980---1985.xhtml?oid=4847",
+          "page": 1,
+          "checkedAt": "2026-09-08",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official archive identifies M 117 E 50 / 117.961 in 500 SE model 126.036 before the October 1981 change to 117.963. For 117.961 it specifies main-series January 1980-September 1981, 4,973 cc, a 90-degree light-alloy V8, two valves per cylinder, one overhead camshaft per bank, mechanical manifold injection, duplex chain, 177 kW at 4,750 rpm, 404 N-m at 3,200 rpm and 11.3 / 13.5 / 21.2 L/100 km at 90 km/h / 120 km/h / urban cycle."
+          ]
+        }
+      ]
+    }
   }
 ];
