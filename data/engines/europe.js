@@ -3751,5 +3751,7150 @@ window.AUTOHUB_ENGINE_DATA_REGIONS.europe = [
         }
       ]
     }
+  },
+  {
+    "id": "mercedes-om601-912",
+    "code": "OM601.912",
+    "aliases": [
+      "601.912"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1985-1989 Mercedes-Benz 200 D W 124, European market",
+    "displacement": "2.0 L · 1,997 cc",
+    "layout": "I4 · SOHC · 8V",
+    "fuelKey": "diesel",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 200 D W 124 / 124.120 (Europe, main-series January 1985-August 1989)"
+    ],
+    "consumption": "5.3 / 7.0 / 7.9 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM601.912 is the 2.0 L · 1,997 cc I4 · SOHC · 8V factory specification documented for Mercedes-Benz 200 D W 124 / 124.120 (Europe, main-series January 1985-August 1989); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM601.912 corresponde a la especificación de fábrica I4 · SOHC · 8V de 2.0 L · 1,997 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM601.912 correspond à la spécification usine I4 · SOHC · 8V de 2.0 L · 1,997 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM601.912 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.0 L · 1,997 cc-I4 · SOHC · 8V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 53,
+        "max": 55,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      },
+      "torqueNm": {
+        "min": 123,
+        "max": 126,
+        "rpm": {
+          "min": 2700,
+          "max": 3550
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "200 D",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1985,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/200-D--W-124-D-20-1985---1989.xhtml?oid=5262",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM601.912 in 200 D, design W 124 D 20, type 124.120, for 1985-1989 Mercedes-Benz 200 D W 124, European market. It specifies 2.0 L · 1,997 cc, I4 · SOHC · 8V, mechanically controlled indirect diesel injection, a double roller chain, and before February 1989: 53 kW at 4,600 rpm and 123 N-m at 2,800 rpm; from February 1989: 55 kW at 4,600 rpm and 126 N-m from 2,700 to 3,550 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om602-912",
+    "code": "OM602.912",
+    "aliases": [
+      "602.912"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1985-1989 Mercedes-Benz 250 D W 124, European market",
+    "displacement": "2.5 L · 2,497 cc",
+    "layout": "I5 · SOHC · 10V",
+    "fuelKey": "diesel",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 250 D W 124 / 124.125 (Europe, main-series May 1985-August 1989)"
+    ],
+    "consumption": "5.4 / 7.0 / 8.9 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM602.912 is the 2.5 L · 2,497 cc I5 · SOHC · 10V factory specification documented for Mercedes-Benz 250 D W 124 / 124.125 (Europe, main-series May 1985-August 1989); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM602.912 corresponde a la especificación de fábrica I5 · SOHC · 10V de 2.5 L · 2,497 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM602.912 correspond à la spécification usine I5 · SOHC · 10V de 2.5 L · 2,497 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM602.912 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.5 L · 2,497 cc-I5 · SOHC · 10V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 66,
+        "max": 69,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      },
+      "torqueNm": {
+        "min": 154,
+        "max": 158,
+        "rpm": {
+          "min": 2600,
+          "max": 3100
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "250 D",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1985,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/250-D-W-124-D-25-1985---1989.xhtml?oid=5277",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM602.912 in 250 D, design W 124 D 25, type 124.125, for 1985-1989 Mercedes-Benz 250 D W 124, European market. It specifies 2.5 L · 2,497 cc, I5 · SOHC · 10V, mechanically controlled indirect diesel injection, a double roller chain, and before February 1989: 66 kW at 4,600 rpm and 154 N-m at 2,800 rpm; from February 1989: 69 kW at 4,600 rpm and 158 N-m from 2,600 to 3,100 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om603-912",
+    "code": "OM603.912",
+    "aliases": [
+      "603.912"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1985-1989 Mercedes-Benz 300 D W 124, European market",
+    "displacement": "3.0 L · 2,996 cc",
+    "layout": "I6 · SOHC · 12V",
+    "fuelKey": "diesel",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 300 D W 124 / 124.130 (Europe, main-series January 1985-August 1989)"
+    ],
+    "consumption": "5.4 / 7.0 / 9.8 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM603.912 is the 3.0 L · 2,996 cc I6 · SOHC · 12V factory specification documented for Mercedes-Benz 300 D W 124 / 124.130 (Europe, main-series January 1985-August 1989); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM603.912 corresponde a la especificación de fábrica I6 · SOHC · 12V de 3.0 L · 2,996 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM603.912 correspond à la spécification usine I6 · SOHC · 12V de 3.0 L · 2,996 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM603.912 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 3.0 L · 2,996 cc-I6 · SOHC · 12V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 80,
+        "max": 83,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      },
+      "torqueNm": {
+        "min": 185,
+        "max": 191,
+        "rpm": {
+          "min": 2800,
+          "max": 3050
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 D",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1985,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-D--W-124-D-30-1985---1989.xhtml?oid=5259",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM603.912 in 300 D, design W 124 D 30, type 124.130, for 1985-1989 Mercedes-Benz 300 D W 124, European market. It specifies 3.0 L · 2,996 cc, I6 · SOHC · 12V, mechanically controlled indirect diesel injection, a double roller chain, and before February 1989: 80 kW at 4,600 rpm and 185 N-m at 2,800 rpm; from February 1989: 83 kW at 4,600 rpm and 191 N-m from 2,800 to 3,050 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om602-962",
+    "code": "OM602.962",
+    "aliases": [
+      "602.962"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1988-1989 Mercedes-Benz 250 D Turbo W 124, European market",
+    "displacement": "2.5 L · 2,497 cc",
+    "layout": "I5 · SOHC · 10V",
+    "fuelKey": "diesel",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 250 D Turbo W 124 / 124.128 (Europe, main-series August 1988-August 1989)"
+    ],
+    "consumption": "6.0 / 7.9 / 9.2 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM602.962 is the 2.5 L · 2,497 cc I5 · SOHC · 10V factory specification documented for Mercedes-Benz 250 D Turbo W 124 / 124.128 (Europe, main-series August 1988-August 1989); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM602.962 corresponde a la especificación de fábrica I5 · SOHC · 10V de 2.5 L · 2,497 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM602.962 correspond à la spécification usine I5 · SOHC · 10V de 2.5 L · 2,497 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM602.962 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.5 L · 2,497 cc-I5 · SOHC · 10V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 93,
+        "max": 93,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      },
+      "torqueNm": {
+        "min": 231,
+        "max": 231,
+        "rpm": {
+          "min": 2800,
+          "max": 2800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "250 D Turbo",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1988,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/250-D-Turbo--W-124-D-25-A-1988---1989.xhtml?oid=5261",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM602.962 in 250 D Turbo, design W 124 D 25 A, type 124.128, for 1988-1989 Mercedes-Benz 250 D Turbo W 124, European market. It specifies 2.5 L · 2,497 cc, I5 · SOHC · 10V, mechanically controlled indirect diesel injection and an exhaust-gas turbocharger, a double roller chain, and 93 kW at 4,600 rpm and 231 N-m at 2,800 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om603-960",
+    "code": "OM603.960",
+    "aliases": [
+      "603.960"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1986-1989 Mercedes-Benz 300 D Turbo W 124, European market",
+    "displacement": "3.0 L · 2,996 cc",
+    "layout": "I6 · SOHC · 12V",
+    "fuelKey": "diesel",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 300 D Turbo W 124 / 124.133 (Europe, main-series April 1986-August 1989)"
+    ],
+    "consumption": "6.2 / 8.1 / 9.3 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM603.960 is the 3.0 L · 2,996 cc I6 · SOHC · 12V factory specification documented for Mercedes-Benz 300 D Turbo W 124 / 124.133 (Europe, main-series April 1986-August 1989); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM603.960 corresponde a la especificación de fábrica I6 · SOHC · 12V de 3.0 L · 2,996 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM603.960 correspond à la spécification usine I6 · SOHC · 12V de 3.0 L · 2,996 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM603.960 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 3.0 L · 2,996 cc-I6 · SOHC · 12V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 105,
+        "max": 108,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      },
+      "torqueNm": {
+        "min": 267,
+        "max": 273,
+        "rpm": {
+          "min": 2400,
+          "max": 2400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 D Turbo",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1986,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-D-Turbo--W-124-D-30-A-1986---1989.xhtml?oid=5270",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM603.960 in 300 D Turbo, design W 124 D 30 A, type 124.133, for 1986-1989 Mercedes-Benz 300 D Turbo W 124, European market. It specifies 3.0 L · 2,996 cc, I6 · SOHC · 12V, mechanically controlled indirect diesel injection and an exhaust-gas turbocharger, a double roller chain, and before September 1988: 105 kW at 4,600 rpm and 267 N-m at 2,400 rpm; from September 1988: 108 kW at 4,600 rpm and 273 N-m at 2,400 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m102-922",
+    "code": "M102.922",
+    "aliases": [
+      "102.922"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1985-1989 Mercedes-Benz 200 W 124, European market",
+    "displacement": "2.0 L · 1,997 cc",
+    "layout": "I4 · SOHC · 8V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 200 W 124 / 124.020 (Europe, main-series January 1985-August 1989)"
+    ],
+    "consumption": "6.7 / 8.5 / 11.2 L/100 km ECE; later 6.7 / 8.5 / 11.0 L/100 km without catalyst and 7.0 / 8.8 / 11.4 L/100 km with catalyst",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M102.922 is the 2.0 L · 1,997 cc I4 · SOHC · 8V factory specification documented for Mercedes-Benz 200 W 124 / 124.020 (Europe, main-series January 1985-August 1989); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M102.922 corresponde a la especificación de fábrica I4 · SOHC · 8V de 2.0 L · 1,997 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M102.922 correspond à la spécification usine I4 · SOHC · 8V de 2.0 L · 1,997 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M102.922 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.0 L · 1,997 cc-I4 · SOHC · 8V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 77,
+        "max": 80,
+        "rpm": {
+          "min": 5200,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 160,
+        "max": 170,
+        "rpm": {
+          "min": 2500,
+          "max": 3000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "200",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1985,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/200--W-124-V-20-1985---1989.xhtml?oid=5265",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M102.922 in 200, design W 124 V 20, type 124.020, for 1985-1989 Mercedes-Benz 200 W 124, European market. It specifies 2.0 L · 1,997 cc, I4 · SOHC · 8V, carburettor fuel delivery, a single roller chain, and ECE version: 80 kW at 5,200 rpm and 170 N-m at 2,500 rpm; from September 1986: 80 kW without catalyst or 77 kW with catalyst at 5,500 rpm, and 165 N-m without catalyst or 160 N-m with catalyst at 3,000 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m102-963",
+    "code": "M102.963",
+    "aliases": [
+      "102.963"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1985-1989 Mercedes-Benz 200 E W 124, European market",
+    "displacement": "2.0 L · 1,997 cc",
+    "layout": "I4 · SOHC · 8V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 200 E W 124 / 124.021 (Europe, main-series July 1985-August 1989)"
+    ],
+    "consumption": "6.8 / 8.7 / 11.0 L/100 km without catalyst and 7.0 / 9.0 / 11.4 L/100 km with catalyst",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M102.963 is the 2.0 L · 1,997 cc I4 · SOHC · 8V factory specification documented for Mercedes-Benz 200 E W 124 / 124.021 (Europe, main-series July 1985-August 1989); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M102.963 corresponde a la especificación de fábrica I4 · SOHC · 8V de 2.0 L · 1,997 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M102.963 correspond à la spécification usine I4 · SOHC · 8V de 2.0 L · 1,997 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M102.963 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.0 L · 1,997 cc-I4 · SOHC · 8V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 87,
+        "max": 90,
+        "rpm": {
+          "min": 5100,
+          "max": 5200
+        }
+      },
+      "torqueNm": {
+        "min": 172,
+        "max": 178,
+        "rpm": {
+          "min": 3500,
+          "max": 3500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "200 E",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1985,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/200-E--W-124-E-20-1985---1989.xhtml?oid=5266",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M102.963 in 200 E, design W 124 E 20, type 124.021, for 1985-1989 Mercedes-Benz 200 E W 124, European market. It specifies 2.0 L · 1,997 cc, I4 · SOHC · 8V, manifold petrol injection, a single roller chain, and without catalyst: 90 kW at 5,100 rpm and 178 N-m at 3,500 rpm; with catalyst: 87 kW at 5,200 rpm and 172 N-m at 3,500 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m102-982",
+    "code": "M102.982",
+    "aliases": [
+      "102.982"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1985-1989 Mercedes-Benz 230 E W 124, European market",
+    "displacement": "2.3 L · 2,299 cc",
+    "layout": "I4 · SOHC · 8V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 230 E W 124 / 124.023 (Europe, main-series January 1985-August 1989)"
+    ],
+    "consumption": "7.1 / 8.7 / 10.9 L/100 km without catalyst and 7.8 / 9.3 / 11.4 L/100 km with catalyst",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M102.982 is the 2.3 L · 2,299 cc I4 · SOHC · 8V factory specification documented for Mercedes-Benz 230 E W 124 / 124.023 (Europe, main-series January 1985-August 1989); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M102.982 corresponde a la especificación de fábrica I4 · SOHC · 8V de 2.3 L · 2,299 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M102.982 correspond à la spécification usine I4 · SOHC · 8V de 2.3 L · 2,299 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M102.982 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.3 L · 2,299 cc-I4 · SOHC · 8V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 97,
+        "max": 100,
+        "rpm": {
+          "min": 5100,
+          "max": 5100
+        }
+      },
+      "torqueNm": {
+        "min": 198,
+        "max": 205,
+        "rpm": {
+          "min": 3500,
+          "max": 3500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "230 E",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1985,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/230-E--W-124-E-23-1985---1989.xhtml?oid=5271",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M102.982 in 230 E, design W 124 E 23, type 124.023, for 1985-1989 Mercedes-Benz 230 E W 124, European market. It specifies 2.3 L · 2,299 cc, I4 · SOHC · 8V, manifold petrol injection, a single roller chain, and without catalyst: 100 kW at 5,100 rpm and 205 N-m at 3,500 rpm; with catalyst: 97 kW at 5,100 rpm and 198 N-m at 3,500 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m103-940",
+    "code": "M103.940",
+    "aliases": [
+      "103.940"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1985-1989 Mercedes-Benz 260 E W 124, European market",
+    "displacement": "2.6 L · 2,599 cc",
+    "layout": "I6 · SOHC · 12V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 260 E W 124 / 124.026 (Europe, main-series September 1985-August 1989)"
+    ],
+    "consumption": "6.9 / 8.8 / 12.4 L/100 km without catalyst and 7.2 / 9.2 / 12.9 L/100 km with catalyst",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M103.940 is the 2.6 L · 2,599 cc I6 · SOHC · 12V factory specification documented for Mercedes-Benz 260 E W 124 / 124.026 (Europe, main-series September 1985-August 1989); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M103.940 corresponde a la especificación de fábrica I6 · SOHC · 12V de 2.6 L · 2,599 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M103.940 correspond à la spécification usine I6 · SOHC · 12V de 2.6 L · 2,599 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M103.940 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.6 L · 2,599 cc-I6 · SOHC · 12V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 118,
+        "max": 122,
+        "rpm": {
+          "min": 5800,
+          "max": 5800
+        }
+      },
+      "torqueNm": {
+        "min": 220,
+        "max": 228,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "260 E",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1985,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/260-E--W-124-E-26-1985---1989.xhtml?oid=5268",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M103.940 in 260 E, design W 124 E 26, type 124.026, for 1985-1989 Mercedes-Benz 260 E W 124, European market. From September 1985 it specifies 122 kW at 5,800 rpm and 228 N-m at 4,600 rpm without catalyst, or 118 kW at 5,800 rpm and 220 N-m at 4,600 rpm with catalyst. These two main-series factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m103-980",
+    "code": "M103.980",
+    "aliases": [
+      "103.980"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1985 Mercedes-Benz 300 E W 124 ECE before September 1985",
+    "displacement": "3.0 L · 2,962 cc",
+    "layout": "I6 · SOHC · 12V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 300 E W 124 / 124.030 (Europe, main-series April-August 1985 ECE version)"
+    ],
+    "consumption": "6.5 / 8.3 / 12.1 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M103.980 is the 3.0 L · 2,962 cc I6 · SOHC · 12V factory specification documented for Mercedes-Benz 300 E W 124 / 124.030 (Europe, main-series April-August 1985 ECE version); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M103.980 corresponde a la especificación de fábrica I6 · SOHC · 12V de 3.0 L · 2,962 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M103.980 correspond à la spécification usine I6 · SOHC · 12V de 3.0 L · 2,962 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M103.980 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 3.0 L · 2,962 cc-I6 · SOHC · 12V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 140,
+        "max": 140,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 260,
+        "max": 260,
+        "rpm": {
+          "min": 4250,
+          "max": 4250
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 E",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1985,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-E--W-124-E-30-1985---1989.xhtml?oid=5272",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M103.980 in 300 E, design W 124 E 30, type 124.030, for 1985 Mercedes-Benz 300 E W 124 ECE before September 1985. It specifies 3.0 L · 2,962 cc, I6 · SOHC · 12V, manifold petrol injection, a single roller chain, and the pre-September 1985 M103.980 ECE version: 140 kW at 5,600 rpm and 260 N-m at 4,250 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m103-983",
+    "code": "M103.983",
+    "aliases": [
+      "103.983"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1985-1989 Mercedes-Benz 300 E W 124 from September 1985",
+    "displacement": "3.0 L · 2,962 cc",
+    "layout": "I6 · SOHC · 12V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 300 E W 124 / 124.030 (Europe, September 1985-August 1989 M103.983 versions)"
+    ],
+    "consumption": "6.8 / 8.7 / 12.7 L/100 km without catalyst and 7.1 / 9.1 / 13.2 L/100 km with catalyst",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M103.983 is the 3.0 L · 2,962 cc I6 · SOHC · 12V factory specification documented for Mercedes-Benz 300 E W 124 / 124.030 (Europe, September 1985-August 1989 M103.983 versions); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M103.983 corresponde a la especificación de fábrica I6 · SOHC · 12V de 3.0 L · 2,962 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M103.983 correspond à la spécification usine I6 · SOHC · 12V de 3.0 L · 2,962 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M103.983 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 3.0 L · 2,962 cc-I6 · SOHC · 12V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 132,
+        "max": 138,
+        "rpm": {
+          "min": 5700,
+          "max": 5700
+        }
+      },
+      "torqueNm": {
+        "min": 255,
+        "max": 260,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 E",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1985,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-E--W-124-E-30-1985---1989.xhtml?oid=5272",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M103.983 in 300 E, design W 124 E 30, type 124.030, for 1985-1989 Mercedes-Benz 300 E W 124 from September 1985. It specifies 3.0 L · 2,962 cc, I6 · SOHC · 12V, manifold petrol injection, a single roller chain, and from September 1985, without catalyst: 138 kW at 5,700 rpm and 260 N-m at 4,400 rpm; with catalyst: 132 kW at 5,700 rpm and 255 N-m at 4,400 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m104-980",
+    "code": "M104.980",
+    "aliases": [
+      "104.980"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1989-1992 Mercedes-Benz 300 E-24 W 124, European market",
+    "displacement": "3.0 L · 2,960 cc",
+    "layout": "I6 · DOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 300 E-24 W 124 / 124.031 (Europe, main-series August 1989-October 1992)"
+    ],
+    "consumption": "8.1 / 10.0 / 14.8 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M104.980 is the 3.0 L · 2,960 cc I6 · DOHC · 24V factory specification documented for Mercedes-Benz 300 E-24 W 124 / 124.031 (Europe, main-series August 1989-October 1992); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M104.980 corresponde a la especificación de fábrica I6 · DOHC · 24V de 3.0 L · 2,960 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M104.980 correspond à la spécification usine I6 · DOHC · 24V de 3.0 L · 2,960 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M104.980 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 3.0 L · 2,960 cc-I6 · DOHC · 24V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 162,
+        "max": 162,
+        "rpm": {
+          "min": 6400,
+          "max": 6400
+        }
+      },
+      "torqueNm": {
+        "min": 265,
+        "max": 265,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 E-24",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1989,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-E-24--W-124-E-302-1989---1992.xhtml?oid=5298",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M104.980 in 300 E-24, design W 124 E 30/2, type 124.031, for 1989-1992 Mercedes-Benz 300 E-24 W 124, European market. It specifies 3.0 L · 2,960 cc, I6 · DOHC · 24V, manifold petrol injection, a double roller chain, and 162 kW at 6,400 rpm and 265 N-m at 4,600 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m111-940",
+    "code": "M111.940",
+    "aliases": [
+      "111.940"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1992-1993 Mercedes-Benz 200 E W 124 with M 111 engine, European market",
+    "displacement": "2.0 L · 1,998 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 200 E W 124 / 124.019 with M 111 engine (Europe, main-series September 1992-July 1993)"
+    ],
+    "consumption": "6.6 / 8.0 / 11.3 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M111.940 is the 2.0 L · 1,998 cc I4 · DOHC · 16V factory specification documented for Mercedes-Benz 200 E W 124 / 124.019 with M 111 engine (Europe, main-series September 1992-July 1993); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M111.940 corresponde a la especificación de fábrica I4 · DOHC · 16V de 2.0 L · 1,998 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M111.940 correspond à la spécification usine I4 · DOHC · 16V de 2.0 L · 1,998 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M111.940 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.0 L · 1,998 cc-I4 · DOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 100,
+        "max": 100,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 190,
+        "max": 190,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "200 E (M 111 engine)",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1992,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/200-E-M-111-engine--W-124-E-202-1992---1993.xhtml?oid=5301",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M111.940 in 200 E (M 111 engine), design W 124 E 20/2, type 124.019, for 1992-1993 Mercedes-Benz 200 E W 124 with M 111 engine, European market. It specifies 2.0 L · 1,998 cc, I4 · DOHC · 16V, manifold petrol injection, a double roller chain, and 100 kW at 5,500 rpm and 190 N-m at 4,000 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m111-960",
+    "code": "M111.960",
+    "aliases": [
+      "111.960"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1992-1993 Mercedes-Benz 220 E W 124, European market",
+    "displacement": "2.2 L · 2,199 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 220 E W 124 / 124.022 (Europe, main-series September 1992-July 1993)"
+    ],
+    "consumption": "6.6 / 8.2 / 11.4 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M111.960 is the 2.2 L · 2,199 cc I4 · DOHC · 16V factory specification documented for Mercedes-Benz 220 E W 124 / 124.022 (Europe, main-series September 1992-July 1993); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M111.960 corresponde a la especificación de fábrica I4 · DOHC · 16V de 2.2 L · 2,199 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M111.960 correspond à la spécification usine I4 · DOHC · 16V de 2.2 L · 2,199 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M111.960 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.2 L · 2,199 cc-I4 · DOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 110,
+        "max": 110,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 210,
+        "max": 210,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "220 E",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1992,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/220-E--W-124-E-22-1992---1993.xhtml?oid=5293",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M111.960 in 220 E, design W 124 E 22, type 124.022, for 1992-1993 Mercedes-Benz 220 E W 124, European market. It specifies 2.2 L · 2,199 cc, I4 · DOHC · 16V, manifold petrol injection, a double roller chain, and 110 kW at 5,500 rpm and 210 N-m at 4,000 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m104-942",
+    "code": "M104.942",
+    "aliases": [
+      "104.942"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1992-1993 Mercedes-Benz 280 E W 124, European market",
+    "displacement": "2.8 L · 2,799 cc",
+    "layout": "I6 · DOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 280 E W 124 / 124.028 (Europe, main-series September 1992-July 1993)"
+    ],
+    "consumption": "7.9 / 9.6 / 14.6 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M104.942 is the 2.8 L · 2,799 cc I6 · DOHC · 24V factory specification documented for Mercedes-Benz 280 E W 124 / 124.028 (Europe, main-series September 1992-July 1993); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M104.942 corresponde a la especificación de fábrica I6 · DOHC · 24V de 2.8 L · 2,799 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M104.942 correspond à la spécification usine I6 · DOHC · 24V de 2.8 L · 2,799 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M104.942 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.8 L · 2,799 cc-I6 · DOHC · 24V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 145,
+        "max": 145,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 270,
+        "max": 270,
+        "rpm": {
+          "min": 3750,
+          "max": 3750
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "280 E",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1992,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/280-E--W-124-E-28-1992---1993.xhtml?oid=5288",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M104.942 in 280 E, design W 124 E 28, type 124.028, for 1992-1993 Mercedes-Benz 280 E W 124, European market. It specifies 2.8 L · 2,799 cc, I6 · DOHC · 24V, manifold petrol injection, a double roller chain, and 145 kW at 5,500 rpm and 270 N-m at 3,750 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m104-992",
+    "code": "M104.992",
+    "aliases": [
+      "104.992"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1992-1993 Mercedes-Benz 320 E W 124, European market",
+    "displacement": "3.2 L · 3,199 cc",
+    "layout": "I6 · DOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 320 E W 124 / 124.032 (Europe, main-series September 1992-July 1993)"
+    ],
+    "consumption": "8.2 / 10.0 / 14.7 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M104.992 is the 3.2 L · 3,199 cc I6 · DOHC · 24V factory specification documented for Mercedes-Benz 320 E W 124 / 124.032 (Europe, main-series September 1992-July 1993); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M104.992 corresponde a la especificación de fábrica I6 · DOHC · 24V de 3.2 L · 3,199 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M104.992 correspond à la spécification usine I6 · DOHC · 24V de 3.2 L · 3,199 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M104.992 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 3.2 L · 3,199 cc-I6 · DOHC · 24V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 162,
+        "max": 162,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 310,
+        "max": 310,
+        "rpm": {
+          "min": 3750,
+          "max": 3750
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "320 E",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1992,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/320-E--W-124-E-32-1992---1993.xhtml?oid=5302",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M104.992 in 320 E, design W 124 E 32, type 124.032, for 1992-1993 Mercedes-Benz 320 E W 124, European market. It specifies 3.2 L · 3,199 cc, I6 · DOHC · 24V, manifold petrol injection, a double roller chain, and 162 kW at 5,500 rpm and 310 N-m at 3,750 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m119-975",
+    "code": "M119.975",
+    "aliases": [
+      "119.975"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1991-1993 Mercedes-Benz 400 E W 124, European market",
+    "displacement": "4.2 L · 4,196 cc",
+    "layout": "90° V8 · DOHC · 32V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 400 E W 124 / 124.034 (Europe, main-series September 1991-July 1993)"
+    ],
+    "consumption": "9.4 / 11.1 / 15.0 L/100 km; from October 1992: 10.3 / 11.9 / 16.9 L/100 km",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M119.975 is the 4.2 L · 4,196 cc 90° V8 · DOHC · 32V factory specification documented for Mercedes-Benz 400 E W 124 / 124.034 (Europe, main-series September 1991-July 1993); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M119.975 corresponde a la especificación de fábrica 90° V8 · DOHC · 32V de 4.2 L · 4,196 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M119.975 correspond à la spécification usine 90° V8 · DOHC · 32V de 4.2 L · 4,196 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M119.975 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 4.2 L · 4,196 cc-90° V8 · DOHC · 32V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 205,
+        "max": 205,
+        "rpm": {
+          "min": 5700,
+          "max": 5700
+        }
+      },
+      "torqueNm": {
+        "min": 400,
+        "max": 400,
+        "rpm": {
+          "min": 3900,
+          "max": 3900
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "400 E",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1991,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/400-E--W-124-E-42-1991---1993.xhtml?oid=5291",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M119.975 in 400 E, design W 124 E 42, type 124.034, for 1991-1993 Mercedes-Benz 400 E W 124, European market. It specifies 4.2 L · 4,196 cc, 90° V8 · DOHC · 32V, manifold petrol injection, a double roller chain, and 205 kW at 5,700 rpm and 400 N-m at 3,900 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m119-974",
+    "code": "M119.974",
+    "aliases": [
+      "119.974"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1991-1993 Mercedes-Benz 500 E W 124, European market",
+    "displacement": "5.0 L · 4,973 cc",
+    "layout": "90° V8 · DOHC · 32V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 500 E W 124 / 124.036 (Europe, main-series February 1991-July 1993)"
+    ],
+    "consumption": "10.7 / 12.3 / 17.5 L/100 km; from October 1992: 10.3 / 11.9 / 16.9 L/100 km",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M119.974 is the 5.0 L · 4,973 cc 90° V8 · DOHC · 32V factory specification documented for Mercedes-Benz 500 E W 124 / 124.036 (Europe, main-series February 1991-July 1993); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M119.974 corresponde a la especificación de fábrica 90° V8 · DOHC · 32V de 5.0 L · 4,973 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M119.974 correspond à la spécification usine 90° V8 · DOHC · 32V de 5.0 L · 4,973 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M119.974 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 5.0 L · 4,973 cc-90° V8 · DOHC · 32V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 235,
+        "max": 240,
+        "rpm": {
+          "min": 5600,
+          "max": 5700
+        }
+      },
+      "torqueNm": {
+        "min": 470,
+        "max": 480,
+        "rpm": {
+          "min": 3900,
+          "max": 3900
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "500 E",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1991,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/500-E--W-124-E-50-1991---1993.xhtml?oid=5290",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M119.974 in 500 E, design W 124 E 50, type 124.036, for 1991-1993 Mercedes-Benz 500 E W 124, European market. It specifies 5.0 L · 4,973 cc, 90° V8 · DOHC · 32V, manifold petrol injection, a double roller chain, and before October 1992: 240 kW at 5,700 rpm and 480 N-m at 3,900 rpm; from October 1992: 235 kW at 5,600 rpm and 470 N-m at 3,900 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om605-911",
+    "code": "OM605.911",
+    "aliases": [
+      "605.911"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1993-1996 Mercedes-Benz E 250 Diesel W 124, European market",
+    "displacement": "2.5 L · 2,497 cc",
+    "layout": "I5 · DOHC · 20V",
+    "fuelKey": "diesel",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz E 250 Diesel W 124 / 124.126 (Europe, main-series July 1993-June 1996)"
+    ],
+    "consumption": "5.4 / 6.8 / 9.1 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM605.911 is the 2.5 L · 2,497 cc I5 · DOHC · 20V factory specification documented for Mercedes-Benz E 250 Diesel W 124 / 124.126 (Europe, main-series July 1993-June 1996); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM605.911 corresponde a la especificación de fábrica I5 · DOHC · 20V de 2.5 L · 2,497 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM605.911 correspond à la spécification usine I5 · DOHC · 20V de 2.5 L · 2,497 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM605.911 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.5 L · 2,497 cc-I5 · DOHC · 20V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 83,
+        "max": 83,
+        "rpm": {
+          "min": 5000,
+          "max": 5000
+        }
+      },
+      "torqueNm": {
+        "min": 173,
+        "max": 173,
+        "rpm": {
+          "min": 2000,
+          "max": 4600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "E 250 Diesel",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1993,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/E-250-Diesel--W-124-D-252-1993---1996.xhtml?oid=5154",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM605.911 in E 250 Diesel, design W 124 D 25/2, type 124.126, for 1993-1996 Mercedes-Benz E 250 Diesel W 124, European market. It specifies 2.5 L · 2,497 cc, I5 · DOHC · 20V, mechanically controlled indirect diesel injection, a double roller chain, and 83 kW at 5,000 rpm and 173 N-m from 2,000 to 4,600 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om606-910",
+    "code": "OM606.910",
+    "aliases": [
+      "606.910"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1993-1995 Mercedes-Benz E 300 Diesel W 124, European market",
+    "displacement": "3.0 L · 2,996 cc",
+    "layout": "I6 · DOHC · 24V",
+    "fuelKey": "diesel",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz E 300 Diesel W 124 / 124.131 (Europe, main-series July 1993-August 1995)"
+    ],
+    "consumption": "5.5 / 6.9 / 9.8 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM606.910 is the 3.0 L · 2,996 cc I6 · DOHC · 24V factory specification documented for Mercedes-Benz E 300 Diesel W 124 / 124.131 (Europe, main-series July 1993-August 1995); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM606.910 corresponde a la especificación de fábrica I6 · DOHC · 24V de 3.0 L · 2,996 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM606.910 correspond à la spécification usine I6 · DOHC · 24V de 3.0 L · 2,996 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM606.910 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 3.0 L · 2,996 cc-I6 · DOHC · 24V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 100,
+        "max": 100,
+        "rpm": {
+          "min": 5000,
+          "max": 5000
+        }
+      },
+      "torqueNm": {
+        "min": 210,
+        "max": 210,
+        "rpm": {
+          "min": 2200,
+          "max": 4600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "E 300 Diesel",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1993,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/E-300-Diesel--W-124-D-302-1993---1995.xhtml?oid=5167",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM606.910 in E 300 Diesel, design W 124 D 30/2, type 124.131, for 1993-1995 Mercedes-Benz E 300 Diesel W 124, European market. It specifies 3.0 L · 2,996 cc, I6 · DOHC · 24V, mechanically controlled indirect diesel injection, a double roller chain, and 100 kW at 5,000 rpm and 210 N-m from 2,200 to 4,600 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m102-921",
+    "code": "M102.921",
+    "aliases": [
+      "102.921"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1982-1984 Mercedes-Benz 190 W 201, European market",
+    "displacement": "2.0 L · 1,997 cc",
+    "layout": "I4 · SOHC · 8V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 190 W 201 / 201.022 (Europe, main-series October 1982-September 1984)"
+    ],
+    "consumption": "6.5 / 8.4 / 10.7 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M102.921 is the 2.0 L · 1,997 cc I4 · SOHC · 8V factory specification documented for Mercedes-Benz 190 W 201 / 201.022 (Europe, main-series October 1982-September 1984); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M102.921 corresponde a la especificación de fábrica I4 · SOHC · 8V de 2.0 L · 1,997 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M102.921 correspond à la spécification usine I4 · SOHC · 8V de 2.0 L · 1,997 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M102.921 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.0 L · 1,997 cc-I4 · SOHC · 8V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 66,
+        "max": 66,
+        "rpm": {
+          "min": 5000,
+          "max": 5000
+        }
+      },
+      "torqueNm": {
+        "min": 165,
+        "max": 165,
+        "rpm": {
+          "min": 2500,
+          "max": 2500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "190",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1982,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/190--W-201-V-20-1982---1984.xhtml?oid=5479",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M102.921 in 190, design W 201 V 20, type 201.022, for 1982-1984 Mercedes-Benz 190 W 201, European market. It specifies 2.0 L · 1,997 cc, I4 · SOHC · 8V, carburettor fuel delivery, a single roller chain, and 66 kW at 5,000 rpm and 165 N-m at 2,500 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m102-924",
+    "code": "M102.924",
+    "aliases": [
+      "102.924"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1984-1988 Mercedes-Benz 190 W 201, European market",
+    "displacement": "2.0 L · 1,997 cc",
+    "layout": "I4 · SOHC · 8V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 190 W 201 / 201.023 (Europe, main-series October 1984-August 1988)"
+    ],
+    "consumption": "6.5 / 8.3 / 10.4 L/100 km without catalyst and 6.8 / 8.7 / 10.8 L/100 km with catalyst",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M102.924 is the 2.0 L · 1,997 cc I4 · SOHC · 8V factory specification documented for Mercedes-Benz 190 W 201 / 201.023 (Europe, main-series October 1984-August 1988); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M102.924 corresponde a la especificación de fábrica I4 · SOHC · 8V de 2.0 L · 1,997 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M102.924 correspond à la spécification usine I4 · SOHC · 8V de 2.0 L · 1,997 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M102.924 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.0 L · 1,997 cc-I4 · SOHC · 8V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 75,
+        "max": 77,
+        "rpm": {
+          "min": 5200,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 160,
+        "max": 170,
+        "rpm": {
+          "min": 2500,
+          "max": 3000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "190",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1984,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/190--W-201-V-201-1984---1988.xhtml?oid=5483",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M102.924 in 190, design W 201 V 20/1, type 201.023, for 1984-1988 Mercedes-Benz 190 W 201, European market. It specifies 2.0 L · 1,997 cc, I4 · SOHC · 8V, carburettor fuel delivery, a single roller chain, and ECE version: 77 kW at 5,200 rpm and 170 N-m at 2,500 rpm; from September 1986: 77 kW without catalyst or 75 kW with catalyst at 5,500 rpm, and 165 N-m without catalyst or 160 N-m with catalyst at 3,000 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om601-911",
+    "code": "OM601.911",
+    "aliases": [
+      "601.911"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1983-1988 Mercedes-Benz 190 D W 201, European market",
+    "displacement": "2.0 L · 1,997 cc",
+    "layout": "I4 · SOHC · 8V",
+    "fuelKey": "diesel",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 190 D W 201 / 201.122 (Europe, main-series November 1983-August 1988)"
+    ],
+    "consumption": "5.3 / 6.9 / 7.5 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM601.911 is the 2.0 L · 1,997 cc I4 · SOHC · 8V factory specification documented for Mercedes-Benz 190 D W 201 / 201.122 (Europe, main-series November 1983-August 1988); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM601.911 corresponde a la especificación de fábrica I4 · SOHC · 8V de 2.0 L · 1,997 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM601.911 correspond à la spécification usine I4 · SOHC · 8V de 2.0 L · 1,997 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM601.911 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.0 L · 1,997 cc-I4 · SOHC · 8V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 53,
+        "max": 53,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      },
+      "torqueNm": {
+        "min": 123,
+        "max": 123,
+        "rpm": {
+          "min": 2800,
+          "max": 2800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "190 D",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1983,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/190-D--W-201-D-20-1983---1988.xhtml?oid=5477",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM601.911 in 190 D, design W 201 D 20, type 201.122, for 1983-1988 Mercedes-Benz 190 D W 201, European market. It specifies 2.0 L · 1,997 cc, I4 · SOHC · 8V, mechanically controlled indirect diesel injection, a double roller chain, and 53 kW at 4,600 rpm and 123 N-m at 2,800 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om601-921",
+    "code": "OM601.921",
+    "aliases": [
+      "601.921"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1983-1985 Mercedes-Benz 190 D 2.2 W 201, North American export market",
+    "displacement": "2.2 L · 2,197 cc",
+    "layout": "I4 · SOHC · 8V",
+    "fuelKey": "diesel",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 190 D 2.2 W 201 / 201.122 (North America, main-series November 1983-August 1985)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM601.921 is the 2.2 L · 2,197 cc I4 · SOHC · 8V factory specification documented for Mercedes-Benz 190 D 2.2 W 201 / 201.122 (North America, main-series November 1983-August 1985); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM601.921 corresponde a la especificación de fábrica I4 · SOHC · 8V de 2.2 L · 2,197 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM601.921 correspond à la spécification usine I4 · SOHC · 8V de 2.2 L · 2,197 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM601.921 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.2 L · 2,197 cc-I4 · SOHC · 8V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 54,
+        "max": 54,
+        "rpm": {
+          "min": 4200,
+          "max": 4200
+        }
+      },
+      "torqueNm": {
+        "min": 130,
+        "max": 130,
+        "rpm": {
+          "min": 2800,
+          "max": 2800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "190 D 2.2",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1983,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/190-D-22--W-201-D-22-1983---1985.xhtml?oid=5482",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM601.921 in 190 D 2.2, design W 201 D 22, type 201.122, for 1983-1985 Mercedes-Benz 190 D 2.2 W 201, North American export market. It specifies 2.2 L · 2,197 cc, I4 · SOHC · 8V, mechanically controlled indirect diesel injection, a double roller chain, and 54 kW at 4,200 rpm and 130 N-m at 2,800 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om602-911",
+    "code": "OM602.911",
+    "aliases": [
+      "602.911"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1985-1988 Mercedes-Benz 190 D 2.5 W 201, European market",
+    "displacement": "2.5 L · 2,497 cc",
+    "layout": "I5 · SOHC · 10V",
+    "fuelKey": "diesel",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 190 D 2.5 W 201 / 201.126 (Europe, main-series June 1985-August 1988)"
+    ],
+    "consumption": "Not stored because the archive consumption row contains an inconsistent unit label",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM602.911 is the 2.5 L · 2,497 cc I5 · SOHC · 10V factory specification documented for Mercedes-Benz 190 D 2.5 W 201 / 201.126 (Europe, main-series June 1985-August 1988); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM602.911 corresponde a la especificación de fábrica I5 · SOHC · 10V de 2.5 L · 2,497 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM602.911 correspond à la spécification usine I5 · SOHC · 10V de 2.5 L · 2,497 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM602.911 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.5 L · 2,497 cc-I5 · SOHC · 10V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 66,
+        "max": 66,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      },
+      "torqueNm": {
+        "min": 154,
+        "max": 154,
+        "rpm": {
+          "min": 2800,
+          "max": 2800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "190 D 2.5",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1985,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/190-D-25--W-201-D-25-1985---1988.xhtml?oid=5481",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM602.911 in 190 D 2.5, design W 201 D 25, type 201.126, for 1985-1988 Mercedes-Benz 190 D 2.5 W 201, European market. It specifies 2.5 L · 2,497 cc, I5 · SOHC · 10V, mechanically controlled indirect diesel injection, a double roller chain, and 66 kW at 4,600 rpm and 154 N-m at 2,800 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om602-961",
+    "code": "OM602.961",
+    "aliases": [
+      "602.961"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1986-1988 Mercedes-Benz 190 D 2.5 Turbo W 201, North American export market",
+    "displacement": "2.5 L · 2,497 cc",
+    "layout": "I5 · SOHC · 10V",
+    "fuelKey": "diesel",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 190 D 2.5 Turbo W 201 / 201.128 (North America, February 1986-August 1988)"
+    ],
+    "consumption": "6.0 / 7.9 / 8.5 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM602.961 is the 2.5 L · 2,497 cc I5 · SOHC · 10V factory specification documented for Mercedes-Benz 190 D 2.5 Turbo W 201 / 201.128 (North America, February 1986-August 1988); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM602.961 corresponde a la especificación de fábrica I5 · SOHC · 10V de 2.5 L · 2,497 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM602.961 correspond à la spécification usine I5 · SOHC · 10V de 2.5 L · 2,497 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM602.961 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.5 L · 2,497 cc-I5 · SOHC · 10V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 90,
+        "max": 90,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      },
+      "torqueNm": {
+        "min": 225,
+        "max": 225,
+        "rpm": {
+          "min": 2400,
+          "max": 2400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "190 D 2.5 Turbo",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1986,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/190-D-25-Turbo--W-201-D-25-A-1986---1988.xhtml?oid=5478",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM602.961 in 190 D 2.5 Turbo, design W 201 D 25 A, type 201.128, for 1986-1988 Mercedes-Benz 190 D 2.5 Turbo W 201, North American export market. It specifies 2.5 L · 2,497 cc, I5 · SOHC · 10V, mechanically controlled indirect diesel injection and an exhaust-gas turbocharger, a double roller chain, and 90 kW at 4,600 rpm and 225 N-m at 2,400 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m102-962",
+    "code": "M102.962",
+    "aliases": [
+      "102.962"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1982-1988 Mercedes-Benz 190 E W 201, European market",
+    "displacement": "2.0 L · 1,997 cc",
+    "layout": "I4 · SOHC · 8V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 190 E W 201 / 201.024 (Europe, main-series October 1982-August 1988)"
+    ],
+    "consumption": "6.4 / 8.3 / 10.3 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M102.962 is the 2.0 L · 1,997 cc I4 · SOHC · 8V factory specification documented for Mercedes-Benz 190 E W 201 / 201.024 (Europe, main-series October 1982-August 1988); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M102.962 corresponde a la especificación de fábrica I4 · SOHC · 8V de 2.0 L · 1,997 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M102.962 correspond à la spécification usine I4 · SOHC · 8V de 2.0 L · 1,997 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M102.962 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.0 L · 1,997 cc-I4 · SOHC · 8V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 87,
+        "max": 90,
+        "rpm": {
+          "min": 5100,
+          "max": 5100
+        }
+      },
+      "torqueNm": {
+        "min": 172,
+        "max": 178,
+        "rpm": {
+          "min": 3500,
+          "max": 3500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "190 E",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1982,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/190-E--W-201-E-20-1982---1988.xhtml?oid=5480",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M102.962 in 190 E, design W 201 E 20, type 201.024, for 1982-1988 Mercedes-Benz 190 E W 201, European market. It specifies 2.0 L · 1,997 cc, I4 · SOHC · 8V, manifold petrol injection, a single roller chain, and without catalyst: 90 kW at 5,100 rpm and 178 N-m at 3,500 rpm; with catalyst: 87 kW at 5,100 rpm and 172 N-m at 3,500 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m102-910",
+    "code": "M102.910",
+    "aliases": [
+      "102.910"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1990-1993 Mercedes-Benz 190 E 1.8 W 201, European market",
+    "displacement": "1.8 L · 1,797 cc",
+    "layout": "I4 · SOHC · 8V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 190 E 1.8 W 201 / 201.018 (Europe, main-series March 1990-August 1993)"
+    ],
+    "consumption": "7.0 / 8.8 / 11.0 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M102.910 is the 1.8 L · 1,797 cc I4 · SOHC · 8V factory specification documented for Mercedes-Benz 190 E 1.8 W 201 / 201.018 (Europe, main-series March 1990-August 1993); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M102.910 corresponde a la especificación de fábrica I4 · SOHC · 8V de 1.8 L · 1,797 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M102.910 correspond à la spécification usine I4 · SOHC · 8V de 1.8 L · 1,797 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M102.910 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 1.8 L · 1,797 cc-I4 · SOHC · 8V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 80,
+        "max": 80,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 150,
+        "max": 150,
+        "rpm": {
+          "min": 3700,
+          "max": 3700
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "190 E 1.8",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1990,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/190-E-18--W-201-E-18-1990---1993.xhtml?oid=5507",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M102.910 in 190 E 1.8, design W 201 E 18, type 201.018, for 1990-1993 Mercedes-Benz 190 E 1.8 W 201, European market. It specifies 1.8 L · 1,797 cc, I4 · SOHC · 8V, manifold petrol injection, a single roller chain, and 80 kW at 5,500 rpm and 150 N-m at 3,700 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m102-961",
+    "code": "M102.961",
+    "aliases": [
+      "102.961"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "September 1983-August 1985 Mercedes-Benz 190 E 2.3 W 201, North American export market",
+    "displacement": "2.3 L · 2,299 cc",
+    "layout": "I4 · SOHC · 8V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 190 E 2.3 W 201 (North American export market, September 1983-August 1985; M102.961)"
+    ],
+    "consumption": "6.3 / 7.7 / 11.0 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M102.961 is the 2.3 L · 2,299 cc I4 · SOHC · 8V factory specification documented for the Mercedes-Benz 190 E 2.3 W 201 exported to North America from September 1983 through August 1985; the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M102.961 corresponde a la especificación de fábrica I4 · SOHC · 8V de 2.3 L · 2,299 cc documentada para el Mercedes-Benz 190 E 2.3 W 201 exportado a Norteamérica desde septiembre de 1983 hasta agosto de 1985; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M102.961 correspond à la spécification usine I4 · SOHC · 8V de 2.3 L · 2,299 cc documentée pour la Mercedes-Benz 190 E 2.3 W 201 exportée en Amérique du Nord de septembre 1983 à août 1985 ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M102.961 ist die 2.3 L · 2,299 cc-I4 · SOHC · 8V-Werksspezifikation des von September 1983 bis August 1985 nach Nordamerika exportierten Mercedes-Benz 190 E 2.3 W 201; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 100,
+        "max": 100,
+        "rpm": {
+          "min": 5100,
+          "max": 5100
+        }
+      },
+      "torqueNm": {
+        "min": 205,
+        "max": 205,
+        "rpm": {
+          "min": 3500,
+          "max": 3500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "190 E 2.3",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1983,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/190-E-23--W-201-E-23-1983---1988.xhtml?oid=5484",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies engine type M102.961 in the 190 E 2.3, design W 201 E 23, before the change to M102.985 from September 1985. It also states that the model was supplied only for export to North America through August 1986. This record is therefore limited to the M102.961 period from September 1983 through August 1985 in the North American export market. The page specifies 2.3 L · 2,299 cc, I4 · SOHC · 8V, manifold petrol injection, a single roller chain, 100 kW at 5,100 rpm and 205 N-m at 3,500 rpm."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m102-985",
+    "code": "M102.985",
+    "aliases": [
+      "102.985"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "September 1985-August 1988 Mercedes-Benz 190 E 2.3 W 201 / 201.028; North American export market through August 1986, followed by other markets",
+    "displacement": "2.3 L · 2,299 cc",
+    "layout": "I4 · SOHC · 8V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 190 E 2.3 W 201 / 201.028 (North American export market, September 1985-August 1986; M102.985)",
+      "Mercedes-Benz 190 E 2.3 W 201 / 201.028 (other markets, September 1986-August 1988; M102.985)"
+    ],
+    "consumption": "6.3 / 7.7 / 11.0 L/100 km without catalyst and 6.5 / 8.2 / 11.0 L/100 km with catalyst",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M102.985 is the 2.3 L · 2,299 cc I4 · SOHC · 8V factory specification documented for the Mercedes-Benz 190 E 2.3 W 201 / 201.028 from September 1985 through August 1988. The model was supplied only for export to North America through August 1986; the remaining production period covers other markets. The archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M102.985 corresponde a la especificación de fábrica I4 · SOHC · 8V de 2.3 L · 2,299 cc documentada para el Mercedes-Benz 190 E 2.3 W 201 / 201.028 desde septiembre de 1985 hasta agosto de 1988. Hasta agosto de 1986, el modelo se suministró únicamente para la exportación a Norteamérica; el periodo de producción restante abarca otros mercados. El archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M102.985 correspond à la spécification usine I4 · SOHC · 8V de 2.3 L · 2,299 cc documentée pour la Mercedes-Benz 190 E 2.3 W 201 / 201.028 de septembre 1985 à août 1988. Jusqu'en août 1986, le modèle était fourni uniquement pour l'exportation vers l'Amérique du Nord ; le reste de la période de production couvre d'autres marchés. L'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M102.985 ist die 2.3 L · 2,299 cc-I4 · SOHC · 8V-Werksspezifikation des Mercedes-Benz 190 E 2.3 W 201 / 201.028 von September 1985 bis August 1988. Bis August 1986 wurde das Modell ausschließlich für den Export nach Nordamerika geliefert; der verbleibende Produktionszeitraum umfasst andere Märkte. Das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 97,
+        "max": 100,
+        "rpm": {
+          "min": 5100,
+          "max": 5100
+        }
+      },
+      "torqueNm": {
+        "min": 198,
+        "max": 205,
+        "rpm": {
+          "min": 3500,
+          "max": 3500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "190 E 2.3",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1985,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/190-E-23--W-201-E-23-1983---1988.xhtml?oid=5484",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies engine type M102.961 and the change to M102.985 from September 1985 in the 190 E 2.3, design W 201 E 23, type 201.028. It states that the model was supplied only for export to North America through August 1986; this record therefore identifies September 1985-August 1986 as the North American export period and September 1986-August 1988 as the remaining period for other markets, without claiming specific countries. The page specifies 2.3 L · 2,299 cc, I4 · SOHC · 8V, manifold petrol injection, a single roller chain, and, without catalyst, 100 kW at 5,100 rpm and 205 N-m at 3,500 rpm; with catalyst, 97 kW at 5,100 rpm and 198 N-m at 3,500 rpm. These two M102.985 factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m102-983",
+    "code": "M102.983",
+    "aliases": [
+      "102.983"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1984-1988 Mercedes-Benz 190 E 2.3-16 W 201, European market",
+    "displacement": "2.3 L · 2,299 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 190 E 2.3-16 W 201 / 201.034 (Europe, main-series September 1984-June 1988)"
+    ],
+    "consumption": "6.2 / 7.9 / 11.6 L/100 km ECE; later 6.6 / 8.2 / 12.1 L/100 km without catalyst and 7.0 / 8.7 / 12.5 L/100 km with catalyst",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M102.983 is the 2.3 L · 2,299 cc I4 · DOHC · 16V factory specification documented for Mercedes-Benz 190 E 2.3-16 W 201 / 201.034 (Europe, main-series September 1984-June 1988); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M102.983 corresponde a la especificación de fábrica I4 · DOHC · 16V de 2.3 L · 2,299 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M102.983 correspond à la spécification usine I4 · DOHC · 16V de 2.3 L · 2,299 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M102.983 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.3 L · 2,299 cc-I4 · DOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 125,
+        "max": 136,
+        "rpm": {
+          "min": 5800,
+          "max": 6200
+        }
+      },
+      "torqueNm": {
+        "min": 220,
+        "max": 235,
+        "rpm": {
+          "min": 4500,
+          "max": 4750
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "190 E 2.3-16",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1984,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/190-E-23-16--W-201-E-232-1984---1988.xhtml?oid=5476",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M102.983 in 190 E 2.3-16, design W 201 E 23/2, type 201.034, for 1984-1988 Mercedes-Benz 190 E 2.3-16 W 201, European market. It specifies 2.3 L · 2,299 cc, I4 · DOHC · 16V, manifold petrol injection, a single roller chain, and ECE version through January 1987: 136 kW at 6,200 rpm and 235 N-m at 4,500 rpm; later without catalyst: 130 kW and 230 N-m, or with catalyst: 125 kW and 220 N-m, at 5,800 and 4,750 rpm respectively. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m102-990",
+    "code": "M102.990",
+    "aliases": [
+      "102.990"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1988-1993 Mercedes-Benz 190 E 2.5-16 W 201, European market",
+    "displacement": "2.5 L · 2,498 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 190 E 2.5-16 W 201 / 201.035 (Europe, July 1988-June 1993)"
+    ],
+    "consumption": "7.0 / 8.6 / 12.9 L/100 km without catalyst and 7.3 / 9.0 / 13.3 L/100 km with catalyst",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M102.990 is the 2.5 L · 2,498 cc I4 · DOHC · 16V factory specification documented for Mercedes-Benz 190 E 2.5-16 W 201 / 201.035 (Europe, July 1988-June 1993); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M102.990 corresponde a la especificación de fábrica I4 · DOHC · 16V de 2.5 L · 2,498 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M102.990 correspond à la spécification usine I4 · DOHC · 16V de 2.5 L · 2,498 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M102.990 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.5 L · 2,498 cc-I4 · DOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 143,
+        "max": 150,
+        "rpm": {
+          "min": 6750,
+          "max": 6750
+        }
+      },
+      "torqueNm": {
+        "min": 235,
+        "max": 240,
+        "rpm": {
+          "min": 5000,
+          "max": 5500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "190 E 2.5-16",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1988,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/190-E-25-16--W-201-E-252-1988---1993.xhtml?oid=5511",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M102.990 in 190 E 2.5-16, design W 201 E 25/2, type 201.035, for 1988-1993 Mercedes-Benz 190 E 2.5-16 W 201, European market. It specifies 2.5 L · 2,498 cc, I4 · DOHC · 16V, manifold petrol injection, a double roller chain, and with catalyst: 143 kW at 6,750 rpm and 235 N-m from 5,000 to 5,500 rpm; RUF version: 150 kW at 6,750 rpm and 240 N-m over the same stated rpm band. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m102-991",
+    "code": "M102.991",
+    "aliases": [
+      "102.991"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1989 Mercedes-Benz 190 E 2.5-16 Evolution W 201, European market",
+    "displacement": "2.5 L · 2,463 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 190 E 2.5-16 Evolution W 201 / 201.036 (Europe, main-series March-May 1989)"
+    ],
+    "consumption": "7.3 / 9.0 / 13.3 L/100 km with catalyst and 7.0 / 8.6 / 12.9 L/100 km without catalyst",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M102.991 is the 2.5 L · 2,463 cc I4 · DOHC · 16V factory specification documented for Mercedes-Benz 190 E 2.5-16 Evolution W 201 / 201.036 (Europe, main-series March-May 1989); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M102.991 corresponde a la especificación de fábrica I4 · DOHC · 16V de 2.5 L · 2,463 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M102.991 correspond à la spécification usine I4 · DOHC · 16V de 2.5 L · 2,463 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M102.991 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.5 L · 2,463 cc-I4 · DOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 143,
+        "max": 150,
+        "rpm": {
+          "min": 6750,
+          "max": 6800
+        }
+      },
+      "torqueNm": {
+        "min": 235,
+        "max": 240,
+        "rpm": {
+          "min": 5000,
+          "max": 5500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "190 E 2.5-16 Evolution",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1989,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/190-E-25-16-Evolution--W-201-E-252-1989.xhtml?oid=5515",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M102.991 in 190 E 2.5-16 Evolution, design W 201 E 25/2, type 201.036, for 1989 Mercedes-Benz 190 E 2.5-16 Evolution W 201, European market. It specifies 2.5 L · 2,463 cc, I4 · DOHC · 16V, manifold petrol injection, a double roller chain, and with catalyst: 143 kW at 6,800 rpm and 235 N-m from 5,000 to 5,500 rpm; without catalyst: 150 kW at 6,750 rpm and 240 N-m over the same stated rpm band. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m102-992",
+    "code": "M102.992",
+    "aliases": [
+      "102.992"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1990 Mercedes-Benz 190 E 2.5-16 Evolution II W 201, European market",
+    "displacement": "2.5 L · 2,463 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 190 E 2.5-16 Evolution II W 201 / 201.036 (Europe, main-series May-July 1990)"
+    ],
+    "consumption": "7.3 / 9.0 / 13.3 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M102.992 is the 2.5 L · 2,463 cc I4 · DOHC · 16V factory specification documented for Mercedes-Benz 190 E 2.5-16 Evolution II W 201 / 201.036 (Europe, main-series May-July 1990); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M102.992 corresponde a la especificación de fábrica I4 · DOHC · 16V de 2.5 L · 2,463 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M102.992 correspond à la spécification usine I4 · DOHC · 16V de 2.5 L · 2,463 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M102.992 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.5 L · 2,463 cc-I4 · DOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 173,
+        "max": 173,
+        "rpm": {
+          "min": 7200,
+          "max": 7200
+        }
+      },
+      "torqueNm": {
+        "min": 245,
+        "max": 245,
+        "rpm": {
+          "min": 5000,
+          "max": 6000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "190 E 2.5-16 Evolution II",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1990,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/190-E-25-16-Evolution-II--W-201-E-252-1990.xhtml?oid=5505",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M102.992 in 190 E 2.5-16 Evolution II, design W 201 E 25/2, type 201.036, for 1990 Mercedes-Benz 190 E 2.5-16 Evolution II W 201, European market. It specifies 2.5 L · 2,463 cc, I4 · DOHC · 16V, manifold petrol injection, a single roller chain, and 173 kW at 7,200 rpm and 245 N-m from 5,000 to 6,000 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m103-942",
+    "code": "M103.942",
+    "aliases": [
+      "103.942"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1986-1988 Mercedes-Benz 190 E 2.6 W 201, European market",
+    "displacement": "2.6 L · 2,599 cc",
+    "layout": "I6 · SOHC · 12V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 190 E 2.6 W 201 / 201.029 (Europe, April 1986-August 1988)"
+    ],
+    "consumption": "6.7 / 8.5 / 12.5 L/100 km without catalyst and 7.0 / 8.9 / 13.0 L/100 km with catalyst",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M103.942 is the 2.6 L · 2,599 cc I6 · SOHC · 12V factory specification documented for Mercedes-Benz 190 E 2.6 W 201 / 201.029 (Europe, April 1986-August 1988); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M103.942 corresponde a la especificación de fábrica I6 · SOHC · 12V de 2.6 L · 2,599 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M103.942 correspond à la spécification usine I6 · SOHC · 12V de 2.6 L · 2,599 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M103.942 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.6 L · 2,599 cc-I6 · SOHC · 12V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 118,
+        "max": 122,
+        "rpm": {
+          "min": 5800,
+          "max": 5800
+        }
+      },
+      "torqueNm": {
+        "min": 220,
+        "max": 228,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "190 E 2.6",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1986,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/190-E-26--W-201-E-26-1986---1988.xhtml?oid=5475",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M103.942 in 190 E 2.6, design W 201 E 26, type 201.029, for 1986-1988 Mercedes-Benz 190 E 2.6 W 201, European market. It specifies 2.6 L · 2,599 cc, I6 · SOHC · 12V, manifold petrol injection, a single roller chain, and without catalyst: 122 kW at 5,800 rpm and 228 N-m at 4,600 rpm; with catalyst: 118 kW at 5,800 rpm and 220 N-m at 4,600 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m110-924",
+    "code": "M110.924",
+    "aliases": [
+      "110.924"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1979-1981 Mercedes-Benz 280 S W 126 before October 1981",
+    "displacement": "2.7 L · 2,746 cc",
+    "layout": "I6 · DOHC · 12V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 280 S W 126 / 126.021 (Europe, main-series December 1979-September 1981 M110.924 version)"
+    ],
+    "consumption": "8.9 / 11.1 / 16.9 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M110.924 is the 2.7 L · 2,746 cc I6 · DOHC · 12V factory specification documented for Mercedes-Benz 280 S W 126 / 126.021 (Europe, main-series December 1979-September 1981 M110.924 version); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M110.924 corresponde a la especificación de fábrica I6 · DOHC · 12V de 2.7 L · 2,746 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M110.924 correspond à la spécification usine I6 · DOHC · 12V de 2.7 L · 2,746 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M110.924 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.7 L · 2,746 cc-I6 · DOHC · 12V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 115,
+        "max": 115,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 223,
+        "max": 223,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "280 S",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1979,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/280-S--W-126-V-28-1979---1985.xhtml?oid=4852",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M110.924 in 280 S, design W 126 V 28, type 126.021, for 1979-1981 Mercedes-Benz 280 S W 126 before October 1981. It specifies 2.7 L · 2,746 cc, I6 · DOHC · 12V, carburettor fuel delivery, a double roller chain, and the pre-October 1981 M110.924 version: 115 kW at 5,500 rpm and 223 N-m at 4,000 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m110-926",
+    "code": "M110.926",
+    "aliases": [
+      "110.926"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1981-1985 Mercedes-Benz 280 S W 126 from October 1981",
+    "displacement": "2.7 L · 2,746 cc",
+    "layout": "I6 · DOHC · 12V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 280 S W 126 / 126.021 (Europe, October 1981-November 1985 M110.926 version)"
+    ],
+    "consumption": "8.9 / 10.9 / 14.5 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M110.926 is the 2.7 L · 2,746 cc I6 · DOHC · 12V factory specification documented for Mercedes-Benz 280 S W 126 / 126.021 (Europe, October 1981-November 1985 M110.926 version); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M110.926 corresponde a la especificación de fábrica I6 · DOHC · 12V de 2.7 L · 2,746 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M110.926 correspond à la spécification usine I6 · DOHC · 12V de 2.7 L · 2,746 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M110.926 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.7 L · 2,746 cc-I6 · DOHC · 12V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 115,
+        "max": 115,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 223,
+        "max": 223,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "280 S",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1981,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/280-S--W-126-V-28-1979---1985.xhtml?oid=4852",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M110.926 in 280 S, design W 126 V 28, type 126.021, for 1981-1985 Mercedes-Benz 280 S W 126 from October 1981. It specifies 2.7 L · 2,746 cc, I6 · DOHC · 12V, carburettor fuel delivery, a double roller chain, and the M110.926 version from October 1981: 115 kW at 5,500 rpm and 223 N-m at 4,000 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m110-987",
+    "code": "M110.987",
+    "aliases": [
+      "110.987"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1979-1981 Mercedes-Benz 280 SE W 126 before October 1981",
+    "displacement": "2.7 L · 2,746 cc",
+    "layout": "I6 · DOHC · 12V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 280 SE W 126 / 126.022 (Europe, main-series December 1979-September 1981 M110.987 version)"
+    ],
+    "consumption": "9.1 / 11.3 / 17.3 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M110.987 is the 2.7 L · 2,746 cc I6 · DOHC · 12V factory specification documented for Mercedes-Benz 280 SE W 126 / 126.022 (Europe, main-series December 1979-September 1981 M110.987 version); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M110.987 corresponde a la especificación de fábrica I6 · DOHC · 12V de 2.7 L · 2,746 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M110.987 correspond à la spécification usine I6 · DOHC · 12V de 2.7 L · 2,746 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M110.987 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.7 L · 2,746 cc-I6 · DOHC · 12V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 136,
+        "max": 136,
+        "rpm": {
+          "min": 5800,
+          "max": 5800
+        }
+      },
+      "torqueNm": {
+        "min": 240,
+        "max": 240,
+        "rpm": {
+          "min": 4500,
+          "max": 4500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "280 SE",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1979,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/280-SE--W-126-E-28-1979---1985.xhtml?oid=4853",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M110.987 in 280 SE, design W 126 E 28, type 126.022, for 1979-1981 Mercedes-Benz 280 SE W 126 before October 1981. It specifies 2.7 L · 2,746 cc, I6 · DOHC · 12V, manifold petrol injection, a double roller chain, and the pre-October 1981 M110.987 version: 136 kW at 5,800 rpm and 240 N-m at 4,500 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m110-989",
+    "code": "M110.989",
+    "aliases": [
+      "110.989"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1981-1985 Mercedes-Benz 280 SE W 126 from October 1981",
+    "displacement": "2.7 L · 2,746 cc",
+    "layout": "I6 · DOHC · 12V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 280 SE W 126 / 126.022 (Europe, October 1981-September 1985 M110.989 version)"
+    ],
+    "consumption": "9.0 / 11.2 / 14.6 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M110.989 is the 2.7 L · 2,746 cc I6 · DOHC · 12V factory specification documented for Mercedes-Benz 280 SE W 126 / 126.022 (Europe, October 1981-September 1985 M110.989 version); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M110.989 corresponde a la especificación de fábrica I6 · DOHC · 12V de 2.7 L · 2,746 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M110.989 correspond à la spécification usine I6 · DOHC · 12V de 2.7 L · 2,746 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M110.989 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.7 L · 2,746 cc-I6 · DOHC · 12V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 136,
+        "max": 136,
+        "rpm": {
+          "min": 5800,
+          "max": 5800
+        }
+      },
+      "torqueNm": {
+        "min": 240,
+        "max": 240,
+        "rpm": {
+          "min": 4500,
+          "max": 4500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "280 SE",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1981,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/280-SE--W-126-E-28-1979---1985.xhtml?oid=4853",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M110.989 in 280 SE, design W 126 E 28, type 126.022, for 1981-1985 Mercedes-Benz 280 SE W 126 from October 1981. It specifies 2.7 L · 2,746 cc, I6 · DOHC · 12V, manifold petrol injection, a double roller chain, and the M110.989 version from October 1981: 136 kW at 5,800 rpm and 240 N-m at 4,500 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om617-951",
+    "code": "OM617.951",
+    "aliases": [
+      "617.951"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1980-1985 Mercedes-Benz 300 SD Turbodiesel W 126, North American export market",
+    "displacement": "3.0 L · 2,998 cc",
+    "layout": "I5 · SOHC · 10V",
+    "fuelKey": "diesel",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 300 SD Turbodiesel W 126 / 126.120 (North America, main-series October 1980-August 1985)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM617.951 is the 3.0 L · 2,998 cc I5 · SOHC · 10V factory specification documented for Mercedes-Benz 300 SD Turbodiesel W 126 / 126.120 (North America, main-series October 1980-August 1985); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM617.951 corresponde a la especificación de fábrica I5 · SOHC · 10V de 3.0 L · 2,998 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM617.951 correspond à la spécification usine I5 · SOHC · 10V de 3.0 L · 2,998 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM617.951 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 3.0 L · 2,998 cc-I5 · SOHC · 10V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 89,
+        "max": 92,
+        "rpm": {
+          "min": 4350,
+          "max": 4350
+        }
+      },
+      "torqueNm": {
+        "min": 230,
+        "max": 250,
+        "rpm": {
+          "min": 2400,
+          "max": 2400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 SD Turbodiesel",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1980,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-SD-Turbodiesel--W-126-D-30-A-1980---1985.xhtml?oid=4858",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM617.951 in 300 SD Turbodiesel, design W 126 D 30 A, type 126.120, for 1980-1985 Mercedes-Benz 300 SD Turbodiesel W 126, North American export market. It specifies 3.0 L · 2,998 cc, I5 · SOHC · 10V, mechanically controlled indirect diesel injection and an exhaust-gas turbocharger, a double roller chain, and before October 1982: 89 kW at 4,350 rpm and 230 N-m at 2,400 rpm; from October 1982: 92 kW at 4,350 rpm and 250 N-m at 2,400 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m116-961",
+    "code": "M116.961",
+    "aliases": [
+      "116.961"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1980-1981 Mercedes-Benz 380 SE W 126 before October 1981",
+    "displacement": "3.8 L · 3,818 cc",
+    "layout": "90° V8 · SOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 380 SE W 126 / 126.032 (Europe, main-series January 1980-September 1981 M116.961 version)"
+    ],
+    "consumption": "11.1 / 13.3 / 18.8 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M116.961 is the 3.8 L · 3,818 cc 90° V8 · SOHC · 16V factory specification documented for Mercedes-Benz 380 SE W 126 / 126.032 (Europe, main-series January 1980-September 1981 M116.961 version); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M116.961 corresponde a la especificación de fábrica 90° V8 · SOHC · 16V de 3.8 L · 3,818 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M116.961 correspond à la spécification usine 90° V8 · SOHC · 16V de 3.8 L · 3,818 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M116.961 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 3.8 L · 3,818 cc-90° V8 · SOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 160,
+        "max": 160,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 305,
+        "max": 305,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "380 SE",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1980,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/380-SE--W-126-E-38-1980---1985.xhtml?oid=4855",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M116.961 in 380 SE, design W 126 E 38, type 126.032, for 1980-1981 Mercedes-Benz 380 SE W 126 before October 1981. It specifies 3.8 L · 3,818 cc, 90° V8 · SOHC · 16V, manifold petrol injection, a double roller chain, and the pre-October 1981 M116.961 version: 160 kW at 5,500 rpm and 305 N-m at 4,000 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m116-963",
+    "code": "M116.963",
+    "aliases": [
+      "116.963"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1981-1985 Mercedes-Benz 380 SE W 126 from October 1981",
+    "displacement": "3.8 L · 3,839 cc",
+    "layout": "90° V8 · SOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 380 SE W 126 / 126.032 (Europe, October 1981-November 1985 M116.963 version)"
+    ],
+    "consumption": "8.7 / 10.8 / 13.9 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M116.963 is the 3.8 L · 3,839 cc 90° V8 · SOHC · 16V factory specification documented for Mercedes-Benz 380 SE W 126 / 126.032 (Europe, October 1981-November 1985 M116.963 version); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M116.963 corresponde a la especificación de fábrica 90° V8 · SOHC · 16V de 3.8 L · 3,839 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M116.963 correspond à la spécification usine 90° V8 · SOHC · 16V de 3.8 L · 3,839 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M116.963 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 3.8 L · 3,839 cc-90° V8 · SOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 150,
+        "max": 150,
+        "rpm": {
+          "min": 5250,
+          "max": 5250
+        }
+      },
+      "torqueNm": {
+        "min": 315,
+        "max": 315,
+        "rpm": {
+          "min": 3250,
+          "max": 3250
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "380 SE",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1981,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/380-SE--W-126-E-38-1980---1985.xhtml?oid=4855",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M116.963 in 380 SE, design W 126 E 38, type 126.032, for 1981-1985 Mercedes-Benz 380 SE W 126 from October 1981. It specifies 3.8 L · 3,839 cc, 90° V8 · SOHC · 16V, manifold petrol injection, a double roller chain, and the M116.963 version from October 1981: 150 kW at 5,250 rpm and 315 N-m at 3,250 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m117-963",
+    "code": "M117.963",
+    "aliases": [
+      "117.963"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1981-1985 Mercedes-Benz 500 SE W 126 from October 1981",
+    "displacement": "5.0 L · 4,973 cc",
+    "layout": "90° V8 · SOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 500 SE W 126 / 126.036 (Europe, October 1981-September 1985 M117.963 version)"
+    ],
+    "consumption": "9.1 / 11.4 / 15.2 L/100 km at 90 km/h / 120 km/h / urban cycle",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M117.963 is the 5.0 L · 4,973 cc 90° V8 · SOHC · 16V factory specification documented for Mercedes-Benz 500 SE W 126 / 126.036 (Europe, October 1981-September 1985 M117.963 version); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M117.963 corresponde a la especificación de fábrica 90° V8 · SOHC · 16V de 5.0 L · 4,973 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M117.963 correspond à la spécification usine 90° V8 · SOHC · 16V de 5.0 L · 4,973 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M117.963 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 5.0 L · 4,973 cc-90° V8 · SOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 170,
+        "max": 170,
+        "rpm": {
+          "min": 4750,
+          "max": 4750
+        }
+      },
+      "torqueNm": {
+        "min": 405,
+        "max": 405,
+        "rpm": {
+          "min": 3000,
+          "max": 3000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "500 SE",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1981,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/500-SE--W-126-E-50-1980---1985.xhtml?oid=4847",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M117.963 in 500 SE, design W 126 E 50, type 126.036, for 1981-1985 Mercedes-Benz 500 SE W 126 from October 1981. It specifies 5.0 L · 4,973 cc, 90° V8 · SOHC · 16V, manifold petrol injection, a double roller chain, and the M117.963 version from October 1981: 170 kW at 4,750 rpm and 405 N-m at 3,000 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m103-941",
+    "code": "M103.941",
+    "aliases": [
+      "103.941"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1985-1991 Mercedes-Benz 260 SE W 126, European market",
+    "displacement": "2.6 L · 2,599 cc",
+    "layout": "I6 · SOHC · 12V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 260 SE W 126 / 126.020 (Europe, main-series October 1985-February 1991)"
+    ],
+    "consumption": "7.4 / 9.6 / 13.8 L/100 km without catalyst and 7.7 / 10.1 / 14.3 L/100 km with catalyst",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M103.941 is the 2.6 L · 2,599 cc I6 · SOHC · 12V factory specification documented for Mercedes-Benz 260 SE W 126 / 126.020 (Europe, main-series October 1985-February 1991); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M103.941 corresponde a la especificación de fábrica I6 · SOHC · 12V de 2.6 L · 2,599 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M103.941 correspond à la spécification usine I6 · SOHC · 12V de 2.6 L · 2,599 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M103.941 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 2.6 L · 2,599 cc-I6 · SOHC · 12V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 118,
+        "max": 122,
+        "rpm": {
+          "min": 5800,
+          "max": 5800
+        }
+      },
+      "torqueNm": {
+        "min": 220,
+        "max": 228,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "260 SE",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1985,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/260-SE--W-126-E-26-1985---1991.xhtml?oid=4993",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M103.941 in 260 SE, design W 126 E 26, type 126.020, for 1985-1991 Mercedes-Benz 260 SE W 126, European market. It specifies 2.6 L · 2,599 cc, I6 · SOHC · 12V, manifold petrol injection, a single roller chain, and without catalyst: 122 kW at 5,800 rpm and 228 N-m at 4,600 rpm; with catalyst: 118 kW at 5,800 rpm and 220 N-m at 4,600 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m103-981",
+    "code": "M103.981",
+    "aliases": [
+      "103.981"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1985-1991 Mercedes-Benz 300 SE W 126, European market",
+    "displacement": "3.0 L · 2,962 cc",
+    "layout": "I6 · SOHC · 12V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 300 SE W 126 / 126.024 (Europe, main-series September 1985-October 1991)"
+    ],
+    "consumption": "7.6 / 9.7 / 14.1 L/100 km without catalyst and 8.0 / 10.3 / 14.5 L/100 km with catalyst",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M103.981 is the 3.0 L · 2,962 cc I6 · SOHC · 12V factory specification documented for Mercedes-Benz 300 SE W 126 / 126.024 (Europe, main-series September 1985-October 1991); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M103.981 corresponde a la especificación de fábrica I6 · SOHC · 12V de 3.0 L · 2,962 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M103.981 correspond à la spécification usine I6 · SOHC · 12V de 3.0 L · 2,962 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M103.981 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 3.0 L · 2,962 cc-I6 · SOHC · 12V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 132,
+        "max": 138,
+        "rpm": {
+          "min": 5700,
+          "max": 5700
+        }
+      },
+      "torqueNm": {
+        "min": 255,
+        "max": 260,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 SE",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1985,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-SE--W-126-E-30-1985---1991.xhtml?oid=4981",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M103.981 in 300 SE, design W 126 E 30, type 126.024, for 1985-1991 Mercedes-Benz 300 SE W 126, European market. It specifies 3.0 L · 2,962 cc, I6 · SOHC · 12V, manifold petrol injection, a single roller chain, and without catalyst: 138 kW at 5,700 rpm and 260 N-m at 4,400 rpm; with catalyst: 132 kW at 5,700 rpm and 255 N-m at 4,400 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om603-961",
+    "code": "OM603.961",
+    "aliases": [
+      "603.961"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "1985-1987 Mercedes-Benz 300 SDL Turbodiesel V 126, North American export market",
+    "displacement": "3.0 L · 2,996 cc",
+    "layout": "I6 · SOHC · 12V",
+    "fuelKey": "diesel",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 300 SDL Turbodiesel V 126 / 126.125 (North America, February 1985-September 1987)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM603.961 is the 3.0 L · 2,996 cc I6 · SOHC · 12V factory specification documented for Mercedes-Benz 300 SDL Turbodiesel V 126 / 126.125 (North America, February 1985-September 1987); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine type and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM603.961 corresponde a la especificación de fábrica I6 · SOHC · 12V de 3.0 L · 2,996 cc documentada para el modelo y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente el tipo de motor y el modelo exactos con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM603.961 correspond à la spécification usine I6 · SOHC · 12V de 3.0 L · 2,996 cc documentée pour le modèle et la période indiqués; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement le type moteur et le modèle exacts à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM603.961 ist die für das angegebene Modell und den dokumentierten Zeitraum geltende 3.0 L · 2,996 cc-I6 · SOHC · 12V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet Motortyp und Baumuster direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 110,
+        "max": 110,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      },
+      "torqueNm": {
+        "min": 273,
+        "max": 273,
+        "rpm": {
+          "min": 2400,
+          "max": 2400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 SDL Turbodiesel",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1985,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-SDL-Turbodiesel--V-126-D-30-A-1985---1987.xhtml?oid=4991",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM603.961 in 300 SDL Turbodiesel, design V 126 D 30 A, type 126.125, for 1985-1987 Mercedes-Benz 300 SDL Turbodiesel V 126, North American export market. It specifies 3.0 L · 2,996 cc, I6 · SOHC · 12V, mechanically controlled indirect diesel injection and an exhaust-gas turbocharger, a double roller chain, and 110 kW at 4,600 rpm and 273 N-m at 2,400 rpm. These named factory versions form the stored performance range."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m116-965",
+    "code": "M116.965",
+    "aliases": [
+      "116.965"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "September 1985-December 1991 Mercedes-Benz 420 SE W 126 / 126.034",
+    "displacement": "4.2 L · 4,196 cc",
+    "layout": "V8 · SOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 420 SE W 126 / 126.034 (main-series September 1985-December 1991)"
+    ],
+    "consumption": "Before September 1987: 8.9 / 11.0 / 14.6 L/100 km without catalyst and 9.3 / 11.6 / 14.9 L/100 km with catalyst; from September 1987: 8.7 / 10.7 / 15.1 and 9.1 / 11.3 / 15.4 L/100 km respectively",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M116.965 is the 4.2 L · 4,196 cc V8 · SOHC · 16V factory specification documented for Mercedes-Benz 420 SE W 126 / 126.034 (main-series September 1985-December 1991); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M116.965 corresponde a la especificación de fábrica V8 · SOHC · 16V de 4.2 L · 4,196 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M116.965 correspond à la spécification usine V8 · SOHC · 16V de 4.2 L · 4,196 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M116.965 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 4.2 L · 4,196 cc-V8 · SOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 150,
+        "max": 170,
+        "rpm": {
+          "min": 5200,
+          "max": 5400
+        }
+      },
+      "torqueNm": {
+        "min": 310,
+        "max": 335,
+        "rpm": {
+          "min": 3600,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "420 SE",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1985,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/420-SE--W-126-E-42-1985---1991.xhtml?oid=4983",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 116 E 42 / 116.965 in 420 SE, design W 126 E 42, type 126.034, for main-series September 1985-December 1991. It specifies 4,196 cc, V8 SOHC 16V construction, manifold injection and a double roller chain, and before September 1987, 160 kW at 5,200 rpm and 330 N-m at 3,750 rpm without catalyst or 150 kW at 5,200 rpm and 310 N-m at 3,600 rpm with catalyst; from September 1987, 170 kW at 5,400 rpm and 335 N-m at 4,000 rpm without catalyst or 165 kW at 5,400 rpm and 325 N-m at 4,000 rpm with catalyst. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m117-965",
+    "code": "M117.965",
+    "aliases": [
+      "117.965"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "September 1985-August 1991 Mercedes-Benz 500 SE W 126 / 126.036",
+    "displacement": "5.0 L · 4,973 cc",
+    "layout": "V8 · SOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 500 SE W 126 / 126.036 (main-series September 1985-August 1991)"
+    ],
+    "consumption": "Before September 1987: 9.1 / 11.4 / 15.4 L/100 km without catalyst and 9.6 / 12.0 / 15.9 L/100 km with catalyst; from September 1987: 8.8 / 11.1 / 15.8 and 9.4 / 11.7 / 16.2 L/100 km respectively",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M117.965 is the 5.0 L · 4,973 cc V8 · SOHC · 16V factory specification documented for Mercedes-Benz 500 SE W 126 / 126.036 (main-series September 1985-August 1991); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M117.965 corresponde a la especificación de fábrica V8 · SOHC · 16V de 5.0 L · 4,973 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M117.965 correspond à la spécification usine V8 · SOHC · 16V de 5.0 L · 4,973 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M117.965 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 5.0 L · 4,973 cc-V8 · SOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 164,
+        "max": 195,
+        "rpm": {
+          "min": 4700,
+          "max": 5200
+        }
+      },
+      "torqueNm": {
+        "min": 365,
+        "max": 405,
+        "rpm": {
+          "min": 2500,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "500 SE",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1985,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/500-SE--W-126-E-50-1985---1991.xhtml?oid=4995",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 117 E 50 / 117.965 in 500 SE, design W 126 E 50, type 126.036, for main-series September 1985-August 1991. It specifies 4,973 cc, V8 SOHC 16V construction, manifold injection and a double roller chain, and before September 1987, 180 kW at 4,750 rpm and 400 N-m at 3,750 rpm without catalyst or 164 kW at 4,700 rpm and 365 N-m at 2,500 rpm with catalyst; from September 1987, 195 kW at 5,200 rpm and 405 N-m at 4,000 rpm without catalyst or 185 kW at 5,200 rpm and 390 N-m at 3,750 rpm with catalyst. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m117-968",
+    "code": "M117.968",
+    "aliases": [
+      "117.968"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "October 1985-April 1992 Mercedes-Benz 560 SEL V 126 / 126.039",
+    "displacement": "5.5 L · 5,547 cc",
+    "layout": "V8 · SOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 560 SEL V 126 / 126.039 (main-series October 1985-April 1992)"
+    ],
+    "consumption": "Before September 1987: 10.6 / 12.9 / 17.1 L/100 km without catalyst and 11.4 / 13.9 / 18.0 L/100 km with catalyst; from September 1987: 10.5 / 12.7 / 16.8 and 11.1 / 13.6 / 17.6 L/100 km respectively",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M117.968 is the 5.5 L · 5,547 cc V8 · SOHC · 16V factory specification documented for Mercedes-Benz 560 SEL V 126 / 126.039 (main-series October 1985-April 1992); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M117.968 corresponde a la especificación de fábrica V8 · SOHC · 16V de 5.5 L · 5,547 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M117.968 correspond à la spécification usine V8 · SOHC · 16V de 5.5 L · 5,547 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M117.968 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 5.5 L · 5,547 cc-V8 · SOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 178,
+        "max": 220,
+        "rpm": {
+          "min": 4800,
+          "max": 5200
+        }
+      },
+      "torqueNm": {
+        "min": 390,
+        "max": 455,
+        "rpm": {
+          "min": 3500,
+          "max": 3750
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "560 SEL",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1985,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/560-SEL--V-126-E-56-1985---1992.xhtml?oid=4985",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 117 E 56 / 117.968 in 560 SEL, design V 126 E 56, type 126.039, for main-series October 1985-April 1992. It specifies 5,547 cc, V8 SOHC 16V construction, manifold injection and a double roller chain, and before September 1987, 200 kW at 5,000 rpm and 430 N-m at 3,750 rpm without catalyst or 178 kW at 4,800 rpm and 390 N-m at 3,500 rpm with catalyst; from September 1987, 220 kW at 5,000 rpm and 455 N-m at 3,750 rpm without catalyst or 205 kW at 5,200 rpm and 430 N-m at 3,750 rpm with catalyst. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m104-943",
+    "code": "M104.943",
+    "aliases": [
+      "104.943"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "July 1993-August 1995 Mercedes-Benz SL 280 R 129 / 129.058",
+    "displacement": "2.8 L · 2,799 cc",
+    "layout": "I6 · DOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz SL 280 R 129 / 129.058 (main-series July 1993-August 1995)"
+    ],
+    "consumption": "8.2 / 9.9 / 15.0 L/100 km with manual transmission; 8.9 / 10.5 / 13.6 L/100 km with automatic transmission",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M104.943 is the 2.8 L · 2,799 cc I6 · DOHC · 24V factory specification documented for Mercedes-Benz SL 280 R 129 / 129.058 (main-series July 1993-August 1995); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M104.943 corresponde a la especificación de fábrica I6 · DOHC · 24V de 2.8 L · 2,799 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M104.943 correspond à la spécification usine I6 · DOHC · 24V de 2.8 L · 2,799 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M104.943 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 2.8 L · 2,799 cc-I6 · DOHC · 24V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 142,
+        "max": 142,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 270,
+        "max": 270,
+        "rpm": {
+          "min": 3750,
+          "max": 3750
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "SL 280",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1993,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/SL-280--R-129-E-28-1993---1995.xhtml?oid=4719",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 104 E 28 / 104.943 in SL 280, design R 129 E 28, type 129.058, for main-series July 1993-August 1995. It specifies 2,799 cc, I6 DOHC 24V construction, manifold injection and a double roller chain, and 142 kW at 5,500 rpm and 270 N-m at 3,750 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m103-984",
+    "code": "M103.984",
+    "aliases": [
+      "103.984"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "March 1989-June 1993 Mercedes-Benz 300 SL R 129 / 129.060",
+    "displacement": "3.0 L · 2,960 cc",
+    "layout": "I6 · SOHC · 12V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 300 SL R 129 / 129.060 (main-series March 1989-June 1993)"
+    ],
+    "consumption": "8.5 / 10.3 / 15.9 L/100 km with manual transmission; 9.2 / 10.9 / 15.0 L/100 km with automatic transmission",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M103.984 is the 3.0 L · 2,960 cc I6 · SOHC · 12V factory specification documented for Mercedes-Benz 300 SL R 129 / 129.060 (main-series March 1989-June 1993); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M103.984 corresponde a la especificación de fábrica I6 · SOHC · 12V de 3.0 L · 2,960 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M103.984 correspond à la spécification usine I6 · SOHC · 12V de 3.0 L · 2,960 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M103.984 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 3.0 L · 2,960 cc-I6 · SOHC · 12V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 140,
+        "max": 140,
+        "rpm": {
+          "min": 5700,
+          "max": 5700
+        }
+      },
+      "torqueNm": {
+        "min": 260,
+        "max": 260,
+        "rpm": {
+          "min": 4500,
+          "max": 4500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 SL",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1989,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-SL--R-129-E-30-1989---1993.xhtml?oid=4721",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 103 E 30 / 103.984 in 300 SL, design R 129 E 30, type 129.060, for main-series March 1989-June 1993. It specifies 2,960 cc, I6 SOHC 12V construction, manifold injection and a single roller chain, and 140 kW at 5,700 rpm and 260 N-m at 4,500 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m104-981",
+    "code": "M104.981",
+    "aliases": [
+      "104.981"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "March 1989-June 1993 Mercedes-Benz 300 SL-24 R 129 / 129.061",
+    "displacement": "3.0 L · 2,960 cc",
+    "layout": "I6 · DOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 300 SL-24 R 129 / 129.061 (main-series March 1989-June 1993)"
+    ],
+    "consumption": "8.8 / 10.4 / 16.2 L/100 km with manual transmission; 9.4 / 10.9 / 15.0 L/100 km with automatic transmission",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M104.981 is the 3.0 L · 2,960 cc I6 · DOHC · 24V factory specification documented for Mercedes-Benz 300 SL-24 R 129 / 129.061 (main-series March 1989-June 1993); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M104.981 corresponde a la especificación de fábrica I6 · DOHC · 24V de 3.0 L · 2,960 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M104.981 correspond à la spécification usine I6 · DOHC · 24V de 3.0 L · 2,960 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M104.981 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 3.0 L · 2,960 cc-I6 · DOHC · 24V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 170,
+        "max": 170,
+        "rpm": {
+          "min": 6300,
+          "max": 6300
+        }
+      },
+      "torqueNm": {
+        "min": 272,
+        "max": 272,
+        "rpm": {
+          "min": 4600,
+          "max": 4600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "300 SL-24",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1989,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/300-SL-24--R-129-E-30-1989---1993.xhtml?oid=4722",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 104 E 30/2 / 104.981 in 300 SL-24, design R 129 E 30, type 129.061, for main-series March 1989-June 1993. It specifies 2,960 cc, I6 DOHC 24V construction, manifold injection and a double roller chain, and 170 kW at 6,300 rpm and 272 N-m at 4,600 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m104-991",
+    "code": "M104.991",
+    "aliases": [
+      "104.991"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "June 1993-August 1995 Mercedes-Benz SL 320 R 129 / 129.063",
+    "displacement": "3.2 L · 3,199 cc",
+    "layout": "I6 · DOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz SL 320 R 129 / 129.063 (main-series June 1993-August 1995)"
+    ],
+    "consumption": "8.5 / 10.0 / 14.4 L/100 km",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M104.991 is the 3.2 L · 3,199 cc I6 · DOHC · 24V factory specification documented for Mercedes-Benz SL 320 R 129 / 129.063 (main-series June 1993-August 1995); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M104.991 corresponde a la especificación de fábrica I6 · DOHC · 24V de 3.2 L · 3,199 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M104.991 correspond à la spécification usine I6 · DOHC · 24V de 3.2 L · 3,199 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M104.991 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 3.2 L · 3,199 cc-I6 · DOHC · 24V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 170,
+        "max": 170,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 315,
+        "max": 315,
+        "rpm": {
+          "min": 3750,
+          "max": 3750
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "SL 320",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1993,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/SL-320--R-129-E-32-1993---1995.xhtml?oid=4723",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 104 E 32 / 104.991 in SL 320, design R 129 E 32, type 129.063, for main-series June 1993-August 1995. It specifies 3,199 cc, I6 DOHC 24V construction, manifold injection and a double roller chain, and 170 kW at 5,600 rpm and 315 N-m at 3,750 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m119-960",
+    "code": "M119.960",
+    "aliases": [
+      "119.960"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "March 1989-August 1992 Mercedes-Benz 500 SL R 129 / 129.066",
+    "displacement": "5.0 L · 4,973 cc",
+    "layout": "V8 · DOHC · 32V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 500 SL R 129 / 129.066 (main-series March 1989-August 1992; M119.960)"
+    ],
+    "consumption": "10.1 / 12.0 / 16.6 L/100 km",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M119.960 is the 5.0 L · 4,973 cc V8 · DOHC · 32V factory specification documented for Mercedes-Benz 500 SL R 129 / 129.066 (main-series March 1989-August 1992; M119.960); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M119.960 corresponde a la especificación de fábrica V8 · DOHC · 32V de 5.0 L · 4,973 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M119.960 correspond à la spécification usine V8 · DOHC · 32V de 5.0 L · 4,973 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M119.960 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 5.0 L · 4,973 cc-V8 · DOHC · 32V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 240,
+        "max": 240,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 450,
+        "max": 450,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "500 SL; from 06.1993: SL 500",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1989,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/500-SL-from-061993-SL-500--R-129-E-50-1989---1995.xhtml?oid=4724",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 119 E 50 / 119.960 in 500 SL; from 06.1993: SL 500, design R 129 E 50, type 129.066, for main-series March 1989-August 1992, before the September 1992 change to 119.972 and type 129.067. It specifies 4,973 cc, V8 DOHC 32V construction, manifold injection and a double roller chain, and 240 kW at 5,500 rpm and 450 N-m at 4,000 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m119-972",
+    "code": "M119.972",
+    "aliases": [
+      "119.972"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "September 1992-August 1995 Mercedes-Benz 500 SL / SL 500 R 129 / 129.067",
+    "displacement": "5.0 L · 4,973 cc",
+    "layout": "V8 · DOHC · 32V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 500 SL / SL 500 R 129 / 129.067 (September 1992-August 1995; M119.972)"
+    ],
+    "consumption": "9.6 / 11.5 / 16.0 L/100 km",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M119.972 is the 5.0 L · 4,973 cc V8 · DOHC · 32V factory specification documented for Mercedes-Benz 500 SL / SL 500 R 129 / 129.067 (September 1992-August 1995; M119.972); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M119.972 corresponde a la especificación de fábrica V8 · DOHC · 32V de 5.0 L · 4,973 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M119.972 correspond à la spécification usine V8 · DOHC · 32V de 5.0 L · 4,973 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M119.972 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 5.0 L · 4,973 cc-V8 · DOHC · 32V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 235,
+        "max": 235,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 470,
+        "max": 470,
+        "rpm": {
+          "min": 3900,
+          "max": 3900
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "500 SL; from 06.1993: SL 500",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1992,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/500-SL-from-061993-SL-500--R-129-E-50-1989---1995.xhtml?oid=4724",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 119 E 50 / 119.972 in 500 SL; from 06.1993: SL 500, design R 129 E 50, type 129.067, for September 1992-August 1995, after the documented change from 119.960 and type 129.066. It specifies 4,973 cc, V8 DOHC 32V construction, manifold injection and a double roller chain, and 235 kW at 5,600 rpm and 470 N-m at 3,900 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m120-981",
+    "code": "M120.981",
+    "aliases": [
+      "120.981"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "July 1992-August 1995 Mercedes-Benz 600 SL / SL 600 R 129 / 129.076",
+    "displacement": "6.0 L · 5,987 cc",
+    "layout": "V12 · DOHC · 48V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz 600 SL / SL 600 R 129 / 129.076 (main-series July 1992-August 1995)"
+    ],
+    "consumption": "11.3 / 13.2 / 20.2 L/100 km",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M120.981 is the 6.0 L · 5,987 cc V12 · DOHC · 48V factory specification documented for Mercedes-Benz 600 SL / SL 600 R 129 / 129.076 (main-series July 1992-August 1995); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M120.981 corresponde a la especificación de fábrica V12 · DOHC · 48V de 6.0 L · 5,987 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M120.981 correspond à la spécification usine V12 · DOHC · 48V de 6.0 L · 5,987 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M120.981 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 6.0 L · 5,987 cc-V12 · DOHC · 48V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 290,
+        "max": 290,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      },
+      "torqueNm": {
+        "min": 570,
+        "max": 570,
+        "rpm": {
+          "min": 3800,
+          "max": 3800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "600 SL; from 06.1993: SL 600",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1992,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/600-SL-from-061993-SL-600--R-129-E-60-1992---1995.xhtml?oid=4727",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 120 E 60 / 120.981 in 600 SL; from 06.1993: SL 600, design R 129 E 60, type 129.076, for main-series July 1992-August 1995. It specifies 5,987 cc, V12 DOHC 48V construction, manifold injection and a double roller chain, and 290 kW at 5,200 rpm and 570 N-m at 3,800 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m119-e60-amg",
+    "code": "M119 E60 AMG",
+    "aliases": [
+      "M 119 E 60 AMG"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "September 1993-December 1995 Mercedes-Benz SL 60 AMG R 129 / 129.067",
+    "displacement": "6.0 L · 5,956 cc",
+    "layout": "V8 · DOHC · 32V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz SL 60 AMG R 129 / 129.067 (main-series September 1993-December 1995)"
+    ],
+    "consumption": "9.6 / 11.5 / 16.0 L/100 km",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M119 E60 AMG is the 6.0 L · 5,956 cc V8 · DOHC · 32V factory specification documented for Mercedes-Benz SL 60 AMG R 129 / 129.067 (main-series September 1993-December 1995); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M119 E60 AMG corresponde a la especificación de fábrica V8 · DOHC · 32V de 6.0 L · 5,956 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M119 E60 AMG correspond à la spécification usine V8 · DOHC · 32V de 6.0 L · 5,956 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M119 E60 AMG ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 6.0 L · 5,956 cc-V8 · DOHC · 32V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 280,
+        "max": 280,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 580,
+        "max": 580,
+        "rpm": {
+          "min": 3750,
+          "max": 3750
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "SL 60 AMG",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1993,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/SL-60-AMG--R-129-E-60-AMG-1993---1995.xhtml?oid=4720",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 119 E 60 AMG (the page publishes this unambiguous factory designation without a numeric suffix) in SL 60 AMG, design R 129 E 60 AMG, type 129.067, for main-series September 1993-December 1995. It specifies 5,956 cc, V8 DOHC 32V construction, manifold injection and a double roller chain, and 280 kW at 5,500 rpm and 580 N-m at 3,750 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om601-913",
+    "code": "OM601.913",
+    "aliases": [
+      "601.913"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "February 1993-October 1995 Mercedes-Benz C 200 Diesel W 202 / 202.120",
+    "displacement": "2.0 L · 1,997 cc",
+    "layout": "I4 · SOHC · 8V",
+    "fuelKey": "diesel",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz C 200 Diesel W 202 / 202.120 (main-series February 1993-October 1995)"
+    ],
+    "consumption": "5.0 / 6.8 / 8.1 L/100 km with manual transmission; 5.6 / 7.3 / 7.6 L/100 km with automatic transmission",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM601.913 is the 2.0 L · 1,997 cc I4 · SOHC · 8V factory specification documented for Mercedes-Benz C 200 Diesel W 202 / 202.120 (main-series February 1993-October 1995); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM601.913 corresponde a la especificación de fábrica I4 · SOHC · 8V de 2.0 L · 1,997 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM601.913 correspond à la spécification usine I4 · SOHC · 8V de 2.0 L · 1,997 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM601.913 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 2.0 L · 1,997 cc-I4 · SOHC · 8V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 55,
+        "max": 55,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 130,
+        "max": 130,
+        "rpm": {
+          "min": 2000,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "C 200 Diesel",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1993,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/C-200-Diesel--W-202-D-20-1993---1995.xhtml?oid=5519",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM 601 D 20 / 601.913 in C 200 Diesel, design W 202 D 20, type 202.120, for main-series February 1993-October 1995. It specifies 1,997 cc, I4 SOHC 8V construction, mechanically controlled indirect diesel injection and a double roller chain, and 55 kW at 5,500 rpm and 130 N-m from 2,000 to 3,600 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om604-915",
+    "code": "OM604.915",
+    "aliases": [
+      "604.915"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "April 1996-June 1997 Mercedes-Benz C 200 Diesel W 202 / 202.122",
+    "displacement": "2.0 L · 1,997 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "diesel",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz C 200 Diesel W 202 / 202.122 (main-series April 1996-June 1997)"
+    ],
+    "consumption": "10.2 / 5.8 / 7.4 L/100 km with manual transmission; 10.6 / 6.0 / 7.7 L/100 km with automatic transmission",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM604.915 is the 2.0 L · 1,997 cc I4 · DOHC · 16V factory specification documented for Mercedes-Benz C 200 Diesel W 202 / 202.122 (main-series April 1996-June 1997); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM604.915 corresponde a la especificación de fábrica I4 · DOHC · 16V de 2.0 L · 1,997 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM604.915 correspond à la spécification usine I4 · DOHC · 16V de 2.0 L · 1,997 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM604.915 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 2.0 L · 1,997 cc-I4 · DOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 65,
+        "max": 65,
+        "rpm": {
+          "min": 5000,
+          "max": 5000
+        }
+      },
+      "torqueNm": {
+        "min": 135,
+        "max": 135,
+        "rpm": {
+          "min": 2000,
+          "max": 4650
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "C 200 Diesel",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1996,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/C-200-Diesel--W-202-D-202-1996---1997.xhtml?oid=5525",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM 604 D 20 / 604.915 in C 200 Diesel, design W 202 D 20/2, type 202.122, for main-series April 1996-June 1997. It specifies 1,997 cc, I4 DOHC 16V construction, electronically controlled indirect diesel injection and a double roller chain, and 65 kW at 5,000 rpm and 135 N-m from 2,000 to 4,650 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om604-910",
+    "code": "OM604.910",
+    "aliases": [
+      "604.910"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "August 1993-June 1997 Mercedes-Benz C 220 Diesel W 202 / 202.121",
+    "displacement": "2.2 L · 2,155 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "diesel",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz C 220 Diesel W 202 / 202.121 (main-series August 1993-June 1997)"
+    ],
+    "consumption": "5.3 / 6.9 / 8.5 L/100 km with manual transmission; 5.8 / 7.5 / 8.2 L/100 km with automatic transmission",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM604.910 is the 2.2 L · 2,155 cc I4 · DOHC · 16V factory specification documented for Mercedes-Benz C 220 Diesel W 202 / 202.121 (main-series August 1993-June 1997); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM604.910 corresponde a la especificación de fábrica I4 · DOHC · 16V de 2.2 L · 2,155 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM604.910 correspond à la spécification usine I4 · DOHC · 16V de 2.2 L · 2,155 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM604.910 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 2.2 L · 2,155 cc-I4 · DOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 70,
+        "max": 70,
+        "rpm": {
+          "min": 5000,
+          "max": 5000
+        }
+      },
+      "torqueNm": {
+        "min": 150,
+        "max": 150,
+        "rpm": {
+          "min": 3100,
+          "max": 4500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "C 220 Diesel",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1993,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/C-220-Diesel--W-202-D-22-1993---1997.xhtml?oid=5522",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM 604 D 22 / 604.910 in C 220 Diesel, design W 202 D 22, type 202.121, for main-series August 1993-June 1997. It specifies 2,155 cc, I4 DOHC 16V construction, electronically controlled indirect diesel injection and a double roller chain, and 70 kW at 5,000 rpm and 150 N-m from 3,100 to 4,500 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om605-910",
+    "code": "OM605.910",
+    "aliases": [
+      "605.910"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "June 1993-July 1996 Mercedes-Benz C 250 Diesel W 202 / 202.125",
+    "displacement": "2.5 L · 2,497 cc",
+    "layout": "I5 · DOHC · 20V",
+    "fuelKey": "diesel",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz C 250 Diesel W 202 / 202.125 (main-series June 1993-July 1996)"
+    ],
+    "consumption": "5.4 / 6.9 / 8.7 L/100 km with manual transmission; 5.8 / 7.5 / 8.4 L/100 km with automatic transmission",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM605.910 is the 2.5 L · 2,497 cc I5 · DOHC · 20V factory specification documented for Mercedes-Benz C 250 Diesel W 202 / 202.125 (main-series June 1993-July 1996); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM605.910 corresponde a la especificación de fábrica I5 · DOHC · 20V de 2.5 L · 2,497 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM605.910 correspond à la spécification usine I5 · DOHC · 20V de 2.5 L · 2,497 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM605.910 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 2.5 L · 2,497 cc-I5 · DOHC · 20V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 83,
+        "max": 83,
+        "rpm": {
+          "min": 5000,
+          "max": 5000
+        }
+      },
+      "torqueNm": {
+        "min": 170,
+        "max": 170,
+        "rpm": {
+          "min": 2800,
+          "max": 4600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "C 250 Diesel",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1993,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/C-250-Diesel--W-202-D-25-1993---1996.xhtml?oid=5521",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM 605 D 25 / 605.910 in C 250 Diesel, design W 202 D 25, type 202.125, for main-series June 1993-July 1996. It specifies 2,497 cc, I5 DOHC 20V construction, mechanically-electronically controlled indirect diesel injection and a double roller chain, and 83 kW at 5,000 rpm and 170 N-m from 2,800 to 4,600 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-om605-960",
+    "code": "OM605.960",
+    "aliases": [
+      "605.960"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "September 1995-June 1997 Mercedes-Benz C 250 Turbodiesel W 202 / 202.128",
+    "displacement": "2.5 L · 2,497 cc",
+    "layout": "I5 · DOHC · 20V",
+    "fuelKey": "diesel",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz C 250 Turbodiesel W 202 / 202.128 (main-series September 1995-June 1997)"
+    ],
+    "consumption": "5.3 / 7.2 / 9.4 L/100 km with manual transmission; 5.5 / 7.3 / 8.8 L/100 km with automatic transmission",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "OM605.960 is the 2.5 L · 2,497 cc I5 · DOHC · 20V factory specification documented for Mercedes-Benz C 250 Turbodiesel W 202 / 202.128 (main-series September 1995-June 1997); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "OM605.960 corresponde a la especificación de fábrica I5 · DOHC · 20V de 2.5 L · 2,497 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "OM605.960 correspond à la spécification usine I5 · DOHC · 20V de 2.5 L · 2,497 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "OM605.960 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 2.5 L · 2,497 cc-I5 · DOHC · 20V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 110,
+        "max": 110,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      },
+      "torqueNm": {
+        "min": 280,
+        "max": 280,
+        "rpm": {
+          "min": 1800,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "C 250 Turbodiesel",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1995,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/C-250-Turbodiesel--W-202-D-25-LA-1995---1997.xhtml?oid=5530",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies OM 605 D 25 LA / 605.960 in C 250 Turbodiesel, design W 202 D 25 LA, type 202.128, for main-series September 1995-June 1997. It specifies 2,497 cc, I5 DOHC 20V construction, indirect diesel injection, a turbocharger with intercooling and a double roller chain, and 110 kW at 4,400 rpm and 280 N-m from 1,800 to 3,600 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m111-920",
+    "code": "M111.920",
+    "aliases": [
+      "111.920"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "March 1993-July 1996 Mercedes-Benz C 180 W 202 / 202.018",
+    "displacement": "1.8 L · 1,799 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz C 180 W 202 / 202.018 (main-series March 1993-July 1996; M111.920)"
+    ],
+    "consumption": "6.4 / 8.1 / 11.0 L/100 km with manual transmission; 6.8 / 8.5 / 10.6 L/100 km with automatic transmission",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M111.920 is the 1.8 L · 1,799 cc I4 · DOHC · 16V factory specification documented for Mercedes-Benz C 180 W 202 / 202.018 (main-series March 1993-July 1996; M111.920); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M111.920 corresponde a la especificación de fábrica I4 · DOHC · 16V de 1.8 L · 1,799 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M111.920 correspond à la spécification usine I4 · DOHC · 16V de 1.8 L · 1,799 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M111.920 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 1.8 L · 1,799 cc-I4 · DOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 90,
+        "max": 90,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 170,
+        "max": 170,
+        "rpm": {
+          "min": 4200,
+          "max": 4200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "C 180",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1993,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/C-180--W-202-E-18-1993---1997.xhtml?oid=5531",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 111 E 18 / 111.920 in C 180, design W 202 E 18, type 202.018, for main-series March 1993-July 1996, before the documented August 1996 change to 111.921. It specifies 1,799 cc, I4 DOHC 16V construction, manifold injection and a double roller chain, and 90 kW at 5,500 rpm and 170 N-m at 4,200 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m111-921",
+    "code": "M111.921",
+    "aliases": [
+      "111.921"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "August 1996-June 1997 Mercedes-Benz C 180 W 202 / 202.018",
+    "displacement": "1.8 L · 1,799 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz C 180 W 202 / 202.018 (August 1996-June 1997; M111.921)"
+    ],
+    "consumption": "6.2 / 7.9 / 10.8 L/100 km with manual transmission; automatic-transmission figures remain on the source page",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M111.921 is the 1.8 L · 1,799 cc I4 · DOHC · 16V factory specification documented for Mercedes-Benz C 180 W 202 / 202.018 (August 1996-June 1997; M111.921); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M111.921 corresponde a la especificación de fábrica I4 · DOHC · 16V de 1.8 L · 1,799 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M111.921 correspond à la spécification usine I4 · DOHC · 16V de 1.8 L · 1,799 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M111.921 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 1.8 L · 1,799 cc-I4 · DOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 90,
+        "max": 90,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 170,
+        "max": 170,
+        "rpm": {
+          "min": 3700,
+          "max": 4500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "C 180",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1996,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/C-180--W-202-E-18-1993---1997.xhtml?oid=5531",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 111 E 18 / 111.921 in C 180, design W 202 E 18, type 202.018, for August 1996-June 1997, after the documented change from 111.920. It specifies 1,799 cc, I4 DOHC 16V construction, manifold injection and a double roller chain, and 90 kW at 5,500 rpm and 170 N-m from 3,700 to 4,500 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m111-941",
+    "code": "M111.941",
+    "aliases": [
+      "111.941"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "January 1994-July 1996 Mercedes-Benz C 200 W 202 / 202.020",
+    "displacement": "2.0 L · 1,998 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz C 200 W 202 / 202.020 (main-series January 1994-July 1996; M111.941)"
+    ],
+    "consumption": "6.5 / 8.0 / 11.3 L/100 km with manual transmission; 6.8 / 8.5 / 10.8 L/100 km with automatic transmission",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M111.941 is the 2.0 L · 1,998 cc I4 · DOHC · 16V factory specification documented for Mercedes-Benz C 200 W 202 / 202.020 (main-series January 1994-July 1996; M111.941); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M111.941 corresponde a la especificación de fábrica I4 · DOHC · 16V de 2.0 L · 1,998 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M111.941 correspond à la spécification usine I4 · DOHC · 16V de 2.0 L · 1,998 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M111.941 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 2.0 L · 1,998 cc-I4 · DOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 100,
+        "max": 100,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 190,
+        "max": 190,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "C 200",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1994,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/C-200--W-202-E-20-1994---1997.xhtml?oid=5523",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 111 E 20 / 111.941 in C 200, design W 202 E 20, type 202.020, for main-series January 1994-July 1996, before the documented August 1996 change to 111.945. It specifies 1,998 cc, I4 DOHC 16V construction, manifold injection and a double roller chain, and 100 kW at 5,500 rpm and 190 N-m at 4,000 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m111-945",
+    "code": "M111.945",
+    "aliases": [
+      "111.945"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "August 1996-June 1997 Mercedes-Benz C 200 W 202 / 202.020",
+    "displacement": "2.0 L · 1,998 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz C 200 W 202 / 202.020 (August 1996-June 1997; M111.945)"
+    ],
+    "consumption": "6.3 / 7.9 / 11.1 L/100 km with manual transmission; automatic-transmission figures remain on the source page",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M111.945 is the 2.0 L · 1,998 cc I4 · DOHC · 16V factory specification documented for Mercedes-Benz C 200 W 202 / 202.020 (August 1996-June 1997; M111.945); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M111.945 corresponde a la especificación de fábrica I4 · DOHC · 16V de 2.0 L · 1,998 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M111.945 correspond à la spécification usine I4 · DOHC · 16V de 2.0 L · 1,998 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M111.945 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 2.0 L · 1,998 cc-I4 · DOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 100,
+        "max": 100,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 190,
+        "max": 190,
+        "rpm": {
+          "min": 3700,
+          "max": 4500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "C 200",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1996,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/C-200--W-202-E-20-1994---1997.xhtml?oid=5523",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 111 E 20 / 111.945 in C 200, design W 202 E 20, type 202.020, for August 1996-June 1997, after the documented change from 111.941. It specifies 1,998 cc, I4 DOHC 16V construction, manifold injection and a double roller chain, and 100 kW at 5,500 rpm and 190 N-m from 3,700 to 4,500 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m111-944",
+    "code": "M111.944",
+    "aliases": [
+      "111.944"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "September 1995-June 1997 Mercedes-Benz C 200 Kompressor W 202 / 202.025",
+    "displacement": "2.0 L · 1,998 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "supercharged",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz C 200 Kompressor W 202 / 202.025 (Italy, Greece and Portugal, September 1995-June 1997)"
+    ],
+    "consumption": "6.0 / 7.7 / 10.6 L/100 km",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M111.944 is the 2.0 L · 1,998 cc I4 · DOHC · 16V factory specification documented for Mercedes-Benz C 200 Kompressor W 202 / 202.025 in Italy, Greece and Portugal from September 1995 to June 1997; this export model was not available in Germany, and the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M111.944 corresponde a la especificación de fábrica I4 · DOHC · 16V de 2.0 L · 1,998 cc documentada para el Mercedes-Benz C 200 Kompressor W 202 / 202.025 en Italia, Grecia y Portugal entre septiembre de 1995 y junio de 1997; este modelo de exportación no estuvo disponible en Alemania, y el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M111.944 correspond à la spécification usine I4 · DOHC · 16V de 2.0 L · 1,998 cc documentée pour la Mercedes-Benz C 200 Kompressor W 202 / 202.025 en Italie, en Grèce et au Portugal de septembre 1995 à juin 1997 ; ce modèle d'exportation n'était pas disponible en Allemagne, et l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M111.944 ist die für den Mercedes-Benz C 200 Kompressor W 202 / 202.025 in Italien, Griechenland und Portugal von September 1995 bis Juni 1997 geltende 2.0 L · 1,998 cc-I4 · DOHC · 16V-Werksspezifikation; dieses Exportmodell war in Deutschland nicht erhältlich, und das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 132,
+        "max": 141,
+        "rpm": {
+          "min": 5300,
+          "max": 5300
+        }
+      },
+      "torqueNm": {
+        "min": 260,
+        "max": 270,
+        "rpm": {
+          "min": 2500,
+          "max": 4800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "C 200 Compressor",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1995,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/C-200-Compressor--W-202-E-20-ML-1995---1997.xhtml?oid=5526",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 111 E 20 ML / 111.944 in C 200 Compressor, design W 202 E 20 ML, type 202.025, as an export model for Italy, Greece and Portugal from September 1995 to June 1997; it was not available in Germany. It specifies 1,998 cc, I4 DOHC 16V construction, manifold injection, a supercharger with charge-air cooling and a double roller chain, and initially 132 kW at 5,300 rpm and 260 N-m from 2,500 to 4,800 rpm; from August 1996, 141 kW at 5,300 rpm and 270 N-m from 2,500 to 4,800 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m111-961",
+    "code": "M111.961",
+    "aliases": [
+      "111.961"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "March 1993-August 1996 Mercedes-Benz C 220 W 202 / 202.022",
+    "displacement": "2.2 L · 2,199 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz C 220 W 202 / 202.022 (main-series March 1993-August 1996)"
+    ],
+    "consumption": "6.5 / 8.1 / 11.5 L/100 km with manual transmission; 6.9 / 8.5 / 11.0 L/100 km with automatic transmission",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M111.961 is the 2.2 L · 2,199 cc I4 · DOHC · 16V factory specification documented for Mercedes-Benz C 220 W 202 / 202.022 (main-series March 1993-August 1996); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M111.961 corresponde a la especificación de fábrica I4 · DOHC · 16V de 2.2 L · 2,199 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M111.961 correspond à la spécification usine I4 · DOHC · 16V de 2.2 L · 2,199 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M111.961 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 2.2 L · 2,199 cc-I4 · DOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 110,
+        "max": 110,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 210,
+        "max": 210,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "C 220",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1993,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/C-220--W-202-E-22-1993---1996.xhtml?oid=5527",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 111 E 22 / 111.961 in C 220, design W 202 E 22, type 202.022, for main-series March 1993-August 1996. It specifies 2,199 cc, I4 DOHC 16V construction, manifold injection and a double roller chain, and 110 kW at 5,500 rpm and 210 N-m at 4,000 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m111-974",
+    "code": "M111.974",
+    "aliases": [
+      "111.974"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "May 1996-June 1997 Mercedes-Benz C 230 W 202 / 202.023",
+    "displacement": "2.3 L · 2,295 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz C 230 W 202 / 202.023 (main-series May 1996-June 1997)"
+    ],
+    "consumption": "6.5 / 8.1 / 11.5 L/100 km with manual transmission; 6.4 / 8.0 / 11.0 L/100 km with automatic transmission",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M111.974 is the 2.3 L · 2,295 cc I4 · DOHC · 16V factory specification documented for Mercedes-Benz C 230 W 202 / 202.023 (main-series May 1996-June 1997); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M111.974 corresponde a la especificación de fábrica I4 · DOHC · 16V de 2.3 L · 2,295 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M111.974 correspond à la spécification usine I4 · DOHC · 16V de 2.3 L · 2,295 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M111.974 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 2.3 L · 2,295 cc-I4 · DOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 110,
+        "max": 110,
+        "rpm": {
+          "min": 5400,
+          "max": 5400
+        }
+      },
+      "torqueNm": {
+        "min": 210,
+        "max": 210,
+        "rpm": {
+          "min": 3700,
+          "max": 4500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "C 230",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1996,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/C-230--W-202-E-23-1996---1997.xhtml?oid=5532",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 111 E 23 / 111.974 in C 230, design W 202 E 23, type 202.023, for main-series May 1996-June 1997. It specifies 2,295 cc, I4 DOHC 16V construction, manifold injection and a double roller chain, and 110 kW at 5,400 rpm and 210 N-m from 3,700 to 4,500 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m111-975",
+    "code": "M111.975",
+    "aliases": [
+      "111.975"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "September 1995-June 1997 Mercedes-Benz C 230 Kompressor W 202 / 202.024",
+    "displacement": "2.3 L · 2,295 cc",
+    "layout": "I4 · DOHC · 16V",
+    "fuelKey": "petrol",
+    "aspirationKey": "supercharged",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz C 230 Kompressor W 202 / 202.024 (main-series September 1995-June 1997)"
+    ],
+    "consumption": "6.1 / 7.8 / 10.9 L/100 km with manual transmission; 6.2 / 8.0 / 10.7 L/100 km with automatic transmission",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M111.975 is the 2.3 L · 2,295 cc I4 · DOHC · 16V factory specification documented for Mercedes-Benz C 230 Kompressor W 202 / 202.024 (main-series September 1995-June 1997); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M111.975 corresponde a la especificación de fábrica I4 · DOHC · 16V de 2.3 L · 2,295 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M111.975 correspond à la spécification usine I4 · DOHC · 16V de 2.3 L · 2,295 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M111.975 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 2.3 L · 2,295 cc-I4 · DOHC · 16V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 142,
+        "max": 142,
+        "rpm": {
+          "min": 5300,
+          "max": 5300
+        }
+      },
+      "torqueNm": {
+        "min": 280,
+        "max": 280,
+        "rpm": {
+          "min": 2500,
+          "max": 4800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "C 230 Compressor",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1995,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/C-230-Compressor--W-202-E-23-ML-1995---1997.xhtml?oid=5524",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 111 E 23 ML / 111.975 in C 230 Compressor, design W 202 E 23 ML, type 202.024, for main-series September 1995-June 1997. It specifies 2,295 cc, I4 DOHC 16V construction, manifold injection, a supercharger with charge-air cooling and a double roller chain, and 142 kW at 5,300 rpm and 280 N-m from 2,500 to 4,800 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "mercedes-m104-941",
+    "code": "M104.941",
+    "aliases": [
+      "104.941"
+    ],
+    "maker": "Mercedes-Benz",
+    "regionKey": "europe",
+    "years": "May 1993-July 1997 Mercedes-Benz C 280 W 202 / 202.028",
+    "displacement": "2.8 L · 2,799 cc",
+    "layout": "I6 · DOHC · 24V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "notSpecified",
+    "timingKey": "timingChain",
+    "applications": [
+      "Mercedes-Benz C 280 W 202 / 202.028 (main-series May 1993-July 1997)"
+    ],
+    "consumption": "7.8 / 9.5 / 14.4 L/100 km with manual transmission; 8.1 / 9.8 / 12.9 L/100 km with automatic transmission",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M104.941 is the 2.8 L · 2,799 cc I6 · DOHC · 24V factory specification documented for Mercedes-Benz C 280 W 202 / 202.028 (main-series May 1993-July 1997); the archive identifies its fuel system and camshaft drive.",
+        "issues": "The archive is a factory specification; it does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+        "pros": "The manufacturer archive links the exact engine identity and vehicle model directly to power, torque and their engine speeds.",
+        "cons": "The stored figures apply only to the documented application, period and factory versions listed in the source, not to every calibration of the wider engine family."
+      },
+      "es": {
+        "construction": "M104.941 corresponde a la especificación de fábrica I6 · DOHC · 24V de 2.8 L · 2,799 cc documentada para la aplicación y el periodo indicados; el archivo identifica el sistema de alimentación y el accionamiento de los árboles de levas.",
+        "issues": "El archivo es una especificación de fábrica; no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+        "pros": "El archivo del fabricante vincula directamente la identidad exacta del motor y el modelo con la potencia, el par y sus regímenes.",
+        "cons": "Las cifras guardadas se aplican solo a la aplicación, el periodo y las versiones de fábrica documentados en la fuente, no a todas las calibraciones de la familia del motor."
+      },
+      "fr": {
+        "construction": "M104.941 correspond à la spécification usine I6 · DOHC · 24V de 2.8 L · 2,799 cc documentée pour l'application et la période indiquées ; l'archive identifie le système d'alimentation et l'entraînement des arbres à cames.",
+        "issues": "L'archive est une fiche usine ; elle n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+        "pros": "L'archive constructeur relie directement l'identité exacte du moteur et le modèle à la puissance, au couple et à leurs régimes.",
+        "cons": "Les valeurs enregistrées s'appliquent uniquement à l'application, à la période et aux versions usine documentées dans la source, et non à toutes les calibrations de la famille moteur."
+      },
+      "de": {
+        "construction": "M104.941 ist die für die angegebene Anwendung und den dokumentierten Zeitraum geltende 2.8 L · 2,799 cc-I6 · DOHC · 24V-Werksspezifikation; das Archiv nennt Kraftstoffsystem und Nockenwellenantrieb.",
+        "issues": "Das Archiv ist eine Werksspezifikation; es nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+        "pros": "Das Herstellerarchiv verbindet die genaue Motoridentität und das Fahrzeugmodell direkt mit Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+        "cons": "Die gespeicherten Werte gelten nur für die in der Quelle dokumentierte Anwendung, den Zeitraum und die Werksversionen und nicht für jede Abstimmung der Motorfamilie."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 142,
+        "max": 142,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 270,
+        "max": 270,
+        "rpm": {
+          "min": 3750,
+          "max": 3750
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "C 280",
+          "publisher": "Mercedes-Benz AG",
+          "year": 1993,
+          "url": "https://mercedes-benz-publicarchive.com/marsClassic/en/instance/ko/C-280--W-202-E-28-1993---1997.xhtml?oid=5520",
+          "page": 1,
+          "checkedAt": "2026-09-09",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "timingKey",
+            "consumption",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Mercedes-Benz archive identifies M 104 E 28 / 104.941 in C 280, design W 202 E 28, type 202.028, for main-series May 1993-July 1997. It specifies 2,799 cc, I6 DOHC 24V construction, manifold injection and a double roller chain, and 142 kW at 5,500 rpm and 270 N-m at 3,750 rpm. These named factory versions define every stored performance boundary. The same page supplies the stored consumption figures."
+          ]
+        }
+      ]
+    }
   }
 ];

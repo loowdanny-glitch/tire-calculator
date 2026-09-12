@@ -1467,6 +1467,401 @@
         "status": "legacyPending",
         "sources": []
       }
+    },
+    {
+      "id": "hyundai-g4kp",
+      "code": "G4KP",
+      "aliases": [
+        "Smartstream 2.5 T-GDi"
+      ],
+      "maker": "Hyundai Motor Company",
+      "regionKey": "korea",
+      "years": "2026 Hyundai SANTA FE 2.5 T-GDi, Australian market",
+      "displacement": "2.5 L · 2,497 cc",
+      "layout": "I4 · DOHC · 16V",
+      "fuelKey": "petrol",
+      "aspirationKey": "turbocharged",
+      "injectionKey": "notSpecified",
+      "blockKey": "notSpecified",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Hyundai SANTA FE 2.5 T-GDi (Australia, MY2026)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "G4KP is the 2.5 L · 2,497 cc I4 · DOHC · 16V factory specification documented for Hyundai SANTA FE 2.5 T-GDi (Australia, MY2026); the manufacturer sheet identifies the engine code, configuration and fuel system.",
+          "issues": "The manufacturer specification does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+          "pros": "The manufacturer sheet links the exact engine code directly to displacement, configuration, power, torque and their engine speeds.",
+          "cons": "The stored figures apply only to the Australian MY2026 SANTA FE 2.5 T-GDi specification, not to every calibration of the wider engine family."
+        },
+        "es": {
+          "construction": "G4KP corresponde a la especificación de fábrica I4 · DOHC · 16V de 2.5 L · 2,497 cc documentada para Hyundai SANTA FE 2.5 T-GDi (Australia, año modelo 2026); la ficha del fabricante identifica el código, la configuración y el sistema de alimentación.",
+          "issues": "La especificación del fabricante no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+          "pros": "La ficha del fabricante vincula directamente el código exacto con la cilindrada, la configuración, la potencia, el par y sus regímenes.",
+          "cons": "Las cifras guardadas se aplican solo a la especificación australiana del SANTA FE 2.5 T-GDi, año modelo 2026, no a todas las calibraciones de la familia del motor."
+        },
+        "fr": {
+          "construction": "G4KP correspond à la spécification usine I4 · DOHC · 16V de 2.5 L · 2,497 cc documentée pour Hyundai SANTA FE 2.5 T-GDi (Australie, millésime 2026); la fiche constructeur identifie le code moteur, la configuration et le système d'alimentation.",
+          "issues": "La spécification constructeur n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+          "pros": "La fiche constructeur relie directement le code moteur exact à la cylindrée, à la configuration, à la puissance, au couple et à leurs régimes.",
+          "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification australienne du SANTA FE 2.5 T-GDi, millésime 2026, et non à toutes les calibrations de la famille moteur."
+        },
+        "de": {
+          "construction": "G4KP ist die für Hyundai SANTA FE 2.5 T-GDi (Australien, Modelljahr 2026) dokumentierte 2.5 L · 2,497 cc-I4 · DOHC · 16V-Werksspezifikation; das Herstellerdatenblatt nennt Motorkennung, Bauart und Kraftstoffsystem.",
+          "issues": "Die Herstellerspezifikation nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+          "pros": "Das Herstellerdatenblatt verbindet die genaue Motorkennung direkt mit Hubraum, Bauart, Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+          "cons": "Die gespeicherten Werte gelten nur für die australische SANTA-FE-2.5-T-GDi-Spezifikation des Modelljahrs 2026 und nicht für jede Abstimmung der Motorfamilie."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 206,
+          "max": 206,
+          "rpm": {
+            "min": 5800,
+            "max": 5800
+          }
+        },
+        "torqueNm": {
+          "min": 422,
+          "max": 422,
+          "rpm": {
+            "min": 1700,
+            "max": 4000
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "Hyundai SANTA FE Specifications - MY26",
+            "publisher": "Hyundai Motor Company",
+            "year": 2026,
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/santa-fe-hybrid/docs/MY26_SANTA_FE_ICE__and_HEV_Specification_Sheet.pdf",
+            "page": 1,
+            "checkedAt": "2026-09-09",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "aspirationKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official MY26 specification identifies engine code G4KP for the Smartstream 2.5 T-GDi in the Australian-market SANTA FE. The engine table specifies 2,497 cc, inline four cylinders, 16 valves, turbocharging, combined multipoint and direct petrol injection, 206 kW at 5,800 rpm and 422 N-m from 1,700 to 4,000 rpm."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "hyundai-g4ft",
+      "code": "G4FT",
+      "aliases": [
+        "Smartstream G1.6 T-GDi HEV"
+      ],
+      "maker": "Hyundai Motor Company",
+      "regionKey": "korea",
+      "years": "2026 Hyundai SANTA FE Hybrid, Australian market",
+      "displacement": "1.6 L · 1,598 cc",
+      "layout": "I4 · DOHC · 16V",
+      "fuelKey": "petrol",
+      "aspirationKey": "turbocharged",
+      "injectionKey": "directInjection",
+      "blockKey": "notSpecified",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Hyundai SANTA FE Hybrid (Australia, MY2026)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "G4FT is the 1.6 L · 1,598 cc I4 · DOHC · 16V factory specification documented for Hyundai SANTA FE Hybrid (Australia, MY2026); the manufacturer sheet identifies the engine code, configuration and fuel system.",
+          "issues": "The manufacturer specification does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+          "pros": "The manufacturer sheet links the exact engine code directly to displacement, configuration, power, torque and their engine speeds.",
+          "cons": "The stored figures apply only to the combustion engine in the Australian MY2026 SANTA FE Hybrid specification, not to every calibration of the wider engine family."
+        },
+        "es": {
+          "construction": "G4FT corresponde a la especificación de fábrica I4 · DOHC · 16V de 1.6 L · 1,598 cc documentada para Hyundai SANTA FE Hybrid (Australia, año modelo 2026); la ficha del fabricante identifica el código, la configuración y el sistema de alimentación.",
+          "issues": "La especificación del fabricante no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+          "pros": "La ficha del fabricante vincula directamente el código exacto con la cilindrada, la configuración, la potencia, el par y sus regímenes.",
+          "cons": "Las cifras guardadas se aplican solo a el motor de combustión de la especificación australiana del SANTA FE Hybrid, año modelo 2026, no a todas las calibraciones de la familia del motor."
+        },
+        "fr": {
+          "construction": "G4FT correspond à la spécification usine I4 · DOHC · 16V de 1.6 L · 1,598 cc documentée pour Hyundai SANTA FE Hybrid (Australie, millésime 2026); la fiche constructeur identifie le code moteur, la configuration et le système d'alimentation.",
+          "issues": "La spécification constructeur n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+          "pros": "La fiche constructeur relie directement le code moteur exact à la cylindrée, à la configuration, à la puissance, au couple et à leurs régimes.",
+          "cons": "Les valeurs enregistrées s'appliquent uniquement à le moteur thermique de la spécification australienne du SANTA FE Hybrid, millésime 2026, et non à toutes les calibrations de la famille moteur."
+        },
+        "de": {
+          "construction": "G4FT ist die für Hyundai SANTA FE Hybrid (Australien, Modelljahr 2026) dokumentierte 1.6 L · 1,598 cc-I4 · DOHC · 16V-Werksspezifikation; das Herstellerdatenblatt nennt Motorkennung, Bauart und Kraftstoffsystem.",
+          "issues": "Die Herstellerspezifikation nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+          "pros": "Das Herstellerdatenblatt verbindet die genaue Motorkennung direkt mit Hubraum, Bauart, Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+          "cons": "Die gespeicherten Werte gelten nur für den Verbrennungsmotor der australischen SANTA-FE-Hybrid-Spezifikation des Modelljahrs 2026 und nicht für jede Abstimmung der Motorfamilie."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 132,
+          "max": 132,
+          "rpm": {
+            "min": 5500,
+            "max": 5500
+          }
+        },
+        "torqueNm": {
+          "min": 265,
+          "max": 265,
+          "rpm": {
+            "min": 1500,
+            "max": 4500
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "Hyundai SANTA FE Specifications - MY26",
+            "publisher": "Hyundai Motor Company",
+            "year": 2026,
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/santa-fe-hybrid/docs/MY26_SANTA_FE_ICE__and_HEV_Specification_Sheet.pdf",
+            "page": 1,
+            "checkedAt": "2026-09-09",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "aspirationKey",
+              "injectionKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official MY26 specification identifies engine code G4FT for the Smartstream G1.6 T-GDi HEV in the Australian-market SANTA FE. The combustion-engine table specifies 1,598 cc, inline four cylinders, 16 valves, turbocharged direct petrol injection, 132 kW at 5,500 rpm and 265 N-m from 1,500 to 4,500 rpm. The separately listed 47.7 kW / 264 N-m electric motor and 172 kW / 367 N-m combined system output are excluded from the stored engine performance."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "hyundai-g6du",
+      "code": "G6DU",
+      "aliases": [
+        "Smartstream G3.5"
+      ],
+      "maker": "Hyundai Motor Company",
+      "regionKey": "korea",
+      "years": "2022 Hyundai Santa Fe Smartstream G3.5 brochure specification, Australian market",
+      "displacement": "3.5 L · 3,470 cc",
+      "layout": "V6 · DOHC · 24V",
+      "fuelKey": "petrol",
+      "aspirationKey": "naturallyAspirated",
+      "injectionKey": "multiPointInjection",
+      "blockKey": "notSpecified",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Hyundai Santa Fe Smartstream G3.5 (Australia, 2022 brochure specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "G6DU is the 3.5 L · 3,470 cc V6 · DOHC · 24V factory specification documented for Hyundai Santa Fe Smartstream G3.5 (Australia, 2022 brochure specification); the manufacturer sheet identifies the engine code, configuration and fuel system.",
+          "issues": "The manufacturer specification does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+          "pros": "The manufacturer sheet links the exact engine code directly to displacement, configuration, power, torque and their engine speeds.",
+          "cons": "The stored figures apply only to the Australian Santa Fe Smartstream G3.5 brochure specification published in 2022, not to every calibration of the wider engine family."
+        },
+        "es": {
+          "construction": "G6DU corresponde a la especificación de fábrica V6 · DOHC · 24V de 3.5 L · 3,470 cc documentada para Hyundai Santa Fe Smartstream G3.5 (Australia, especificación del catálogo de 2022); la ficha del fabricante identifica el código, la configuración y el sistema de alimentación.",
+          "issues": "La especificación del fabricante no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+          "pros": "La ficha del fabricante vincula directamente el código exacto con la cilindrada, la configuración, la potencia, el par y sus regímenes.",
+          "cons": "Las cifras guardadas se aplican solo a la especificación australiana del Santa Fe Smartstream G3.5 publicada en 2022, no a todas las calibraciones de la familia del motor."
+        },
+        "fr": {
+          "construction": "G6DU correspond à la spécification usine V6 · DOHC · 24V de 3.5 L · 3,470 cc documentée pour Hyundai Santa Fe Smartstream G3.5 (Australie, spécification du catalogue 2022); la fiche constructeur identifie le code moteur, la configuration et le système d'alimentation.",
+          "issues": "La spécification constructeur n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+          "pros": "La fiche constructeur relie directement le code moteur exact à la cylindrée, à la configuration, à la puissance, au couple et à leurs régimes.",
+          "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification australienne du Santa Fe Smartstream G3.5 publiée en 2022, et non à toutes les calibrations de la famille moteur."
+        },
+        "de": {
+          "construction": "G6DU ist die für Hyundai Santa Fe Smartstream G3.5 (Australien, Katalogspezifikation 2022) dokumentierte 3.5 L · 3,470 cc-V6 · DOHC · 24V-Werksspezifikation; das Herstellerdatenblatt nennt Motorkennung, Bauart und Kraftstoffsystem.",
+          "issues": "Die Herstellerspezifikation nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+          "pros": "Das Herstellerdatenblatt verbindet die genaue Motorkennung direkt mit Hubraum, Bauart, Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+          "cons": "Die gespeicherten Werte gelten nur für die 2022 veröffentlichte australische Santa-Fe-Smartstream-G3.5-Spezifikation und nicht für jede Abstimmung der Motorfamilie."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 200,
+          "max": 200,
+          "rpm": {
+            "min": 6400,
+            "max": 6400
+          }
+        },
+        "torqueNm": {
+          "min": 331,
+          "max": 331,
+          "rpm": {
+            "min": 5000,
+            "max": 5000
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "Hyundai Santa Fe brochure and specification table",
+            "publisher": "Hyundai Motor Company",
+            "year": 2022,
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/santa-fe-turbo-hybrid/doc/15911-12-Brochure-Santa-Fe_v1.pdf",
+            "page": 1,
+            "checkedAt": "2026-09-09",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "aspirationKey",
+              "injectionKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Australian Santa Fe brochure identifies engine code G6DU for the Smartstream G3.5. Its specification table lists 3,470 cc, a naturally aspirated 24-valve V6 with multipoint petrol injection, 200 kW at 6,400 rpm and 331 N-m at 5,000 rpm."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "hyundai-d4he",
+      "code": "D4HE",
+      "aliases": [
+        "Smartstream D2.2"
+      ],
+      "maker": "Hyundai Motor Company",
+      "regionKey": "korea",
+      "years": "2022 Hyundai Santa Fe Smartstream D2.2 brochure specification, Australian market",
+      "displacement": "2.2 L · 2,151 cc",
+      "layout": "I4 · DOHC · 16V",
+      "fuelKey": "diesel",
+      "aspirationKey": "turbocharged",
+      "injectionKey": "commonRail",
+      "blockKey": "notSpecified",
+      "timingKey": "notSpecified",
+      "applications": [
+        "Hyundai Santa Fe Smartstream D2.2 (Australia, 2022 brochure specification)"
+      ],
+      "consumption": "Not specified in source",
+      "declaredLifeKey": "notPublished",
+      "typicalLife": "Not specified in source",
+      "oilRecord": "",
+      "statusKey": "starterReview",
+      "text": {
+        "en": {
+          "construction": "D4HE is the 2.2 L · 2,151 cc I4 · DOHC · 16V factory specification documented for Hyundai Santa Fe Smartstream D2.2 (Australia, 2022 brochure specification); the manufacturer sheet identifies the engine code, configuration and fuel system.",
+          "issues": "The manufacturer specification does not state recurring faults or service life. Inspect the exact vehicle and its maintenance history.",
+          "pros": "The manufacturer sheet links the exact engine code directly to displacement, configuration, power, torque and their engine speeds.",
+          "cons": "The stored figures apply only to the Australian Santa Fe Smartstream D2.2 brochure specification published in 2022, not to every calibration of the wider engine family."
+        },
+        "es": {
+          "construction": "D4HE corresponde a la especificación de fábrica I4 · DOHC · 16V de 2.2 L · 2,151 cc documentada para Hyundai Santa Fe Smartstream D2.2 (Australia, especificación del catálogo de 2022); la ficha del fabricante identifica el código, la configuración y el sistema de alimentación.",
+          "issues": "La especificación del fabricante no indica averías recurrentes ni vida útil. Deben revisarse el vehículo exacto y su historial de mantenimiento.",
+          "pros": "La ficha del fabricante vincula directamente el código exacto con la cilindrada, la configuración, la potencia, el par y sus regímenes.",
+          "cons": "Las cifras guardadas se aplican solo a la especificación australiana del Santa Fe Smartstream D2.2 publicada en 2022, no a todas las calibraciones de la familia del motor."
+        },
+        "fr": {
+          "construction": "D4HE correspond à la spécification usine I4 · DOHC · 16V de 2.2 L · 2,151 cc documentée pour Hyundai Santa Fe Smartstream D2.2 (Australie, spécification du catalogue 2022); la fiche constructeur identifie le code moteur, la configuration et le système d'alimentation.",
+          "issues": "La spécification constructeur n'indique ni panne récurrente ni durée de vie. Le véhicule précis et son historique d'entretien doivent être contrôlés.",
+          "pros": "La fiche constructeur relie directement le code moteur exact à la cylindrée, à la configuration, à la puissance, au couple et à leurs régimes.",
+          "cons": "Les valeurs enregistrées s'appliquent uniquement à la spécification australienne du Santa Fe Smartstream D2.2 publiée en 2022, et non à toutes les calibrations de la famille moteur."
+        },
+        "de": {
+          "construction": "D4HE ist die für Hyundai Santa Fe Smartstream D2.2 (Australien, Katalogspezifikation 2022) dokumentierte 2.2 L · 2,151 cc-I4 · DOHC · 16V-Werksspezifikation; das Herstellerdatenblatt nennt Motorkennung, Bauart und Kraftstoffsystem.",
+          "issues": "Die Herstellerspezifikation nennt keine wiederkehrenden Schäden oder Laufleistung. Das konkrete Fahrzeug und seine Wartungshistorie müssen geprüft werden.",
+          "pros": "Das Herstellerdatenblatt verbindet die genaue Motorkennung direkt mit Hubraum, Bauart, Leistung, Drehmoment und den zugehörigen Drehzahlen.",
+          "cons": "Die gespeicherten Werte gelten nur für die 2022 veröffentlichte australische Santa-Fe-Smartstream-D2.2-Spezifikation und nicht für jede Abstimmung der Motorfamilie."
+        }
+      },
+      "performance": {
+        "powerKw": {
+          "min": 148,
+          "max": 148,
+          "rpm": {
+            "min": 3800,
+            "max": 3800
+          }
+        },
+        "torqueNm": {
+          "min": 440,
+          "max": 440,
+          "rpm": {
+            "min": 1750,
+            "max": 2750
+          }
+        }
+      },
+      "verification": {
+        "status": "verified",
+        "sources": [
+          {
+            "type": "manufacturer",
+            "title": "Hyundai Santa Fe brochure and specification table",
+            "publisher": "Hyundai Motor Company",
+            "year": 2022,
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/santa-fe-turbo-hybrid/doc/15911-12-Brochure-Santa-Fe_v1.pdf",
+            "page": 1,
+            "checkedAt": "2026-09-09",
+            "fields": [
+              "code",
+              "aliases",
+              "applications",
+              "years",
+              "displacement",
+              "layout",
+              "fuelKey",
+              "aspirationKey",
+              "injectionKey",
+              "performance.powerKw",
+              "performance.torqueNm"
+            ],
+            "pageNotes": [
+              "The official Australian Santa Fe brochure identifies engine code D4HE for the Smartstream D2.2. Its specification table lists 2,151 cc, a turbocharged 16-valve inline four-cylinder diesel with common-rail direct injection, 148 kW at 3,800 rpm and 440 N-m from 1,750 to 2,750 rpm."
+            ]
+          }
+        ]
+      }
     }
   ]
 }
