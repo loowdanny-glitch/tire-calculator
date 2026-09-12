@@ -5691,5 +5691,2065 @@ window.AUTOHUB_ENGINE_DATA_REGIONS.usa = [
         }
       ]
     }
+  },
+  {
+    "id": "ford-performance-m-6007-23tb",
+    "code": "M-6007-23TB",
+    "aliases": [
+      "2.3L EcoBoost MPC Crate Engine"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "2.3 L",
+    "layout": "I4 · DOHC · turbo",
+    "fuelKey": "petrol",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "directInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "notSpecified",
+    "applications": [
+      "2.3L EcoBoost MPC Crate Engine, exact Ford Performance U.S. crate/racing product P/N M-6007-23TB (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-23TB is the I4 · DOHC · turbo 2.3 L engine documented for 2.3L EcoBoost MPC Crate Engine, exact Ford Performance U.S. crate/racing product P/N M-6007-23TB (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 235 kW and 475 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-23TB es el motor I4 · DOHC · turbo de 2.3 L documentado para 2.3L EcoBoost MPC Crate Engine, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-23TB (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 235 kW y 475 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-23TB est le moteur I4 · DOHC · turbo de 2.3 L documenté pour 2.3L EcoBoost MPC Crate Engine, produit crate/de compétition américain Ford Performance exact, P/N M-6007-23TB (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 235 kW et 475 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-23TB ist der für 2.3L EcoBoost MPC Crate Engine, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-23TB (Spezifikation 2026) dokumentierte I4 · DOHC · turbo-Motor mit 2.3 L. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 235 kW und 475 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 235,
+        "max": 235,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 475,
+        "max": 475,
+        "rpm": {
+          "min": 3000,
+          "max": 3000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "2.3L EcoBoost MPC Crate Engine | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-23TB",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page identifies P/N M-6007-23TB, 2.3L EcoBoost MPC Crate Engine, 2.3 L, 315 hp at 5,500 rpm and 350 lb-ft at 3,000 rpm. Stored 235 kW and 475 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-33v6na",
+    "code": "M-6007-33V6NA",
+    "aliases": [
+      "3.3L V6 Duratec NA Crate Engine"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "3.3 L",
+    "layout": "V6 · DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "aluminumLiners",
+    "timingKey": "notSpecified",
+    "applications": [
+      "3.3L V6 Duratec NA Crate Engine, exact Ford Performance U.S. crate/racing product P/N M-6007-33V6NA (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-33V6NA is the V6 · DOHC 3.3 L engine documented for 3.3L V6 Duratec NA Crate Engine, exact Ford Performance U.S. crate/racing product P/N M-6007-33V6NA (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 216 kW and 359 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-33V6NA es el motor V6 · DOHC de 3.3 L documentado para 3.3L V6 Duratec NA Crate Engine, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-33V6NA (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 216 kW y 359 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-33V6NA est le moteur V6 · DOHC de 3.3 L documenté pour 3.3L V6 Duratec NA Crate Engine, produit crate/de compétition américain Ford Performance exact, P/N M-6007-33V6NA (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 216 kW et 359 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-33V6NA ist der für 3.3L V6 Duratec NA Crate Engine, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-33V6NA (Spezifikation 2026) dokumentierte V6 · DOHC-Motor mit 3.3 L. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 216 kW und 359 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 216,
+        "max": 216,
+        "rpm": {
+          "min": 6500,
+          "max": 6500
+        }
+      },
+      "torqueNm": {
+        "min": 359,
+        "max": 359,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "3.3L V6 Duratec NA Crate Engine | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-33V6NA",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page identifies P/N M-6007-33V6NA, 3.3L V6 Duratec NA Crate Engine, 3.3 L, 290 hp at 6,500 rpm and 265 lb-ft at 4,000 rpm. Stored 216 kW and 359 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-35ta",
+    "code": "M-6007-35TA",
+    "aliases": [
+      "Raptor 3.5L 450HP EcoBoost Crate Engine"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "3.5 L",
+    "layout": "V6 · DOHC · twin turbo",
+    "fuelKey": "petrol",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "directInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Raptor 3.5L 450HP EcoBoost Crate Engine, exact Ford Performance U.S. crate/racing product P/N M-6007-35TA (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-35TA is the V6 · DOHC · twin turbo 3.5 L engine documented for Raptor 3.5L 450HP EcoBoost Crate Engine, exact Ford Performance U.S. crate/racing product P/N M-6007-35TA (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 336 kW and 691 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-35TA es el motor V6 · DOHC · twin turbo de 3.5 L documentado para Raptor 3.5L 450HP EcoBoost Crate Engine, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-35TA (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 336 kW y 691 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-35TA est le moteur V6 · DOHC · twin turbo de 3.5 L documenté pour Raptor 3.5L 450HP EcoBoost Crate Engine, produit crate/de compétition américain Ford Performance exact, P/N M-6007-35TA (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 336 kW et 691 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-35TA ist der für Raptor 3.5L 450HP EcoBoost Crate Engine, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-35TA (Spezifikation 2026) dokumentierte V6 · DOHC · twin turbo-Motor mit 3.5 L. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 336 kW und 691 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 336,
+        "max": 336,
+        "rpm": {
+          "min": 5520,
+          "max": 5520
+        }
+      },
+      "torqueNm": {
+        "min": 691,
+        "max": 691,
+        "rpm": {
+          "min": 3250,
+          "max": 3250
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Raptor 3.5L 450HP EcoBoost Crate Engine | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-35TA",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page identifies P/N M-6007-35TA, Raptor 3.5L 450HP EcoBoost Crate Engine, 3.5 L, 450 hp at 5,520 rpm and 510 lb-ft at 3,250 rpm. Stored 336 kW and 691 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-572df",
+    "code": "M-6007-572DF",
+    "aliases": [
+      "572 Cubic Inch 655 HP Big Block Street Crate Engine-Front Sump Pan"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "572 cu in",
+    "layout": "V8 · 385 Series big-block · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "572 Cubic Inch 655 HP Big Block Street Crate Engine-Front Sump Pan, exact Ford Performance U.S. crate/racing product P/N M-6007-572DF (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-572DF is the V8 · 385 Series big-block · OHV 572 cu in engine documented for 572 Cubic Inch 655 HP Big Block Street Crate Engine-Front Sump Pan, exact Ford Performance U.S. crate/racing product P/N M-6007-572DF (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 488 kW and 963 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-572DF es el motor V8 · 385 Series big-block · OHV de 572 cu in documentado para 572 Cubic Inch 655 HP Big Block Street Crate Engine-Front Sump Pan, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-572DF (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 488 kW y 963 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-572DF est le moteur V8 · 385 Series big-block · OHV de 572 cu in documenté pour 572 Cubic Inch 655 HP Big Block Street Crate Engine-Front Sump Pan, produit crate/de compétition américain Ford Performance exact, P/N M-6007-572DF (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 488 kW et 963 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-572DF ist der für 572 Cubic Inch 655 HP Big Block Street Crate Engine-Front Sump Pan, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-572DF (Spezifikation 2026) dokumentierte V8 · 385 Series big-block · OHV-Motor mit 572 cu in. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 488 kW und 963 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 488,
+        "max": 488,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 963,
+        "max": 963,
+        "rpm": {
+          "min": 4500,
+          "max": 4500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "572 Cubic Inch 655 HP Big Block Street Crate Engine-Front Sump Pan | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-572DF",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page identifies P/N M-6007-572DF, 572 Cubic Inch 655 HP Big Block Street Crate Engine-Front Sump Pan, 572 cu in, 655 hp at 5,500 rpm and 710 lb-ft at 4,500 rpm. Stored 488 kW and 963 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-572dr",
+    "code": "M-6007-572DR",
+    "aliases": [
+      "572 Cubic Inch 655 HP Big Block Street Crate Engine-Rear Sump Pan"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "572 cu in",
+    "layout": "V8 · 385 Series big-block · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "572 Cubic Inch 655 HP Big Block Street Crate Engine-Rear Sump Pan, exact Ford Performance U.S. crate/racing product P/N M-6007-572DR (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-572DR is the V8 · 385 Series big-block · OHV 572 cu in engine documented for 572 Cubic Inch 655 HP Big Block Street Crate Engine-Rear Sump Pan, exact Ford Performance U.S. crate/racing product P/N M-6007-572DR (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 488 kW and 963 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-572DR es el motor V8 · 385 Series big-block · OHV de 572 cu in documentado para 572 Cubic Inch 655 HP Big Block Street Crate Engine-Rear Sump Pan, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-572DR (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 488 kW y 963 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-572DR est le moteur V8 · 385 Series big-block · OHV de 572 cu in documenté pour 572 Cubic Inch 655 HP Big Block Street Crate Engine-Rear Sump Pan, produit crate/de compétition américain Ford Performance exact, P/N M-6007-572DR (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 488 kW et 963 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-572DR ist der für 572 Cubic Inch 655 HP Big Block Street Crate Engine-Rear Sump Pan, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-572DR (Spezifikation 2026) dokumentierte V8 · 385 Series big-block · OHV-Motor mit 572 cu in. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 488 kW und 963 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 488,
+        "max": 488,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 963,
+        "max": 963,
+        "rpm": {
+          "min": 4500,
+          "max": 4500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "572 Cubic Inch 655 HP Big Block Street Crate Engine-Rear Sump Pan | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-572DR",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page identifies P/N M-6007-572DR, 572 Cubic Inch 655 HP Big Block Street Crate Engine-Rear Sump Pan, 572 cu in, 655 hp at 5,500 rpm and 710 lb-ft at 4,500 rpm. Stored 488 kW and 963 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-73b",
+    "code": "M-6007-73B",
+    "aliases": [
+      "7.3L 2024 Super Duty Crate Engine"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "7.3 L",
+    "layout": "V8 · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "multiPointInjection",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "7.3L 2024 Super Duty Crate Engine, exact Ford Performance U.S. crate/racing product P/N M-6007-73B (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-73B is the V8 · OHV 7.3 L engine documented for 7.3L 2024 Super Duty Crate Engine, exact Ford Performance U.S. crate/racing product P/N M-6007-73B (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 321 kW and 658 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-73B es el motor V8 · OHV de 7.3 L documentado para 7.3L 2024 Super Duty Crate Engine, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-73B (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 321 kW y 658 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-73B est le moteur V8 · OHV de 7.3 L documenté pour 7.3L 2024 Super Duty Crate Engine, produit crate/de compétition américain Ford Performance exact, P/N M-6007-73B (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 321 kW et 658 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-73B ist der für 7.3L 2024 Super Duty Crate Engine, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-73B (Spezifikation 2026) dokumentierte V8 · OHV-Motor mit 7.3 L. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 321 kW und 658 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 321,
+        "max": 321,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 658,
+        "max": 658,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "7.3L 2024 Super Duty Crate Engine | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-73B",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page identifies P/N M-6007-73B, 7.3L 2024 Super Duty Crate Engine, 7.3 L, 430 hp at 5,500 rpm and 485 lb-ft at 4,000 rpm. Stored 321 kW and 658 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-a52xs",
+    "code": "M-6007-A52XS",
+    "aliases": [
+      "5.2L Aluminator 5.2 XS Crate Engine"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "5.2 L · 317 cu in",
+    "layout": "V8 · DOHC · 32V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "aluminumLiners",
+    "timingKey": "notSpecified",
+    "applications": [
+      "5.2L Aluminator 5.2 XS Crate Engine, exact Ford Performance U.S. crate/racing product P/N M-6007-A52XS (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-A52XS is the V8 · DOHC · 32V 5.2 L · 317 cu in engine documented for 5.2L Aluminator 5.2 XS Crate Engine, exact Ford Performance U.S. crate/racing product P/N M-6007-A52XS (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 433 kW and 603 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-A52XS es el motor V8 · DOHC · 32V de 5.2 L · 317 cu in documentado para 5.2L Aluminator 5.2 XS Crate Engine, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-A52XS (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 433 kW y 603 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-A52XS est le moteur V8 · DOHC · 32V de 5.2 L · 317 cu in documenté pour 5.2L Aluminator 5.2 XS Crate Engine, produit crate/de compétition américain Ford Performance exact, P/N M-6007-A52XS (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 433 kW et 603 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-A52XS ist der für 5.2L Aluminator 5.2 XS Crate Engine, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-A52XS (Spezifikation 2026) dokumentierte V8 · DOHC · 32V-Motor mit 5.2 L · 317 cu in. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 433 kW und 603 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 433,
+        "max": 433,
+        "rpm": {
+          "min": 7800,
+          "max": 7800
+        }
+      },
+      "torqueNm": {
+        "min": 603,
+        "max": 603,
+        "rpm": {
+          "min": 4500,
+          "max": 4500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "5.2L Aluminator 5.2 XS Crate Engine | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-A52XS",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page identifies P/N M-6007-A52XS, 5.2L Aluminator 5.2 XS Crate Engine, 5.2 L · 317 cu in, 580 hp at 7,800 rpm and 445 lb-ft at 4,500 rpm. Stored 433 kW and 603 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-d347sr",
+    "code": "M-6007-D347SR",
+    "aliases": [
+      "347 Cubic Inch 415 HP Sealed Racing Engine"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "347 cu in",
+    "layout": "V8 · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "347 Cubic Inch 415 HP Sealed Racing Engine, exact Ford Performance U.S. crate/racing product P/N M-6007-D347SR (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-D347SR is the V8 · OHV 347 cu in engine documented for 347 Cubic Inch 415 HP Sealed Racing Engine, exact Ford Performance U.S. crate/racing product P/N M-6007-D347SR (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 309 kW and 542 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-D347SR es el motor V8 · OHV de 347 cu in documentado para 347 Cubic Inch 415 HP Sealed Racing Engine, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-D347SR (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 309 kW y 542 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-D347SR est le moteur V8 · OHV de 347 cu in documenté pour 347 Cubic Inch 415 HP Sealed Racing Engine, produit crate/de compétition américain Ford Performance exact, P/N M-6007-D347SR (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 309 kW et 542 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-D347SR ist der für 347 Cubic Inch 415 HP Sealed Racing Engine, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-D347SR (Spezifikation 2026) dokumentierte V8 · OHV-Motor mit 347 cu in. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 309 kW und 542 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 309,
+        "max": 309,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 542,
+        "max": 542,
+        "rpm": {
+          "min": 4900,
+          "max": 4900
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "347 Cubic Inch 415 HP Sealed Racing Engine | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-D347SR",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page identifies P/N M-6007-D347SR, 347 Cubic Inch 415 HP Sealed Racing Engine, 347 cu in, 415 hp at 6,000 rpm and 400 lb-ft at 4,900 rpm. Stored 309 kW and 542 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-d347sr7",
+    "code": "M-6007-D347SR7",
+    "aliases": [
+      "347 Cubic Inches 415 HP Sealed Racing Engine 7MM Valves"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "347 cu in",
+    "layout": "V8 · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "347 Cubic Inches 415 HP Sealed Racing Engine 7MM Valves, exact Ford Performance U.S. crate/racing product P/N M-6007-D347SR7 (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-D347SR7 is the V8 · OHV 347 cu in engine documented for 347 Cubic Inches 415 HP Sealed Racing Engine 7MM Valves, exact Ford Performance U.S. crate/racing product P/N M-6007-D347SR7 (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 309 kW and 542 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-D347SR7 es el motor V8 · OHV de 347 cu in documentado para 347 Cubic Inches 415 HP Sealed Racing Engine 7MM Valves, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-D347SR7 (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 309 kW y 542 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-D347SR7 est le moteur V8 · OHV de 347 cu in documenté pour 347 Cubic Inches 415 HP Sealed Racing Engine 7MM Valves, produit crate/de compétition américain Ford Performance exact, P/N M-6007-D347SR7 (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 309 kW et 542 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-D347SR7 ist der für 347 Cubic Inches 415 HP Sealed Racing Engine 7MM Valves, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-D347SR7 (Spezifikation 2026) dokumentierte V8 · OHV-Motor mit 347 cu in. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 309 kW und 542 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 309,
+        "max": 309,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 542,
+        "max": 542,
+        "rpm": {
+          "min": 4900,
+          "max": 4900
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "347 Cubic Inches 415 HP Sealed Racing Engine 7MM Valves | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-D347SR7",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page identifies P/N M-6007-D347SR7, 347 Cubic Inches 415 HP Sealed Racing Engine 7MM Valves, 347 cu in, 415 hp at 6,000 rpm and 400 lb-ft at 4,900 rpm. Stored 309 kW and 542 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-m50d",
+    "code": "M-6007-M50D",
+    "aliases": [
+      "5.0L Gen 4 Mustang Crate Engine W/ Flywheel"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "5.0 L",
+    "layout": "V8 · DOHC · 32V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "dualInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "notSpecified",
+    "applications": [
+      "5.0L Gen 4 Mustang Crate Engine W/ Flywheel, exact Ford Performance U.S. crate/racing product P/N M-6007-M50D (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-M50D is the V8 · DOHC · 32V 5.0 L engine documented for 5.0L Gen 4 Mustang Crate Engine W/ Flywheel, exact Ford Performance U.S. crate/racing product P/N M-6007-M50D (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 358 kW and 563 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-M50D es el motor V8 · DOHC · 32V de 5.0 L documentado para 5.0L Gen 4 Mustang Crate Engine W/ Flywheel, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-M50D (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 358 kW y 563 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-M50D est le moteur V8 · DOHC · 32V de 5.0 L documenté pour 5.0L Gen 4 Mustang Crate Engine W/ Flywheel, produit crate/de compétition américain Ford Performance exact, P/N M-6007-M50D (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 358 kW et 563 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-M50D ist der für 5.0L Gen 4 Mustang Crate Engine W/ Flywheel, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-M50D (Spezifikation 2026) dokumentierte V8 · DOHC · 32V-Motor mit 5.0 L. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 358 kW und 563 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 358,
+        "max": 358,
+        "rpm": {
+          "min": 7150,
+          "max": 7150
+        }
+      },
+      "torqueNm": {
+        "min": 563,
+        "max": 563,
+        "rpm": {
+          "min": 4900,
+          "max": 4900
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "5.0L Gen 4 Mustang Crate Engine W/ Flywheel | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-M50D",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page identifies P/N M-6007-M50D, 5.0L Gen 4 Mustang Crate Engine W/ Flywheel, 5.0 L, 480 hp at 7,150 rpm and 415 lb-ft at 4,900 rpm. Stored 358 kW and 563 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-m50dauto",
+    "code": "M-6007-M50DAUTO",
+    "aliases": [
+      "5.0L Gen 4 Mustang Crate Engine - Auto"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "5.0 L",
+    "layout": "V8 · DOHC · 32V",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "dualInjection",
+    "blockKey": "aluminumLiners",
+    "timingKey": "notSpecified",
+    "applications": [
+      "5.0L Gen 4 Mustang Crate Engine - Auto, exact Ford Performance U.S. crate/racing product P/N M-6007-M50DAUTO (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-M50DAUTO is the V8 · DOHC · 32V 5.0 L engine documented for 5.0L Gen 4 Mustang Crate Engine - Auto, exact Ford Performance U.S. crate/racing product P/N M-6007-M50DAUTO (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 358 kW and 563 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-M50DAUTO es el motor V8 · DOHC · 32V de 5.0 L documentado para 5.0L Gen 4 Mustang Crate Engine - Auto, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-M50DAUTO (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 358 kW y 563 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-M50DAUTO est le moteur V8 · DOHC · 32V de 5.0 L documenté pour 5.0L Gen 4 Mustang Crate Engine - Auto, produit crate/de compétition américain Ford Performance exact, P/N M-6007-M50DAUTO (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 358 kW et 563 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-M50DAUTO ist der für 5.0L Gen 4 Mustang Crate Engine - Auto, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-M50DAUTO (Spezifikation 2026) dokumentierte V8 · DOHC · 32V-Motor mit 5.0 L. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 358 kW und 563 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 358,
+        "max": 358,
+        "rpm": {
+          "min": 7150,
+          "max": 7150
+        }
+      },
+      "torqueNm": {
+        "min": 563,
+        "max": 563,
+        "rpm": {
+          "min": 4900,
+          "max": 4900
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "5.0L Gen 4 Mustang Crate Engine - Auto | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-M50DAUTO",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page identifies P/N M-6007-M50DAUTO, 5.0L Gen 4 Mustang Crate Engine - Auto, 5.0 L, 480 hp at 7,150 rpm and 415 lb-ft at 4,900 rpm. Stored 358 kW and 563 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-mz73",
+    "code": "M-6007-MZ73",
+    "aliases": [
+      "7.3L Megazilla™ 612 HP Crate Engine"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "7.3 L",
+    "layout": "V8 · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "7.3L Megazilla™ 612 HP Crate Engine, exact Ford Performance U.S. crate/racing product P/N M-6007-MZ73 (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-MZ73 is the V8 · OHV 7.3 L engine documented for 7.3L Megazilla™ 612 HP Crate Engine, exact Ford Performance U.S. crate/racing product P/N M-6007-MZ73 (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 456 kW and 908 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-MZ73 es el motor V8 · OHV de 7.3 L documentado para 7.3L Megazilla™ 612 HP Crate Engine, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-MZ73 (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 456 kW y 908 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-MZ73 est le moteur V8 · OHV de 7.3 L documenté pour 7.3L Megazilla™ 612 HP Crate Engine, produit crate/de compétition américain Ford Performance exact, P/N M-6007-MZ73 (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 456 kW et 908 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-MZ73 ist der für 7.3L Megazilla™ 612 HP Crate Engine, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-MZ73 (Spezifikation 2026) dokumentierte V8 · OHV-Motor mit 7.3 L. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 456 kW und 908 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 456,
+        "max": 456,
+        "rpm": {
+          "min": 5580,
+          "max": 5580
+        }
+      },
+      "torqueNm": {
+        "min": 908,
+        "max": 908,
+        "rpm": {
+          "min": 3920,
+          "max": 3920
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "7.3L Megazilla™ 612 HP Crate Engine | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-MZ73",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page identifies P/N M-6007-MZ73, 7.3L Megazilla™ 612 HP Crate Engine, 7.3 L, 612 hp at 5,580 rpm and 670 lb-ft at 3,920 rpm. Stored 456 kW and 908 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-s347jr2",
+    "code": "M-6007-S347JR2",
+    "aliases": [
+      "347CI 350HP Crate Engine-Sealed Racing X2 Cylinder Head"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "347 cu in",
+    "layout": "V8 · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "347CI 350HP Crate Engine-Sealed Racing X2 Cylinder Head, exact Ford Performance U.S. crate/racing product P/N M-6007-S347JR2 (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-S347JR2 is the V8 · OHV 347 cu in engine documented for 347CI 350HP Crate Engine-Sealed Racing X2 Cylinder Head, exact Ford Performance U.S. crate/racing product P/N M-6007-S347JR2 (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 261 kW and 542 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-S347JR2 es el motor V8 · OHV de 347 cu in documentado para 347CI 350HP Crate Engine-Sealed Racing X2 Cylinder Head, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-S347JR2 (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 261 kW y 542 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-S347JR2 est le moteur V8 · OHV de 347 cu in documenté pour 347CI 350HP Crate Engine-Sealed Racing X2 Cylinder Head, produit crate/de compétition américain Ford Performance exact, P/N M-6007-S347JR2 (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 261 kW et 542 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-S347JR2 ist der für 347CI 350HP Crate Engine-Sealed Racing X2 Cylinder Head, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-S347JR2 (Spezifikation 2026) dokumentierte V8 · OHV-Motor mit 347 cu in. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 261 kW und 542 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 261,
+        "max": 261,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 542,
+        "max": 542,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "347CI 350HP Crate Engine-Sealed Racing X2 Cylinder Head | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-S347JR2",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page identifies P/N M-6007-S347JR2, 347CI 350HP Crate Engine-Sealed Racing X2 Cylinder Head, 347 cu in, 350 hp at 5,500 rpm and 400 lb-ft at 4,000 rpm. Stored 261 kW and 542 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-x2302e",
+    "code": "M-6007-X2302E",
+    "aliases": [
+      "302 Cubic Inch 340 HP BOSS Crate Engine W/ \"E\" Cam"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "302 cu in",
+    "layout": "V8 · 302 small-block · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "302 Cubic Inch 340 HP BOSS Crate Engine W/ \"E\" Cam, exact Ford Performance U.S. crate/racing product P/N M-6007-X2302E (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-X2302E is the V8 · 302 small-block · OHV 302 cu in engine documented for 302 Cubic Inch 340 HP BOSS Crate Engine W/ \"E\" Cam, exact Ford Performance U.S. crate/racing product P/N M-6007-X2302E (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 254 kW and 447 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-X2302E es el motor V8 · 302 small-block · OHV de 302 cu in documentado para 302 Cubic Inch 340 HP BOSS Crate Engine W/ \"E\" Cam, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-X2302E (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 254 kW y 447 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-X2302E est le moteur V8 · 302 small-block · OHV de 302 cu in documenté pour 302 Cubic Inch 340 HP BOSS Crate Engine W/ \"E\" Cam, produit crate/de compétition américain Ford Performance exact, P/N M-6007-X2302E (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 254 kW et 447 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-X2302E ist der für 302 Cubic Inch 340 HP BOSS Crate Engine W/ \"E\" Cam, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-X2302E (Spezifikation 2026) dokumentierte V8 · 302 small-block · OHV-Motor mit 302 cu in. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 254 kW und 447 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 254,
+        "max": 254,
+        "rpm": {
+          "min": 6200,
+          "max": 6200
+        }
+      },
+      "torqueNm": {
+        "min": 447,
+        "max": 447,
+        "rpm": {
+          "min": 4800,
+          "max": 4800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "302 Cubic Inch 340 HP BOSS Crate Engine W/ \"E\" Cam | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-X2302E",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "blockKey"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page gives the exact designation 302 CUBIC INCH 340 HP BOSS CRATE ENGINE W/ \"E\" CAM and P/N M-6007-X2302E, classifies it as Engine: Complete Engines, describes it as a crate engine intended for competition/off-highway use, and states 302 cu in and 340 hp. The linked official instruction sheet supplies both rated engine speeds and torque."
+          ]
+        },
+        {
+          "type": "manufacturer",
+          "title": "302 Cubic Inch 340 HP BOSS Crate Engine W/ \"E\" Cam | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/download/instructionsheets/FORDINSTSHTM-6007-X2302E.PDF",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance instruction sheet identifies P/N M-6007-X2302E, 302 Cubic Inch 340 HP BOSS Crate Engine W/ \"E\" Cam, 302 cu in, 340 hp at 6,200 rpm and 330 lb-ft at 4,800 rpm. Stored 254 kW and 447 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-z2363ft",
+    "code": "M-6007-Z2363FT",
+    "aliases": [
+      "363 Cubic Inch 507 HP BOSS Crate Engine-Z2 Heads-Front Sump Pan"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "363 cu in",
+    "layout": "V8 · 351-based small-block · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "363 Cubic Inch 507 HP BOSS Crate Engine-Z2 Heads-Front Sump Pan, exact Ford Performance U.S. crate/racing product P/N M-6007-Z2363FT (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-Z2363FT is the V8 · 351-based small-block · OHV 363 cu in engine documented for 363 Cubic Inch 507 HP BOSS Crate Engine-Z2 Heads-Front Sump Pan, exact Ford Performance U.S. crate/racing product P/N M-6007-Z2363FT (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 378 kW and 610 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-Z2363FT es el motor V8 · 351-based small-block · OHV de 363 cu in documentado para 363 Cubic Inch 507 HP BOSS Crate Engine-Z2 Heads-Front Sump Pan, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-Z2363FT (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 378 kW y 610 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-Z2363FT est le moteur V8 · 351-based small-block · OHV de 363 cu in documenté pour 363 Cubic Inch 507 HP BOSS Crate Engine-Z2 Heads-Front Sump Pan, produit crate/de compétition américain Ford Performance exact, P/N M-6007-Z2363FT (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 378 kW et 610 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-Z2363FT ist der für 363 Cubic Inch 507 HP BOSS Crate Engine-Z2 Heads-Front Sump Pan, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-Z2363FT (Spezifikation 2026) dokumentierte V8 · 351-based small-block · OHV-Motor mit 363 cu in. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 378 kW und 610 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 378,
+        "max": 378,
+        "rpm": {
+          "min": 6500,
+          "max": 6500
+        }
+      },
+      "torqueNm": {
+        "min": 610,
+        "max": 610,
+        "rpm": {
+          "min": 5100,
+          "max": 5100
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "363 Cubic Inch 507 HP BOSS Crate Engine-Z2 Heads-Front Sump Pan | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-Z2363FT",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page identifies P/N M-6007-Z2363FT, 363 Cubic Inch 507 HP BOSS Crate Engine-Z2 Heads-Front Sump Pan, 363 cu in, 507 hp at 6,500 rpm and 450 lb-ft at 5,100 rpm. Stored 378 kW and 610 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-z2363rt",
+    "code": "M-6007-Z2363RT",
+    "aliases": [
+      "363 Cubic Inch 507 HP BOSS Crate Engine-Z2 Heads-Rear Sump Pan"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "363 cu in",
+    "layout": "V8 · 351-based small-block · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "363 Cubic Inch 507 HP BOSS Crate Engine-Z2 Heads-Rear Sump Pan, exact Ford Performance U.S. crate/racing product P/N M-6007-Z2363RT (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-Z2363RT is the V8 · 351-based small-block · OHV 363 cu in engine documented for 363 Cubic Inch 507 HP BOSS Crate Engine-Z2 Heads-Rear Sump Pan, exact Ford Performance U.S. crate/racing product P/N M-6007-Z2363RT (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 378 kW and 610 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-Z2363RT es el motor V8 · 351-based small-block · OHV de 363 cu in documentado para 363 Cubic Inch 507 HP BOSS Crate Engine-Z2 Heads-Rear Sump Pan, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-Z2363RT (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 378 kW y 610 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-Z2363RT est le moteur V8 · 351-based small-block · OHV de 363 cu in documenté pour 363 Cubic Inch 507 HP BOSS Crate Engine-Z2 Heads-Rear Sump Pan, produit crate/de compétition américain Ford Performance exact, P/N M-6007-Z2363RT (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 378 kW et 610 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-Z2363RT ist der für 363 Cubic Inch 507 HP BOSS Crate Engine-Z2 Heads-Rear Sump Pan, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-Z2363RT (Spezifikation 2026) dokumentierte V8 · 351-based small-block · OHV-Motor mit 363 cu in. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 378 kW und 610 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 378,
+        "max": 378,
+        "rpm": {
+          "min": 6500,
+          "max": 6500
+        }
+      },
+      "torqueNm": {
+        "min": 610,
+        "max": 610,
+        "rpm": {
+          "min": 5100,
+          "max": 5100
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "363 Cubic Inch 507 HP BOSS Crate Engine-Z2 Heads-Rear Sump Pan | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-Z2363RT",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page identifies P/N M-6007-Z2363RT, 363 Cubic Inch 507 HP BOSS Crate Engine-Z2 Heads-Rear Sump Pan, 363 cu in, 507 hp at 6,500 rpm and 450 lb-ft at 5,100 rpm. Stored 378 kW and 610 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-z2427fft",
+    "code": "M-6007-Z2427FFT",
+    "aliases": [
+      "427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Front Sump Pan"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "427 cu in",
+    "layout": "V8 · 351-based small-block · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Front Sump Pan, exact Ford Performance U.S. crate/racing product P/N M-6007-Z2427FFT (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-Z2427FFT is the V8 · 351-based small-block · OHV 427 cu in engine documented for 427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Front Sump Pan, exact Ford Performance U.S. crate/racing product P/N M-6007-Z2427FFT (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 399 kW and 739 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-Z2427FFT es el motor V8 · 351-based small-block · OHV de 427 cu in documentado para 427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Front Sump Pan, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-Z2427FFT (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 399 kW y 739 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-Z2427FFT est le moteur V8 · 351-based small-block · OHV de 427 cu in documenté pour 427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Front Sump Pan, produit crate/de compétition américain Ford Performance exact, P/N M-6007-Z2427FFT (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 399 kW et 739 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-Z2427FFT ist der für 427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Front Sump Pan, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-Z2427FFT (Spezifikation 2026) dokumentierte V8 · 351-based small-block · OHV-Motor mit 427 cu in. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 399 kW und 739 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 399,
+        "max": 399,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 739,
+        "max": 739,
+        "rpm": {
+          "min": 4500,
+          "max": 4500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Front Sump Pan | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-Z2427FFT",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "blockKey"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page gives the exact designation 427 CUBIC INCH 535 HP BOSS CRATE ENGINE-Z2 HEADS-FRONT SUMP PAN and P/N M-6007-Z2427FFT, and classifies it as an engine/crate-engine product intended for competition/off-highway use. The linked official instruction sheet supplies the rated power, torque and both engine speeds."
+          ]
+        },
+        {
+          "type": "manufacturer",
+          "title": "427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Front Sump Pan | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/download/instructionsheets/FORDINSTSHTM-6007-Z2427FFT-FRT.PDF",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance instruction sheet identifies P/N M-6007-Z2427FFT, 427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Front Sump Pan, 427 cu in, 535 hp at 5,600 rpm and 545 lb-ft at 4,500 rpm. Stored 399 kW and 739 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-z2427frt",
+    "code": "M-6007-Z2427FRT",
+    "aliases": [
+      "427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Rear Sump Pan"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "427 cu in",
+    "layout": "V8 · 351-based small-block · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Rear Sump Pan, exact Ford Performance U.S. crate/racing product P/N M-6007-Z2427FRT (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-Z2427FRT is the V8 · 351-based small-block · OHV 427 cu in engine documented for 427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Rear Sump Pan, exact Ford Performance U.S. crate/racing product P/N M-6007-Z2427FRT (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 399 kW and 739 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-Z2427FRT es el motor V8 · 351-based small-block · OHV de 427 cu in documentado para 427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Rear Sump Pan, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-Z2427FRT (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 399 kW y 739 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-Z2427FRT est le moteur V8 · 351-based small-block · OHV de 427 cu in documenté pour 427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Rear Sump Pan, produit crate/de compétition américain Ford Performance exact, P/N M-6007-Z2427FRT (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 399 kW et 739 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-Z2427FRT ist der für 427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Rear Sump Pan, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-Z2427FRT (Spezifikation 2026) dokumentierte V8 · 351-based small-block · OHV-Motor mit 427 cu in. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 399 kW und 739 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 399,
+        "max": 399,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 739,
+        "max": 739,
+        "rpm": {
+          "min": 4500,
+          "max": 4500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Rear Sump Pan | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-Z2427FRT",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "blockKey"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page gives the exact designation 427 CUBIC INCH 535 HP BOSS CRATE ENGINE-Z2 HEADS-REAR SUMP PAN and P/N M-6007-Z2427FRT, and classifies it as an engine/crate-engine product intended for competition/off-highway use. The linked official instruction sheet supplies the rated power, torque and both engine speeds."
+          ]
+        },
+        {
+          "type": "manufacturer",
+          "title": "427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Rear Sump Pan | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/download/instructionsheets/FORDINSTSHTM-6007-Z2427FFT-FRT.PDF",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance instruction sheet identifies P/N M-6007-Z2427FRT, 427 Cubic Inch 535 HP BOSS Crate Engine-Z2 Heads-Rear Sump Pan, 427 cu in, 535 hp at 5,600 rpm and 545 lb-ft at 4,500 rpm. Stored 399 kW and 739 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-z460fft",
+    "code": "M-6007-Z460FFT",
+    "aliases": [
+      "460 Cubic Inch 575 HP BOSS Crate Engine-Front Sump Pan"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "460 cu in",
+    "layout": "V8 · 351-based small-block · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "460 Cubic Inch 575 HP BOSS Crate Engine-Front Sump Pan, exact Ford Performance U.S. crate/racing product P/N M-6007-Z460FFT (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-Z460FFT is the V8 · 351-based small-block · OHV 460 cu in engine documented for 460 Cubic Inch 575 HP BOSS Crate Engine-Front Sump Pan, exact Ford Performance U.S. crate/racing product P/N M-6007-Z460FFT (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 429 kW and 780 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-Z460FFT es el motor V8 · 351-based small-block · OHV de 460 cu in documentado para 460 Cubic Inch 575 HP BOSS Crate Engine-Front Sump Pan, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-Z460FFT (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 429 kW y 780 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-Z460FFT est le moteur V8 · 351-based small-block · OHV de 460 cu in documenté pour 460 Cubic Inch 575 HP BOSS Crate Engine-Front Sump Pan, produit crate/de compétition américain Ford Performance exact, P/N M-6007-Z460FFT (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 429 kW et 780 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-Z460FFT ist der für 460 Cubic Inch 575 HP BOSS Crate Engine-Front Sump Pan, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-Z460FFT (Spezifikation 2026) dokumentierte V8 · 351-based small-block · OHV-Motor mit 460 cu in. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 429 kW und 780 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 429,
+        "max": 429,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 780,
+        "max": 780,
+        "rpm": {
+          "min": 4700,
+          "max": 4700
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "460 Cubic Inch 575 HP BOSS Crate Engine-Front Sump Pan | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-Z460FFT",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page identifies P/N M-6007-Z460FFT, 460 Cubic Inch 575 HP BOSS Crate Engine-Front Sump Pan, 460 cu in, 575 hp at 5,500 rpm and 575 lb-ft at 4,700 rpm. Stored 429 kW and 780 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ford-performance-m-6007-z460frt",
+    "code": "M-6007-Z460FRT",
+    "aliases": [
+      "460 Cubic Inch 575 HP BOSS Crate Engine-Rear Sump Pan"
+    ],
+    "maker": "Ford Performance",
+    "regionKey": "usa",
+    "years": "2026 Ford Performance U.S. product specification",
+    "displacement": "460 cu in",
+    "layout": "V8 · 351-based small-block · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "castIronBlock",
+    "timingKey": "notSpecified",
+    "applications": [
+      "460 Cubic Inch 575 HP BOSS Crate Engine-Rear Sump Pan, exact Ford Performance U.S. crate/racing product P/N M-6007-Z460FRT (2026 specification)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "M-6007-Z460FRT is the V8 · 351-based small-block · OHV 460 cu in engine documented for 460 Cubic Inch 575 HP BOSS Crate Engine-Rear Sump Pan, exact Ford Performance U.S. crate/racing product P/N M-6007-Z460FRT (2026 specification). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official Ford Performance product specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 429 kW and 780 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "M-6007-Z460FRT es el motor V8 · 351-based small-block · OHV de 460 cu in documentado para 460 Cubic Inch 575 HP BOSS Crate Engine-Rear Sump Pan, producto crate/de competición estadounidense exacto de Ford Performance, P/N M-6007-Z460FRT (especificación de 2026). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial de producto Ford Performance no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 429 kW y 780 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "M-6007-Z460FRT est le moteur V8 · 351-based small-block · OHV de 460 cu in documenté pour 460 Cubic Inch 575 HP BOSS Crate Engine-Rear Sump Pan, produit crate/de compétition américain Ford Performance exact, P/N M-6007-Z460FRT (spécification 2026). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche produit officielle Ford Performance ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 429 kW et 780 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "M-6007-Z460FRT ist der für 460 Cubic Inch 575 HP BOSS Crate Engine-Rear Sump Pan, exaktes US-Crate-/Rennprodukt von Ford Performance, P/N M-6007-Z460FRT (Spezifikation 2026) dokumentierte V8 · 351-based small-block · OHV-Motor mit 460 cu in. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Ford-Performance-Produktspezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 429 kW und 780 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 429,
+        "max": 429,
+        "rpm": {
+          "min": 5500,
+          "max": 5500
+        }
+      },
+      "torqueNm": {
+        "min": 780,
+        "max": 780,
+        "rpm": {
+          "min": 4700,
+          "max": 4700
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "460 Cubic Inch 575 HP BOSS Crate Engine-Rear Sump Pan | Ford Performance Parts",
+          "publisher": "Ford Motor Company",
+          "year": 2026,
+          "url": "https://performanceparts.ford.com/part/M-6007-Z460FRT",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "injectionKey",
+            "blockKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Ford Performance product page identifies P/N M-6007-Z460FRT, 460 Cubic Inch 575 HP BOSS Crate Engine-Rear Sump Pan, 460 cu in, 575 hp at 5,500 rpm and 575 lb-ft at 4,700 rpm. Stored 429 kW and 780 N-m values are nearest-integer conversions using 1 mechanical hp = 0.745699872 kW and 1 lb-ft = 1.355817948 N-m. Scope is this exact crate/racing product."
+          ]
+        }
+      ]
+    }
   }
 ];

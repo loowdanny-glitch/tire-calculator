@@ -7963,5 +7963,7843 @@ window.AUTOHUB_ENGINE_DATA_REGIONS.japan = [
         }
       ]
     }
+  },
+  {
+    "id": "datsun-l24",
+    "code": "L24",
+    "aliases": [
+      "Datsun 240Z L24 HS30"
+    ],
+    "maker": "Datsun",
+    "regionKey": "japan",
+    "years": "1971 Nissan Heritage Collection specification",
+    "displacement": "2,393 cc",
+    "layout": "6-cyl. in line OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Competition/rally specification Datsun 240Z HS30, overall winner of the 19th East-African Safari Rally (1971); 154 kW / 230 N-m applies only to this competition machine, not to standard road-going L24 applications"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "L24 is the 6-cyl. in-line OHC 2,393 cc engine documented for the competition/rally-specification Datsun 240Z HS30 that won the 19th East-African Safari Rally in 1971. The 154 kW / 230 N-m rating is limited to this competition machine and is not a standard road-going L24 specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 154 kW and 230 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "L24 es el motor OHC de seis cilindros en línea y 2,393 cc documentado para el Datsun 240Z HS30 de competición/rally que ganó el 19.º East-African Safari Rally en 1971. Los 154 kW / 230 N-m se limitan a esta máquina de competición y no son una especificación estándar de carretera de todos los L24.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 154 kW y 230 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "L24 est le moteur OHC six cylindres en ligne de 2,393 cc documenté pour la Datsun 240Z HS30 de compétition/rallye, victorieuse au classement général du 19e East-African Safari Rally en 1971. Les 154 kW / 230 N-m concernent uniquement cette machine de compétition et non tous les L24 routiers.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 154 kW et 230 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "L24 ist der 2.393-cm³-OHC-Reihensechszylinder der Competition-/Rallye-Ausführung des Datsun 240Z HS30, Gesamtsieger der 19. East-African Safari Rally 1971. Die Werte 154 kW / 230 N-m gelten ausschließlich für diese Wettbewerbsmaschine und nicht als Straßenspezifikation aller L24.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 154 kW und 230 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 154,
+        "max": 154,
+        "rpm": {
+          "min": 6800,
+          "max": 6800
+        }
+      },
+      "torqueNm": {
+        "min": 230,
+        "max": 230,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Datsun 240Z",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1971,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/060_datsun_240z.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies the Datsun 240Z HS30 as a Sport Car / Rally Car / Competition entry and overall winner of the 19th East-African Safari Rally in 1971. It identifies the L24 competition-machine engine (6-cyl. in-line OHC), 2,393 cc, maximum power 154 kW (210 PS) at 6,800 rpm, and maximum torque 230 N-m (23.5 kgf-m) at 6,000 rpm. Stored values apply only to this rally/competition specification, not to standard road-going L24 applications."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-s20",
+    "code": "S20",
+    "aliases": [
+      "Skyline 2000GT-R S20 KPGC110"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1972 Nissan Heritage Collection specification",
+    "displacement": "1,989 cc",
+    "layout": "6-cyl. in line 4-valve DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Skyline 2000GT-R Racing Concept (1972, KPGC110), exhibited at the 19th Tokyo Motor Show; the page explicitly labels the stored 118 kW / 177 N-m as production-car specifications, not a special racing tune"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "S20 is the 6-cyl. in line 4-valve DOHC 1,989 cc engine shown for the 1972 KPGC110 Skyline 2000GT-R Racing Concept exhibited at the 19th Tokyo Motor Show. Nissan explicitly states that the stored 118 kW / 177 N-m are production-car specifications, not a special racing tune.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 118 kW and 177 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "S20 es el motor 6-cyl. in line 4-valve DOHC de 1,989 cc mostrado para el Skyline 2000GT-R Racing Concept KPGC110 de 1972 expuesto en el 19.º Salón del Automóvil de Tokio. Nissan indica expresamente que los 118 kW / 177 N-m guardados son especificaciones del automóvil de producción, no una preparación especial de competición.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 118 kW y 177 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "S20 est le moteur 6-cyl. in line 4-valve DOHC de 1,989 cc présenté pour le Skyline 2000GT-R Racing Concept KPGC110 de 1972 exposé au 19e Salon de l’automobile de Tokyo. Nissan précise expressément que les 118 kW / 177 N-m enregistrés sont les spécifications de la voiture de série, et non une préparation spéciale de course.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 118 kW et 177 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "S20 ist der 6-cyl. in line 4-valve DOHC-Motor mit 1,989 cc des 1972 auf der 19. Tokyo Motor Show gezeigten Skyline 2000GT-R Racing Concept KPGC110. Nissan kennzeichnet die gespeicherten 118 kW / 177 N-m ausdrücklich als Daten des Serienfahrzeugs, nicht als spezielle Rennabstimmung.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 118 kW und 177 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 118,
+        "max": 118,
+        "rpm": {
+          "min": 7000,
+          "max": 7000
+        }
+      },
+      "torqueNm": {
+        "min": 177,
+        "max": 177,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Skyline 2000GT-R",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1972,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/067_skyline_2000gt-r.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies the 1972 KPGC110 Skyline 2000GT-R Racing Concept exhibited at the 19th Tokyo Motor Show, engine S20 (6-cyl. in line 4-valve DOHC) 1,989cc, maximum power 118kW (160PS)/7,000rpm, and maximum torque 177Nm (18.0kgfm)/5,600rpm. The card explicitly notes that its specifications are of the production car; the stored values therefore are not presented as a special racing tune."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-l20",
+    "code": "L20",
+    "aliases": [
+      "Skyline 2000GTX-E L20 KGC111"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1976 Nissan Heritage Collection specification",
+    "displacement": "1,998 cc",
+    "layout": "6-cyl. in line OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Skyline 2000GTX-E (1976, KGC111) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "L20 is the 6-cyl. in line OHC 1,998 cc engine documented for Skyline 2000GTX-E (1976, KGC111) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 96 kW and 167 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "L20 es el motor 6-cyl. in line OHC de 1,998 cc documentado para Skyline 2000GTX-E (1976, KGC111) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 96 kW y 167 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "L20 est le moteur 6-cyl. in line OHC de 1,998 cc documenté pour Skyline 2000GTX-E (1976, KGC111) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 96 kW et 167 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "L20 ist der für Skyline 2000GTX-E (1976, KGC111) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 6-cyl. in line OHC-Motor mit 1,998 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 96 kW und 167 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 96,
+        "max": 96,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 167,
+        "max": 167,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Skyline 2000GTX-E",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1976,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/074_skyline_2000gtx-e.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Skyline 2000GTX-E (1976 : KGC111), engine L20 (6-cyl. in line OHC) 1,998cc, maximum power 96kW (130ps)/6,000rpm, and maximum torque 167Nm (17.0kgfm)/4,400rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-ca16de",
+    "code": "CA16DE",
+    "aliases": [
+      "Pulsar 3-door Hatchback Milano X-1 Twin-cam CA16DE EN13"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1986 Nissan Heritage Collection specification",
+    "displacement": "1,598 cc",
+    "layout": "4-cyl. in-line · DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Pulsar 3-door Hatchback Milano X-1 Twin-cam (1986, EN13) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "CA16DE is the 4-cyl. in-line · DOHC 1,598 cc engine documented for Pulsar 3-door Hatchback Milano X-1 Twin-cam (1986, EN13) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 88 kW and 137 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "CA16DE es el motor 4-cyl. in-line · DOHC de 1,598 cc documentado para Pulsar 3-door Hatchback Milano X-1 Twin-cam (1986, EN13) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 88 kW y 137 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "CA16DE est le moteur 4-cyl. in-line · DOHC de 1,598 cc documenté pour Pulsar 3-door Hatchback Milano X-1 Twin-cam (1986, EN13) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 88 kW et 137 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "CA16DE ist der für Pulsar 3-door Hatchback Milano X-1 Twin-cam (1986, EN13) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in-line · DOHC-Motor mit 1,598 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 88 kW und 137 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 88,
+        "max": 88,
+        "rpm": {
+          "min": 6400,
+          "max": 6400
+        }
+      },
+      "torqueNm": {
+        "min": 137,
+        "max": 137,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Pulsar 3-door Hatchback Milano X-1 Twin-cam",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1986,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/100000352_100000474.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Pulsar 3-door Hatchback Milano X-1 Twin-cam (1986 : EN13), engine CA16DE (4-cyl. in-line, DOHC), 1,598cc, maximum power 88kW (120PS)/6,400rpm, and maximum torque 137Nm (14.0kgm)/5,200rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-vr38dett",
+    "code": "VR38DETT",
+    "aliases": [
+      "NISSAN GT-R NISMO N-Attack Package test car VR38DETT R35"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "2013 Nissan Heritage Collection specification",
+    "displacement": "3,799 cc",
+    "layout": "V6 · 4-valve DOHC with twin turbo",
+    "fuelKey": "petrol",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "NISSAN GT-R NISMO N-Attack Package test car (2013, R35), Nürburgring Nordschleife time-attack evaluation; 441 kW / 652 N-m applies only to this documented test-car specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "VR38DETT is the V6 · 4-valve DOHC with twin turbo 3,799 cc engine documented for the 2013 R35 NISSAN GT-R NISMO N-Attack Package test car used for Nürburgring Nordschleife time-attack evaluation. This entry is limited to that exact test-car specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 441 kW and 652 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "VR38DETT es el motor V6 · 4-valve DOHC with twin turbo de 3,799 cc documentado para el vehículo de pruebas NISSAN GT-R NISMO N-Attack Package R35 de 2013 usado en la evaluación contrarreloj de Nürburgring Nordschleife. Esta ficha se limita a esa especificación exacta de pruebas.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 441 kW y 652 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "VR38DETT est le moteur V6 · 4-valve DOHC with twin turbo de 3,799 cc documenté pour la voiture d’essai NISSAN GT-R NISMO N-Attack Package R35 de 2013 utilisée pour l’évaluation contre la montre sur la Nürburgring Nordschleife. Cette fiche se limite à cette spécification d’essai précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 441 kW et 652 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "VR38DETT ist der V6 · 4-valve DOHC with twin turbo-Motor mit 3,799 cc des 2013 für die Nürburgring-Nordschleifen-Zeitfahrbewertung eingesetzten NISSAN GT-R NISMO N-Attack Package R35-Testwagens. Dieser Eintrag gilt ausschließlich für diese genaue Testfahrzeug-Spezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 441 kW und 652 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 441,
+        "max": 441,
+        "rpm": {
+          "min": 6800,
+          "max": 6800
+        }
+      },
+      "torqueNm": {
+        "min": 652,
+        "max": 652,
+        "rpm": {
+          "min": 3600,
+          "max": 5600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | NISSAN GT-R NISMO N-Attack Package test car",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 2013,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/143_nissan_gt-r_nismo_n-attack_package_test_car.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies the 2013 R35 NISSAN GT-R NISMO N-Attack Package test car used for Nürburgring Nordschleife time-attack evaluation, engine VR38DETT (V6, 4-valve DOHC with twin turbo) 3,799cc, maximum power 441kW (600PS)/6,800rpm, and maximum torque 652N·m (66.5kgf·m)/3,600-5,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries and are scoped only to this test-car specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "datsun-e1",
+    "code": "E1",
+    "aliases": [
+      "Datsun Bluebird 1200 Fancy Deluxe E1 DP312"
+    ],
+    "maker": "Datsun",
+    "regionKey": "japan",
+    "years": "1963 Nissan Heritage Collection specification",
+    "displacement": "1,189 cc",
+    "layout": "4-cyl. in line · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Datsun Bluebird 1200 Fancy Deluxe (1963, DP312) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "E1 is the 4-cyl. in line · OHV 1,189 cc engine documented for Datsun Bluebird 1200 Fancy Deluxe (1963, DP312) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 40.4 kW and 87 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "E1 es el motor 4-cyl. in line · OHV de 1,189 cc documentado para Datsun Bluebird 1200 Fancy Deluxe (1963, DP312) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 40.4 kW y 87 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "E1 est le moteur 4-cyl. in line · OHV de 1,189 cc documenté pour Datsun Bluebird 1200 Fancy Deluxe (1963, DP312) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 40.4 kW et 87 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "E1 ist der für Datsun Bluebird 1200 Fancy Deluxe (1963, DP312) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHV-Motor mit 1,189 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 40.4 kW und 87 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 40.4,
+        "max": 40.4,
+        "rpm": {
+          "min": 4800,
+          "max": 4800
+        }
+      },
+      "torqueNm": {
+        "min": 87,
+        "max": 87,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Datsun Bluebird 1200 Fancy Deluxe",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1963,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/158_datsun_bluebird_1200_fancy_dx.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Datsun Bluebird 1200 Fancy Deluxe (1963: DP312), engine E1 (4-cyl. in line, OHV) 1,189cc, maximum power 40.4kw(55ps)/4,800rpm, and maximum torque 87N m(8.8kgf m)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-vg20det",
+    "code": "VG20DET",
+    "aliases": [
+      "Nissan Cedric Twincam Turbo Gran Turismo SV VG20DET Y31"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1991 Nissan Heritage Collection specification",
+    "displacement": "1,998 cc",
+    "layout": "V6 · 4-valve DOHC with turbo",
+    "fuelKey": "petrol",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Cedric Twincam Turbo Gran Turismo SV (1991, Y31) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "VG20DET is the V6 · 4-valve DOHC with turbo 1,998 cc engine documented for Nissan Cedric Twincam Turbo Gran Turismo SV (1991, Y31) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 154 kW and 265 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "VG20DET es el motor V6 · 4-valve DOHC with turbo de 1,998 cc documentado para Nissan Cedric Twincam Turbo Gran Turismo SV (1991, Y31) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 154 kW y 265 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "VG20DET est le moteur V6 · 4-valve DOHC with turbo de 1,998 cc documenté pour Nissan Cedric Twincam Turbo Gran Turismo SV (1991, Y31) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 154 kW et 265 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "VG20DET ist der für Nissan Cedric Twincam Turbo Gran Turismo SV (1991, Y31) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte V6 · 4-valve DOHC with turbo-Motor mit 1,998 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 154 kW und 265 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 154,
+        "max": 154,
+        "rpm": {
+          "min": 6800,
+          "max": 6800
+        }
+      },
+      "torqueNm": {
+        "min": 265,
+        "max": 265,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Cedric Twincam Turbo Gran Turismo SV",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1991,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/202_cedric_gran_turismo_sv.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Cedric Twincam Turbo Gran Turismo SV (1991: Y31), engine VG20DET (V6, 4-valve DOHC with turbo) 1,998cc, maximum power 154kW (210ps)/6,800rpm, and maximum torque 265N m (27.0kgf m)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-vh45de",
+    "code": "VH45DE",
+    "aliases": [
+      "Infiniti Q45 VH45DE G50"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1991 Nissan Heritage Collection specification",
+    "displacement": "4,494 cc",
+    "layout": "V8 · 4-valve DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Infiniti Q45 (1991, G50) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "VH45DE is the V8 · 4-valve DOHC 4,494 cc engine documented for Infiniti Q45 (1991, G50) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 206 kW and 400 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "VH45DE es el motor V8 · 4-valve DOHC de 4,494 cc documentado para Infiniti Q45 (1991, G50) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 206 kW y 400 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "VH45DE est le moteur V8 · 4-valve DOHC de 4,494 cc documenté pour Infiniti Q45 (1991, G50) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 206 kW et 400 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "VH45DE ist der für Infiniti Q45 (1991, G50) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte V8 · 4-valve DOHC-Motor mit 4,494 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 206 kW und 400 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 206,
+        "max": 206,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 400,
+        "max": 400,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Infiniti Q45",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1991,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/229_infiniti_q45.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Infiniti Q45 (1991: G50), engine VH45DE (V8, 4-valve DOHC) 4,494cc, maximum power 206kw(280ps)/6,000rpm, and maximum torque 400Nm(40.8kgfm)/4,000rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-hr15de",
+    "code": "HR15DE",
+    "aliases": [
+      "Nissan Tiida HR15DE C11 2WD e-4WD"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "January 2008 Nissan Tiida C11 web catalog specification",
+    "displacement": "1.498 L",
+    "layout": "Inline-four · DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Tiida C11 HR15DE (Japan, January 2008 web catalog; DBA-C11 2WD CVT and DBA-NC11 e·4WD 4AT; listed 15S/15M/15G and FOUR grades)"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "HR15DE is the inline-four · DOHC 1.498 L engine documented for Nissan Tiida C11 HR15DE (Japan, January 2008 web catalog; DBA-C11 2WD CVT and DBA-NC11 e·4WD 4AT; listed 15S/15M/15G and FOUR grades). This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 80 kW and 148 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "HR15DE es el motor de cuatro cilindros en línea · DOHC de 1.498 L documentado para Nissan Tiida C11 HR15DE (Japón, catálogo web de enero de 2008; DBA-C11 2WD CVT y DBA-NC11 e·4WD 4AT; versiones 15S/15M/15G y FOUR indicadas). Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 80 kW y 148 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "HR15DE est le moteur quatre cylindres en ligne · DOHC de 1.498 L documenté pour Nissan Tiida C11 HR15DE (Japon, catalogue web de janvier 2008 ; DBA-C11 2WD CVT et DBA-NC11 e·4WD 4AT ; versions 15S/15M/15G et FOUR indiquées). Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 80 kW et 148 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "HR15DE ist der für den Nissan Tiida C11 HR15DE (Japan, Webkatalog Januar 2008; DBA-C11 2WD CVT und DBA-NC11 e·4WD 4AT; aufgeführte Ausstattungen 15S/15M/15G und FOUR) dokumentierte Reihenvierzylinder-DOHC-Motor mit 1.498 L. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 80 kW und 148 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 80,
+        "max": 80,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 148,
+        "max": 148,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Tiida C11 Specifications | January 2008 web catalog",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 2008,
+          "url": "https://history.nissan.co.jp/TIIDA/C11/0801/PDF/tiida_specification.pdf",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official one-page Nissan Tiida C11 web-catalog PDF identifies HR15DE, DOHC inline-four, 1.498 L, 80 kW (109 PS) at 6,000 rpm and 148 N-m (15.1 kgf-m) at 4,400 rpm. The vehicle table maps HR15DE to DBA-C11 2WD CVT and DBA-NC11 e·4WD 4AT, with the listed 15S/15M/15G and FOUR grades. The PDF itself states 1 PS = 0.7355 kW and 1 kgf-m = 9.80665 N-m with nearest-integer SI rounding. Stored values reproduce the directly published SI figures and are not presented as newly converted values."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-sr20de",
+    "code": "SR20DE",
+    "aliases": [
+      "Nissan Primera Tm-S Selection SR20DE HP10"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1995 Nissan Heritage Collection specification",
+    "displacement": "1,998 cc",
+    "layout": "4-cyl. In line · 4-valve DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Primera Tm-S Selection (1995, HP10) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "SR20DE is the 4-cyl. In line · 4-valve DOHC 1,998 cc engine documented for Nissan Primera Tm-S Selection (1995, HP10) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 110 kW and 186 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "SR20DE es el motor 4-cyl. In line · 4-valve DOHC de 1,998 cc documentado para Nissan Primera Tm-S Selection (1995, HP10) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 110 kW y 186 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "SR20DE est le moteur 4-cyl. In line · 4-valve DOHC de 1,998 cc documenté pour Nissan Primera Tm-S Selection (1995, HP10) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 110 kW et 186 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "SR20DE ist der für Nissan Primera Tm-S Selection (1995, HP10) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. In line · 4-valve DOHC-Motor mit 1,998 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 110 kW und 186 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 110,
+        "max": 110,
+        "rpm": {
+          "min": 6400,
+          "max": 6400
+        }
+      },
+      "torqueNm": {
+        "min": 186,
+        "max": 186,
+        "rpm": {
+          "min": 4800,
+          "max": 4800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Primera Tm-S Selection",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1995,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/341_primera_2-0_tm_s.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Primera Tm-S Selection (1995: HP10), engine SR20DE (4-cyl. In line, 4-valve DOHC) 1,998cc, maximum power 110kw (150PS)/6,400rpm, and maximum torque 186N m (19.0kgm)/4,800rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-ga15ds",
+    "code": "GA15DS",
+    "aliases": [
+      "Nissan Sunny 1500 Super Saloon SV 60th Anniversary GA15DS FB13"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1993 Nissan Heritage Collection specification",
+    "displacement": "1,497 cc",
+    "layout": "4-cyl. inline · 4-valve DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Sunny 1500 Super Saloon SV 60th Anniversary (1993, FB13) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "GA15DS is the 4-cyl. inline · 4-valve DOHC 1,497 cc engine documented for Nissan Sunny 1500 Super Saloon SV 60th Anniversary (1993, FB13) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 69 kW and 125 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "GA15DS es el motor 4-cyl. inline · 4-valve DOHC de 1,497 cc documentado para Nissan Sunny 1500 Super Saloon SV 60th Anniversary (1993, FB13) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 69 kW y 125 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "GA15DS est le moteur 4-cyl. inline · 4-valve DOHC de 1,497 cc documenté pour Nissan Sunny 1500 Super Saloon SV 60th Anniversary (1993, FB13) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 69 kW et 125 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "GA15DS ist der für Nissan Sunny 1500 Super Saloon SV 60th Anniversary (1993, FB13) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. inline · 4-valve DOHC-Motor mit 1,497 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 69 kW und 125 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 69,
+        "max": 69,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 125,
+        "max": 125,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Sunny 1500 Super Saloon SV 60th Anniversary",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1993,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/355_sunny_1500_super_saloon.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Sunny 1500 Super Saloon SV 60th Anniversary (1993: FB13), engine GA15DS (4-cyl. inline, 4-valve DOHC) 1,497cc, maximum power 69kW (94ps)/6,000rpm, and maximum torque 125N m (12.8kgm)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-ga15s",
+    "code": "GA15S",
+    "aliases": [
+      "Nissan Sunny 1500 EX Saloon GA15S FB12"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1988 Nissan Heritage Collection specification",
+    "displacement": "1,497 cc",
+    "layout": "4-cyl. inline · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Sunny 1500 EX Saloon (1988, FB12) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "GA15S is the 4-cyl. inline · OHC 1,497 cc engine documented for Nissan Sunny 1500 EX Saloon (1988, FB12) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 62 kW and 122 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "GA15S es el motor 4-cyl. inline · OHC de 1,497 cc documentado para Nissan Sunny 1500 EX Saloon (1988, FB12) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 62 kW y 122 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "GA15S est le moteur 4-cyl. inline · OHC de 1,497 cc documenté pour Nissan Sunny 1500 EX Saloon (1988, FB12) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 62 kW et 122 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "GA15S ist der für Nissan Sunny 1500 EX Saloon (1988, FB12) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. inline · OHC-Motor mit 1,497 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 62 kW und 122 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 62,
+        "max": 62,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 122,
+        "max": 122,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Sunny 1500 EX Saloon",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1988,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/358_sunny_1500_ex_saloon.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Sunny 1500 EX Saloon (1988: FB12), engine GA15S (4-cyl. inline, OHC) 1,497cc, maximum power 62kW (85ps)/6,000rpm, and maximum torque 122N m (12.5kgm)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-g7",
+    "code": "G7",
+    "aliases": [
+      "Gloria Super Deluxe G7 PA30"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1969 Nissan Heritage Collection specification",
+    "displacement": "1,988 cc",
+    "layout": "6-cyl. in line OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Gloria Super Deluxe (1969, PA30) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "G7 is the 6-cyl. in line OHC 1,988 cc engine documented for Gloria Super Deluxe (1969, PA30) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 77 kW and 157 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "G7 es el motor 6-cyl. in line OHC de 1,988 cc documentado para Gloria Super Deluxe (1969, PA30) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 77 kW y 157 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "G7 est le moteur 6-cyl. in line OHC de 1,988 cc documenté pour Gloria Super Deluxe (1969, PA30) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 77 kW et 157 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "G7 ist der für Gloria Super Deluxe (1969, PA30) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 6-cyl. in line OHC-Motor mit 1,988 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 77 kW und 157 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 77,
+        "max": 77,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      },
+      "torqueNm": {
+        "min": 157,
+        "max": 157,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Gloria Super Deluxe",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1969,
+          "url": "https://www.nissan-global.com/EN/HERITAGE/359_gloria_super_deluxe.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Gloria Super Deluxe (1969 : PA30), engine G7 (6-cyl. in line OHC) 1,988cc, maximum power 77kw (105ps)/5,200rpm, and maximum torque 157Nm (16.0kgfm)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-fj20et",
+    "code": "FJ20ET",
+    "aliases": [
+      "Skyline 2000 Turbo RS FJ20ET DR30"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1983 Nissan Heritage Collection specification",
+    "displacement": "1,990 cc",
+    "layout": "4-cyl. in line · 4-valve DOHC + turbo",
+    "fuelKey": "petrol",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Skyline 2000 Turbo RS (1983, DR30) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "FJ20ET is the 4-cyl. in line · 4-valve DOHC + turbo 1,990 cc engine documented for Skyline 2000 Turbo RS (1983, DR30) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 140 kW and 225 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "FJ20ET es el motor 4-cyl. in line · 4-valve DOHC + turbo de 1,990 cc documentado para Skyline 2000 Turbo RS (1983, DR30) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 140 kW y 225 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "FJ20ET est le moteur 4-cyl. in line · 4-valve DOHC + turbo de 1,990 cc documenté pour Skyline 2000 Turbo RS (1983, DR30) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 140 kW et 225 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "FJ20ET ist der für Skyline 2000 Turbo RS (1983, DR30) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · 4-valve DOHC + turbo-Motor mit 1,990 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 140 kW und 225 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 140,
+        "max": 140,
+        "rpm": {
+          "min": 6400,
+          "max": 6400
+        }
+      },
+      "torqueNm": {
+        "min": 225,
+        "max": 225,
+        "rpm": {
+          "min": 4800,
+          "max": 4800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Skyline 2000 Turbo RS",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1983,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/379_skyline_2000_turbo_rs.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Skyline 2000 Turbo RS (1983: DR30), engine FJ20ET (4-cyl. in line, 4-valve DOHC + turbo) 1,990cc, maximum power 140 kW (190 PS) at 6,400 rpm, and maximum torque 225 N-m (23.0 kgf-m) at 4,800 rpm. Stored values reproduce the card's directly published metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-vg30de",
+    "code": "VG30DE",
+    "aliases": [
+      "Leopard J.Ferie / Infiniti J30 VG30DE JPY32"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1992 Nissan Heritage Collection specification",
+    "displacement": "2,960 cc",
+    "layout": "V6 · 4-valve DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Leopard J.Ferie / Infiniti J30 (1992, JPY32) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "VG30DE is the V6 · 4-valve DOHC 2,960 cc engine documented for Leopard J.Ferie / Infiniti J30 (1992, JPY32) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 147 kW and 260 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "VG30DE es el motor V6 · 4-valve DOHC de 2,960 cc documentado para Leopard J.Ferie / Infiniti J30 (1992, JPY32) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 147 kW y 260 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "VG30DE est le moteur V6 · 4-valve DOHC de 2,960 cc documenté pour Leopard J.Ferie / Infiniti J30 (1992, JPY32) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 147 kW et 260 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "VG30DE ist der für Leopard J.Ferie / Infiniti J30 (1992, JPY32) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte V6 · 4-valve DOHC-Motor mit 2,960 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 147 kW und 260 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 147,
+        "max": 147,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 260,
+        "max": 260,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Leopard J.Ferie / Infiniti J30",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1992,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/393_leopard_j-ferie.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Leopard J.Ferie / Infiniti J30 (1992: JPY32), engine VG30DE (V6, 4-valve DOHC) 2,960cc, maximum power 147kW(200ps)/6,000rpm, and maximum torque 260N m(26.5kgm)/4,400rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-ma10et",
+    "code": "MA10ET",
+    "aliases": [
+      "Figaro MA10ET FK10"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1991 Nissan Heritage Collection specification",
+    "displacement": "987 cc",
+    "layout": "4-cyl. in line OHC with turbo",
+    "fuelKey": "petrol",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Figaro (1991, FK10) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "MA10ET is the 4-cyl. in line OHC with turbo 987 cc engine documented for Figaro (1991, FK10) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 55.9 kW and 105.9 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "MA10ET es el motor 4-cyl. in line OHC with turbo de 987 cc documentado para Figaro (1991, FK10) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 55.9 kW y 105.9 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "MA10ET est le moteur 4-cyl. in line OHC with turbo de 987 cc documenté pour Figaro (1991, FK10) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 55.9 kW et 105.9 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "MA10ET ist der für Figaro (1991, FK10) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line OHC with turbo-Motor mit 987 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 55.9 kW und 105.9 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 55.9,
+        "max": 55.9,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 105.9,
+        "max": 105.9,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Figaro",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1991,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/397_figaro.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Figaro (1991: FK10), engine MA10ET (4-cyl. in line OHC with turbo) 987cc, maximum power 55.9kW(76ps)/6,000rpm, and maximum torque 105.9Nm(10.8kgfm)/4,400rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-vg30dett",
+    "code": "VG30DETT",
+    "aliases": [
+      "FairladyZ 2by2 300ZX Twin-Turbo VG30DETT GCZ32"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1989 Nissan Heritage Collection specification",
+    "displacement": "2,960 cc",
+    "layout": "V6 · 4-valve DOHC with twin turbo",
+    "fuelKey": "petrol",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "FairladyZ 2by2 300ZX Twin-Turbo (1989, GCZ32) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "VG30DETT is the V6 · 4-valve DOHC with twin turbo 2,960 cc engine documented for FairladyZ 2by2 300ZX Twin-Turbo (1989, GCZ32) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 206 kW and 388 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "VG30DETT es el motor V6 · 4-valve DOHC with twin turbo de 2,960 cc documentado para FairladyZ 2by2 300ZX Twin-Turbo (1989, GCZ32) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 206 kW y 388 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "VG30DETT est le moteur V6 · 4-valve DOHC with twin turbo de 2,960 cc documenté pour FairladyZ 2by2 300ZX Twin-Turbo (1989, GCZ32) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 206 kW et 388 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "VG30DETT ist der für FairladyZ 2by2 300ZX Twin-Turbo (1989, GCZ32) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte V6 · 4-valve DOHC with twin turbo-Motor mit 2,960 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 206 kW und 388 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 206,
+        "max": 206,
+        "rpm": {
+          "min": 6400,
+          "max": 6400
+        }
+      },
+      "torqueNm": {
+        "min": 388,
+        "max": 388,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | FairladyZ 2by2 300ZX Twin-Turbo",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1989,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/402_fairladyz_2by2_300zx_twin-turbo.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies FairladyZ 2by2 300ZX Twin-Turbo (1989: GCZ32), engine VG30DETT (V6, 4-valve DOHC with twin turbo) 2,960cc, maximum power 206kw(280ps)/6,400rpm, and maximum torque 388N m(39.6kgm)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-cg10de",
+    "code": "CG10DE",
+    "aliases": [
+      "March 1.0 iz-f CG10DE K11"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1993 Nissan Heritage Collection specification",
+    "displacement": "997 cc",
+    "layout": "4-cyl. In line · 4-valve DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "March 1.0 iz-f (1993, K11) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "CG10DE is the 4-cyl. In line · 4-valve DOHC 997 cc engine documented for March 1.0 iz-f (1993, K11) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 43 kW and 79 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "CG10DE es el motor 4-cyl. In line · 4-valve DOHC de 997 cc documentado para March 1.0 iz-f (1993, K11) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 43 kW y 79 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "CG10DE est le moteur 4-cyl. In line · 4-valve DOHC de 997 cc documenté pour March 1.0 iz-f (1993, K11) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 43 kW et 79 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "CG10DE ist der für March 1.0 iz-f (1993, K11) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. In line · 4-valve DOHC-Motor mit 997 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 43 kW und 79 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 43,
+        "max": 43,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 79,
+        "max": 79,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | March 1.0 iz-f",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1993,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/404_march_1-0_iz-f.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies March 1.0 iz-f (1993: K11), engine CG10DE (4-cyl. In line, 4-valve DOHC) 997cc, maximum power 43kW(58ps)/6,000rpm, and maximum torque 79N m(8.1kgm)/4,000rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-cga3de",
+    "code": "CGA3DE",
+    "aliases": [
+      "Nissan Cube 4WD X CGA3DE ANZ10"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "2000 Nissan Heritage Collection specification",
+    "displacement": "1,348 cc",
+    "layout": "4-cyl. inline 4-valve DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Cube 4WD X (2000, ANZ10) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "CGA3DE is the 4-cyl. inline 4-valve DOHC 1,348 cc engine documented for Nissan Cube 4WD X (2000, ANZ10) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 62 kW and 120 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "CGA3DE es el motor 4-cyl. inline 4-valve DOHC de 1,348 cc documentado para Nissan Cube 4WD X (2000, ANZ10) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 62 kW y 120 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "CGA3DE est le moteur 4-cyl. inline 4-valve DOHC de 1,348 cc documenté pour Nissan Cube 4WD X (2000, ANZ10) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 62 kW et 120 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "CGA3DE ist der für Nissan Cube 4WD X (2000, ANZ10) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. inline 4-valve DOHC-Motor mit 1,348 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 62 kW und 120 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 62,
+        "max": 62,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 120,
+        "max": 120,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Cube 4WD X",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 2000,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/419_cube_4wd_x.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Cube 4WD X (2000: ANZ10), engine CGA3DE (4-cyl. inline 4-valve DOHC) 1,348cc, maximum power 62kW (85ps)/6,000rpm, and maximum torque 120N m (12.2kgf m)/4,000rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-ma09ert",
+    "code": "MA09ERT",
+    "aliases": [
+      "Nissan March Super Turbo MA09ERT EK10"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1990 Nissan Heritage Collection specification",
+    "displacement": "930 cc",
+    "layout": "4-cyl. inline · OHC · Turbo+Supercharger",
+    "fuelKey": "petrol",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan March Super Turbo (1990, EK10) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "MA09ERT is the 4-cyl. inline · OHC · Turbo+Supercharger 930 cc engine documented for Nissan March Super Turbo (1990, EK10) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 81 kW and 130 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "MA09ERT es el motor 4-cyl. inline · OHC · Turbo+Supercharger de 930 cc documentado para Nissan March Super Turbo (1990, EK10) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 81 kW y 130 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "MA09ERT est le moteur 4-cyl. inline · OHC · Turbo+Supercharger de 930 cc documenté pour Nissan March Super Turbo (1990, EK10) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 81 kW et 130 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "MA09ERT ist der für Nissan March Super Turbo (1990, EK10) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. inline · OHC · Turbo+Supercharger-Motor mit 930 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 81 kW und 130 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 81,
+        "max": 81,
+        "rpm": {
+          "min": 6400,
+          "max": 6400
+        }
+      },
+      "torqueNm": {
+        "min": 130,
+        "max": 130,
+        "rpm": {
+          "min": 4800,
+          "max": 4800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan March Super Turbo",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1990,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/433_march_super_turbo.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan March Super Turbo (1990: EK10), engine MA09ERT (4-cyl. inline, OHC, Turbo+Supercharger) 930cc, maximum power 81kW(110ps)/6,400rpm, and maximum torque 130N m(13.3kgf m)/4,800rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-vg30det",
+    "code": "VG30DET",
+    "aliases": [
+      "Cima Type II Limited VG30DET FPAY31"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1990 Nissan Heritage Collection specification",
+    "displacement": "2,960 cc",
+    "layout": "V6 · 4-valve DOHC with turbo",
+    "fuelKey": "petrol",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Cima Type II Limited (1990, FPAY31) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "VG30DET is the V6 · 4-valve DOHC with turbo 2,960 cc engine documented for Cima Type II Limited (1990, FPAY31) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 187 kW and 343 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "VG30DET es el motor V6 · 4-valve DOHC with turbo de 2,960 cc documentado para Cima Type II Limited (1990, FPAY31) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 187 kW y 343 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "VG30DET est le moteur V6 · 4-valve DOHC with turbo de 2,960 cc documenté pour Cima Type II Limited (1990, FPAY31) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 187 kW et 343 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "VG30DET ist der für Cima Type II Limited (1990, FPAY31) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte V6 · 4-valve DOHC with turbo-Motor mit 2,960 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 187 kW und 343 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 187,
+        "max": 187,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 343,
+        "max": 343,
+        "rpm": {
+          "min": 3200,
+          "max": 3200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Cima Type II Limited",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1990,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/442_cima_type_ii_limited.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Cima Type II Limited (1990: FPAY31), engine VG30DET (V6, 4-valve DOHC with turbo) 2,960cc, maximum power 187kW(255ps)/6,000rpm, and maximum torque 343Nm(35.0kgfm)/3,200rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-rb26de",
+    "code": "RB26DE",
+    "aliases": [
+      "Nissan Skyline Autech Version RB26DE HNR32"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1993 Nissan Heritage Collection specification",
+    "displacement": "2,568 cc",
+    "layout": "6-cyl. inline · 4-valve · DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Skyline Autech Version (1993, HNR32) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "RB26DE is the 6-cyl. inline · 4-valve · DOHC 2,568 cc engine documented for Nissan Skyline Autech Version (1993, HNR32) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 162 kW and 245 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "RB26DE es el motor 6-cyl. inline · 4-valve · DOHC de 2,568 cc documentado para Nissan Skyline Autech Version (1993, HNR32) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 162 kW y 245 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "RB26DE est le moteur 6-cyl. inline · 4-valve · DOHC de 2,568 cc documenté pour Nissan Skyline Autech Version (1993, HNR32) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 162 kW et 245 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "RB26DE ist der für Nissan Skyline Autech Version (1993, HNR32) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 6-cyl. inline · 4-valve · DOHC-Motor mit 2,568 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 162 kW und 245 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 162,
+        "max": 162,
+        "rpm": {
+          "min": 6800,
+          "max": 6800
+        }
+      },
+      "torqueNm": {
+        "min": 245,
+        "max": 245,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Skyline Autech Version",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1993,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/459_skyline_autech_version.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Skyline Autech Version (1993: HNR32), engine RB26DE (6-cyl. inline, 4-valve, DOHC) 2.568cc, maximum power 162kw (220ps)/6,800rpm, and maximum torque 245N m (25.0kgf m)/5,200rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-l28e",
+    "code": "L28E",
+    "aliases": [
+      "Nissan Fairlady 280Z-T 2-seater T-top L28E HS130"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1982 Nissan Heritage Collection specification",
+    "displacement": "2,753 cc",
+    "layout": "6-cyl. inline · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Fairlady 280Z-T 2-seater T-top (1982, HS130) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "L28E is the 6-cyl. inline · OHC 2,753 cc engine documented for Nissan Fairlady 280Z-T 2-seater T-top (1982, HS130) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 114 kW and 230 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "L28E es el motor 6-cyl. inline · OHC de 2,753 cc documentado para Nissan Fairlady 280Z-T 2-seater T-top (1982, HS130) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 114 kW y 230 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "L28E est le moteur 6-cyl. inline · OHC de 2,753 cc documenté pour Nissan Fairlady 280Z-T 2-seater T-top (1982, HS130) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 114 kW et 230 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "L28E ist der für Nissan Fairlady 280Z-T 2-seater T-top (1982, HS130) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 6-cyl. inline · OHC-Motor mit 2,753 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 114 kW und 230 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 114,
+        "max": 114,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      },
+      "torqueNm": {
+        "min": 230,
+        "max": 230,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Fairlady 280Z-T 2-seater T-top",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1982,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/464_fairlady_280z_t_2_seater_t_top.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Fairlady 280Z-T 2-seater T-top (1982: HS130), engine L28E (6-cyl. inline, OHC) 2,753cc, maximum power 114kw (155ps)/5,200rpm, and maximum torque 230N m (23.5kgf m)/4,000rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-cr14de",
+    "code": "CR14DE",
+    "aliases": [
+      "Nissan March 14e CR14DE BK12"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "2002 Nissan Heritage Collection specification",
+    "displacement": "1,386 cc",
+    "layout": "4-cyl. inline · 4-valve · DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan March 14e (2002, BK12) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "CR14DE is the 4-cyl. inline · 4-valve · DOHC 1,386 cc engine documented for Nissan March 14e (2002, BK12) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 72 kW and 137 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "CR14DE es el motor 4-cyl. inline · 4-valve · DOHC de 1,386 cc documentado para Nissan March 14e (2002, BK12) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 72 kW y 137 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "CR14DE est le moteur 4-cyl. inline · 4-valve · DOHC de 1,386 cc documenté pour Nissan March 14e (2002, BK12) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 72 kW et 137 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "CR14DE ist der für Nissan March 14e (2002, BK12) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. inline · 4-valve · DOHC-Motor mit 1,386 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 72 kW und 137 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 72,
+        "max": 72,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 137,
+        "max": 137,
+        "rpm": {
+          "min": 3200,
+          "max": 3200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan March 14e",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 2002,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/465_march_14e.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan March 14e (2002: BK12), engine CR14DE (4-cyl. inline, 4-valve, DOHC) 1,386cc, maximum power 72kw (98PS)/5,600rpm, and maximum torque 137N m (14.0kgf m)/3,200rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-qr20de",
+    "code": "QR20DE",
+    "aliases": [
+      "Nissan X-TRAIL 4WD X QR20DE NT30"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "2003 Nissan Heritage Collection specification",
+    "displacement": "1,998 cc",
+    "layout": "4-cyl. inline · 4-valve · DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan X-TRAIL 4WD X (2003, NT30) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "QR20DE is the 4-cyl. inline · 4-valve · DOHC 1,998 cc engine documented for Nissan X-TRAIL 4WD X (2003, NT30) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 110 kW and 200 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "QR20DE es el motor 4-cyl. inline · 4-valve · DOHC de 1,998 cc documentado para Nissan X-TRAIL 4WD X (2003, NT30) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 110 kW y 200 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "QR20DE est le moteur 4-cyl. inline · 4-valve · DOHC de 1,998 cc documenté pour Nissan X-TRAIL 4WD X (2003, NT30) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 110 kW et 200 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "QR20DE ist der für Nissan X-TRAIL 4WD X (2003, NT30) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. inline · 4-valve · DOHC-Motor mit 1,998 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 110 kW und 200 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 110,
+        "max": 110,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 200,
+        "max": 200,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan X-TRAIL 4WD X",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 2003,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/469_x_trail_x_4wd.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan X-TRAIL 4WD X (2003: NT30), engine QR20DE (4-cyl. inline, 4-valve, DOHC) 1,998cc, maximum power 110kW (150ps)/6,000rpm, and maximum torque 200N m (20.4kgf m)/4,000rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-vq23de",
+    "code": "VQ23DE",
+    "aliases": [
+      "Nissan Teana 230JK VQ23DE J31"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "2004 Nissan Heritage Collection specification",
+    "displacement": "2,349 cc",
+    "layout": "V6 · 4-valve DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Teana 230JK (2004, J31) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "VQ23DE is the V6 · 4-valve DOHC 2,349 cc engine documented for Nissan Teana 230JK (2004, J31) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 127 kW and 225 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "VQ23DE es el motor V6 · 4-valve DOHC de 2,349 cc documentado para Nissan Teana 230JK (2004, J31) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 127 kW y 225 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "VQ23DE est le moteur V6 · 4-valve DOHC de 2,349 cc documenté pour Nissan Teana 230JK (2004, J31) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 127 kW et 225 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "VQ23DE ist der für Nissan Teana 230JK (2004, J31) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte V6 · 4-valve DOHC-Motor mit 2,349 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 127 kW und 225 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 127,
+        "max": 127,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 225,
+        "max": 225,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Teana 230JK",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 2004,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/476_teana_230jk.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Teana 230JK (2004: J31), engine VQ23DE (V6, 4-valve DOHC) 2,349cc, maximum power 127kW (173ps)/6,000rpm, and maximum torque 225N m (22.9kgf m)/4,400rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-vg20et",
+    "code": "VG20ET",
+    "aliases": [
+      "Nissan Laurel 4-door Hardtop Turbo Medalist Eminence VG20ET GC32"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1984 Nissan Heritage Collection specification",
+    "displacement": "1,998 cc",
+    "layout": "V6 · OHC with turbo",
+    "fuelKey": "petrol",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Laurel 4-door Hardtop Turbo Medalist Eminence (1984, GC32) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "VG20ET is the V6 · OHC with turbo 1,998 cc engine documented for Nissan Laurel 4-door Hardtop Turbo Medalist Eminence (1984, GC32) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 125 kW and 216 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "VG20ET es el motor V6 · OHC with turbo de 1,998 cc documentado para Nissan Laurel 4-door Hardtop Turbo Medalist Eminence (1984, GC32) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 125 kW y 216 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "VG20ET est le moteur V6 · OHC with turbo de 1,998 cc documenté pour Nissan Laurel 4-door Hardtop Turbo Medalist Eminence (1984, GC32) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 125 kW et 216 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "VG20ET ist der für Nissan Laurel 4-door Hardtop Turbo Medalist Eminence (1984, GC32) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte V6 · OHC with turbo-Motor mit 1,998 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 125 kW und 216 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 125,
+        "max": 125,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 216,
+        "max": 216,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Laurel 4-door Hardtop Turbo Medalist Eminence",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1984,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/493_laurel_turbo_medalist_eminence.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Laurel 4-door Hardtop Turbo Medalist Eminence (1984: GC32), engine VG20ET (V6, OHC with turbo) 1,998cc, maximum power 125kw (170ps)/6,000rpm, and maximum torque 216N m (22.0kgf m)/4,000rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-vq37vhr",
+    "code": "VQ37VHR",
+    "aliases": [
+      "Nissan Skyline Coupe 370GT Type S VQ37VHR CKV36"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "2007 Nissan Heritage Collection specification",
+    "displacement": "3,696 cc",
+    "layout": "V6 · 4-valve DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Skyline Coupe 370GT Type S (2007, CKV36) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "VQ37VHR is the V6 · 4-valve DOHC 3,696 cc engine documented for Nissan Skyline Coupe 370GT Type S (2007, CKV36) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 245 kW and 363 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "VQ37VHR es el motor V6 · 4-valve DOHC de 3,696 cc documentado para Nissan Skyline Coupe 370GT Type S (2007, CKV36) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 245 kW y 363 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "VQ37VHR est le moteur V6 · 4-valve DOHC de 3,696 cc documenté pour Nissan Skyline Coupe 370GT Type S (2007, CKV36) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 245 kW et 363 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "VQ37VHR ist der für Nissan Skyline Coupe 370GT Type S (2007, CKV36) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte V6 · 4-valve DOHC-Motor mit 3,696 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 245 kW und 363 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 245,
+        "max": 245,
+        "rpm": {
+          "min": 7000,
+          "max": 7000
+        }
+      },
+      "torqueNm": {
+        "min": 363,
+        "max": 363,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Skyline Coupe 370GT Type S",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 2007,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/498_skyline_coupe_370gt.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Skyline Coupe 370GT Type S (2007: CKV36), engine VQ37VHR (V6, 4-valve DOHC) 3,696cc, maximum power 245kW (333ps)/7,000rpm, and maximum torque 363N m (37.0kgf m)/5,200rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-td42",
+    "code": "TD42",
+    "aliases": [
+      "Nissan Patrol (Safari) Std. Roof Granroad TD42 VRGY60"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1991 Nissan Heritage Collection specification",
+    "displacement": "4,169 cc",
+    "layout": "6-cyl. inline Diesel · OHV",
+    "fuelKey": "diesel",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Patrol (Safari) Std. Roof Granroad (1991, VRGY60) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "TD42 is the 6-cyl. inline Diesel · OHV 4,169 cc engine documented for Nissan Patrol (Safari) Std. Roof Granroad (1991, VRGY60) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 92 kW and 273 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "TD42 es el motor 6-cyl. inline Diesel · OHV de 4,169 cc documentado para Nissan Patrol (Safari) Std. Roof Granroad (1991, VRGY60) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 92 kW y 273 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "TD42 est le moteur 6-cyl. inline Diesel · OHV de 4,169 cc documenté pour Nissan Patrol (Safari) Std. Roof Granroad (1991, VRGY60) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 92 kW et 273 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "TD42 ist der für Nissan Patrol (Safari) Std. Roof Granroad (1991, VRGY60) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 6-cyl. inline Diesel · OHV-Motor mit 4,169 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 92 kW und 273 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 92,
+        "max": 92,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      },
+      "torqueNm": {
+        "min": 273,
+        "max": 273,
+        "rpm": {
+          "min": 2000,
+          "max": 2000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Patrol (Safari) Std. Roof Granroad",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1991,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/501_patrol_granroad.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Patrol (Safari) Std. Roof Granroad (1991: VRGY60), engine TD42 (6-cyl. inline Diesel, OHV) 4,169cc, maximum power 92kW (125ps)/4,000rpm, and maximum torque 273N m (27.8kgf m)/2,000rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-td42t",
+    "code": "TD42T",
+    "aliases": [
+      "Nissan Patrol (Safari) 4-door Turbo Diesel Granroad TD42T WRGY61"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1997 Nissan Heritage Collection specification",
+    "displacement": "4,169 cc",
+    "layout": "6-cyl. inline Diesel · OHV with Turbo",
+    "fuelKey": "diesel",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Patrol (Safari) 4-door Turbo Diesel Granroad (1997, WRGY61) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "TD42T is the 6-cyl. inline Diesel · OHV with Turbo 4,169 cc engine documented for Nissan Patrol (Safari) 4-door Turbo Diesel Granroad (1997, WRGY61) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 118 kW and 330 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "TD42T es el motor 6-cyl. inline Diesel · OHV with Turbo de 4,169 cc documentado para Nissan Patrol (Safari) 4-door Turbo Diesel Granroad (1997, WRGY61) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 118 kW y 330 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "TD42T est le moteur 6-cyl. inline Diesel · OHV with Turbo de 4,169 cc documenté pour Nissan Patrol (Safari) 4-door Turbo Diesel Granroad (1997, WRGY61) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 118 kW et 330 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "TD42T ist der für Nissan Patrol (Safari) 4-door Turbo Diesel Granroad (1997, WRGY61) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 6-cyl. inline Diesel · OHV with Turbo-Motor mit 4,169 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 118 kW und 330 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 118,
+        "max": 118,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      },
+      "torqueNm": {
+        "min": 330,
+        "max": 330,
+        "rpm": {
+          "min": 2000,
+          "max": 2000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Patrol (Safari) 4-door Turbo Diesel Granroad",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1997,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/502_patrol_granroad.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Patrol (Safari) 4-door Turbo Diesel Granroad (1997: WRGY61), engine TD42T (6-cyl. inline Diesel, OHV with Turbo) 4,169cc, maximum power 118kW (160ps)/3,600rpm, and maximum torque 330N m (33.7kgf m)/2,000rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "datsun-a10",
+    "code": "A10",
+    "aliases": [
+      "Datsun Sunny 1000 Coupe A10 KB10"
+    ],
+    "maker": "Datsun",
+    "regionKey": "japan",
+    "years": "1969 Nissan Heritage Collection specification",
+    "displacement": "988 cc",
+    "layout": "4-cyl. inline · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Datsun Sunny 1000 Coupe (1969, KB10) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "A10 is the 4-cyl. inline · OHV 988 cc engine documented for Datsun Sunny 1000 Coupe (1969, KB10) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 44 kW and 80 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "A10 es el motor 4-cyl. inline · OHV de 988 cc documentado para Datsun Sunny 1000 Coupe (1969, KB10) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 44 kW y 80 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "A10 est le moteur 4-cyl. inline · OHV de 988 cc documenté pour Datsun Sunny 1000 Coupe (1969, KB10) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 44 kW et 80 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "A10 ist der für Datsun Sunny 1000 Coupe (1969, KB10) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. inline · OHV-Motor mit 988 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 44 kW und 80 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 44,
+        "max": 44,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 80,
+        "max": 80,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Datsun Sunny 1000 Coupe",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1969,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/504_datsun_sunny_1000_coupe.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Datsun Sunny 1000 Coupe (1969: KB10), engine A10 (4-cyl. inline, OHV) 988cc, maximum power 44kW (60ps)/6,000rpm, and maximum torque 80N m (8.2kgf m)/4,000rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-ca20s",
+    "code": "CA20S",
+    "aliases": [
+      "Nissan Prairie J7 ATTESA CA20S NM11"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1989 Nissan Heritage Collection specification",
+    "displacement": "1,973 cc",
+    "layout": "4-cyl. Inline · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Prairie J7 ATTESA (1989, NM11) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "CA20S is the 4-cyl. Inline · OHC 1,973 cc engine documented for Nissan Prairie J7 ATTESA (1989, NM11) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 67 kW and 145 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "CA20S es el motor 4-cyl. Inline · OHC de 1,973 cc documentado para Nissan Prairie J7 ATTESA (1989, NM11) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 67 kW y 145 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "CA20S est le moteur 4-cyl. Inline · OHC de 1,973 cc documenté pour Nissan Prairie J7 ATTESA (1989, NM11) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 67 kW et 145 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "CA20S ist der für Nissan Prairie J7 ATTESA (1989, NM11) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. Inline · OHC-Motor mit 1,973 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 67 kW und 145 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 67,
+        "max": 67,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      },
+      "torqueNm": {
+        "min": 145,
+        "max": 145,
+        "rpm": {
+          "min": 2800,
+          "max": 2800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Prairie J7 ATTESA",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1989,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/507_nissan_prairie_j7_attesa.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Prairie J7 ATTESA (1989: NM11), engine CA20S (4-cyl. Inline, OHC) 1,973cc, maximum power 67kW (91ps)/5,200rpm, and maximum torque 145N m (14.8kgf m)/2,800rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-vg30e",
+    "code": "VG30E",
+    "aliases": [
+      "Caravan Ambulance Hyper-Pack VG30E FEGE24"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1993 Nissan Heritage Collection specification",
+    "displacement": "2,960 cc",
+    "layout": "V6 · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Caravan Ambulance Hyper-Pack (1993, FEGE24) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "VG30E is the V6 · OHC 2,960 cc engine documented for Caravan Ambulance Hyper-Pack (1993, FEGE24) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 114 kW and 245 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "VG30E es el motor V6 · OHC de 2,960 cc documentado para Caravan Ambulance Hyper-Pack (1993, FEGE24) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 114 kW y 245 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "VG30E est le moteur V6 · OHC de 2,960 cc documenté pour Caravan Ambulance Hyper-Pack (1993, FEGE24) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 114 kW et 245 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "VG30E ist der für Caravan Ambulance Hyper-Pack (1993, FEGE24) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte V6 · OHC-Motor mit 2,960 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 114 kW und 245 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 114,
+        "max": 114,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      },
+      "torqueNm": {
+        "min": 245,
+        "max": 245,
+        "rpm": {
+          "min": 3200,
+          "max": 3200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Caravan Ambulance Hyper-Pack",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1993,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/Caravan_Ambulance_Hyper-Pack.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Caravan Ambulance Hyper-Pack (1993: FEGE24), engine VG30E (V6, OHC) 2,960cc, maximum power 114kw(155ps)/5,200rpm, and maximum torque 245N m(25.0kgm)/3,200rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-h20",
+    "code": "H20",
+    "aliases": [
+      "Caravan Chaircab H20 HPE20rev."
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1979 Nissan Heritage Collection specification",
+    "displacement": "1,982 cc",
+    "layout": "4-cyl. inline · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Caravan Chaircab (1979, HPE20rev.) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "H20 is the 4-cyl. inline · OHV 1,982 cc engine documented for Caravan Chaircab (1979, HPE20rev.) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 68 kW and 157 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "H20 es el motor 4-cyl. inline · OHV de 1,982 cc documentado para Caravan Chaircab (1979, HPE20rev.) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 68 kW y 157 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "H20 est le moteur 4-cyl. inline · OHV de 1,982 cc documenté pour Caravan Chaircab (1979, HPE20rev.) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 68 kW et 157 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "H20 ist der für Caravan Chaircab (1979, HPE20rev.) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. inline · OHV-Motor mit 1,982 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 68 kW und 157 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 68,
+        "max": 68,
+        "rpm": {
+          "min": 4800,
+          "max": 4800
+        }
+      },
+      "torqueNm": {
+        "min": 157,
+        "max": 157,
+        "rpm": {
+          "min": 3200,
+          "max": 3200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Caravan Chaircab",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1979,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/Caravan_Chaircab.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Caravan Chaircab (1979: HPE20rev.), engine H20 (4-cyl. inline, OHV), 1,982cc, maximum power 68kW (92hp)/4,800rpm, and maximum torque 157N m (16.0kgf m)/3,200rpm. Stored values reproduce the card's directly published metric figures and engine-speed boundaries; scope is this exact archived vehicle specification. The companion 92 hp value would convert to 68.604388224 kW, or 69 kW at nearest-integer rounding, using 1 mechanical hp = 0.745699872 kW; because that conflicts by 1 kW with the page's explicit 68 kW, the alternate-unit value is documented but is not used to derive the stored power."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-vq30de",
+    "code": "VQ30DE",
+    "aliases": [
+      "Cefiro 30 S Touring VQ30DE HA32"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1995 Nissan Heritage Collection specification",
+    "displacement": "2,987 cc",
+    "layout": "V6 · 4-valve · DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Cefiro 30 S Touring (1995, HA32) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "VQ30DE is the V6 · 4-valve · DOHC 2,987 cc engine documented for Cefiro 30 S Touring (1995, HA32) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 162 kW and 279 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "VQ30DE es el motor V6 · 4-valve · DOHC de 2,987 cc documentado para Cefiro 30 S Touring (1995, HA32) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 162 kW y 279 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "VQ30DE est le moteur V6 · 4-valve · DOHC de 2,987 cc documenté pour Cefiro 30 S Touring (1995, HA32) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 162 kW et 279 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "VQ30DE ist der für Cefiro 30 S Touring (1995, HA32) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte V6 · 4-valve · DOHC-Motor mit 2,987 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 162 kW und 279 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 162,
+        "max": 162,
+        "rpm": {
+          "min": 6400,
+          "max": 6400
+        }
+      },
+      "torqueNm": {
+        "min": 279,
+        "max": 279,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Cefiro 30 S Touring",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1995,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/Cefiro_30_S_Touring.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Cefiro 30 S Touring (1995: HA32), engine VQ30DE (V6, 4-valve, DOHC) 2,987cc, maximum power 162kw (220PS)/6,400rpm, and maximum torque 279N m (28.5kgm)/4,400rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-grx-iii",
+    "code": "GRX-III",
+    "aliases": [
+      "Nissan R382 GRX-III R382"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1969 Nissan Heritage Collection specification",
+    "displacement": "5,954 cc",
+    "layout": "V12 · 4-valve DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Sport Prototype/Competition Nissan R382 No.23 (R382), 10th-place entry in the 1969 Japan Grand Prix; Group 7 prototype race-car specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "GRX-III is the V12 · 4-valve DOHC 5,954 cc engine documented for the Sport Prototype/Competition Nissan R382 No.23, the 10th-place Group 7 prototype race-car entry in the 1969 Japan Grand Prix. This entry is limited to that exact competition specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 441 kW and 627 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "GRX-III es el motor V12 · 4-valve DOHC de 5,954 cc documentado para el Nissan R382 n.º 23 Sport Prototype/Competition, prototipo de competición del Grupo 7 que terminó décimo en el Japan Grand Prix de 1969. Esta ficha se limita a esa especificación exacta de competición.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 441 kW y 627 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "GRX-III est le moteur V12 · 4-valve DOHC de 5,954 cc documenté pour le Nissan R382 n° 23 Sport Prototype/Competition, prototype de course du Groupe 7 classé dixième au Japan Grand Prix 1969. Cette fiche se limite à cette spécification de compétition précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 441 kW et 627 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "GRX-III ist der V12 · 4-valve DOHC-Motor mit 5,954 cc des Sport Prototype/Competition Nissan R382 Nr. 23, eines Gruppe-7-Prototyp-Rennwagens, der beim Japan Grand Prix 1969 den zehnten Platz belegte. Dieser Eintrag gilt ausschließlich für diese genaue Wettbewerbsspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 441 kW und 627 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 441,
+        "max": 441,
+        "rpm": {
+          "min": 7200,
+          "max": 7200
+        }
+      },
+      "torqueNm": {
+        "min": 627,
+        "max": 627,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan R382",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1969,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/Nissan_R382_053.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card labels Nissan R382 No.23 (R382) as Sport Prototype/Competition and identifies it as the 10th-place Group 7 prototype race car in the 1969 Japan Grand Prix. It specifies GRX-III (V12, 4-valve DOHC) 5,954cc, maximum power 441kW (600PS)/7,200rpm, and maximum torque 627N·m (64.0kgf·m)/5,600rpm; stored values are scoped only to this competition vehicle."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-sd33",
+    "code": "SD33",
+    "aliases": [
+      "Nissan Safari 4WD Hardtop Standard roof AD SD33 VR161"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1985 Nissan Heritage Collection specification",
+    "displacement": "3,246 cc",
+    "layout": "6-cyl. inline · OHV · diesel",
+    "fuelKey": "diesel",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Safari 4WD Hardtop Standard roof AD (1985, VR161) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "SD33 is the 6-cyl. inline · OHV · diesel 3,246 cc engine documented for Nissan Safari 4WD Hardtop Standard roof AD (1985, VR161) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 70 kW and 216 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "SD33 es el motor 6-cyl. inline · OHV · diesel de 3,246 cc documentado para Nissan Safari 4WD Hardtop Standard roof AD (1985, VR161) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 70 kW y 216 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "SD33 est le moteur 6-cyl. inline · OHV · diesel de 3,246 cc documenté pour Nissan Safari 4WD Hardtop Standard roof AD (1985, VR161) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 70 kW et 216 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "SD33 ist der für Nissan Safari 4WD Hardtop Standard roof AD (1985, VR161) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 6-cyl. inline · OHV · diesel-Motor mit 3,246 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 70 kW und 216 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 70,
+        "max": 70,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      },
+      "torqueNm": {
+        "min": 216,
+        "max": 216,
+        "rpm": {
+          "min": 1800,
+          "max": 1800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Safari 4WD Hardtop Standard roof AD",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1985,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/Nissan_Safari_4WD_Hardtop_Standard_roof_AD.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Safari 4WD Hardtop Standard roof AD (1985 : VR161), engine SD33 (6-cyl. inline, OHV, diesel) 3,246cc, maximum power 70.0kW(95ps)/3,600rpm, and maximum torque 216N m(22.0kgf m)/1,800rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-ca18",
+    "code": "CA18",
+    "aliases": [
+      "Prairie JW-G CA18 M10"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1984 Nissan Heritage Collection specification",
+    "displacement": "1,809 cc",
+    "layout": "4-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Prairie JW-G (1984, M10) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "CA18 is the 4-cyl. in line · OHC 1,809 cc engine documented for Prairie JW-G (1984, M10) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 74 kW and 149 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "CA18 es el motor 4-cyl. in line · OHC de 1,809 cc documentado para Prairie JW-G (1984, M10) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 74 kW y 149 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "CA18 est le moteur 4-cyl. in line · OHC de 1,809 cc documenté pour Prairie JW-G (1984, M10) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 74 kW et 149 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "CA18 ist der für Prairie JW-G (1984, M10) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHC-Motor mit 1,809 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 74 kW und 149 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 74,
+        "max": 74,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 149,
+        "max": 149,
+        "rpm": {
+          "min": 2800,
+          "max": 2800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Prairie JW-G",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1984,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/Prairie_JW_G.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Prairie JW-G (1984 : M10), engine CA18 (4-cyl. in line, OHC), 1,809cc, maximum power 74kW (100PS)/5,600rpm, and maximum torque 149Nm (15.2kgm)/2,800rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-y44e",
+    "code": "Y44E",
+    "aliases": [
+      "President Sovereign Y44E H252"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1980 Nissan Heritage Collection specification",
+    "displacement": "4,414 cc",
+    "layout": "V8 · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "President Sovereign (1980, H252) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "Y44E is the V8 · OHV 4,414 cc engine documented for President Sovereign (1980, H252) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 147 kW and 338 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "Y44E es el motor V8 · OHV de 4,414 cc documentado para President Sovereign (1980, H252) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 147 kW y 338 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "Y44E est le moteur V8 · OHV de 4,414 cc documenté pour President Sovereign (1980, H252) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 147 kW et 338 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "Y44E ist der für President Sovereign (1980, H252) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte V8 · OHV-Motor mit 4,414 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 147 kW und 338 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 147,
+        "max": 147,
+        "rpm": {
+          "min": 4800,
+          "max": 4800
+        }
+      },
+      "torqueNm": {
+        "min": 338,
+        "max": 338,
+        "rpm": {
+          "min": 3200,
+          "max": 3200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | President Sovereign",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1980,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/President_Sovereign.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies President Sovereign (1980 : H252), engine Y44E (V8, OHV), 4,414cc, maximum power 147kW (200PS)/4,800rpm, and maximum torque 338Nm (34.5kgm)/3,200rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-e15",
+    "code": "E15",
+    "aliases": [
+      "Pulsar EXA Convertible E15 HN12rev."
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1985 Nissan Heritage Collection specification",
+    "displacement": "1,487 cc",
+    "layout": "4-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Pulsar EXA Convertible (1985, HN12rev.) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "E15 is the 4-cyl. in line · OHC 1,487 cc engine documented for Pulsar EXA Convertible (1985, HN12rev.) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 63 kW and 121 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "E15 es el motor 4-cyl. in line · OHC de 1,487 cc documentado para Pulsar EXA Convertible (1985, HN12rev.) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 63 kW y 121 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "E15 est le moteur 4-cyl. in line · OHC de 1,487 cc documenté pour Pulsar EXA Convertible (1985, HN12rev.) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 63 kW et 121 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "E15 ist der für Pulsar EXA Convertible (1985, HN12rev.) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHC-Motor mit 1,487 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 63 kW und 121 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 63,
+        "max": 63,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 121,
+        "max": 121,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Pulsar EXA Convertible",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1985,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/Pulsar_EXA_Convertible.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Pulsar EXA Convertible (1985 : HN12rev.), engine E15 (4-cyl. in line, OHC), 1,487cc, maximum power 63kW (85PS)/5,600rpm, and maximum torque 121Nm (12.3kgm)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-e15e",
+    "code": "E15E",
+    "aliases": [
+      "Pulsar Milano X-1 E15E RHN12"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1984 Nissan Heritage Collection specification",
+    "displacement": "1,487 cc",
+    "layout": "4-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Competition car: Pulsar Milano X-1 RHN12 racing version for national rookie races including the Fuji Freshman Race; 70 kW / 123 N-m applies to this source-labelled competition car"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "E15E is the 4-cyl. in line · OHC 1,487 cc engine documented for the 1984 RHN12 Pulsar Milano X-1 competition car, a racing version for national rookie races including the Fuji Freshman Race. Nissan says the engine itself is normal; this entry remains limited to the source-labelled competition vehicle.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 70 kW and 123 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "E15E es el motor 4-cyl. in line · OHC de 1,487 cc documentado para el Pulsar Milano X-1 RHN12 de competición de 1984, una versión de carreras para pruebas nacionales de debutantes como la Fuji Freshman Race. Nissan indica que el motor es normal; la ficha sigue limitada al vehículo de competición descrito por la fuente.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 70 kW y 123 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "E15E est le moteur 4-cyl. in line · OHC de 1,487 cc documenté pour la Pulsar Milano X-1 RHN12 de compétition de 1984, une version de course destinée aux épreuves nationales pour débutants dont la Fuji Freshman Race. Nissan indique que le moteur est normal ; la fiche reste limitée au véhicule de compétition décrit par la source.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 70 kW et 123 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "E15E ist der 4-cyl. in line · OHC-Motor mit 1,487 cc des 1984er Pulsar Milano X-1 RHN12-Wettbewerbswagens, einer Rennversion für nationale Nachwuchsrennen wie das Fuji Freshman Race. Nissan bezeichnet den Motor selbst als serienmäßig; der Eintrag bleibt auf das von der Quelle bezeichnete Wettbewerbsfahrzeug begrenzt.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 70 kW und 123 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 70,
+        "max": 70,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 123,
+        "max": 123,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Pulsar Milano X-1",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1984,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/Pulsar_Milano_X-1.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card labels the 1984 RHN12 Pulsar Milano X-1 a Competition car and a racing version used in national rookie races including the Fuji Freshman Race; it also says the engine is normal. The card specifies E15E (4-cyl. in line, OHC) 1,487cc, maximum power 70kW (95PS)/6,000rpm, and maximum torque 123N·m (12.5kgm)/3,600rpm; stored values are scoped to this exact competition-car card."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-ga15de",
+    "code": "GA15DE",
+    "aliases": [
+      "Rasheen Type II GA15DE RNFB14"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1994 Nissan Heritage Collection specification",
+    "displacement": "1,497 cc",
+    "layout": "4-cyl. in line · 4-valve DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Rasheen Type II (1994, RNFB14) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "GA15DE is the 4-cyl. in line · 4-valve DOHC 1,497 cc engine documented for Rasheen Type II (1994, RNFB14) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 77 kW and 135 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "GA15DE es el motor 4-cyl. in line · 4-valve DOHC de 1,497 cc documentado para Rasheen Type II (1994, RNFB14) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 77 kW y 135 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "GA15DE est le moteur 4-cyl. in line · 4-valve DOHC de 1,497 cc documenté pour Rasheen Type II (1994, RNFB14) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 77 kW et 135 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "GA15DE ist der für Rasheen Type II (1994, RNFB14) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · 4-valve DOHC-Motor mit 1,497 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 77 kW und 135 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 77,
+        "max": 77,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 135,
+        "max": 135,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Rasheen Type II",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1994,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/Rasheen_Type_II.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Rasheen Type II (1994: RNFB14), engine GA15DE (4-cyl. in line, 4-valve DOHC) 1,497cc, maximum power 77kW (105ps)/6,000rpm, and maximum torque 135N m (13.8kgm)/4,000rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-rb20det",
+    "code": "RB20DET",
+    "aliases": [
+      "Skyline 2-door Sports Coupe GTS-X Twin-cam 24V Turbo RB20DET HR31"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1987 Nissan Heritage Collection specification",
+    "displacement": "1,998 cc",
+    "layout": "6-cyl. inline · 4-valve DOHC with turbo",
+    "fuelKey": "petrol",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Skyline 2-door Sports Coupe GTS-X Twin-cam 24V Turbo (1987, HR31) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "RB20DET is the 6-cyl. inline · 4-valve DOHC with turbo 1,998 cc engine documented for Skyline 2-door Sports Coupe GTS-X Twin-cam 24V Turbo (1987, HR31) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 132 kW and 225 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "RB20DET es el motor 6-cyl. inline · 4-valve DOHC with turbo de 1,998 cc documentado para Skyline 2-door Sports Coupe GTS-X Twin-cam 24V Turbo (1987, HR31) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 132 kW y 225 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "RB20DET est le moteur 6-cyl. inline · 4-valve DOHC with turbo de 1,998 cc documenté pour Skyline 2-door Sports Coupe GTS-X Twin-cam 24V Turbo (1987, HR31) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 132 kW et 225 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "RB20DET ist der für Skyline 2-door Sports Coupe GTS-X Twin-cam 24V Turbo (1987, HR31) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 6-cyl. inline · 4-valve DOHC with turbo-Motor mit 1,998 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 132 kW und 225 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 132,
+        "max": 132,
+        "rpm": {
+          "min": 6400,
+          "max": 6400
+        }
+      },
+      "torqueNm": {
+        "min": 225,
+        "max": 225,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Skyline 2-door Sports Coupe GTS-X Twin-cam 24V Turbo",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1987,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/Skyline_2-door_Sports_Coupe_GTS-X_Twin-cam_24V_Turbo.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Skyline 2-door Sports Coupe GTS-X Twin-cam 24V Turbo (1987: HR31), engine RB20DET (6-cyl. inline, 4-valve DOHC with turbo) 1,998cc, maximum power 132kw(180ps)/6,400rpm, and maximum torque 225N m(23.0kgm)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-rb25de",
+    "code": "RB25DE",
+    "aliases": [
+      "Skyline GTS25 Type X G RB25DE ECR32"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1993 Nissan Heritage Collection specification",
+    "displacement": "2,498 cc",
+    "layout": "6-cyl. inline · 4-valve DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Skyline GTS25 Type X G (1993, ECR32) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "RB25DE is the 6-cyl. inline · 4-valve DOHC 2,498 cc engine documented for Skyline GTS25 Type X G (1993, ECR32) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 132.3 kW and 225.6 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "RB25DE es el motor 6-cyl. inline · 4-valve DOHC de 2,498 cc documentado para Skyline GTS25 Type X G (1993, ECR32) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 132.3 kW y 225.6 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "RB25DE est le moteur 6-cyl. inline · 4-valve DOHC de 2,498 cc documenté pour Skyline GTS25 Type X G (1993, ECR32) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 132.3 kW et 225.6 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "RB25DE ist der für Skyline GTS25 Type X G (1993, ECR32) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 6-cyl. inline · 4-valve DOHC-Motor mit 2,498 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 132.3 kW und 225.6 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 132.3,
+        "max": 132.3,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 225.6,
+        "max": 225.6,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Skyline GTS25 Type X G",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1993,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/Skyline_GTS25_Type_X-G.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Skyline GTS25 Type X G (1993 : ECR32), engine RB25DE(6-cyl. inline, 4-valve DOHC)2,498cc, maximum power 132.3kW(180ps)/6,000rpm, and maximum torque 225.6N m(23.0kgm)/5,200rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-lz20b",
+    "code": "LZ20B",
+    "aliases": [
+      "Bluebird Super Silhouette LZ20B KY910"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1983 Nissan Heritage Collection specification",
+    "displacement": "2,082 cc",
+    "layout": "4-cyl. in line · DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Sport Prototype/Competition Bluebird Super Silhouette KY910, Group 5 racing car used in the 1983 Fuji GC series and Tsukuba event; 419 kW / 539 N-m is the Super Silhouette competition specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "LZ20B is the 4-cyl. in line · DOHC 2,082 cc engine documented for the Sport Prototype/Competition Bluebird Super Silhouette KY910, a Group 5 racing car used in the 1983 Fuji GC series and Tsukuba event. This entry is limited to that exact Super Silhouette competition specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 419 kW and 539 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "LZ20B es el motor 4-cyl. in line · DOHC de 2,082 cc documentado para el Bluebird Super Silhouette KY910 Sport Prototype/Competition, un coche de carreras del Grupo 5 usado en la serie Fuji GC de 1983 y en la prueba de Tsukuba. Esta ficha se limita a esa especificación exacta de competición Super Silhouette.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 419 kW y 539 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "LZ20B est le moteur 4-cyl. in line · DOHC de 2,082 cc documenté pour la Bluebird Super Silhouette KY910 Sport Prototype/Competition, voiture de course du Groupe 5 engagée dans la série Fuji GC 1983 et à Tsukuba. Cette fiche se limite à cette spécification de compétition Super Silhouette précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 419 kW et 539 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "LZ20B ist der 4-cyl. in line · DOHC-Motor mit 2,082 cc des Sport Prototype/Competition Bluebird Super Silhouette KY910, eines Gruppe-5-Rennwagens der Fuji-GC-Serie 1983 und der Veranstaltung in Tsukuba. Dieser Eintrag gilt ausschließlich für diese genaue Super-Silhouette-Wettbewerbsspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 419 kW und 539 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 419,
+        "max": 419,
+        "rpm": {
+          "min": 7600,
+          "max": 7600
+        }
+      },
+      "torqueNm": {
+        "min": 539,
+        "max": 539,
+        "rpm": {
+          "min": 6400,
+          "max": 6400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Bluebird Super Silhouette",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1983,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/bluebird_super_silhouette.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card labels the 1983 KY910 Bluebird Super Silhouette Sport Prototype/Competition and Competition (Group 5), describing it as a Super Silhouette racing car used in the 1983 Fuji GC series and Tsukuba event. It specifies LZ20B (4-cyl. in line, DOHC) 2,082cc, maximum power 419kW (570PS)/7,600rpm, and maximum torque 539N·m (55.0kgm)/6,400rpm; stored values are scoped only to this competition vehicle."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-l28s",
+    "code": "L28S",
+    "aliases": [
+      "Cedric 2800SGL L28S P331"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1977 Nissan Heritage Collection specification",
+    "displacement": "2,753 cc",
+    "layout": "6-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Cedric 2800SGL (1977, P331) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "L28S is the 6-cyl. in line · OHC 2,753 cc engine documented for Cedric 2800SGL (1977, P331) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 103 kW and 221 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "L28S es el motor 6-cyl. in line · OHC de 2,753 cc documentado para Cedric 2800SGL (1977, P331) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 103 kW y 221 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "L28S est le moteur 6-cyl. in line · OHC de 2,753 cc documenté pour Cedric 2800SGL (1977, P331) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 103 kW et 221 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "L28S ist der für Cedric 2800SGL (1977, P331) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 6-cyl. in line · OHC-Motor mit 2,753 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 103 kW und 221 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 103,
+        "max": 103,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      },
+      "torqueNm": {
+        "min": 221,
+        "max": 221,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Cedric 2800SGL",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1977,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/cedric_2800sgl.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Cedric 2800SGL (1977 : P331), engine L28S (6-cyl. in line, OHC), 2,753cc, maximum power 103kW (140PS)/5,200rpm, and maximum torque 221Nm (22.5kgm)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-j20",
+    "code": "J20",
+    "aliases": [
+      "Cedric Custom 6 J20 P130"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1966 Nissan Heritage Collection specification",
+    "displacement": "1,973 cc",
+    "layout": "6-cyl. in line · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Cedric Custom 6 (1966, P130) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "J20 is the 6-cyl. in line · OHV 1,973 cc engine documented for Cedric Custom 6 (1966, P130) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 74 kW and 152 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "J20 es el motor 6-cyl. in line · OHV de 1,973 cc documentado para Cedric Custom 6 (1966, P130) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 74 kW y 152 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "J20 est le moteur 6-cyl. in line · OHV de 1,973 cc documenté pour Cedric Custom 6 (1966, P130) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 74 kW et 152 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "J20 ist der für Cedric Custom 6 (1966, P130) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 6-cyl. in line · OHV-Motor mit 1,973 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 74 kW und 152 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 74,
+        "max": 74,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      },
+      "torqueNm": {
+        "min": 152,
+        "max": 152,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Cedric Custom 6",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1966,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/cedric_custom_6_1966.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Cedric Custom 6 (1966: P130), engine J20 (6-cyl. in line, OHV) 1,973cc, maximum power 74kw(100ps)/5,200rpm, and maximum torque 152N m(15.5kgf m)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-a12",
+    "code": "A12",
+    "aliases": [
+      "Cherry Coupe X-1 A12 KPE10"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1973 Nissan Heritage Collection specification",
+    "displacement": "1,298 cc",
+    "layout": "4-cyl. in line · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Competition car: Cherry Coupe X-1 KPE10, TS race specification for the 1973 Japan GP entry; 110 kW / 132 N-m is the race-car rating, not the separately described 80 PS production Cherry X-1"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "A12 is the 1,298 cc in-line four-cylinder OHV engine documented for the Cherry Coupe X-1 KPE10 competition car in TS race specification for the 1973 Japan GP entry. The 110 kW / 132 N-m rating belongs only to this race car; the page separately describes the production Cherry X-1 as an 80 PS model.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 110 kW and 132 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "A12 es el motor OHV de cuatro cilindros en línea y 1,298 cc documentado para el Cherry Coupe X-1 KPE10 de competición, con especificación TS de carrera para la participación en el Japan GP de 1973. Los 110 kW / 132 N-m corresponden solo a este coche de carreras; la página describe por separado el Cherry X-1 de serie con 80 PS.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 110 kW y 132 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "A12 est le moteur OHV quatre cylindres en ligne de 1,298 cc documenté pour la Cherry Coupe X-1 KPE10 de compétition, en spécification de course TS pour le Japan GP 1973. Les 110 kW / 132 N-m concernent uniquement cette voiture de course ; la page décrit séparément la Cherry X-1 de série de 80 PS.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 110 kW et 132 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "A12 ist der 1.298-cm³-OHV-Reihenvierzylinder des Cherry Coupe X-1 KPE10 Competition Car in TS-Rennspezifikation für den Japan-GP-Einsatz 1973. Die Werte 110 kW / 132 N-m gelten nur für diesen Rennwagen; die Seite nennt den Serien-Cherry X-1 separat mit 80 PS.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 110 kW und 132 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 110,
+        "max": 110,
+        "rpm": {
+          "min": 8500,
+          "max": 8500
+        }
+      },
+      "torqueNm": {
+        "min": 132,
+        "max": 132,
+        "rpm": {
+          "min": 7600,
+          "max": 7600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Cherry Coupe X-1",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1973,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/cherry_coupe_x1.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Cherry Coupe X-1 KPE10 as a Competition car in TS race specification for the 1973 Japan GP entry. Its A12 (4-cyl. in-line OHV), 1,298 cc, is rated at 110 kW (150 PS) at 8,500 rpm and 132 N-m (13.5 kgf-m) at 7,600 rpm. The descriptive text separately states that the production top-tier Cherry X-1 used an 80 PS A12; stored performance therefore applies only to the documented competition car."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-a14",
+    "code": "A14",
+    "aliases": [
+      "Cherry F-II 1400GL A14 F10"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1975 Nissan Heritage Collection specification",
+    "displacement": "1,397 cc",
+    "layout": "4-cyl. inline · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Cherry F-II 1400GL (1975, F10) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "A14 is the 4-cyl. inline · OHV 1,397 cc engine documented for Cherry F-II 1400GL (1975, F10) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 58.8 kW and 113 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "A14 es el motor 4-cyl. inline · OHV de 1,397 cc documentado para Cherry F-II 1400GL (1975, F10) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 58.8 kW y 113 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "A14 est le moteur 4-cyl. inline · OHV de 1,397 cc documenté pour Cherry F-II 1400GL (1975, F10) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 58.8 kW et 113 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "A14 ist der für Cherry F-II 1400GL (1975, F10) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. inline · OHV-Motor mit 1,397 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 58.8 kW und 113 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 58.8,
+        "max": 58.8,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 113,
+        "max": 113,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Cherry F-II 1400GL",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1975,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/cherry_fii_1400gl.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Cherry F-II 1400GL (1975 : F10), engine A14 (4-cyl. inline, OHV) 1,397cc, maximum power 58.8kW(80ps)/6,000rpm, and maximum torque 113N m(11.5kgf m)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "datsun-u20",
+    "code": "U20",
+    "aliases": [
+      "Datsun 2000 Sports U20 SRL311"
+    ],
+    "maker": "Datsun",
+    "regionKey": "japan",
+    "years": "1968 Nissan Heritage Collection specification",
+    "displacement": "1,982 cc",
+    "layout": "4-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Datsun 2000 Sports (1968, SRL311) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "U20 is the 4-cyl. in line · OHC 1,982 cc engine documented for Datsun 2000 Sports (1968, SRL311) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 92 kW and 167 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "U20 es el motor 4-cyl. in line · OHC de 1,982 cc documentado para Datsun 2000 Sports (1968, SRL311) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 92 kW y 167 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "U20 est le moteur 4-cyl. in line · OHC de 1,982 cc documenté pour Datsun 2000 Sports (1968, SRL311) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 92 kW et 167 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "U20 ist der für Datsun 2000 Sports (1968, SRL311) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHC-Motor mit 1,982 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 92 kW und 167 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 92,
+        "max": 92,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 167,
+        "max": 167,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Datsun 2000 Sports",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1968,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsun_2000_roadster.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Datsun 2000 Sports (1968: SRL311), engine U20 (4-cyl. in line, OHC), 1,982cc, maximum power 92kW (125PS)/6,000rpm, and maximum torque 167Nm (17kgm)/4,400rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "datsun-ae82n",
+    "code": "AE82N",
+    "aliases": [
+      "Datsun Baby AE82N AF8N"
+    ],
+    "maker": "Datsun",
+    "regionKey": "japan",
+    "years": "1964 Nissan Heritage Collection specification",
+    "displacement": "199 cc",
+    "layout": "2-cycle single cylinder · forced air cooling",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Datsun Baby (1964, AF8N) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "AE82N is the 2-cycle single cylinder · forced air cooling 199 cc engine documented for Datsun Baby (1964, AF8N) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 5.5 kW and 12.7 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "AE82N es el motor 2-cycle single cylinder · forced air cooling de 199 cc documentado para Datsun Baby (1964, AF8N) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 5.5 kW y 12.7 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "AE82N est le moteur 2-cycle single cylinder · forced air cooling de 199 cc documenté pour Datsun Baby (1964, AF8N) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 5.5 kW et 12.7 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "AE82N ist der für Datsun Baby (1964, AF8N) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 2-cycle single cylinder · forced air cooling-Motor mit 199 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 5.5 kW und 12.7 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 5.5,
+        "max": 5.5,
+        "rpm": {
+          "min": 5000,
+          "max": 5000
+        }
+      },
+      "torqueNm": {
+        "min": 12.7,
+        "max": 12.7,
+        "rpm": {
+          "min": 3200,
+          "max": 3200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Datsun Baby",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1964,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsun_baby.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Datsun Baby (1964: AF8N), engine AE82N (2-cycle single cylinder, forced air cooling) 199cc, maximum power 5.5kw(7.5ps)/5,000rpm, and maximum torque 12.7N m(1.3kgm)/3,200rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "datsun-z18et",
+    "code": "Z18ET",
+    "aliases": [
+      "Datsun Bluebird 4H/T 1800 Turbo SSS-E/ G Z18ET KP910"
+    ],
+    "maker": "Datsun",
+    "regionKey": "japan",
+    "years": "1982 Nissan Heritage Collection specification",
+    "displacement": "1,770 cc",
+    "layout": "4-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Datsun Bluebird 4H/T 1800 Turbo SSS-E/ G (1982, KP910) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "Z18ET is the 4-cyl. in line · OHC 1,770 cc engine documented for Datsun Bluebird 4H/T 1800 Turbo SSS-E/ G (1982, KP910) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 99 kW and 196 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "Z18ET es el motor 4-cyl. in line · OHC de 1,770 cc documentado para Datsun Bluebird 4H/T 1800 Turbo SSS-E/ G (1982, KP910) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 99 kW y 196 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "Z18ET est le moteur 4-cyl. in line · OHC de 1,770 cc documenté pour Datsun Bluebird 4H/T 1800 Turbo SSS-E/ G (1982, KP910) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 99 kW et 196 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "Z18ET ist der für Datsun Bluebird 4H/T 1800 Turbo SSS-E/ G (1982, KP910) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHC-Motor mit 1,770 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 99 kW und 196 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 99,
+        "max": 99,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 196,
+        "max": 196,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Datsun Bluebird 4H/T 1800 Turbo SSS-E/ G",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1982,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsun_bluebird_1800_turbo.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Datsun Bluebird 4H/T 1800 Turbo SSS-E/ G (1982 : KP910), engine Z18ET (4-cyl. in line, OHC), 1,770cc, maximum power 99kW (135PS)/6,000rpm, and maximum torque 196Nm (20kgm)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "datsun-z18",
+    "code": "Z18",
+    "aliases": [
+      "Datsun Bluebird 1800GL Z18 PJ811"
+    ],
+    "maker": "Datsun",
+    "regionKey": "japan",
+    "years": "1978 Nissan Heritage Collection specification",
+    "displacement": "1,770 cc",
+    "layout": "4-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Datsun Bluebird 1800GL (1978, PJ811) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "Z18 is the 4-cyl. in line · OHC 1,770 cc engine documented for Datsun Bluebird 1800GL (1978, PJ811) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 77 kW and 147 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "Z18 es el motor 4-cyl. in line · OHC de 1,770 cc documentado para Datsun Bluebird 1800GL (1978, PJ811) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 77 kW y 147 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "Z18 est le moteur 4-cyl. in line · OHC de 1,770 cc documenté pour Datsun Bluebird 1800GL (1978, PJ811) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 77 kW et 147 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "Z18 ist der für Datsun Bluebird 1800GL (1978, PJ811) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHC-Motor mit 1,770 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 77 kW und 147 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 77,
+        "max": 77,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 147,
+        "max": 147,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Datsun Bluebird 1800GL",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1978,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsun_bluebird_1800gl.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Datsun Bluebird 1800GL (1978 : PJ811), engine Z18 (4-cyl. in line, OHC), 1,770cc, maximum power 77kW (105PS)/6,000rpm, and maximum torque 147Nm (15.0kgm)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "datsun-l18e",
+    "code": "L18E",
+    "aliases": [
+      "Datsun Bluebird 1800SSS L18E P810"
+    ],
+    "maker": "Datsun",
+    "regionKey": "japan",
+    "years": "1977 Nissan Heritage Collection specification",
+    "displacement": "1,770 cc",
+    "layout": "4-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Datsun Bluebird 1800SSS (1977, P810) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "L18E is the 4-cyl. in line · OHC 1,770 cc engine documented for Datsun Bluebird 1800SSS (1977, P810) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 77 kW and 147 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "L18E es el motor 4-cyl. in line · OHC de 1,770 cc documentado para Datsun Bluebird 1800SSS (1977, P810) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 77 kW y 147 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "L18E est le moteur 4-cyl. in line · OHC de 1,770 cc documenté pour Datsun Bluebird 1800SSS (1977, P810) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 77 kW et 147 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "L18E ist der für Datsun Bluebird 1800SSS (1977, P810) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHC-Motor mit 1,770 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 77 kW und 147 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 77,
+        "max": 77,
+        "rpm": {
+          "min": 6200,
+          "max": 6200
+        }
+      },
+      "torqueNm": {
+        "min": 147,
+        "max": 147,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Datsun Bluebird 1800SSS",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1977,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsun_bluebird_1800sss_1977.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Datsun Bluebird 1800SSS (1977 : P810), engine L18E (4-cyl. in line, OHC), 1,770cc, maximum power 77kW (105PS)/6,200rpm, and maximum torque 147Nm (15.0kgm)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "datsun-z20e",
+    "code": "Z20E",
+    "aliases": [
+      "Datsun Bluebird 2000SSS-EX Z20E Y910"
+    ],
+    "maker": "Datsun",
+    "regionKey": "japan",
+    "years": "1981 Nissan Heritage Collection specification",
+    "displacement": "1,952 cc",
+    "layout": "4-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Datsun Bluebird 2000SSS-EX (1981, Y910) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "Z20E is the 4-cyl. in line · OHC 1,952 cc engine documented for Datsun Bluebird 2000SSS-EX (1981, Y910) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 88 kW and 167 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "Z20E es el motor 4-cyl. in line · OHC de 1,952 cc documentado para Datsun Bluebird 2000SSS-EX (1981, Y910) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 88 kW y 167 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "Z20E est le moteur 4-cyl. in line · OHC de 1,952 cc documenté pour Datsun Bluebird 2000SSS-EX (1981, Y910) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 88 kW et 167 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "Z20E ist der für Datsun Bluebird 2000SSS-EX (1981, Y910) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHC-Motor mit 1,952 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 88 kW und 167 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 88,
+        "max": 88,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 167,
+        "max": 167,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Datsun Bluebird 2000SSS-EX",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1981,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsun_bluebird_2000sss_ex.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Datsun Bluebird 2000SSS-EX (1981 : Y910), engine Z20E (4-cyl. in line, OHC), 1,952cc, maximum power 88kW (120PS)/5,600rpm, and maximum torque 167Nm (17.0kgm)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "datsun-l13",
+    "code": "L13",
+    "aliases": [
+      "Datsun Bluebird Estate Wagon L13 W510"
+    ],
+    "maker": "Datsun",
+    "regionKey": "japan",
+    "years": "1967 Nissan Heritage Collection specification",
+    "displacement": "1,296 cc",
+    "layout": "4-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Datsun Bluebird Estate Wagon (1967, W510) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "L13 is the 4-cyl. in line · OHC 1,296 cc engine documented for Datsun Bluebird Estate Wagon (1967, W510) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 53 kW and 103 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "L13 es el motor 4-cyl. in line · OHC de 1,296 cc documentado para Datsun Bluebird Estate Wagon (1967, W510) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 53 kW y 103 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "L13 est le moteur 4-cyl. in line · OHC de 1,296 cc documenté pour Datsun Bluebird Estate Wagon (1967, W510) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 53 kW et 103 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "L13 ist der für Datsun Bluebird Estate Wagon (1967, W510) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHC-Motor mit 1,296 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 53 kW und 103 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 53,
+        "max": 53,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 103,
+        "max": 103,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Datsun Bluebird Estate Wagon",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1967,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsun_bluebird_estate_wagon.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Datsun Bluebird Estate Wagon (1967 : W510), engine L13 (4-cyl. in line, OHC), 1,296cc, maximum power 53kW (72PS)/6,000rpm, and maximum torque 103Nm (10.5kgm)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "datsun-l18",
+    "code": "L18",
+    "aliases": [
+      "Datsun Bluebird U 1800SSS L18 P610"
+    ],
+    "maker": "Datsun",
+    "regionKey": "japan",
+    "years": "1973 Nissan Heritage Collection specification",
+    "displacement": "1,889 cc",
+    "layout": "4-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Rally specification Datsun Bluebird U 1800SSS P610, 21st East African Safari Rally (1973) entry; 132 kW / 196 N-m applies only to this rally car"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "L18 is the 1,889 cc in-line four-cylinder OHC engine documented for the rally-specification Datsun Bluebird U 1800SSS P610 entered in the 21st East African Safari Rally in 1973. The 132 kW / 196 N-m rating applies only to this rally car.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 132 kW and 196 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "L18 es el motor OHC de cuatro cilindros en línea y 1,889 cc documentado para el Datsun Bluebird U 1800SSS P610 con especificación de rally, participante en el 21.º East African Safari Rally de 1973. Los 132 kW / 196 N-m corresponden únicamente a este coche de rally.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 132 kW y 196 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "L18 est le moteur OHC quatre cylindres en ligne de 1,889 cc documenté pour la Datsun Bluebird U 1800SSS P610 en spécification rallye, engagée au 21e East African Safari Rally en 1973. Les 132 kW / 196 N-m concernent uniquement cette voiture de rallye.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 132 kW et 196 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "L18 ist der 1.889-cm³-OHC-Reihenvierzylinder des Datsun Bluebird U 1800SSS P610 in Rallye-Spezifikation, eingesetzt bei der 21. East African Safari Rally 1973. Die Werte 132 kW / 196 N-m gelten ausschließlich für diesen Rallyewagen.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 132 kW und 196 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 132,
+        "max": 132,
+        "rpm": {
+          "min": 6800,
+          "max": 6800
+        }
+      },
+      "torqueNm": {
+        "min": 196,
+        "max": 196,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Datsun Bluebird U 1800SSS",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1973,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsun_bluebird_u_1800sss.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Datsun Bluebird U 1800SSS P610 as a Competition entry in rally specification for the 21st East African Safari Rally in 1973. Its L18 (4-cyl. in-line OHC), 1,889 cc, is rated at 132 kW (180 PS) at 6,800 rpm and 196 N-m (20.0 kgf-m) at 5,200 rpm. Stored values apply only to this rally car."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "datsun-d11",
+    "code": "D11",
+    "aliases": [
+      "Datsun Cablight 1150 D11 A221"
+    ],
+    "maker": "Datsun",
+    "regionKey": "japan",
+    "years": "1966 Nissan Heritage Collection specification",
+    "displacement": "1,138 cc",
+    "layout": "4-cyl. in line · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Datsun Cablight 1150 (1966, A221) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "D11 is the 4-cyl. in line · OHV 1,138 cc engine documented for Datsun Cablight 1150 (1966, A221) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 39 kW and 83 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "D11 es el motor 4-cyl. in line · OHV de 1,138 cc documentado para Datsun Cablight 1150 (1966, A221) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 39 kW y 83 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "D11 est le moteur 4-cyl. in line · OHV de 1,138 cc documenté pour Datsun Cablight 1150 (1966, A221) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 39 kW et 83 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "D11 ist der für Datsun Cablight 1150 (1966, A221) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHV-Motor mit 1,138 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 39 kW und 83 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 39,
+        "max": 39,
+        "rpm": {
+          "min": 5000,
+          "max": 5000
+        }
+      },
+      "torqueNm": {
+        "min": 83,
+        "max": 83,
+        "rpm": {
+          "min": 2800,
+          "max": 2800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Datsun Cablight 1150",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1966,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsun_cablight_1150.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Datsun Cablight 1150 (1966 : A221), engine D11 (4-cyl. in line, OHV), 1,138cc, maximum power 39kW (53PS)/5,000rpm, and maximum torque 83Nm (8.5kgm)/2,800rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "datsun-l14",
+    "code": "L14",
+    "aliases": [
+      "Datsun Sunny Excellent 1400 GL L14 PB210"
+    ],
+    "maker": "Datsun",
+    "regionKey": "japan",
+    "years": "1975 Nissan Heritage Collection specification",
+    "displacement": "1,428 cc",
+    "layout": "4-cyl. inline · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Source-labelled competition car: Datsun Sunny Excellent 1400 GL PB210; the card states winner of the 1973 Japan GP TS race while its heading identifies the archived vehicle as 1975"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "L14 is the 4-cyl. inline · OHC 1,428 cc engine on Nissan's source card for a Datsun Sunny Excellent 1400 GL PB210 labelled as a competition car and winner of the 1973 Japan GP TS race; the same card heading dates the archived vehicle to 1975. This entry preserves that chronology exactly and does not generalize the rating to the L14 family.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 62 kW and 116 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "L14 es el motor 4-cyl. inline · OHC de 1,428 cc de la ficha Nissan de un Datsun Sunny Excellent 1400 GL PB210 identificado como coche de competición y ganador de la carrera TS del Japan GP de 1973; el encabezado de la misma ficha fecha el vehículo archivado en 1975. Esta ficha conserva esa cronología y no generaliza los valores a la familia L14.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 62 kW y 116 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "L14 est le moteur 4-cyl. inline · OHC de 1,428 cc de la fiche Nissan d’une Datsun Sunny Excellent 1400 GL PB210 qualifiée de voiture de compétition et gagnante de la course TS du Japan GP 1973 ; l’en-tête de la même fiche date le véhicule archivé de 1975. Cette fiche conserve cette chronologie et ne généralise pas les valeurs à la famille L14.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 62 kW et 116 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "L14 ist der 4-cyl. inline · OHC-Motor mit 1,428 cc auf Nissans Quellenkarte eines Datsun Sunny Excellent 1400 GL PB210, der als Wettbewerbsfahrzeug und Sieger des TS-Rennens beim Japan GP 1973 bezeichnet wird; dieselbe Kartenüberschrift datiert das archivierte Fahrzeug auf 1975. Der Eintrag bewahrt diese Chronologie und verallgemeinert die Werte nicht auf die L14-Familie.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 62 kW und 116 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 62,
+        "max": 62,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 116,
+        "max": 116,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Datsun Sunny Excellent 1400 GL",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1975,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsun_sunny_excellent_1400gl.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Datsun Sunny Excellent 1400 GL (1975 : PB210), engine L14 (4-cyl. inline, OHC) 1,428cc, maximum power 62kW (85PS)/6,000rpm, and maximum torque 116N·m (11.8kgf·m)/3,600rpm. It also labels the vehicle a Competition car and winner of the 1973 Japan GP TS race. The card's 1975 heading and 1973 event note are preserved without inference; stored values are scoped only to this source card."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "datsun-j15",
+    "code": "J15",
+    "aliases": [
+      "Datsun Van 1500 Deluxe J15 VN521"
+    ],
+    "maker": "Datsun",
+    "regionKey": "japan",
+    "years": "1972 Nissan Heritage Collection specification",
+    "displacement": "1,483 cc",
+    "layout": "4-cyl. in line · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Datsun Van 1500 Deluxe (1972, VN521) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "J15 is the 4-cyl. in line · OHV 1,483 cc engine documented for Datsun Van 1500 Deluxe (1972, VN521) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 57 kW and 118 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "J15 es el motor 4-cyl. in line · OHV de 1,483 cc documentado para Datsun Van 1500 Deluxe (1972, VN521) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 57 kW y 118 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "J15 est le moteur 4-cyl. in line · OHV de 1,483 cc documenté pour Datsun Van 1500 Deluxe (1972, VN521) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 57 kW et 118 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "J15 ist der für Datsun Van 1500 Deluxe (1972, VN521) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHV-Motor mit 1,483 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 57 kW und 118 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 57,
+        "max": 57,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      },
+      "torqueNm": {
+        "min": 118,
+        "max": 118,
+        "rpm": {
+          "min": 3200,
+          "max": 3200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Datsun Van 1500 Deluxe",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1972,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/datsunvan1500deluxe.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Datsun Van 1500 Deluxe (1972 : VN521), engine J15 (4-cyl. in line, OHV), 1,483cc, maximum power 57kW (77PS)/5,200rpm, and maximum torque 118Nm (12.0kgm)/3,200rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-z18t",
+    "code": "Z18T",
+    "aliases": [
+      "Gazelle Hatchback Turbo XE Z18T KS110Y"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1981 Nissan Heritage Collection specification",
+    "displacement": "1,770 cc",
+    "layout": "4-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Gazelle Hatchback Turbo XE (1981, KS110Y) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "Z18T is the 4-cyl. in line · OHC 1,770 cc engine documented for Gazelle Hatchback Turbo XE (1981, KS110Y) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 99 kW and 196 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "Z18T es el motor 4-cyl. in line · OHC de 1,770 cc documentado para Gazelle Hatchback Turbo XE (1981, KS110Y) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 99 kW y 196 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "Z18T est le moteur 4-cyl. in line · OHC de 1,770 cc documenté pour Gazelle Hatchback Turbo XE (1981, KS110Y) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 99 kW et 196 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "Z18T ist der für Gazelle Hatchback Turbo XE (1981, KS110Y) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHC-Motor mit 1,770 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 99 kW und 196 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 99,
+        "max": 99,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 196,
+        "max": 196,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Gazelle Hatchback Turbo XE",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1981,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/gazelle_hatchback_turbo_xe.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Gazelle Hatchback Turbo XE (1981 : KS110Y), engine Z18T (4-cyl. in line, OHC), 1,770cc, maximum power 99kW (135PS)/6,000rpm, and maximum torque 196Nm (20.0kgm)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-g18",
+    "code": "G18",
+    "aliases": [
+      "Laurel 1800 Deluxe B G18 C30"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1968 Nissan Heritage Collection specification",
+    "displacement": "1,815 cc",
+    "layout": "4-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Laurel 1800 Deluxe B (1968, C30) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "G18 is the 4-cyl. in line · OHC 1,815 cc engine documented for Laurel 1800 Deluxe B (1968, C30) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 74 kW and 147 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "G18 es el motor 4-cyl. in line · OHC de 1,815 cc documentado para Laurel 1800 Deluxe B (1968, C30) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 74 kW y 147 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "G18 est le moteur 4-cyl. in line · OHC de 1,815 cc documenté pour Laurel 1800 Deluxe B (1968, C30) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 74 kW et 147 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "G18 ist der für Laurel 1800 Deluxe B (1968, C30) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHC-Motor mit 1,815 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 74 kW und 147 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 74,
+        "max": 74,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 147,
+        "max": 147,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Laurel 1800 Deluxe B",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1968,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/laurel_1800.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Laurel 1800 Deluxe B (1968 : C30), engine G18 (4-cyl. in line, OHC), 1,815cc, maximum power 74kW (100PS)/5,600rpm, and maximum torque 147Nm (15.0kgm)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-rb20e",
+    "code": "RB20E",
+    "aliases": [
+      "Laurel RB20 Medalist RB20E KHJC33"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1990 Nissan Heritage Collection specification",
+    "displacement": "1,998 cc",
+    "layout": "6-cyl. in-line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Laurel RB20 Medalist (1990, KHJC33) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "RB20E is the 6-cyl. in-line · OHC 1,998 cc engine documented for Laurel RB20 Medalist (1990, KHJC33) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 92 kW and 172 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "RB20E es el motor 6-cyl. in-line · OHC de 1,998 cc documentado para Laurel RB20 Medalist (1990, KHJC33) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 92 kW y 172 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "RB20E est le moteur 6-cyl. in-line · OHC de 1,998 cc documenté pour Laurel RB20 Medalist (1990, KHJC33) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 92 kW et 172 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "RB20E ist der für Laurel RB20 Medalist (1990, KHJC33) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 6-cyl. in-line · OHC-Motor mit 1,998 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 92 kW und 172 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 92,
+        "max": 92,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 172,
+        "max": 172,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Laurel RB20 Medalist",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1990,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/laurel_rb20.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Laurel RB20 Medalist (1990 : KHJC33), engine RB20E (6-cyl. in-line, OHC), 1,998cc, maximum power 92kW (125PS)/5,600rpm, and maximum torque 172Nm (17.5kgm)/4,400rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-ma10",
+    "code": "MA10",
+    "aliases": [
+      "March Collet MA10 K10"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1985 Nissan Heritage Collection specification",
+    "displacement": "987 cc",
+    "layout": "4-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "March Collet (1985, K10) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "MA10 is the 4-cyl. in line · OHC 987 cc engine documented for March Collet (1985, K10) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 42 kW and 78 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "MA10 es el motor 4-cyl. in line · OHC de 987 cc documentado para March Collet (1985, K10) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 42 kW y 78 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "MA10 est le moteur 4-cyl. in line · OHC de 987 cc documenté pour March Collet (1985, K10) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 42 kW et 78 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "MA10 ist der für March Collet (1985, K10) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHC-Motor mit 987 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 42 kW und 78 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 42,
+        "max": 42,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 78,
+        "max": 78,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | March Collet",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1985,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/march_collet.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies March Collet (1985 : K10), engine MA10 (4-cyl. in line, OHC), 987cc, maximum power 42kW (57PS)/6,000rpm, and maximum torque 78Nm (8.0kgm)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-ma10s",
+    "code": "MA10S",
+    "aliases": [
+      "March Collet Canvas top MA10S K10"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1989 Nissan Heritage Collection specification",
+    "displacement": "987 cc",
+    "layout": "4-cyl. inline · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "March Collet Canvas top (1989, K10) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "MA10S is the 4-cyl. inline · OHC 987 cc engine documented for March Collet Canvas top (1989, K10) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 38 kW and 74 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "MA10S es el motor 4-cyl. inline · OHC de 987 cc documentado para March Collet Canvas top (1989, K10) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 38 kW y 74 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "MA10S est le moteur 4-cyl. inline · OHC de 987 cc documenté pour March Collet Canvas top (1989, K10) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 38 kW et 74 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "MA10S ist der für March Collet Canvas top (1989, K10) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. inline · OHC-Motor mit 987 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 38 kW und 74 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 38,
+        "max": 38,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 74,
+        "max": 74,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | March Collet Canvas top",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1989,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/march_collet_canvas.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies March Collet Canvas top (1989 : K10), engine MA10S (4-cyl. inline, OHC) 987cc, maximum power 38kw(52PS)/6,000rpm, and maximum torque 74N m(7.6kgm)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-ca18det",
+    "code": "CA18DET",
+    "aliases": [
+      "Nissan Silvia K's CA18DET S13"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1989 Nissan Heritage Collection specification",
+    "displacement": "1,809 cc",
+    "layout": "4-cyl. in-line · DOHC · turbo",
+    "fuelKey": "petrol",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Silvia K's (1989, S13) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "CA18DET is the 4-cyl. in-line · DOHC · turbo 1,809 cc engine documented for Nissan Silvia K's (1989, S13) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 129 kW and 226 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "CA18DET es el motor de cuatro cilindros en línea · DOHC · turbo de 1,809 cc documentado para Nissan Silvia K's (1989, S13) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 129 kW y 226 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "CA18DET est le moteur quatre cylindres en ligne · DOHC · turbo de 1,809 cc documenté pour Nissan Silvia K's (1989, S13) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 129 kW et 226 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "CA18DET ist der für Nissan Silvia K's (1989, S13) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte Reihenvierzylinder-DOHC-Turbomotor mit 1,809 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 129 kW und 226 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 129,
+        "max": 129,
+        "rpm": {
+          "min": 6400,
+          "max": 6400
+        }
+      },
+      "torqueNm": {
+        "min": 226,
+        "max": 226,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Silvia K's",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1989,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/silvia_ks.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Silvia K's (1989: S13), engine CA18DET (4-cyl. in-line, DOHC turbo) 1,809cc, maximum power 129kW (175PS)/6,400rpm, and maximum torque 226N-m (23.0kgm)/4,000rpm. Stored values reproduce the card's directly published metric figures and engine-speed boundaries; scope is this exact archived vehicle specification. The previously selected 180SX TYPE II card was removed from this record because its 123 kW companion value conflicts with its own 175 PS value under the required conversion formula."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-vg30et",
+    "code": "VG30ET",
+    "aliases": [
+      "NISSAN 300ZX Turbo T-top 50th Anniversary VG30ET HZ31"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1983 Nissan Heritage Collection specification",
+    "displacement": "2,960 cc",
+    "layout": "V6 · OHC with turbo",
+    "fuelKey": "petrol",
+    "aspirationKey": "turbocharged",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "NISSAN 300ZX Turbo T-top 50th Anniversary (1983, HZ31) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "VG30ET is the V6 · OHC with turbo 2,960 cc engine documented for NISSAN 300ZX Turbo T-top 50th Anniversary (1983, HZ31) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 147 kW and 308 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "VG30ET es el motor V6 · OHC with turbo de 2,960 cc documentado para NISSAN 300ZX Turbo T-top 50th Anniversary (1983, HZ31) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 147 kW y 308 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "VG30ET est le moteur V6 · OHC with turbo de 2,960 cc documenté pour NISSAN 300ZX Turbo T-top 50th Anniversary (1983, HZ31) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 147 kW et 308 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "VG30ET ist der für NISSAN 300ZX Turbo T-top 50th Anniversary (1983, HZ31) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte V6 · OHC with turbo-Motor mit 2,960 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 147 kW und 308 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 147,
+        "max": 147,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      },
+      "torqueNm": {
+        "min": 308,
+        "max": 308,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | NISSAN 300ZX Turbo T-top 50th Anniversary",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1983,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/nissan_300ZX_50th.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies NISSAN 300ZX Turbo T-top 50th Anniversary (1983 : HZ31), engine VG30ET (V6, OHC with turbo), 2,960cc, maximum power 147kw(200ps)/5,200rpm, and maximum torque 308N m(31,4kgf m)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-pf",
+    "code": "PF",
+    "aliases": [
+      "Nissan Patrol Fire Engine PF FHN60"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1978 Nissan Heritage Collection specification",
+    "displacement": "3,956 cc",
+    "layout": "6-cyl. In line · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Patrol Fire Engine (1978, FHN60) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "PF is the 6-cyl. In line · OHV 3,956 cc engine documented for Nissan Patrol Fire Engine (1978, FHN60) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 96 kW and 294 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "PF es el motor 6-cyl. In line · OHV de 3,956 cc documentado para Nissan Patrol Fire Engine (1978, FHN60) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 96 kW y 294 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "PF est le moteur 6-cyl. In line · OHV de 3,956 cc documenté pour Nissan Patrol Fire Engine (1978, FHN60) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 96 kW et 294 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "PF ist der für Nissan Patrol Fire Engine (1978, FHN60) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 6-cyl. In line · OHV-Motor mit 3,956 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 96 kW und 294 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 96,
+        "max": 96,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      },
+      "torqueNm": {
+        "min": 294,
+        "max": 294,
+        "rpm": {
+          "min": 1600,
+          "max": 1600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Patrol Fire Engine",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1978,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/nissan_patrol_fire_engine.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Patrol Fire Engine (1978: FHN60), engine PF (6-cyl. In line, OHV) 3,956cc, maximum power 96kW(130ps)/3,600rpm, and maximum torque 294N m(30.0kgm)/1,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-at",
+    "code": "AT",
+    "aliases": [
+      "NISSAN Van AT 81"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1939 Nissan Heritage Collection specification",
+    "displacement": "3,670 cc",
+    "layout": "6-cyl. inline · side valve",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "NISSAN Van (1939, 81) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "AT is the 6-cyl. inline · side valve 3,670 cc engine documented for NISSAN Van (1939, 81) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 63 kW and 226 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "AT es el motor 6-cyl. inline · side valve de 3,670 cc documentado para NISSAN Van (1939, 81) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 63 kW y 226 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "AT est le moteur 6-cyl. inline · side valve de 3,670 cc documenté pour NISSAN Van (1939, 81) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 63 kW et 226 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "AT ist der für NISSAN Van (1939, 81) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 6-cyl. inline · side valve-Motor mit 3,670 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 63 kW und 226 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 63,
+        "max": 63,
+        "rpm": {
+          "min": 3400,
+          "max": 3400
+        }
+      },
+      "torqueNm": {
+        "min": 226,
+        "max": 226,
+        "rpm": {
+          "min": 1200,
+          "max": 1200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | NISSAN Van",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1939,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/nissan_van.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies NISSAN Van (1939 : 81), engine AT (6-cyl. inline, side valve) 3,670cc, maximum power 63kW(85ps)/3,400rpm, and maximum torque 226N m(23.0kgf m)/1,200rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-y40",
+    "code": "Y40",
+    "aliases": [
+      "President Type C Y40 H150"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1968 Nissan Heritage Collection specification",
+    "displacement": "3,988 cc",
+    "layout": "V8 OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "President Type C (1968, H150) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "Y40 is the V8 OHV 3,988 cc engine documented for President Type C (1968, H150) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 132 kW and 314 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "Y40 es el motor V8 OHV de 3,988 cc documentado para President Type C (1968, H150) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 132 kW y 314 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "Y40 est le moteur V8 OHV de 3,988 cc documenté pour President Type C (1968, H150) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 132 kW et 314 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "Y40 ist der für President Type C (1968, H150) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte V8 OHV-Motor mit 3,988 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 132 kW und 314 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 132,
+        "max": 132,
+        "rpm": {
+          "min": 4800,
+          "max": 4800
+        }
+      },
+      "torqueNm": {
+        "min": 314,
+        "max": 314,
+        "rpm": {
+          "min": 3200,
+          "max": 3200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | President Type C",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1968,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/president_type_c.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies President Type C (1968: H150), engine Y40 (V8 OHV) 3,988cc, maximum power 132kw(180ps)/4,800rpm, and maximum torque 314Nm(32.0kgm)/3,200rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "prince-fg4a",
+    "code": "FG4A",
+    "aliases": [
+      "Prince Sedan FG4A AISH-2"
+    ],
+    "maker": "Prince",
+    "regionKey": "japan",
+    "years": "1954 Nissan Heritage Collection specification",
+    "displacement": "1,484 cc",
+    "layout": "4-cyl. in line · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Prince Sedan (1954, AISH-2) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "FG4A is the 4-cyl. in line · OHV 1,484 cc engine documented for Prince Sedan (1954, AISH-2) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 33 kW and 105 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "FG4A es el motor 4-cyl. in line · OHV de 1,484 cc documentado para Prince Sedan (1954, AISH-2) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 33 kW y 105 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "FG4A est le moteur 4-cyl. in line · OHV de 1,484 cc documenté pour Prince Sedan (1954, AISH-2) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 33 kW et 105 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "FG4A ist der für Prince Sedan (1954, AISH-2) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHV-Motor mit 1,484 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 33 kW und 105 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 33,
+        "max": 33,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      },
+      "torqueNm": {
+        "min": 105,
+        "max": 105,
+        "rpm": {
+          "min": 3200,
+          "max": 3200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Prince Sedan",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1954,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/prince_sedan.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Prince Sedan (1954: AISH-2), engine FG4A (4-cyl. in line, OHV), 1,484cc, maximum power 33kW (45PS)/4,000rpm, and maximum torque 105Nm (10.75kgm)/3,200rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "prince-ga4",
+    "code": "GA4",
+    "aliases": [
+      "Prince Skyway GA4 ALVG-2"
+    ],
+    "maker": "Prince",
+    "regionKey": "japan",
+    "years": "1960 Nissan Heritage Collection specification",
+    "displacement": "1,484 cc",
+    "layout": "4-cyl. in line · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Prince Skyway (1960, ALVG-2) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "GA4 is the 4-cyl. in line · OHV 1,484 cc engine documented for Prince Skyway (1960, ALVG-2) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 51 kW and 113 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "GA4 es el motor 4-cyl. in line · OHV de 1,484 cc documentado para Prince Skyway (1960, ALVG-2) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 51 kW y 113 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "GA4 est le moteur 4-cyl. in line · OHV de 1,484 cc documenté pour Prince Skyway (1960, ALVG-2) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 51 kW et 113 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "GA4 ist der für Prince Skyway (1960, ALVG-2) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHV-Motor mit 1,484 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 51 kW und 113 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 51,
+        "max": 51,
+        "rpm": {
+          "min": 4800,
+          "max": 4800
+        }
+      },
+      "torqueNm": {
+        "min": 113,
+        "max": 113,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Prince Skyway",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1960,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/princeskyway.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Prince Skyway (1960 : ALVG-2), engine GA4 (4-cyl. in line, OHV), 1,484cc, maximum power 51kW (70PS)/4,800rpm, and maximum torque 113Nm (11.5kgm)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-a12a",
+    "code": "A12A",
+    "aliases": [
+      "Pulsar 1200TS A12A YN10"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1980 Nissan Heritage Collection specification",
+    "displacement": "1,237 cc",
+    "layout": "4-cyl. inline · OHV",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Pulsar 1200TS (1980, YN10) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "A12A is the 4-cyl. inline · OHV 1,237 cc engine documented for Pulsar 1200TS (1980, YN10) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 51 kW and 100 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "A12A es el motor 4-cyl. inline · OHV de 1,237 cc documentado para Pulsar 1200TS (1980, YN10) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 51 kW y 100 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "A12A est le moteur 4-cyl. inline · OHV de 1,237 cc documenté pour Pulsar 1200TS (1980, YN10) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 51 kW et 100 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "A12A ist der für Pulsar 1200TS (1980, YN10) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. inline · OHV-Motor mit 1,237 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 51 kW und 100 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 51,
+        "max": 51,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 100,
+        "max": 100,
+        "rpm": {
+          "min": 3600,
+          "max": 3600
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Pulsar 1200TS",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1980,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/pulsar_1200ts.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Pulsar 1200TS (1980 : YN10), engine A12A (4-cyl. inline, OHV) 1,237cc, maximum power 51kW(70ps)/6,000rpm, and maximum torque 100N m(10.2kgf m)/3,600rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-e15s",
+    "code": "E15S",
+    "aliases": [
+      "S-Cargo E15S G20"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1989 Nissan Heritage Collection specification",
+    "displacement": "1,487 cc",
+    "layout": "4-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "S-Cargo (1989, G20) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "E15S is the 4-cyl. in line · OHC 1,487 cc engine documented for S-Cargo (1989, G20) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 54 kW and 116 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "E15S es el motor 4-cyl. in line · OHC de 1,487 cc documentado para S-Cargo (1989, G20) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 54 kW y 116 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "E15S est le moteur 4-cyl. in line · OHC de 1,487 cc documenté pour S-Cargo (1989, G20) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 54 kW et 116 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "E15S ist der für S-Cargo (1989, G20) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHC-Motor mit 1,487 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 54 kW und 116 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 54,
+        "max": 54,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 116,
+        "max": 116,
+        "rpm": {
+          "min": 3200,
+          "max": 3200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | S-Cargo",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1989,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/s_cargo_129.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies S-Cargo (1989 : G20), engine E15S (4-cyl. in line, OHC), 1,487cc, maximum power 54kW (73PS)/5,600rpm, and maximum torque 116Nm (11.8kgm)/3,200rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-ca18de",
+    "code": "CA18DE",
+    "aliases": [
+      "Nissan Silvia Q's CA18DE S13"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1988 Nissan Heritage Collection specification",
+    "displacement": "1,809 cc",
+    "layout": "4-cyl. in line · DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Nissan Silvia Q's (1988, S13) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "CA18DE is the 4-cyl. in line · DOHC 1,809 cc engine documented for Nissan Silvia Q's (1988, S13) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 99 kW and 159 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "CA18DE es el motor 4-cyl. in line · DOHC de 1,809 cc documentado para Nissan Silvia Q's (1988, S13) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 99 kW y 159 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "CA18DE est le moteur 4-cyl. in line · DOHC de 1,809 cc documenté pour Nissan Silvia Q's (1988, S13) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 99 kW et 159 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "CA18DE ist der für Nissan Silvia Q's (1988, S13) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · DOHC-Motor mit 1,809 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 99 kW und 159 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 99,
+        "max": 99,
+        "rpm": {
+          "min": 6400,
+          "max": 6400
+        }
+      },
+      "torqueNm": {
+        "min": 159,
+        "max": 159,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Silvia Q's",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1988,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/silvia_qs.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Silvia Q's (1988: S13), engine CA18DE (4-cyl. in line, DOHC), 1,809cc, maximum power 99kW (135PS)/6,400rpm, and maximum torque 159N m (16.2kgm)/5,200rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-g15",
+    "code": "G15",
+    "aliases": [
+      "Skyline 1500GL G15 C10"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1971 Nissan Heritage Collection specification",
+    "displacement": "1,483 cc",
+    "layout": "4-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Skyline 1500GL (1971, C10) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "G15 is the 4-cyl. in line · OHC 1,483 cc engine documented for Skyline 1500GL (1971, C10) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 65 kW and 120 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "G15 es el motor 4-cyl. in line · OHC de 1,483 cc documentado para Skyline 1500GL (1971, C10) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 65 kW y 120 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "G15 est le moteur 4-cyl. in line · OHC de 1,483 cc documenté pour Skyline 1500GL (1971, C10) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 65 kW et 120 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "G15 ist der für Skyline 1500GL (1971, C10) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHC-Motor mit 1,483 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 65 kW und 120 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 65,
+        "max": 65,
+        "rpm": {
+          "min": 6000,
+          "max": 6000
+        }
+      },
+      "torqueNm": {
+        "min": 120,
+        "max": 120,
+        "rpm": {
+          "min": 4000,
+          "max": 4000
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Skyline 1500GL",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1971,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/skyline_1500gl.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Skyline 1500GL (1971: C10), engine G15 (4-cyl. in line, OHC), 1,483cc, maximum power 65kW(88ps)/6,000rpm, and maximum torque 120N m(12.2kgm)/4,000rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-rb20det-r",
+    "code": "RB20DET-R",
+    "aliases": [
+      "Skyline 2000GTS-R RB20DET-R KHR31"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1987 Nissan Heritage Collection specification",
+    "displacement": "1,998 cc",
+    "layout": "6-cyl. in line · DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Skyline 2000GTS-R (1987, KHR31) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "RB20DET-R is the 6-cyl. in line · DOHC 1,998 cc engine documented for Skyline 2000GTS-R (1987, KHR31) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 154 kW and 245 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "RB20DET-R es el motor 6-cyl. in line · DOHC de 1,998 cc documentado para Skyline 2000GTS-R (1987, KHR31) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 154 kW y 245 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "RB20DET-R est le moteur 6-cyl. in line · DOHC de 1,998 cc documenté pour Skyline 2000GTS-R (1987, KHR31) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 154 kW et 245 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "RB20DET-R ist der für Skyline 2000GTS-R (1987, KHR31) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 6-cyl. in line · DOHC-Motor mit 1,998 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 154 kW und 245 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 154,
+        "max": 154,
+        "rpm": {
+          "min": 6400,
+          "max": 6400
+        }
+      },
+      "torqueNm": {
+        "min": 245,
+        "max": 245,
+        "rpm": {
+          "min": 4800,
+          "max": 4800
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Skyline 2000GTS-R",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1987,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/skyline_2000gts-r.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Skyline 2000GTS-R (1987 : KHR31), engine RB20DET-R (6-cyl. in line, DOHC), 1,998cc, maximum power 154kW (210PS)/6,400rpm, and maximum torque 245Nm (25kgm)/4,800rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-l20b",
+    "code": "L20B",
+    "aliases": [
+      "Violet L20B PA10"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1978 Nissan Heritage Collection specification",
+    "displacement": "1,952 cc",
+    "layout": "4-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Competition/rally specification Datsun 160J (Violet PA10), Group 5 No.6 J. Fury team, winner of the 13th Southern Cross Rally; 147 kW / 206 N-m applies only to this rally entry"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "L20B is the 4-cyl. in line · OHC 1,952 cc engine documented for the competition/rally Datsun 160J (Violet PA10), Group 5 No.6 J. Fury team entry that won the 13th Southern Cross Rally. This entry is limited to that exact rally specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 147 kW and 206 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "L20B es el motor 4-cyl. in line · OHC de 1,952 cc documentado para el Datsun 160J (Violet PA10) de competición/rally, Grupo 5 n.º 6 del equipo J. Fury, ganador del 13.º Southern Cross Rally. Esta ficha se limita a esa especificación exacta de rally.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 147 kW y 206 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "L20B est le moteur 4-cyl. in line · OHC de 1,952 cc documenté pour la Datsun 160J (Violet PA10) de compétition/rallye, Groupe 5 n° 6 de l’équipe J. Fury, gagnante du 13e Southern Cross Rally. Cette fiche se limite à cette spécification de rallye précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 147 kW et 206 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "L20B ist der 4-cyl. in line · OHC-Motor mit 1,952 cc des Competition/Rally-Datsun 160J (Violet PA10), Gruppe 5 Nr. 6 des J.-Fury-Teams und Sieger der 13. Southern Cross Rally. Dieser Eintrag gilt ausschließlich für diese genaue Rallye-Spezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 147 kW und 206 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 147,
+        "max": 147,
+        "rpm": {
+          "min": 7200,
+          "max": 7200
+        }
+      },
+      "torqueNm": {
+        "min": 206,
+        "max": 206,
+        "rpm": {
+          "min": 5200,
+          "max": 5200
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Violet",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1978,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/violet_1978.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card labels the 1978 PA10 Violet Sedan/Competition and identifies it as the Datsun 160J, Group 5 specification, No.6 J. Fury team entry that won the 13th Southern Cross Rally. It specifies L20B (4-cyl. in line, OHC) 1,952cc, maximum power 147kW (200PS)/7,200rpm, and maximum torque 206N·m (21.0kgm)/5,200rpm; stored values are scoped only to this rally vehicle."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-l16e",
+    "code": "L16E",
+    "aliases": [
+      "Violet H/T 1600SSS-E L16E KP710"
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1973 Nissan Heritage Collection specification",
+    "displacement": "1,595 cc",
+    "layout": "4-cyl. in line · OHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Violet H/T 1600SSS-E (1973, KP710) — Nissan Heritage Collection vehicle specification"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "L16E is the 4-cyl. in line · OHC 1,595 cc engine documented for Violet H/T 1600SSS-E (1973, KP710) — Nissan Heritage Collection vehicle specification. This entry is limited to that exact manufacturer specification.",
+        "issues": "The official manufacturer archive specification does not document recurring faults, service intervals or expected life. Condition, installation and maintenance history must be checked separately.",
+        "pros": "The official source ties the exact code or product designation to displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "The stored 85 kW and 143 N-m figures apply only to the cited version; they must not be generalized to every related engine, vehicle or calibration."
+      },
+      "es": {
+        "construction": "L16E es el motor 4-cyl. in line · OHC de 1,595 cc documentado para Violet H/T 1600SSS-E (1973, KP710) — especificación de vehículo de Nissan Heritage Collection. Esta ficha se limita a esa especificación exacta del fabricante.",
+        "issues": "La ficha oficial del archivo del fabricante no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, el montaje y el mantenimiento deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula el código o la designación exacta con la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Los valores guardados de 85 kW y 143 N-m corresponden solo a la versión citada; no deben generalizarse a todos los motores, vehículos o calibraciones relacionados."
+      },
+      "fr": {
+        "construction": "L16E est le moteur 4-cyl. in line · OHC de 1,595 cc documenté pour Violet H/T 1600SSS-E (1973, KP710) — spécification de véhicule du Nissan Heritage Collection. Cette fiche se limite à cette spécification constructeur précise.",
+        "issues": "La fiche officielle des archives du constructeur ne documente ni pannes récurrentes, ni intervalles d'entretien, ni durée de vie prévue. L'état, le montage et l'historique d'entretien doivent être contrôlés séparément.",
+        "pros": "La source officielle relie le code ou la désignation exacte à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Les valeurs enregistrées de 85 kW et 143 N-m concernent uniquement la version citée ; elles ne doivent pas être généralisées aux moteurs, véhicules ou calibrations associés."
+      },
+      "de": {
+        "construction": "L16E ist der für Violet H/T 1600SSS-E (1973, KP710) — Fahrzeugspezifikation der Nissan Heritage Collection dokumentierte 4-cyl. in line · OHC-Motor mit 1,595 cc. Dieser Eintrag gilt ausschließlich für diese genaue Herstellerspezifikation.",
+        "issues": "Die offizielle Herstellerarchiv-Spezifikation nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einbau und Wartungshistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet den exakten Code oder die Produktbezeichnung mit Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Die gespeicherten Werte von 85 kW und 143 N-m gelten nur für die zitierte Ausführung und nicht pauschal für verwandte Motoren, Fahrzeuge oder Abstimmungen."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 85,
+        "max": 85,
+        "rpm": {
+          "min": 6200,
+          "max": 6200
+        }
+      },
+      "torqueNm": {
+        "min": 143,
+        "max": 143,
+        "rpm": {
+          "min": 4400,
+          "max": 4400
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Violet H/T 1600SSS-E",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1973,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/violet_h_t.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "fuelKey",
+            "aspirationKey",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Violet H/T 1600SSS-E (1973 : KP710), engine L16E (4-cyl. in line, OHC), 1,595cc, maximum power 85kW (115PS)/6,200rpm, and maximum torque 143Nm (14.6kgm)/4,400rpm. Stored values reproduce the card's metric figures and engine-speed boundaries; scope is this exact archived vehicle specification."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nissan-ka24de-rev",
+    "code": "KA24DE rev.",
+    "aliases": [
+      "Nissan Middle Sports Z Prototype KA24DE rev. S14rev."
+    ],
+    "maker": "Nissan",
+    "regionKey": "japan",
+    "years": "1997 Nissan Heritage Collection prototype specification",
+    "displacement": "2,389 cc",
+    "layout": "4-cyl. inline · 4-valve DOHC",
+    "fuelKey": "petrol",
+    "aspirationKey": "naturallyAspirated",
+    "injectionKey": "notSpecified",
+    "blockKey": "notSpecified",
+    "timingKey": "notSpecified",
+    "applications": [
+      "Prototype/experimental Nissan Middle Sports (Z Prototype), 1997 S14rev., based on a left-hand-drive Nissan 240SX S14; 147 kW / 256 N-m applies only to this tuned KA24DE rev. prototype"
+    ],
+    "consumption": "Not specified in source",
+    "declaredLifeKey": "notPublished",
+    "typicalLife": "Not specified in source",
+    "oilRecord": "",
+    "statusKey": "starterReview",
+    "text": {
+      "en": {
+        "construction": "KA24DE rev. is the 4-cyl. inline · 4-valve DOHC 2,389 cc engine documented for the experimental 1997 Nissan Middle Sports (Z Prototype) S14rev., based on a left-hand-drive Nissan 240SX S14. The 147 kW / 256 N-m rating is limited to this tuned prototype and is not presented as a production KA24DE specification.",
+        "issues": "The official prototype archive does not document recurring faults, service intervals or expected life. Condition, one-off installation and prototype history must be checked separately.",
+        "pros": "The official source ties the exact KA24DE rev. designation to the prototype, displacement, architecture, maximum power, maximum torque and both engine speeds.",
+        "cons": "This is a stillborn experimental model and the stored performance must not be generalized to production KA24DE engines or Nissan 240SX applications."
+      },
+      "es": {
+        "construction": "KA24DE rev. es el motor 4-cyl. inline · 4-valve DOHC de 2,389 cc documentado para el Nissan Middle Sports (prototipo Z) S14rev. experimental de 1997, basado en un Nissan 240SX S14 con volante a la izquierda. Los 147 kW / 256 N-m se limitan a este prototipo preparado y no se presentan como especificación de un KA24DE de producción.",
+        "issues": "El archivo oficial del prototipo no documenta averías recurrentes, intervalos de servicio ni vida útil prevista. El estado, la instalación única y el historial del prototipo deben comprobarse por separado.",
+        "pros": "La fuente oficial vincula la designación exacta KA24DE rev. con el prototipo, la cilindrada, la arquitectura, la potencia máxima, el par máximo y ambos regímenes.",
+        "cons": "Es un modelo experimental no producido y sus prestaciones no deben generalizarse a motores KA24DE de serie ni a aplicaciones Nissan 240SX."
+      },
+      "fr": {
+        "construction": "KA24DE rev. est le moteur 4-cyl. inline · 4-valve DOHC de 2,389 cc documenté pour le Nissan Middle Sports (prototype Z) S14rev. expérimental de 1997, basé sur un Nissan 240SX S14 à conduite à gauche. Les 147 kW / 256 N-m sont limités à ce prototype préparé et ne sont pas présentés comme une spécification du KA24DE de série.",
+        "issues": "Les archives officielles du prototype ne documentent ni pannes récurrentes, ni intervalles d’entretien, ni durée de vie prévue. L’état, l’installation unique et l’historique du prototype doivent être contrôlés séparément.",
+        "pros": "La source officielle relie la désignation exacte KA24DE rev. au prototype, à la cylindrée, à l’architecture, à la puissance maximale, au couple maximal et aux deux régimes.",
+        "cons": "Il s’agit d’un modèle expérimental resté sans suite ; ses performances ne doivent pas être généralisées aux moteurs KA24DE de série ni aux applications Nissan 240SX."
+      },
+      "de": {
+        "construction": "KA24DE rev. ist der 4-cyl. inline · 4-valve DOHC-Motor mit 2,389 cc des experimentellen Nissan Middle Sports (Z-Prototyp) S14rev. von 1997, der auf einem links gelenkten Nissan 240SX S14 basiert. Die 147 kW / 256 N-m gelten nur für diesen abgestimmten Prototyp und werden nicht als Spezifikation eines Serien-KA24DE dargestellt.",
+        "issues": "Das offizielle Prototypenarchiv nennt keine wiederkehrenden Schäden, Wartungsintervalle oder erwartete Lebensdauer. Zustand, Einzelanfertigung und Prototypenhistorie sind getrennt zu prüfen.",
+        "pros": "Die offizielle Quelle verbindet die exakte Bezeichnung KA24DE rev. mit Prototyp, Hubraum, Bauart, Höchstleistung, maximalem Drehmoment und beiden Drehzahlen.",
+        "cons": "Es handelt sich um ein nicht in Serie gegangenes Experimentalmodell; die Leistungsdaten dürfen nicht auf Serien-KA24DE oder Nissan-240SX-Anwendungen verallgemeinert werden."
+      }
+    },
+    "performance": {
+      "powerKw": {
+        "min": 147,
+        "max": 147,
+        "rpm": {
+          "min": 5600,
+          "max": 5600
+        }
+      },
+      "torqueNm": {
+        "min": 256,
+        "max": 256,
+        "rpm": {
+          "min": 4500,
+          "max": 4500
+        }
+      }
+    },
+    "verification": {
+      "status": "verified",
+      "sources": [
+        {
+          "type": "manufacturer",
+          "title": "Nissan Heritage Collection | Nissan Middle Sports (Z Prototype)",
+          "publisher": "Nissan Motor Co., Ltd.",
+          "year": 1997,
+          "url": "https://www.nissan-global.com/EN/HERITAGE_COLLECTION/372_middle_sports.html",
+          "page": 1,
+          "checkedAt": "2026-09-12",
+          "fields": [
+            "code",
+            "aliases",
+            "applications",
+            "years",
+            "displacement",
+            "layout",
+            "performance.powerKw",
+            "performance.torqueNm"
+          ],
+          "pageNotes": [
+            "The official Nissan Heritage Collection card identifies Nissan Middle Sports (Z Prototype) (1997: S14rev.), engine KA24DE rev. (4-cyl. inline, 4-valve DOHC) 2,389cc, maximum power 147kW (200PS)/5,600rpm, and maximum torque 256N·m (26.1kgf·m)/4,500rpm. Nissan describes it as a stillborn prototype based on a left-hand-drive Nissan 240SX S14 with a KA24DE tuned to 200PS; stored metric values are direct publications and are scoped only to this prototype."
+          ]
+        }
+      ]
+    }
   }
 ];
